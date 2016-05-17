@@ -1,0 +1,191 @@
+<!doctype html>
+<head>
+  <title>statistic - individuals per ontology after extraction - unit ontology review</title>
+  <meta charset="utf-8" />
+  <style>
+    
+    .comment {
+      font-size: 90%;
+      text-align: center;
+    }
+    
+    #legendBox {
+      position: fixed;
+      width: calc( 100% - 2em );
+      background-color: white;
+      z-index: 100;
+    }
+    
+    body {
+      margin: 0;
+      padding: 0 1em;
+    }
+    /* XXXXXXXXXXXXXXXXXXXXXXXXXX Tooltips  XXXXXXXXXXXXXXXXXXXXXXXXX */
+    
+    .tooltip {
+      position: relative;
+      cursor: help;
+    }
+    
+    .tooltip > div {
+      display: none;
+      position: absolute;
+      top: 1em;
+      right: -1em;
+      text-align: left;
+      border: 1px solid black;
+      border-radius: 0.3em;
+      padding: 0.3em;
+      background-color: white;
+      z-index: 100;
+    }
+    
+    .tooltip:hover > div {
+      display: block;
+    }
+    
+    .tooltip li {
+      white-space: nowrap;
+    }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXX Table related  XXXXXXXXXXXXXXXXXXXXXXX */
+    
+    table {
+      width: 100%;
+      border-spacing: 0;
+    }
+    th, td {
+      text-align: center;
+      border: 2px solid transparent;
+    }
+    tr:nth-child( even ) {
+      background-color: #BDBDBD;
+    }
+    
+    .green { background-color: #BCF5A9; }
+    .red   { background-color: #F5BCA9; }
+    tr:nth-child( even ) .green { background-color: #82FA58; }
+    tr:nth-child( even ) .red   { background-color: #FA8258; }
+    
+
+    tr:hover:not(:first-child) th:first-child{
+      border-color: black transparent black black;
+    }
+    tr:hover:not(:first-child) td {
+      border-color: black transparent;
+    }
+    tr:hover:not(:first-child) td:last-child{
+      border-color: black black black transparent;
+    }
+    
+    .leftAligned td, .leftAligned th {
+      text-align: left;
+    }
+    
+    .firstColHeader th:first-child {
+      background-color: white;
+      border-style: solid;
+      border-width: 2px;
+      border-color: transparent transparent black;
+    }
+    .firstColHeader tr:hover th:first-child {
+      border-color: transparent transparent black;
+    }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXXX List related  XXXXXXXXXXXXXXXXXXXXXXX */
+    
+    ul.col4 {
+      -webkit-column-count: 4;
+         -moz-column-count: 4;
+              column-count: 4;
+    }
+    
+    th ul { margin: 0; }
+    
+    li[data-onto] { list-style-type: none; }
+    li[data-onto]:before {
+      content: ' ';
+      width: 0.7em;
+      height: 0.7em;
+      margin-right: -0.7em;
+      display: inline-block;
+      position: relative;
+      left: -1em;
+      border-radius: 0.3em;
+    }
+    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    li:before    { background-color: #7f7f7f; }
+    li[data-onto="MUO"]:before    { background-color: #1f77b4; }
+    li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
+    li[data-onto="OM"]:before     { background-color: #2ca02c; }
+    li[data-onto="QU"]:before     { background-color: #d62728; }
+    li[data-onto="QUDT"]:before   { background-color: #9467bd; }
+    li[data-onto="SWEET"]:before  { background-color: #8c564b; }
+    li[data-onto="UO"]:before     { background-color: #e377c2; }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
+    
+    input.collapsible { display: none; }
+    input.collapsible:checked + * { display: none; }
+    
+    label.collapsible {
+      cursor: pointer;
+      text-decoration: underline;
+      opacity: 0.6;
+    }
+
+  </style>
+</head>
+<body>
+  <div id="legendBox">
+    <fieldset style="margin-bottom: 1em; height: 5em;">
+      <legend>Ontology Color Codes</legend>
+      <ul class="col4">
+        <li data-onto="MUO">MUO
+        <li data-onto="OBOE">OBOE
+        <li data-onto="OM">OM
+        <li data-onto="QU">QU
+        <li data-onto="QUDT">QUDT
+        <li data-onto="SWEET">SWEET
+        <li data-onto="UO">UO
+      </ul>
+    </fieldset>
+  </div>
+  <div style="visibility: hidden;">
+    <fieldset style="margin-bottom: 1em; height: 5em;">
+      <legend>Ontology Color Codes</legend>
+      <ul class="col4">
+        <li data-onto="MUO">MUO
+        <li data-onto="OBOE">OBOE
+        <li data-onto="OM">OM
+        <li data-onto="QU">QU
+        <li data-onto="QUDT">QUDT
+        <li data-onto="SWEET">SWEET
+        <li data-onto="UO">UO
+      </ul>
+    </fieldset>
+  </div>
+  <table><tr><th><ul><li data-onto="&nbsp;">&nbsp;</ul></th><th><ul><li data-onto="MUO">MUO</ul></th><th><ul><li data-onto="OBOE">OBOE</ul></th><th><ul><li data-onto="OM">OM</ul></th><th><ul><li data-onto="QU">QU</ul></th><th><ul><li data-onto="QUDT">QUDT</ul></th><th><ul><li data-onto="SWEET">SWEET</ul></th><th><ul><li data-onto="UO">UO</ul></th></tr><tr><th><ul><li data-onto="appField">appField</ul></th><td class="red">0</td><td class="red">0</td><td class="green">18</td><td class="green">12</td><td class="red">0</td><td class="green">49</td><td class="red">0</td></tr><tr><th><ul><li data-onto="appFieldQuantKind">appFieldQuantKind</ul></th><td class="red">0</td><td class="red">0</td><td class="green">625</td><td class="green">653</td><td class="red">0</td><td class="green">497</td><td class="red">0</td></tr><tr><th><ul><li data-onto="appFieldUnit">appFieldUnit</ul></th><td class="red">0</td><td class="red">0</td><td class="green">408</td><td class="red">0</td><td class="red">0</td><td class="red">0</td><td class="red">0</td></tr><tr><th><ul><li data-onto="conversion">conversion</ul></th><td class="red">0</td><td class="green">64</td><td class="green">826</td><td class="green">674</td><td class="green">55</td><td class="green">37</td><td class="red">0</td></tr><tr><th><ul><li data-onto="dimension">dimension</ul></th><td class="red">0</td><td class="red">0</td><td class="green">68</td><td class="red">0</td><td class="green">130</td><td class="red">0</td><td class="red">0</td></tr><tr><th><ul><li data-onto="dimensionUnit">dimensionUnit</ul></th><td class="red">0</td><td class="red">0</td><td class="green">1145</td><td class="red">0</td><td class="green">491</td><td class="red">0</td><td class="red">0</td></tr><tr><th><ul><li data-onto="prefix">prefix</ul></th><td class="green">24</td><td class="red">0</td><td class="green">28</td><td class="green">20</td><td class="green">28</td><td class="green">12</td><td class="green">20</td></tr><tr><th><ul><li data-onto="prefixUnit">prefixUnit</ul></th><td class="red">0</td><td class="red">0</td><td class="green">987</td><td class="green">163</td><td class="red">0</td><td class="green">9</td><td class="red">0</td></tr><tr><th><ul><li data-onto="quantKind">quantKind</ul></th><td class="green">78</td><td class="green">67</td><td class="green">868</td><td class="green">598</td><td class="green">235</td><td class="green">847</td><td class="green">316</td></tr><tr><th><ul><li data-onto="quantKindUnit">quantKindUnit</ul></th><td class="green">267</td><td class="green">140</td><td class="green">5123</td><td class="green">129</td><td class="green">1093</td><td class="green">1028</td><td class="green">918</td></tr><tr><th><ul><li data-onto="sameAs">sameAs</ul></th><td class="red">0</td><td class="red">0</td><td class="green">5</td><td class="red">0</td><td class="green">364</td><td class="green">704</td><td class="red">0</td></tr><tr><th><ul><li data-onto="system">system</ul></th><td class="red">0</td><td class="red">0</td><td class="green">13</td><td class="red">0</td><td class="green">11</td><td class="red">0</td><td class="red">0</td></tr><tr><th><ul><li data-onto="systemUnit">systemUnit</ul></th><td class="red">0</td><td class="red">0</td><td class="green">819</td><td class="red">0</td><td class="green">4124</td><td class="red">0</td><td class="red">0</td></tr><tr><th><ul><li data-onto="unit">unit</ul></th><td class="green">267</td><td class="green">138</td><td class="green">1371</td><td class="green">801</td><td class="green">768</td><td class="green">140</td><td class="green">221</td></tr><tr><th><ul><li data-onto="unit_noprefix_total">unit_noprefix_total</ul></th><td class="green">264</td><td class="green">71</td><td class="green">375</td><td class="green">433</td><td class="green">653</td><td class="green">111</td><td class="green">111</td></tr><tr><th><ul><li data-onto="unit_prefix_heuristic">unit_prefix_heuristic</ul></th><td class="green">3</td><td class="green">65</td><td class="green">7</td><td class="green">204</td><td class="green">114</td><td class="green">17</td><td class="green">110</td></tr><tr><th><ul><li data-onto="unit_prefix_ontology">unit_prefix_ontology</ul></th><td class="red">0</td><td class="red">0</td><td class="green">987</td><td class="green">163</td><td class="red">0</td><td class="green">9</td><td class="red">0</td></tr><tr><th><ul><li data-onto="unit_prefix_total">unit_prefix_total</ul></th><td class="green">3</td><td class="green">67</td><td class="green">996</td><td class="green">368</td><td class="green">115</td><td class="green">29</td><td class="green">110</td></tr><tr><th><ul><li data-onto="unit_prefix_unrecognized">unit_prefix_unrecognized</ul></th><td class="red">0</td><td class="green">2</td><td class="green">2</td><td class="green">1</td><td class="green">1</td><td class="green">3</td><td class="red">0</td></tr></table>
+  <script>
+  !function(){
+    
+    // get all collapsible lists
+    var collapsibles = document.querySelectorAll( '[data-collapsible="true"]' );
+    
+    for( var i=0; i<collapsibles.length; i++ ) {
+      
+      // shortcut
+      var list = collapsibles[ i ];
+      
+      // build control element
+      var ctrl = '<label class="collapsible" for="collapsible' + i + '"> Show/Hide</label>'
+                 + '<input type="checkbox" class="collapsible" autocomplete="off" id="collapsible' + i + '" checked />';
+      
+      // insert before list
+      list.insertAdjacentHTML( 'beforebegin', ctrl );
+
+    }
+    
+  }();
+  </script>
+</body>

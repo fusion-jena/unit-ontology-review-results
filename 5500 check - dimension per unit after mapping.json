@@ -1,0 +1,257 @@
+[
+ {
+  "unit": {
+   "__type": "SynSet",
+   "values": [
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/arbitrary/international-unit",
+     "ontology": "MUO",
+     "labels": [
+      "international"
+     ],
+     "dispLabel": "international unit",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/International_Unit",
+     "ontology": "OM",
+     "labels": [
+      "international"
+     ],
+     "dispLabel": "International Unit",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://qudt.org/vocab/unit#InternationalUnit",
+     "ontology": "QUDT",
+     "labels": [
+      "international"
+     ],
+     "dispLabel": "International Unit",
+     "isPrefixed": false,
+     "raw": null
+    }
+   ]
+  },
+  "dims": [
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/mass-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": [
+       "mass"
+      ],
+      "dispLabel": "mass dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#Mass",
+      "ontology": "QUDT",
+      "dimVector": [
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": [
+       "mass"
+      ],
+      "dispLabel": "Mass",
+      "raw": null
+     }
+    ]
+   },
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/amount_of_substance-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ],
+      "labels": [
+       "amount of substance",
+       "amountofsubstance"
+      ],
+      "dispLabel": "amount of substance dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#AmountOfSubstance",
+      "ontology": "QUDT",
+      "dimVector": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ],
+      "labels": [
+       "amount of substance",
+       "amountofsubstance"
+      ],
+      "dispLabel": "Amount of Substance",
+      "raw": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": {
+   "__type": "SynSet",
+   "values": [
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/newton_metre",
+     "ontology": "OM",
+     "labels": [
+      "newton meter",
+      "newtonmeter"
+     ],
+     "dispLabel": "newton metre",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonMetre",
+     "ontology": "QU",
+     "labels": [
+      "newton meter",
+      "newtonmeter"
+     ],
+     "dispLabel": "newton metre",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://qudt.org/vocab/unit#NewtonMeter",
+     "ontology": "QUDT",
+     "labels": [
+      "newton meter",
+      "newtonmeter"
+     ],
+     "dispLabel": "Newton Meter",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#newtonMeter",
+     "ontology": "SWEET",
+     "labels": [
+      "newton meter",
+      "newtonmeter"
+     ],
+     "dispLabel": "newton meter",
+     "isPrefixed": false,
+     "raw": null
+    }
+   ]
+  },
+  "dims": [
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/energy-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       2,
+       1,
+       -2,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": [
+       "energy"
+      ],
+      "dispLabel": "energy dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#EnergyAndWork",
+      "ontology": "QUDT",
+      "dimVector": [
+       2,
+       1,
+       -2,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": [
+       "energy and work",
+       "energyandwork"
+      ],
+      "dispLabel": "Energy and Work",
+      "raw": null
+     }
+    ]
+   },
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#Torque",
+      "ontology": "QUDT",
+      "dimVector": [
+       2,
+       1,
+       -2,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": [
+       "torque"
+      ],
+      "dispLabel": "Torque",
+      "raw": null
+     }
+    ]
+   }
+  ]
+ }
+]

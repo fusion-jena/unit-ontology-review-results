@@ -1,0 +1,212 @@
+[
+ {
+  "onto": "SWEET",
+  "label": "level",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Level",
+   "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "pressure",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Pressure",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Stress"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "pressure",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#pressure",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#stress",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#stressOrPressure"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "pressure",
+  "objs": [
+   "http://qudt.org/vocab/quantity#Stress",
+   "http://qudt.org/vocab/quantity#Pressure"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "pressure",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Pressure",
+   "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Stress"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "temperature",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "velocity",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Velocity",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Speed"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "velocity",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#velocity",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#speed",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#velocityOrSpeed"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "velocity",
+  "objs": [
+   "http://qudt.org/vocab/quantity#Velocity",
+   "http://qudt.org/vocab/quantity#Speed"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "velocity",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Velocity",
+   "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Speed"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "velocity",
+  "objs": [
+   "http://purl.obolibrary.org/obo/PATO_0000008",
+   "http://purl.obolibrary.org/obo/PATO_0002242"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "volume",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#volume",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeOrBulkStrain"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "B magnitude",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
+   "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "color area fraction",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Color_area_fraction",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "kinetic energy",
+  "objs": [
+   "http://qudt.org/vocab/quantity#EnergyKinetic",
+   "http://qudt.org/vocab/quantity#KineticEnergy"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "U magnitude",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude",
+   "http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "V magnitude",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude",
+   "http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "permeability",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Permeability",
+   "http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl#Permeability"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "Capacity",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#Capacity",
+   "http://sweet.jpl.nasa.gov/2.3/propSpaceMultidimensional.owl#Capacity"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "geothermal",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/phenEnergy.owl#Geothermal",
+   "http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl#Geothermal"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "sunlight",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/phenAtmo.owl#Sunlight",
+   "http://sweet.jpl.nasa.gov/2.3/phenAtmoSky.owl#Sunlight"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "efficiency",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/prop.owl#Efficiency",
+   "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Efficiency"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "structure",
+  "objs": [
+   "http://purl.obolibrary.org/obo/PATO_0000141",
+   "http://purl.obolibrary.org/obo/PATO_0002014"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "temperature range",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#TemperatureRange",
+   "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TemperatureRange"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "visibility",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Visibility",
+   "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Visibility"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "lacks parts or has fewer parts of type",
+  "objs": [
+   "http://purl.obolibrary.org/obo/PATO_0001999",
+   "http://purl.obolibrary.org/obo/PATO_0002001"
+  ]
+ }
+]

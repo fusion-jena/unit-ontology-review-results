@@ -1,0 +1,817 @@
+[
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#attojoule",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#atto"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#centi"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetrePerKelvin",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#centi"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetrePerSecond",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#centi"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#centinewtonMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#centi"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#decimetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#deci"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#decinewtonMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#deci"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#exajoule",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#exa"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#femtojoule",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#femto"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#femtometre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#femto"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gigabecquerel",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gigacoulombPerCubicMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#hertz",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gigahertz",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#hertzMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gigahertzMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gigajoule",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gigaohm",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gigaohmMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gigaohmPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gigapascal",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gigawatt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#hectometre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#hecto"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#hectopascal",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#hecto"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloampere",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloamperePerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerSquareMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloamperePerSquareMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilobecquerel",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocoulomb",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocoulombPerCubicMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocoulombPerSquareMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMillimetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#hertz",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilohertz",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#hertzMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilohertzMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoule",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKelvin",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoulePerKelvin",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogram",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoulePerKilogram",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoulePerKilogramKelvin",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMole",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoulePerMole",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilometre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#mole",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilomole",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerCubicMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilomolePerCubicMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSecond",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilomolePerSecond",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilonewton",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilonewtonMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloohm",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloohmMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilopascal",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilosecond",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemens",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilosiemens",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilosiemensPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#volt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilovolt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltAmpere",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilovoltAmpere",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#var",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilovoltAmpereReactive",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilovoltPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilowatt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#weberPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloweberPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megaampere",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerSquareMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megaamperePerSquareMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megabecquerel",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megacoulomb",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megacoulombPerCubicMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megacoulombPerSquareMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#hertz",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megahertz",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#hertzMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megahertzMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megajoule",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerCubicMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megajoulePerCubicMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogram",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megajoulePerKilogram",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#meganewton",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#meganewtonMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megaohm",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megaohmMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megaohmPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megapascal",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megasiemensPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#volt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megavolt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltAmpere",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megavoltAmpere",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megavoltPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#megawatt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microampere",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microbecquerel",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microcoulomb",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microcoulombPerCubicMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microcoulombPerSquareMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#farad",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microfarad",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#faradPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microfaradPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#henry",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microhenry",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#henryPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microhenryPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#micrometreMicron",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#micrometrePerKelvin",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#mole",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#micromole",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSquareMetrePerSecond",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#micromolePerSquareMetrePerSecond",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#micronewton",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#micronewtonMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microohm",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microohmMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#micropascal",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#radian",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microradian",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microsecond",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemens",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microsiemens",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microsiemensPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#tesla",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microtesla",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#volt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microvolt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microvoltPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microwatt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#microwattPerSquareMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#milliampere",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millicoulomb",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millicoulombPerCubicMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogram",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millicoulombPerKilogram",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millicoulombPerSquareMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#farad",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millifarad",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#gray",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#milligray",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#henry",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millihenry",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millijoule",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetrePerKelvin",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetrePerSecond",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#mole",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millimole",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerKilogram",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millimolePerKilogram",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millinewton",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millinewtonMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millinewtonPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#milliohm",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#milliohmMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#milliohmPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millipascalSecond",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#radian",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#milliradian",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millisecond",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemens",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millisiemens",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#sievert",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millisievert",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#tesla",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millitesla",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#volt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millivolt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltAmpere",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millivoltAmpere",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerKelvin",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millivoltPerKelvin",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#millivoltPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#milliwatt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#milliwattPerSquareMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#weber",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#milliweber",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanoampere",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanocoulomb",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#farad",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanofarad",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#faradPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanofaradPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#henry",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanohenry",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#henryPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanohenryPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanometre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanoohmMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanosecond",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanosiemensPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#tesla",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanotesla",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#nanowatt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#petajoule",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#peta"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#picoampere",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#picocoulomb",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#farad",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#picofarad",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#faradPerMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#picofaradPerMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#henry",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#picohenry",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#picometre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#picosecond",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#picowatt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetre",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#picowattPerSquareMetre",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#hertz",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#terahertz",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#tera"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#terajoule",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#tera"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#teraohm",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#tera"
+  },
+  {
+    "baseUnit": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#terawatt",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#tera"
+  }
+]

@@ -1,0 +1,4790 @@
+[
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#absorbance",
+    "label": "absorbance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#absorbedDose",
+    "label": "absorbed dose"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#absorbedDoseRate",
+    "label": "absorbed dose rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#absorptionFactor",
+    "label": "absorption factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#acceleratingTorque",
+    "label": "accelerating torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#acceleration",
+    "label": "acceleration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#accelerationDueToGravity",
+    "label": "acceleration due to gravity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#acceptorIonizationEnergy",
+    "label": "acceptor ionization energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#accousticalImpedance",
+    "label": "accoustical impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#action",
+    "label": "action"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activationEnergy",
+    "label": "activation energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activeEnergy",
+    "label": "active energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activePower",
+    "label": "active power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activity",
+    "label": "activity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activityCoefficientOfBInALiquidAsASolidMixture",
+    "label": "activity coefficient of B (in a liquid as a solid mixture)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activityCoefficientOfSoluteBEspeciallyInADiluteSolution",
+    "label": "activity coefficient of solute B (especially in a dilute solution)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activityOfSolventA",
+    "label": "activity of solvent A"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#actualPressure",
+    "label": "actual pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#alfvenNumber",
+    "label": "Alfven number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#allowablePressure",
+    "label": "allowable pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#alphaDisintegrationEnergy",
+    "label": "alpha disintegration energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#alternatingCurrentComponent",
+    "label": "alternating current component"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#alternatingElectricCurrentVoltage",
+    "label": "alternating electric current voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#amountOfSubstance",
+    "label": "amount of substance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angle",
+    "label": "angle"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angularAcceleration",
+    "label": "angular acceleration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angularMomentum",
+    "label": "angular momentum"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#apiGravity",
+    "label": "API gravity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#apparentPower",
+    "label": "apparent power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#area",
+    "label": "area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#areaRelatedTorsionalMoment",
+    "label": "area-related torsional moment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#areicElectricCurrent",
+    "label": "areic electric current"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#asphalteneConcentration",
+    "label": "asphaltene concentration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#atmosphericPressure",
+    "label": "atmospheric pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#atomicNumber",
+    "label": "atomic number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#auxiliaryVoltage",
+    "label": "auxiliary voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#averageEnergyLossPerIonPairFormed",
+    "label": "average energy loss per ion pair formed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#averageLogarithmicEnergyDecrement",
+    "label": "average logarithmic energy decrement"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#backPressure",
+    "label": "back pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#benchSet",
+    "label": "bench set"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#bendingStress",
+    "label": "bending stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#betaDisintegrationEnergy",
+    "label": "beta disintegration energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#bindingFraction",
+    "label": "binding fraction"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#blastPressure",
+    "label": "blast pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#boilingPressure",
+    "label": "boiling pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#boostVoltage",
+    "label": "boost voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#brakingTorque",
+    "label": "braking torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#breakawaySpeed",
+    "label": "breakaway speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#breakawayTorque",
+    "label": "breakaway torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#bsW",
+    "label": "BS&W"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#bulkModulus",
+    "label": "bulk modulus"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#canonicalPartitionFunction",
+    "label": "canonical partition function"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#capacitance",
+    "label": "capacitance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#carbonContent",
+    "label": "carbon content"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ceilingVoltage",
+    "label": "ceiling voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#chargeDensity",
+    "label": "charge density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#chargeNumberOfIon",
+    "label": "charge number of ion"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#chemicalEnergy",
+    "label": "chemical energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#chemicalPotential",
+    "label": "chemical potential"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#cieColorimetricFunctions",
+    "label": "CIE colorimetric functions"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#closedCircuitVoltage",
+    "label": "closed-circuit voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#closingPressure",
+    "label": "closing pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#coefficientOfFriction",
+    "label": "coefficient of friction"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#coefficientOfThermalInsulation",
+    "label": "coefficient of thermal insulation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#compressibility",
+    "label": "compressibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#concentration",
+    "label": "concentration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#conductance",
+    "label": "conductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#controlVoltage",
+    "label": "control voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#coordinatesTrichromatic",
+    "label": "coordinates trichromatic"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#couplingCoefficient",
+    "label": "coupling coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#cowlingNumber",
+    "label": "Cowling number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalBuildUpSpeed",
+    "label": "critical build-up speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalCompressibility",
+    "label": "critical compressibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalPressure",
+    "label": "critical pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalSpeed",
+    "label": "critical speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalTorsionalSpeed",
+    "label": "critical torsional speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalWhirlingSpeed",
+    "label": "critical whirling speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#currentDensity",
+    "label": "current density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#currentFractionOfIonB",
+    "label": "current fraction of ion B"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#currentLinkage",
+    "label": "current linkage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#curvature",
+    "label": "curvature"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#cutOutSpeed",
+    "label": "cut out speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#d1515",
+    "label": "d15/15"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#d154",
+    "label": "d15/4"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#d6060",
+    "label": "d60/60"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#debyeWalleFactor",
+    "label": "Debye-Walle factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#degreeOfDissociation",
+    "label": "degree of dissociation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#density",
+    "label": "density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#designPressure",
+    "label": "design pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#designRotationalSpeed",
+    "label": "design rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dewPointPressure",
+    "label": "dew point pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diameter",
+    "label": "diameter"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#differentialCrossSection",
+    "label": "differential cross-section"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diffusionArea",
+    "label": "diffusion area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diffusionCoefficient",
+    "label": "diffusion coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diffusionCoefficientForNeutronNumberDensity",
+    "label": "diffusion coefficient for neutron number density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diffusionLength",
+    "label": "diffusion length"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dimensionless",
+    "label": "dimensionless"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#directAxisComponentOfSynchronousGeneratedVoltage",
+    "label": "direct-axis component of synchronous generated  voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#directAxisComponentOfVoltage",
+    "label": "direct-axis component of voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#directCurrentVoltage",
+    "label": "direct current voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#directVoltageComponent",
+    "label": "direct voltage component"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#directionalSpectralDimensionless",
+    "label": "directional spectral emissivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#disengagingVoltage",
+    "label": "disengaging voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dissipance",
+    "label": "dissipance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dissipationFactor",
+    "label": "dissipation factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#distance",
+    "label": "distance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#donorIonizationEnergy",
+    "label": "donor ionization energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#doseEquivalent",
+    "label": "dose equivalent"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dragPressure",
+    "label": "drag pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#duration",
+    "label": "duration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dynamicPressure",
+    "label": "dynamic pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dynamicViscosity",
+    "label": "dynamic viscosity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#effectiveMass",
+    "label": "effective mass"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#effectiveMultiplicationFactor",
+    "label": "effective multiplication factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricCharge",
+    "label": "electric charge"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricConductance",
+    "label": "electric conductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricConductivity",
+    "label": "electric conductivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricCurrentRate",
+    "label": "electric current rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricDipoleMoment",
+    "label": "electric dipole moment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricDipoleMomentOfMolecule",
+    "label": "electric dipole moment of molecule"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricDisplacement",
+    "label": "Electric displacement"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricFieldStrength",
+    "label": "electric field strength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricFlux",
+    "label": "electric flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricFluxDensity",
+    "label": "electric flux density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricLineReactance",
+    "label": "electric line reactance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricLineResistance",
+    "label": "electric line resistance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricPotential",
+    "label": "electric potential"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricResistance",
+    "label": "electric resistance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricSusceptibility",
+    "label": "electric susceptibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricalEnergy",
+    "label": "electrical energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electromagneticEnergyDensity",
+    "label": "electromagnetic energy density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electromagneticMoment",
+    "label": "electromagnetic moment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electromotiveForce",
+    "label": "electromotive force"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electronicDensityOfStates",
+    "label": "electronic density of states"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#elementaryCharge",
+    "label": "elementary charge"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#emissivity",
+    "label": "emissivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#emissivityAtASpecifiedWavelength",
+    "label": "emissivity at a specified wavelength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#endOfChargeVoltage",
+    "label": "end-of-charge voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energizingVoltage",
+    "label": "energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energy",
+    "label": "energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyDensity",
+    "label": "energy density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyFlux",
+    "label": "energy flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyImparted",
+    "label": "energy imparted"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyLoss",
+    "label": "energy loss"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyOutput",
+    "label": "energy output"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyShortfall",
+    "label": "energy shortfall"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpy",
+    "label": "enthalpy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpyOfCombustion",
+    "label": "enthalpy of combustion"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpyOfFormation",
+    "label": "enthalpy of formation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpyOfVaporisation",
+    "label": "enthalpy of vaporisation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpyVol",
+    "label": "enthalpy-vol"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpyWt",
+    "label": "enthalpy-wt"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#entropy",
+    "label": "entropy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enzymaticActivity",
+    "label": "enzymatic activity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#equalizeVoltage",
+    "label": "equalize voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#eulerNumber",
+    "label": "Euler number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#excitationEnergy",
+    "label": "excitation energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#exposure",
+    "label": "exposure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#exposureRate",
+    "label": "exposure rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#externalEnergy",
+    "label": "external energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#externalPressure",
+    "label": "external pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fastFissionFactor",
+    "label": "fast fission factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fatigueStrength",
+    "label": "fatigue strength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fermiEnergy",
+    "label": "fermi energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fineStructureConstant",
+    "label": "fine structure constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#floatVoltage",
+    "label": "float voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fluxDensity",
+    "label": "flux density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#focalDistance",
+    "label": "focal distance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#force",
+    "label": "force"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fourierNumber",
+    "label": "Fourier number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fourierNumberForMassTransfer",
+    "label": "Fourier number for mass transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#frequency",
+    "label": "frequency"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#frictionFactor",
+    "label": "friction factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#froudeNumber",
+    "label": "Froude number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fullLoadSpeed",
+    "label": "full load speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gFactorOfAtomOrElectron",
+    "label": "g-factor of atom or electron"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gFactorOfNucleus",
+    "label": "g-factor of nucleus"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gapEnergy",
+    "label": "gap energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#grandCanonicalPartitionFunction",
+    "label": "grand-canonical partition function"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#grandPartitionFunction",
+    "label": "grand partition function"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#grashofNumber",
+    "label": "Grashof number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#grashofNumberForMassTransfer",
+    "label": "Grashof number for mass transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gravitationalCoupling",
+    "label": "gravitational coupling"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#groupVelocity",
+    "label": "group velocity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gruneisenParameter",
+    "label": "Grüneisen parameter"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hailAmount",
+    "label": "hail amount"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hailIntensity",
+    "label": "hail intensity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#halfThickness",
+    "label": "half-thickness"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hartmannNumber",
+    "label": "Hartmann number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hartreeEnergy",
+    "label": "Hartree energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heat",
+    "label": "heat"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatCapacity",
+    "label": "heat capacity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatContent",
+    "label": "heat content"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatFlowRate",
+    "label": "heat flow rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatFlux",
+    "label": "heat flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatOfCombustion",
+    "label": "heat of combustion"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatOfSolution",
+    "label": "heat of solution"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatOfVaporisation",
+    "label": "heat of vaporisation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatTransferCoefficient",
+    "label": "heat transfer coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#height",
+    "label": "height"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#holographicMaterialSlabSensitivity",
+    "label": "holographic material slab sensitivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#humidity",
+    "label": "humidity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hydrostaticPressure",
+    "label": "hydrostatic pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hyperfineStructureQuantumNumber",
+    "label": "hyperfine structure quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#illuminance",
+    "label": "illuminance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#imageDistance",
+    "label": "image distance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#impedance",
+    "label": "impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#inducedVoltage",
+    "label": "induced voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#inductance",
+    "label": "inductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#infiniteMediumMultiplicationFactor",
+    "label": "infinite medium multiplication factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#internalConversionFactor",
+    "label": "internal conversion factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#internalEnergy",
+    "label": "internal energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#internalPressure",
+    "label": "internal pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#inverseAmount",
+    "label": "inverse amount"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ionicStrength",
+    "label": "ionic strength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#isentropicCompressibility",
+    "label": "isentropic compressibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#isentropicExponent",
+    "label": "isentropic exponent"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#kinematicViscosity",
+    "label": "kinematic viscosity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#kineticEnergy",
+    "label": "kinetic energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#knudsenNumber",
+    "label": "Knudsen number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#landauGinzburgNumber",
+    "label": "Landau-Ginzburg number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#leakageCoefficient",
+    "label": "leakage coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#length",
+    "label": "length"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lengthPerTemperature",
+    "label": "length per temperature"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lethargy",
+    "label": "lethargy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#levelOfAFieldQuantity",
+    "label": "level of a field quantity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lewisNumber",
+    "label": "Lewis number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#limitOfDetection",
+    "label": "limit of detection"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#limitingContinuousThermalWithstandValueOfEnergizingVoltage",
+    "label": "limiting continuous thermal withstand value of energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#limitingDynamicValueOfAnEnergizingVoltage",
+    "label": "limiting dynamic value of an energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#limitingShortTimeThermalWithstandValueOfAnEnergizingVoltage",
+    "label": "limiting short-time thermal withstand value of an energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearDensity",
+    "label": "linear density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearElectricCurrentDensity",
+    "label": "linear electric current density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearEnergyTransfer",
+    "label": "linear energy transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearStrain",
+    "label": "linear strain"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#loadPressure",
+    "label": "load (pressure)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lockedRotorTorque",
+    "label": "locked-rotor torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#longRangeOrderParameter",
+    "label": "long-range order parameter"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lowerCriticalMagneticFluxDensity",
+    "label": "lower critical magnetic flux density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lowerRequiredPressureLimit",
+    "label": "lower required pressure limit"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousEfficacy",
+    "label": "luminous efficacy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousEfficiency",
+    "label": "luminous efficiency"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousEfficiencyAtASpecifiedWavelength",
+    "label": "luminous efficiency at a specified wavelength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousExposure",
+    "label": "luminous exposure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousFlux",
+    "label": "luminous flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousIntensity",
+    "label": "luminous intensity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#machNumber",
+    "label": "Mach number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#madelungConstant",
+    "label": "Madelung constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticConstant",
+    "label": "magnetic constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFieldStrength",
+    "label": "magnetic field strength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFlux",
+    "label": "magnetic flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFluxDensity",
+    "label": "magnetic flux density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticInduction",
+    "label": "magnetic induction"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticMoment",
+    "label": "magnetic moment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticPolarization",
+    "label": "magnetic polarization"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticPotentialDifference",
+    "label": "magnetic potential difference"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticQuantumNumber",
+    "label": "magnetic quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticReynoldsNumber",
+    "label": "magnetic Reynolds number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticSusceptibility",
+    "label": "magnetic susceptibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticVectorPotential",
+    "label": "magnetic vector potential"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magnetization",
+    "label": "magnetization"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magnetomotiveForce",
+    "label": "magnetomotive force"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mass",
+    "label": "mass"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massAttenuationCoefficient",
+    "label": "mass attenuation coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massEnergyTransferCoefficient",
+    "label": "mass energy transfer coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massFlowRate",
+    "label": "mass flow rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massNumber",
+    "label": "mass number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massPerTimePerArea",
+    "label": "mass per time per area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massPerVolume",
+    "label": "mass per volume"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massRatio",
+    "label": "mass ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massicOptical",
+    "label": "massic optical"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumAllowableConcentration",
+    "label": "maximum allowable concentration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumBetaParticleEnergy",
+    "label": "maximum beta particle energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumPressure",
+    "label": "maximum pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumRotationalSpeed",
+    "label": "maximum rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumSpectralLuminousEfficacy",
+    "label": "maximum spectral luminous efficacy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumVoltage",
+    "label": "maximum voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#meanEnergyImparted",
+    "label": "mean energy imparted"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#meanFreePath",
+    "label": "mean free path"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#meanLife",
+    "label": "mean life"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mechanicalEnergy",
+    "label": "mechanical energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mechanicalImpedance",
+    "label": "mechanical impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#meltingEnthalpy",
+    "label": "melting enthalpy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#microcanonicalPartitionFunction",
+    "label": "microcanonical partition function"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#migrationArea",
+    "label": "migration area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#migrationLength",
+    "label": "migration length"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#minimumPressure",
+    "label": "minimum pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#minimumRotationalSpeed",
+    "label": "minimum rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#minimumVoltage",
+    "label": "minimum voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mobilityRatio",
+    "label": "mobility ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#modulusOfImpedance",
+    "label": "modulus of impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#moistureContent",
+    "label": "moisture content"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molality",
+    "label": "Molality"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarAbsorptionCoefficient",
+    "label": "molar absorption coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarConductivity",
+    "label": "molar conductivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarEnergy",
+    "label": "molar energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarEntropy",
+    "label": "molar entropy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarFlowRate",
+    "label": "molar flow rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarFlux",
+    "label": "molar flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarHeatCapacity",
+    "label": "molar heat capacity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarOpticalRotatoryPower",
+    "label": "molar optical rotatory power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarThermodynamicEnergy",
+    "label": "molar thermodynamic energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarVolume",
+    "label": "molar volume"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarity",
+    "label": "Molarity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#moleFraction",
+    "label": "mole fraction"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#moleFractionOfB",
+    "label": "mole fraction of B"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#moleRatioOfSoluteB",
+    "label": "mole ratio of solute B"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molecularPartitionFunction",
+    "label": "molecular partition function"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molecularWeight",
+    "label": "molecular weight"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molinity",
+    "label": "Molinity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#moment",
+    "label": "moment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#momentOfInertia",
+    "label": "moment of inertia"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#momentum",
+    "label": "momentum"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#multiplicationFactor",
+    "label": "multiplication factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mutualInductance",
+    "label": "mutual inductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#negativeSequenceVoltageComponent",
+    "label": "negative sequence voltage component"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#neutralPointDisplacementVoltage",
+    "label": "neutral point displacement voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#neutronNumber",
+    "label": "neutron number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#neutronSpeed",
+    "label": "neutron speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#neutronYieldPerAbsorption",
+    "label": "neutron yield per absorption"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#neutronYieldPerFission",
+    "label": "neutron yield per fission"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nominalPressure",
+    "label": "nominal pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nominalVoltage",
+    "label": "nominal voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nonLeakageProbability",
+    "label": "non leakage probability"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nonOperateVoltage",
+    "label": "non-operate voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nonReleaseVoltage",
+    "label": "non-release voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#normalRotationalSpeed",
+    "label": "normal rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#normalStress",
+    "label": "normal stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nuclearEnergy",
+    "label": "nuclear energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nuclearSpinQuantumNumber",
+    "label": "nuclear spin quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nucleonNumber",
+    "label": "nucleon number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#number",
+    "label": "number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberOfMoleculesOrOtherElementaryEntities",
+    "label": "number of molecules or other elementary entities"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberOfPairsOfPoles",
+    "label": "number of pairs of poles"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberOfPhases",
+    "label": "number of phases"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberOfTurnsInAWinding",
+    "label": "number of turns in a winding"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberPerLength",
+    "label": "number per length"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberRequired",
+    "label": "number required"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nusseltNumber",
+    "label": "Nusselt number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nusseltNumberForMassTransfer",
+    "label": "Nusselt number for mass transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#objectDistance",
+    "label": "object distance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#openCircuitVoltage",
+    "label": "open-circuit voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#openingPressure",
+    "label": "opening pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#operateVoltage",
+    "label": "operate voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#operatingPressure",
+    "label": "operating pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#operatingRangeOfAnEnergizingVoltage",
+    "label": "operating range of an energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#operatingSpecificGravity",
+    "label": "operating specific gravity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#operatingVoltage",
+    "label": "operating voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#opticalDensity",
+    "label": "optical density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#orbitalAngularMomentumQuantumNumber",
+    "label": "orbital angular momentum quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#orderOfReflexion",
+    "label": "order of reflexion"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#osmoticCoefficientOfTheSolventAEspeciallyInADiluteSolution",
+    "label": "osmotic coefficient of the solvent A (especially in a dilute solution)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#overspeed",
+    "label": "overspeed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#packingFraction",
+    "label": "packing fraction"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#partialPressure",
+    "label": "partial pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#partitionFunctionOfAMolecule",
+    "label": "partition function of a molecule"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pecletNumber",
+    "label": "Peclet number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pecletNumberForMassTransfer",
+    "label": "Peclet number for mass transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#periodicTime",
+    "label": "periodic time"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permeability",
+    "label": "permeability"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permeabilityOfVacuum",
+    "label": "permeability of vacuum"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permeance",
+    "label": "permeance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permittivity",
+    "label": "permittivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permittivityOfVacuum",
+    "label": "permittivity of vacuum"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#phaseToEarthVoltage",
+    "label": "phase to earth voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#phaseToNeutralVoltage",
+    "label": "phase to neutral voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#phaseToPhaseVoltage",
+    "label": "phase to phase voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#phaseVelocity",
+    "label": "phase velocity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonExposure",
+    "label": "photon exposure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonFluxDensity",
+    "label": "photon flux density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonIntensity",
+    "label": "photon intensity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonLuminance",
+    "label": "photon luminance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#piano",
+    "label": "PIANO"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pna",
+    "label": "PNA"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#poissonNumber",
+    "label": "poisson number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#poissonRatio",
+    "label": "poisson ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#popPressure",
+    "label": "pop pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#positiveSequenceVoltageComponent",
+    "label": "positive sequence voltage component"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#potentialEnergy",
+    "label": "potential energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#potentialHcl",
+    "label": "potential HCl"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#potentialHydrogenSulphide",
+    "label": "potential hydrogen sulphide"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#power",
+    "label": "power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#powerGradient",
+    "label": "power gradient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#prandtlNumber",
+    "label": "Prandtl number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#prepressurizationRotationalSpeed",
+    "label": "prepressurization rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressure",
+    "label": "pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressureAtBatteryLimit",
+    "label": "pressure at battery limit"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressureCoefficient",
+    "label": "pressure coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressureRatio",
+    "label": "pressure ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressureStress",
+    "label": "pressure stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#principleQuantumNumber",
+    "label": "principle quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#protectionPressure",
+    "label": "protection pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#protonNumber",
+    "label": "proton number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pullInTorque",
+    "label": "pull-in torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pullOutTorque",
+    "label": "pull-out torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pullUpTorque",
+    "label": "pull-up torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#quadratureAxisComponentOfSynchronousGeneratedVoltage",
+    "label": "quadrature-axis component of synchronous generated voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#quadratureAxisComponentOfVoltage",
+    "label": "quadrature-axis component of voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#quantityOfLight",
+    "label": "quantity of light"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiance",
+    "label": "radiance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radianceExposure",
+    "label": "radiance exposure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiantEnergy",
+    "label": "radiant energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiantEnergyDensity",
+    "label": "radiant energy density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiantIntensity",
+    "label": "radiant intensity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiantPower",
+    "label": "radiant power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiationDose",
+    "label": "radiation dose"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiationDoseRate",
+    "label": "radiation dose rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radius",
+    "label": "radius"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiusOfCurvature",
+    "label": "radius of curvature"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratedLoadTorque",
+    "label": "rated load torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratedRotationalSpeed",
+    "label": "rated rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratedValueOfEnergizingVoltage",
+    "label": "rated value of energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratedVoltage",
+    "label": "rated voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratioOfTheMassicHeatCapacity",
+    "label": "ratio of the massic heat capacity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratioOfTheSpecificHeatCapacities",
+    "label": "ratio of the specific heat capacities"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rayleighNumber",
+    "label": "Rayleigh number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactance",
+    "label": "reactance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactionEnergy",
+    "label": "reaction energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactiveEnergy",
+    "label": "reactive energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactivePower",
+    "label": "reactive power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactivity",
+    "label": "reactivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reciprocalArea",
+    "label": "reciprocal area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rectifiedMeanVoltage",
+    "label": "rectified mean voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#redoxPotential",
+    "label": "redox potential"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reflectance",
+    "label": "reflectance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reflectionFactor",
+    "label": "reflection factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#refractiveIndex",
+    "label": "refractive index"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeActivityOfSolventAEspeciallyInADiluteSolution",
+    "label": "relative activity of solvent A (especially in a dilute solution)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeAtomicMass",
+    "label": "relative atomic mass"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeDensity",
+    "label": "relative density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeElongation",
+    "label": "relative elongation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeMassDefect",
+    "label": "relative mass defect"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeMassDensity",
+    "label": "relative mass density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeMassExcess",
+    "label": "relative mass excess"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeMolecularMass",
+    "label": "relative molecular mass"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativePermeability",
+    "label": "relative permeability"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativePermittivity",
+    "label": "relative permittivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relaxationTime",
+    "label": "relaxation time"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#releaseVoltage",
+    "label": "release voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reliefPressure",
+    "label": "relief pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reluctance",
+    "label": "reluctance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#repetency",
+    "label": "repetency"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resetTorque",
+    "label": "reset torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resettingVoltage",
+    "label": "resetting voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#residualHeat",
+    "label": "residual heat"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#residualVoltage",
+    "label": "residual voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resistanceFreeVoltage",
+    "label": "resistance free voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resistivity",
+    "label": "resistivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resonanceEnergy",
+    "label": "resonance energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resonanceEscapeProbability",
+    "label": "resonance escape probability"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#restMassOfElectron",
+    "label": "(rest) mass of electron"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#restMassOfNeutron",
+    "label": "(rest) mass of neutron"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#restMassOfProton",
+    "label": "(rest) mass of proton"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reverberationTime",
+    "label": "reverberation time"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reynoldsNumber",
+    "label": "Reynolds number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rootMeanSquareVoltage",
+    "label": "root mean square voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationEnergy",
+    "label": "rotation energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeed",
+    "label": "rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeedAtMaximumOutputPower",
+    "label": "rotational speed at maximum output power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeedAtMaximumTorque",
+    "label": "rotational speed at maximum torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeedAtNormalOutputPower",
+    "label": "rotational speed at normal output power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeedDecay",
+    "label": "rotational speed decay"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotatoryPower",
+    "label": "rotatory power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#schmidtNumber",
+    "label": "Schmidt number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#seatingCapacity",
+    "label": "seating capacity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#secondMomentOfArea",
+    "label": "second moment of area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#sectionModulus",
+    "label": "section modulus"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#seebeckCoefficient",
+    "label": "Seebeck coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#selfInductance",
+    "label": "self inductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#setPressure",
+    "label": "set pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#setTorque",
+    "label": "set torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#settlingOutPressure",
+    "label": "settling out pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#shearStrain",
+    "label": "shear strain"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#shearStress",
+    "label": "shear stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#shortRangeOrderParameter",
+    "label": "short-range order parameter"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#slip",
+    "label": "slip"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#solidAngle",
+    "label": "solid angle"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundEnergyDensity",
+    "label": "sound energy density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundIntensity",
+    "label": "sound intensity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundParticleAcceleration",
+    "label": "sound particle acceleration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundParticleDisplacement",
+    "label": "sound particle displacement"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundParticleVelocity",
+    "label": "sound particle velocity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundPower",
+    "label": "sound power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundPressure",
+    "label": "sound pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificAcousticImpedance",
+    "label": "specific acoustic impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificEnergy",
+    "label": "specific energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificEnthalpy",
+    "label": "specific enthalpy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificEntropy",
+    "label": "specific entropy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificGravity",
+    "label": "specific gravity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificHeatCapacity",
+    "label": "specific heat capacity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificOpticalRotatoryPower",
+    "label": "specific optical rotatory power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificThermodynamicEnergy",
+    "label": "specific thermodynamic energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificVolume",
+    "label": "specific volume"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralAbsorptance",
+    "label": "spectral absorptance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralAbsorptionFactor",
+    "label": "spectral absorption factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralAngularCrossSection",
+    "label": "spectral angular cross-section"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralConcentrationOfVibrationalModesInTermsOfAngularFrequency",
+    "label": "spectral concentration of vibrational modes (in terms of angular frequency)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralDimensionless",
+    "label": "spectral emissivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralLuminousEfficacy",
+    "label": "spectral luminous efficacy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralLuminousEfficiency",
+    "label": "spectral luminous efficiency"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralRadianceFactor",
+    "label": "spectral radiance factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralRadiantEnergyDensityInTermsOfWaveLength",
+    "label": "spectral radiant energy density (in terms of wave length)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralReflectionfactorSpectralReflectance",
+    "label": "spectral reflectionfactor,spectral reflectance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralTransmissionFactor",
+    "label": "spectral transmission factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralTransmittance",
+    "label": "spectral transmittance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#speed",
+    "label": "speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spinAngularMomentumQuantumNumber",
+    "label": "spin angular momentum quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stallingTorque",
+    "label": "stalling torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#standardAbsoluteActivityOfBInAGaseousMixture",
+    "label": "standard absolute activity of B (in a gaseous mixture)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#standardAbsoluteActivityOfBInALiquidOrASolidMixture",
+    "label": "standard absolute activity of B (in a liquid or a solid mixture)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#standardAbsoluteActivityOfSoluteBEspeciallyInADiluteSolution",
+    "label": "standard absolute activity of solute B (especially in a dilute solution)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#standardAbsoluteActivityOfSolventAEspeciallyInADiluteSolution",
+    "label": "standard absolute activity of solvent A (especially in a dilute solution)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#standardEquilibriumConstant",
+    "label": "standard equilibrium constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stantonNumber",
+    "label": "Stanton number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stantonNumberForMassTransfer",
+    "label": "Stanton number for mass transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#startingTorque",
+    "label": "starting torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#startingVoltage",
+    "label": "starting voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#staticPressure",
+    "label": "static pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#steamOutPressure",
+    "label": "steam out pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stefanBoltzmannConstant",
+    "label": "Stefan-Boltzmann constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stoichiometricNumberOfB",
+    "label": "stoichiometric number of B"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#strainEnergy",
+    "label": "strain energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stress",
+    "label": "stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stressOrPressure",
+    "label": "stress or pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#strouhalNumber",
+    "label": "Strouhal number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceCoefficientOfHeatTransfer",
+    "label": "surface coefficient of heat transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceDensity",
+    "label": "surface density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceDensityOfCharge",
+    "label": "surface density of charge"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceDensityOfMechanicalImpedance",
+    "label": "surface density of mechanical impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceTension",
+    "label": "surface tension"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#switchingVoltage",
+    "label": "switching voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#synchronousGeneratedVoltage",
+    "label": "synchronous generated voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#synchronousPullOutTorque",
+    "label": "synchronous pull-out torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#synchronousSpeed",
+    "label": "synchronous speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#systemVoltage",
+    "label": "system voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#temperature",
+    "label": "temperature"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#temperatureDrift",
+    "label": "temperature drift"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#tensionStress",
+    "label": "tension stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#terminalVoltage",
+    "label": "terminal voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#testPressure",
+    "label": "test pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#testVoltage",
+    "label": "test voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalConductance",
+    "label": "thermal conductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalConductivity",
+    "label": "thermal conductivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalDiffusionCoefficient",
+    "label": "thermal diffusion coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalDiffusionFactor",
+    "label": "thermal diffusion factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalDiffusionRatio",
+    "label": "thermal diffusion ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalDiffusivity",
+    "label": "thermal diffusivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalEnergy",
+    "label": "thermal energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalResistance",
+    "label": "thermal resistance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalUtilizationFactor",
+    "label": "thermal utilization factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermodynamicEnergy",
+    "label": "thermodynamic energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thickness",
+    "label": "thickness"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thicknessFrequencyProduct",
+    "label": "thickness frequency product"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thomsonCoefficient",
+    "label": "Thomson coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#timeConstant",
+    "label": "time constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#torque",
+    "label": "torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#torqueAtMaximumContinuousRotationalSpeed",
+    "label": "torque at maximum continuous rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#torsionStress",
+    "label": "torsion stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#torsionalStiffness",
+    "label": "torsional stiffness"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#totalAngularMomentumQuantumNumber",
+    "label": "total angular momentum quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#touchVoltage",
+    "label": "touch voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#translationEnergy",
+    "label": "translation energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#transmissionFactor",
+    "label": "transmission factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#transmittance",
+    "label": "transmittance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#transportNumberOfIonB",
+    "label": "transport number of ion B"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#tripSpeed",
+    "label": "trip speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#triplePointPressure",
+    "label": "triple point pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#unavoidableEnergy",
+    "label": "unavoidable energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#upperRequiredPressureLimit",
+    "label": "upper required pressure limit"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#vacuum",
+    "label": "vacuum"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#vacuumPressure",
+    "label": "vacuum pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#vapourCompressibility",
+    "label": "vapour compressibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#vapourPressure",
+    "label": "vapour pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#velocity",
+    "label": "velocity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#velocityOfSound",
+    "label": "velocity of sound"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#velocityOrSpeed",
+    "label": "velocity or speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ventSystemPressure",
+    "label": "vent system pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#voltage",
+    "label": "voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#voltageRequiredForStarting",
+    "label": "voltage required for starting"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volume",
+    "label": "volume"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeDensityRate",
+    "label": "volume density rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeFlowRate",
+    "label": "volume flow rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeOrBulkStrain",
+    "label": "volume or bulk strain"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeRatio",
+    "label": "volume ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumetricConcentration",
+    "label": "volumetric concentration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumetricEnergyDensity",
+    "label": "volumetric energy density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumicActivity",
+    "label": "volumic activity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumicDose",
+    "label": "volumic dose"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumicElectromagneticEnergy",
+    "label": "volumic electromagnetic energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#waterAndSediment",
+    "label": "water and sediment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#waveLength",
+    "label": "wave length"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#weberNumber",
+    "label": "Weber number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#weight",
+    "label": "weight"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#width",
+    "label": "width"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#windPressure",
+    "label": "wind pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#work",
+    "label": "work"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#zeroSequenceVoltageComponent",
+    "label": "zero sequence voltage component"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#acceleration",
+    "label": "acceleration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#accelerationDueToGravity",
+    "label": "acceleration due to gravity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundParticleAcceleration",
+    "label": "sound particle acceleration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#accousticalImpedance",
+    "label": "accoustical impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activity",
+    "label": "activity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#amountOfSubstance",
+    "label": "amount of substance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angle",
+    "label": "angle"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angularAcceleration",
+    "label": "angular acceleration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#action",
+    "label": "action"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angularMomentum",
+    "label": "angular momentum"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#apparentPower",
+    "label": "apparent power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#area",
+    "label": "area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diffusionArea",
+    "label": "diffusion area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#migrationArea",
+    "label": "migration area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#areicElectricCurrent",
+    "label": "areic electric current"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#currentDensity",
+    "label": "current density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#capacitance",
+    "label": "capacitance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#chargeDensity",
+    "label": "charge density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#coefficientOfThermalInsulation",
+    "label": "coefficient of thermal insulation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#compressibility",
+    "label": "compressibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalCompressibility",
+    "label": "critical compressibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#isentropicCompressibility",
+    "label": "isentropic compressibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#vapourCompressibility",
+    "label": "vapour compressibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#asphalteneConcentration",
+    "label": "asphaltene concentration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#bsW",
+    "label": "BS&W"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#carbonContent",
+    "label": "carbon content"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#concentration",
+    "label": "concentration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#humidity",
+    "label": "humidity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#limitOfDetection",
+    "label": "limit of detection"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massPerVolume",
+    "label": "mass per volume"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumAllowableConcentration",
+    "label": "maximum allowable concentration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#moistureContent",
+    "label": "moisture content"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarity",
+    "label": "Molarity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#moleFraction",
+    "label": "mole fraction"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#piano",
+    "label": "PIANO"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pna",
+    "label": "PNA"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#potentialHcl",
+    "label": "potential HCl"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#potentialHydrogenSulphide",
+    "label": "potential hydrogen sulphide"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumetricConcentration",
+    "label": "volumetric concentration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#waterAndSediment",
+    "label": "water and sediment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#conductance",
+    "label": "conductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricConductance",
+    "label": "electric conductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#density",
+    "label": "density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#differentialCrossSection",
+    "label": "differential cross-section"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diffusionCoefficient",
+    "label": "diffusion coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diffusionCoefficientForNeutronNumberDensity",
+    "label": "diffusion coefficient for neutron number density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#kinematicViscosity",
+    "label": "kinematic viscosity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalDiffusionCoefficient",
+    "label": "thermal diffusion coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalDiffusivity",
+    "label": "thermal diffusivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#absorbance",
+    "label": "absorbance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#absorptionFactor",
+    "label": "absorption factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activityCoefficientOfBInALiquidAsASolidMixture",
+    "label": "activity coefficient of B (in a liquid as a solid mixture)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activityCoefficientOfSoluteBEspeciallyInADiluteSolution",
+    "label": "activity coefficient of solute B (especially in a dilute solution)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activityOfSolventA",
+    "label": "activity of solvent A"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#alfvenNumber",
+    "label": "Alfven number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#apiGravity",
+    "label": "API gravity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#atomicNumber",
+    "label": "atomic number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#averageLogarithmicEnergyDecrement",
+    "label": "average logarithmic energy decrement"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#bindingFraction",
+    "label": "binding fraction"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#canonicalPartitionFunction",
+    "label": "canonical partition function"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#chargeNumberOfIon",
+    "label": "charge number of ion"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#cieColorimetricFunctions",
+    "label": "CIE colorimetric functions"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#coefficientOfFriction",
+    "label": "coefficient of friction"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#coordinatesTrichromatic",
+    "label": "coordinates trichromatic"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#couplingCoefficient",
+    "label": "coupling coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#cowlingNumber",
+    "label": "Cowling number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#currentFractionOfIonB",
+    "label": "current fraction of ion B"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#d1515",
+    "label": "d15/15"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#d154",
+    "label": "d15/4"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#d6060",
+    "label": "d60/60"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#debyeWalleFactor",
+    "label": "Debye-Walle factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#degreeOfDissociation",
+    "label": "degree of dissociation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dimensionless",
+    "label": "dimensionless"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#directionalSpectralDimensionless",
+    "label": "directional spectral emissivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dissipance",
+    "label": "dissipance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dissipationFactor",
+    "label": "dissipation factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#effectiveMultiplicationFactor",
+    "label": "effective multiplication factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricSusceptibility",
+    "label": "electric susceptibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#emissivity",
+    "label": "emissivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#emissivityAtASpecifiedWavelength",
+    "label": "emissivity at a specified wavelength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#eulerNumber",
+    "label": "Euler number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fastFissionFactor",
+    "label": "fast fission factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fineStructureConstant",
+    "label": "fine structure constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fourierNumber",
+    "label": "Fourier number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fourierNumberForMassTransfer",
+    "label": "Fourier number for mass transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#frictionFactor",
+    "label": "friction factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#froudeNumber",
+    "label": "Froude number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gFactorOfAtomOrElectron",
+    "label": "g-factor of atom or electron"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gFactorOfNucleus",
+    "label": "g-factor of nucleus"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#grandCanonicalPartitionFunction",
+    "label": "grand-canonical partition function"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#grandPartitionFunction",
+    "label": "grand partition function"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#grashofNumber",
+    "label": "Grashof number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#grashofNumberForMassTransfer",
+    "label": "Grashof number for mass transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gruneisenParameter",
+    "label": "Grüneisen parameter"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hartmannNumber",
+    "label": "Hartmann number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hyperfineStructureQuantumNumber",
+    "label": "hyperfine structure quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#infiniteMediumMultiplicationFactor",
+    "label": "infinite medium multiplication factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#internalConversionFactor",
+    "label": "internal conversion factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#isentropicExponent",
+    "label": "isentropic exponent"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#knudsenNumber",
+    "label": "Knudsen number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#landauGinzburgNumber",
+    "label": "Landau-Ginzburg number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#leakageCoefficient",
+    "label": "leakage coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lethargy",
+    "label": "lethargy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lewisNumber",
+    "label": "Lewis number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearStrain",
+    "label": "linear strain"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#longRangeOrderParameter",
+    "label": "long-range order parameter"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousEfficiency",
+    "label": "luminous efficiency"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousEfficiencyAtASpecifiedWavelength",
+    "label": "luminous efficiency at a specified wavelength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#machNumber",
+    "label": "Mach number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#madelungConstant",
+    "label": "Madelung constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticQuantumNumber",
+    "label": "magnetic quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticReynoldsNumber",
+    "label": "magnetic Reynolds number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticSusceptibility",
+    "label": "magnetic susceptibility"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massNumber",
+    "label": "mass number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massRatio",
+    "label": "mass ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#microcanonicalPartitionFunction",
+    "label": "microcanonical partition function"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mobilityRatio",
+    "label": "mobility ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#moleFractionOfB",
+    "label": "mole fraction of B"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#moleRatioOfSoluteB",
+    "label": "mole ratio of solute B"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molecularPartitionFunction",
+    "label": "molecular partition function"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#multiplicationFactor",
+    "label": "multiplication factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#neutronNumber",
+    "label": "neutron number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#neutronYieldPerAbsorption",
+    "label": "neutron yield per absorption"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#neutronYieldPerFission",
+    "label": "neutron yield per fission"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nonLeakageProbability",
+    "label": "non leakage probability"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nuclearSpinQuantumNumber",
+    "label": "nuclear spin quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nucleonNumber",
+    "label": "nucleon number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#number",
+    "label": "number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberOfMoleculesOrOtherElementaryEntities",
+    "label": "number of molecules or other elementary entities"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberOfPairsOfPoles",
+    "label": "number of pairs of poles"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberOfPhases",
+    "label": "number of phases"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberOfTurnsInAWinding",
+    "label": "number of turns in a winding"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberRequired",
+    "label": "number required"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nusseltNumber",
+    "label": "Nusselt number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nusseltNumberForMassTransfer",
+    "label": "Nusselt number for mass transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#operatingSpecificGravity",
+    "label": "operating specific gravity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#opticalDensity",
+    "label": "optical density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#orbitalAngularMomentumQuantumNumber",
+    "label": "orbital angular momentum quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#orderOfReflexion",
+    "label": "order of reflexion"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#osmoticCoefficientOfTheSolventAEspeciallyInADiluteSolution",
+    "label": "osmotic coefficient of the solvent A (especially in a dilute solution)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#packingFraction",
+    "label": "packing fraction"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#partitionFunctionOfAMolecule",
+    "label": "partition function of a molecule"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pecletNumber",
+    "label": "Peclet number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pecletNumberForMassTransfer",
+    "label": "Peclet number for mass transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#poissonNumber",
+    "label": "poisson number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#poissonRatio",
+    "label": "poisson ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#prandtlNumber",
+    "label": "Prandtl number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressureRatio",
+    "label": "pressure ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#principleQuantumNumber",
+    "label": "principle quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#protonNumber",
+    "label": "proton number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratioOfTheMassicHeatCapacity",
+    "label": "ratio of the massic heat capacity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratioOfTheSpecificHeatCapacities",
+    "label": "ratio of the specific heat capacities"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rayleighNumber",
+    "label": "Rayleigh number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactivity",
+    "label": "reactivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reflectance",
+    "label": "reflectance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reflectionFactor",
+    "label": "reflection factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#refractiveIndex",
+    "label": "refractive index"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeActivityOfSolventAEspeciallyInADiluteSolution",
+    "label": "relative activity of solvent A (especially in a dilute solution)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeAtomicMass",
+    "label": "relative atomic mass"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeDensity",
+    "label": "relative density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeElongation",
+    "label": "relative elongation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeMassDefect",
+    "label": "relative mass defect"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeMassDensity",
+    "label": "relative mass density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeMassExcess",
+    "label": "relative mass excess"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeMolecularMass",
+    "label": "relative molecular mass"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativePermeability",
+    "label": "relative permeability"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relativePermittivity",
+    "label": "relative permittivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resonanceEscapeProbability",
+    "label": "resonance escape probability"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#restMassOfElectron",
+    "label": "(rest) mass of electron"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#restMassOfNeutron",
+    "label": "(rest) mass of neutron"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#restMassOfProton",
+    "label": "(rest) mass of proton"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reynoldsNumber",
+    "label": "Reynolds number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#schmidtNumber",
+    "label": "Schmidt number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#seatingCapacity",
+    "label": "seating capacity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#shearStrain",
+    "label": "shear strain"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#shortRangeOrderParameter",
+    "label": "short-range order parameter"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificGravity",
+    "label": "specific gravity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralAbsorptance",
+    "label": "spectral absorptance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralAbsorptionFactor",
+    "label": "spectral absorption factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralDimensionless",
+    "label": "spectral emissivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralLuminousEfficiency",
+    "label": "spectral luminous efficiency"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralRadianceFactor",
+    "label": "spectral radiance factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralReflectionfactorSpectralReflectance",
+    "label": "spectral reflectionfactor,spectral reflectance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralTransmissionFactor",
+    "label": "spectral transmission factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralTransmittance",
+    "label": "spectral transmittance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spinAngularMomentumQuantumNumber",
+    "label": "spin angular momentum quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#standardAbsoluteActivityOfBInAGaseousMixture",
+    "label": "standard absolute activity of B (in a gaseous mixture)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#standardAbsoluteActivityOfBInALiquidOrASolidMixture",
+    "label": "standard absolute activity of B (in a liquid or a solid mixture)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#standardAbsoluteActivityOfSoluteBEspeciallyInADiluteSolution",
+    "label": "standard absolute activity of solute B (especially in a dilute solution)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#standardAbsoluteActivityOfSolventAEspeciallyInADiluteSolution",
+    "label": "standard absolute activity of solvent A (especially in a dilute solution)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#standardEquilibriumConstant",
+    "label": "standard equilibrium constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stantonNumber",
+    "label": "Stanton number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stantonNumberForMassTransfer",
+    "label": "Stanton number for mass transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stoichiometricNumberOfB",
+    "label": "stoichiometric number of B"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#strouhalNumber",
+    "label": "Strouhal number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalDiffusionFactor",
+    "label": "thermal diffusion factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalDiffusionRatio",
+    "label": "thermal diffusion ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalUtilizationFactor",
+    "label": "thermal utilization factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#totalAngularMomentumQuantumNumber",
+    "label": "total angular momentum quantum number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#transmissionFactor",
+    "label": "transmission factor"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#transmittance",
+    "label": "transmittance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#transportNumberOfIonB",
+    "label": "transport number of ion B"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeOrBulkStrain",
+    "label": "volume or bulk strain"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeRatio",
+    "label": "volume ratio"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#weberNumber",
+    "label": "Weber number"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diameter",
+    "label": "diameter"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diffusionLength",
+    "label": "diffusion length"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#distance",
+    "label": "distance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#focalDistance",
+    "label": "focal distance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#halfThickness",
+    "label": "half-thickness"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#height",
+    "label": "height"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#imageDistance",
+    "label": "image distance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#length",
+    "label": "length"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#meanFreePath",
+    "label": "mean free path"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#migrationLength",
+    "label": "migration length"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#objectDistance",
+    "label": "object distance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radius",
+    "label": "radius"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiusOfCurvature",
+    "label": "radius of curvature"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundParticleDisplacement",
+    "label": "sound particle displacement"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thickness",
+    "label": "thickness"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#waveLength",
+    "label": "wave length"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#width",
+    "label": "width"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#doseEquivalent",
+    "label": "dose equivalent"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#duration",
+    "label": "duration"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#meanLife",
+    "label": "mean life"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#periodicTime",
+    "label": "periodic time"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#relaxationTime",
+    "label": "relaxation time"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reverberationTime",
+    "label": "reverberation time"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#timeConstant",
+    "label": "time constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dynamicViscosity",
+    "label": "dynamic viscosity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricCharge",
+    "label": "electric charge"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricFlux",
+    "label": "electric flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#elementaryCharge",
+    "label": "elementary charge"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricConductivity",
+    "label": "electric conductivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#currentLinkage",
+    "label": "current linkage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricCurrentRate",
+    "label": "electric current rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticPotentialDifference",
+    "label": "magnetic potential difference"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magnetomotiveForce",
+    "label": "magnetomotive force"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricDipoleMoment",
+    "label": "electric dipole moment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricDipoleMomentOfMolecule",
+    "label": "electric dipole moment of molecule"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricDisplacement",
+    "label": "Electric displacement"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricFluxDensity",
+    "label": "electric flux density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceDensityOfCharge",
+    "label": "surface density of charge"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricFieldStrength",
+    "label": "electric field strength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricLineReactance",
+    "label": "electric line reactance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricLineResistance",
+    "label": "electric line resistance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#alternatingCurrentComponent",
+    "label": "alternating current component"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#alternatingElectricCurrentVoltage",
+    "label": "alternating electric current voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#auxiliaryVoltage",
+    "label": "auxiliary voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#boostVoltage",
+    "label": "boost voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ceilingVoltage",
+    "label": "ceiling voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#closedCircuitVoltage",
+    "label": "closed-circuit voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#controlVoltage",
+    "label": "control voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#directAxisComponentOfSynchronousGeneratedVoltage",
+    "label": "direct-axis component of synchronous generated  voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#directAxisComponentOfVoltage",
+    "label": "direct-axis component of voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#directCurrentVoltage",
+    "label": "direct current voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#directVoltageComponent",
+    "label": "direct voltage component"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#disengagingVoltage",
+    "label": "disengaging voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricPotential",
+    "label": "electric potential"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electromotiveForce",
+    "label": "electromotive force"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#endOfChargeVoltage",
+    "label": "end-of-charge voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energizingVoltage",
+    "label": "energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#equalizeVoltage",
+    "label": "equalize voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#floatVoltage",
+    "label": "float voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#inducedVoltage",
+    "label": "induced voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#limitingContinuousThermalWithstandValueOfEnergizingVoltage",
+    "label": "limiting continuous thermal withstand value of energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#limitingDynamicValueOfAnEnergizingVoltage",
+    "label": "limiting dynamic value of an energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#limitingShortTimeThermalWithstandValueOfAnEnergizingVoltage",
+    "label": "limiting short-time thermal withstand value of an energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumVoltage",
+    "label": "maximum voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#minimumVoltage",
+    "label": "minimum voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#negativeSequenceVoltageComponent",
+    "label": "negative sequence voltage component"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#neutralPointDisplacementVoltage",
+    "label": "neutral point displacement voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nominalVoltage",
+    "label": "nominal voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nonOperateVoltage",
+    "label": "non-operate voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nonReleaseVoltage",
+    "label": "non-release voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#openCircuitVoltage",
+    "label": "open-circuit voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#operateVoltage",
+    "label": "operate voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#operatingRangeOfAnEnergizingVoltage",
+    "label": "operating range of an energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#operatingVoltage",
+    "label": "operating voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#phaseToEarthVoltage",
+    "label": "phase to earth voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#phaseToNeutralVoltage",
+    "label": "phase to neutral voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#phaseToPhaseVoltage",
+    "label": "phase to phase voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#positiveSequenceVoltageComponent",
+    "label": "positive sequence voltage component"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#quadratureAxisComponentOfSynchronousGeneratedVoltage",
+    "label": "quadrature-axis component of synchronous generated voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#quadratureAxisComponentOfVoltage",
+    "label": "quadrature-axis component of voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratedValueOfEnergizingVoltage",
+    "label": "rated value of energizing voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratedVoltage",
+    "label": "rated voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rectifiedMeanVoltage",
+    "label": "rectified mean voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#redoxPotential",
+    "label": "redox potential"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#releaseVoltage",
+    "label": "release voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resettingVoltage",
+    "label": "resetting voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#residualVoltage",
+    "label": "residual voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resistanceFreeVoltage",
+    "label": "resistance free voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rootMeanSquareVoltage",
+    "label": "root mean square voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#startingVoltage",
+    "label": "starting voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#switchingVoltage",
+    "label": "switching voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#synchronousGeneratedVoltage",
+    "label": "synchronous generated voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#systemVoltage",
+    "label": "system voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#terminalVoltage",
+    "label": "terminal voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#testVoltage",
+    "label": "test voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#touchVoltage",
+    "label": "touch voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#voltage",
+    "label": "voltage"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#voltageRequiredForStarting",
+    "label": "voltage required for starting"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#zeroSequenceVoltageComponent",
+    "label": "zero sequence voltage component"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricResistance",
+    "label": "electric resistance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#impedance",
+    "label": "impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#modulusOfImpedance",
+    "label": "modulus of impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactance",
+    "label": "reactance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electromagneticMoment",
+    "label": "electromagnetic moment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticMoment",
+    "label": "magnetic moment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electronicDensityOfStates",
+    "label": "electronic density of states"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#acceleratingTorque",
+    "label": "accelerating torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#acceptorIonizationEnergy",
+    "label": "acceptor ionization energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activationEnergy",
+    "label": "activation energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activeEnergy",
+    "label": "active energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#alphaDisintegrationEnergy",
+    "label": "alpha disintegration energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#averageEnergyLossPerIonPairFormed",
+    "label": "average energy loss per ion pair formed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#betaDisintegrationEnergy",
+    "label": "beta disintegration energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#brakingTorque",
+    "label": "braking torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#breakawayTorque",
+    "label": "breakaway torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#chemicalEnergy",
+    "label": "chemical energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#donorIonizationEnergy",
+    "label": "donor ionization energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricalEnergy",
+    "label": "electrical energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energy",
+    "label": "energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyImparted",
+    "label": "energy imparted"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyLoss",
+    "label": "energy loss"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyOutput",
+    "label": "energy output"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyShortfall",
+    "label": "energy shortfall"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpy",
+    "label": "enthalpy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpyOfCombustion",
+    "label": "enthalpy of combustion"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpyOfFormation",
+    "label": "enthalpy of formation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpyOfVaporisation",
+    "label": "enthalpy of vaporisation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpyVol",
+    "label": "enthalpy-vol"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enthalpyWt",
+    "label": "enthalpy-wt"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#excitationEnergy",
+    "label": "excitation energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#externalEnergy",
+    "label": "external energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fermiEnergy",
+    "label": "fermi energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gapEnergy",
+    "label": "gap energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hartreeEnergy",
+    "label": "Hartree energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heat",
+    "label": "heat"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatContent",
+    "label": "heat content"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatOfCombustion",
+    "label": "heat of combustion"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatOfSolution",
+    "label": "heat of solution"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatOfVaporisation",
+    "label": "heat of vaporisation"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#internalEnergy",
+    "label": "internal energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#kineticEnergy",
+    "label": "kinetic energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lockedRotorTorque",
+    "label": "locked-rotor torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumBetaParticleEnergy",
+    "label": "maximum beta particle energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#meanEnergyImparted",
+    "label": "mean energy imparted"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mechanicalEnergy",
+    "label": "mechanical energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#meltingEnthalpy",
+    "label": "melting enthalpy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarOpticalRotatoryPower",
+    "label": "molar optical rotatory power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarThermodynamicEnergy",
+    "label": "molar thermodynamic energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#moment",
+    "label": "moment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nuclearEnergy",
+    "label": "nuclear energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#potentialEnergy",
+    "label": "potential energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pullInTorque",
+    "label": "pull-in torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pullOutTorque",
+    "label": "pull-out torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pullUpTorque",
+    "label": "pull-up torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiantEnergy",
+    "label": "radiant energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratedLoadTorque",
+    "label": "rated load torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactionEnergy",
+    "label": "reaction energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactiveEnergy",
+    "label": "reactive energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resetTorque",
+    "label": "reset torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#residualHeat",
+    "label": "residual heat"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resonanceEnergy",
+    "label": "resonance energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationEnergy",
+    "label": "rotation energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#setTorque",
+    "label": "set torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stallingTorque",
+    "label": "stalling torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#startingTorque",
+    "label": "starting torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#strainEnergy",
+    "label": "strain energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#synchronousPullOutTorque",
+    "label": "synchronous pull-out torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalEnergy",
+    "label": "thermal energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermodynamicEnergy",
+    "label": "thermodynamic energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#torque",
+    "label": "torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#torqueAtMaximumContinuousRotationalSpeed",
+    "label": "torque at maximum continuous rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#translationEnergy",
+    "label": "translation energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#unavoidableEnergy",
+    "label": "unavoidable energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#work",
+    "label": "work"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electromagneticEnergyDensity",
+    "label": "electromagnetic energy density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyDensity",
+    "label": "energy density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiantEnergyDensity",
+    "label": "radiant energy density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundEnergyDensity",
+    "label": "sound energy density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumetricEnergyDensity",
+    "label": "volumetric energy density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumicElectromagneticEnergy",
+    "label": "volumic electromagnetic energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyFlux",
+    "label": "energy flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatFlux",
+    "label": "heat flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundIntensity",
+    "label": "sound intensity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#exposure",
+    "label": "exposure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#exposureRate",
+    "label": "exposure rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fluxDensity",
+    "label": "flux density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hailAmount",
+    "label": "hail amount"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hailIntensity",
+    "label": "hail intensity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reciprocalArea",
+    "label": "reciprocal area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#force",
+    "label": "force"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#weight",
+    "label": "weight"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#frequency",
+    "label": "frequency"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gravitationalCoupling",
+    "label": "gravitational coupling"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#entropy",
+    "label": "entropy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatCapacity",
+    "label": "heat capacity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatTransferCoefficient",
+    "label": "heat transfer coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceCoefficientOfHeatTransfer",
+    "label": "surface coefficient of heat transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#holographicMaterialSlabSensitivity",
+    "label": "holographic material slab sensitivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#illuminance",
+    "label": "illuminance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#inductance",
+    "label": "inductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mutualInductance",
+    "label": "mutual inductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permeance",
+    "label": "permeance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#selfInductance",
+    "label": "self inductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#inverseAmount",
+    "label": "inverse amount"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lengthPerTemperature",
+    "label": "length per temperature"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#levelOfAFieldQuantity",
+    "label": "level of a field quantity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearDensity",
+    "label": "linear density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearEnergyTransfer",
+    "label": "linear energy transfer"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousEfficacy",
+    "label": "luminous efficacy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumSpectralLuminousEfficacy",
+    "label": "maximum spectral luminous efficacy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralLuminousEfficacy",
+    "label": "spectral luminous efficacy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousExposure",
+    "label": "luminous exposure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousFlux",
+    "label": "luminous flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousIntensity",
+    "label": "luminous intensity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFlux",
+    "label": "magnetic flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lowerCriticalMagneticFluxDensity",
+    "label": "lower critical magnetic flux density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFluxDensity",
+    "label": "magnetic flux density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticInduction",
+    "label": "magnetic induction"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticPolarization",
+    "label": "magnetic polarization"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticVectorPotential",
+    "label": "magnetic vector potential"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearElectricCurrentDensity",
+    "label": "linear electric current density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFieldStrength",
+    "label": "magnetic field strength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magnetization",
+    "label": "magnetization"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#effectiveMass",
+    "label": "effective mass"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mass",
+    "label": "mass"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massAttenuationCoefficient",
+    "label": "mass attenuation coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massEnergyTransferCoefficient",
+    "label": "mass energy transfer coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massFlowRate",
+    "label": "mass flow rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massPerTimePerArea",
+    "label": "mass per time per area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mechanicalImpedance",
+    "label": "mechanical impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ionicStrength",
+    "label": "ionic strength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molality",
+    "label": "Molality"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molinity",
+    "label": "Molinity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarAbsorptionCoefficient",
+    "label": "molar absorption coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarConductivity",
+    "label": "molar conductivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#chemicalPotential",
+    "label": "chemical potential"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarEnergy",
+    "label": "molar energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#enzymaticActivity",
+    "label": "enzymatic activity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarFlowRate",
+    "label": "molar flow rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarFlux",
+    "label": "molar flux"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarEntropy",
+    "label": "molar entropy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarHeatCapacity",
+    "label": "molar heat capacity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarVolume",
+    "label": "molar volume"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molecularWeight",
+    "label": "molecular weight"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#momentOfInertia",
+    "label": "moment of inertia"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#momentum",
+    "label": "momentum"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonExposure",
+    "label": "photon exposure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#curvature",
+    "label": "curvature"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberPerLength",
+    "label": "number per length"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#repetency",
+    "label": "repetency"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticConstant",
+    "label": "magnetic constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permeability",
+    "label": "permeability"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permeabilityOfVacuum",
+    "label": "permeability of vacuum"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permittivity",
+    "label": "permittivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permittivityOfVacuum",
+    "label": "permittivity of vacuum"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonFluxDensity",
+    "label": "photon flux density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonIntensity",
+    "label": "photon intensity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonLuminance",
+    "label": "photon luminance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activePower",
+    "label": "active power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatFlowRate",
+    "label": "heat flow rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#power",
+    "label": "power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiantPower",
+    "label": "radiant power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundPower",
+    "label": "sound power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#powerGradient",
+    "label": "power gradient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressureCoefficient",
+    "label": "pressure coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#quantityOfLight",
+    "label": "quantity of light"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiance",
+    "label": "radiance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radianceExposure",
+    "label": "radiance exposure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiantIntensity",
+    "label": "radiant intensity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#absorbedDose",
+    "label": "absorbed dose"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiationDose",
+    "label": "radiation dose"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#absorbedDoseRate",
+    "label": "absorbed dose rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiationDoseRate",
+    "label": "radiation dose rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactivePower",
+    "label": "reactive power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reciprocalArea",
+    "label": "reciprocal area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reluctance",
+    "label": "reluctance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resistivity",
+    "label": "resistivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#breakawaySpeed",
+    "label": "breakaway speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalBuildUpSpeed",
+    "label": "critical build-up speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalSpeed",
+    "label": "critical speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalTorsionalSpeed",
+    "label": "critical torsional speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalWhirlingSpeed",
+    "label": "critical whirling speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#cutOutSpeed",
+    "label": "cut out speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#designRotationalSpeed",
+    "label": "design rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fullLoadSpeed",
+    "label": "full load speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumRotationalSpeed",
+    "label": "maximum rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#minimumRotationalSpeed",
+    "label": "minimum rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#normalRotationalSpeed",
+    "label": "normal rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#overspeed",
+    "label": "overspeed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#prepressurizationRotationalSpeed",
+    "label": "prepressurization rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ratedRotationalSpeed",
+    "label": "rated rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeed",
+    "label": "rotational speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeedAtMaximumOutputPower",
+    "label": "rotational speed at maximum output power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeedAtMaximumTorque",
+    "label": "rotational speed at maximum torque"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeedAtNormalOutputPower",
+    "label": "rotational speed at normal output power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeedDecay",
+    "label": "rotational speed decay"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#slip",
+    "label": "slip"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#synchronousSpeed",
+    "label": "synchronous speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#tripSpeed",
+    "label": "trip speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massicOptical",
+    "label": "massic optical"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotatoryPower",
+    "label": "rotatory power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificOpticalRotatoryPower",
+    "label": "specific optical rotatory power"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#secondMomentOfArea",
+    "label": "second moment of area"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#seebeckCoefficient",
+    "label": "Seebeck coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thomsonCoefficient",
+    "label": "Thomson coefficient"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#solidAngle",
+    "label": "solid angle"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificAcousticImpedance",
+    "label": "specific acoustic impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceDensityOfMechanicalImpedance",
+    "label": "surface density of mechanical impedance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificEnergy",
+    "label": "specific energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificEnthalpy",
+    "label": "specific enthalpy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificThermodynamicEnergy",
+    "label": "specific thermodynamic energy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificEntropy",
+    "label": "specific entropy"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificHeatCapacity",
+    "label": "specific heat capacity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificVolume",
+    "label": "specific volume"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralAngularCrossSection",
+    "label": "spectral angular cross-section"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralConcentrationOfVibrationalModesInTermsOfAngularFrequency",
+    "label": "spectral concentration of vibrational modes (in terms of angular frequency)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralRadiantEnergyDensityInTermsOfWaveLength",
+    "label": "spectral radiant energy density (in terms of wave length)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stefanBoltzmannConstant",
+    "label": "Stefan-Boltzmann constant"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#actualPressure",
+    "label": "actual pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#allowablePressure",
+    "label": "allowable pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#atmosphericPressure",
+    "label": "atmospheric pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#backPressure",
+    "label": "back pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#benchSet",
+    "label": "bench set"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#bendingStress",
+    "label": "bending stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#blastPressure",
+    "label": "blast pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#boilingPressure",
+    "label": "boiling pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#bulkModulus",
+    "label": "bulk modulus"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#closingPressure",
+    "label": "closing pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#criticalPressure",
+    "label": "critical pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#designPressure",
+    "label": "design pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dewPointPressure",
+    "label": "dew point pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dragPressure",
+    "label": "drag pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dynamicPressure",
+    "label": "dynamic pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#externalPressure",
+    "label": "external pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fatigueStrength",
+    "label": "fatigue strength"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#hydrostaticPressure",
+    "label": "hydrostatic pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#internalPressure",
+    "label": "internal pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#loadPressure",
+    "label": "load (pressure)"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lowerRequiredPressureLimit",
+    "label": "lower required pressure limit"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#maximumPressure",
+    "label": "maximum pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#minimumPressure",
+    "label": "minimum pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#nominalPressure",
+    "label": "nominal pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#normalStress",
+    "label": "normal stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#openingPressure",
+    "label": "opening pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#operatingPressure",
+    "label": "operating pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#partialPressure",
+    "label": "partial pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#popPressure",
+    "label": "pop pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressure",
+    "label": "pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressureAtBatteryLimit",
+    "label": "pressure at battery limit"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressureStress",
+    "label": "pressure stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#protectionPressure",
+    "label": "protection pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reliefPressure",
+    "label": "relief pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#setPressure",
+    "label": "set pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#settlingOutPressure",
+    "label": "settling out pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#shearStress",
+    "label": "shear stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundPressure",
+    "label": "sound pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#staticPressure",
+    "label": "static pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#steamOutPressure",
+    "label": "steam out pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stress",
+    "label": "stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stressOrPressure",
+    "label": "stress or pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#tensionStress",
+    "label": "tension stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#testPressure",
+    "label": "test pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#torsionStress",
+    "label": "torsion stress"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#triplePointPressure",
+    "label": "triple point pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#upperRequiredPressureLimit",
+    "label": "upper required pressure limit"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#vacuum",
+    "label": "vacuum"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#vacuumPressure",
+    "label": "vacuum pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#vapourPressure",
+    "label": "vapour pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#ventSystemPressure",
+    "label": "vent system pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#windPressure",
+    "label": "wind pressure"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceDensity",
+    "label": "surface density"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceTension",
+    "label": "surface tension"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#temperature",
+    "label": "temperature"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#temperatureDrift",
+    "label": "temperature drift"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalConductance",
+    "label": "thermal conductance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalConductivity",
+    "label": "thermal conductivity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalResistance",
+    "label": "thermal resistance"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thicknessFrequencyProduct",
+    "label": "thickness frequency product"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#areaRelatedTorsionalMoment",
+    "label": "area-related torsional moment"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#torsionalStiffness",
+    "label": "torsional stiffness"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#groupVelocity",
+    "label": "group velocity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#neutronSpeed",
+    "label": "neutron speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#phaseVelocity",
+    "label": "phase velocity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#soundParticleVelocity",
+    "label": "sound particle velocity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#speed",
+    "label": "speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#velocity",
+    "label": "velocity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#velocityOfSound",
+    "label": "velocity of sound"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#velocityOrSpeed",
+    "label": "velocity or speed"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#sectionModulus",
+    "label": "section modulus"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volume",
+    "label": "volume"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeDensityRate",
+    "label": "volume density rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeFlowRate",
+    "label": "volume flow rate"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumicActivity",
+    "label": "volumic activity"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumicDose",
+    "label": "volumic dose"
+  }
+]

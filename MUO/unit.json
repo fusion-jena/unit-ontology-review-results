@@ -1,0 +1,1412 @@
+[
+  {
+    "symbol": "Gal",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/acceleration/Gal",
+    "label": "Gal"
+  },
+  {
+    "symbol": "[g]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/acceleration/standard-acceleration-of-free-fall",
+    "label": "standard acceleration of free fall"
+  },
+  {
+    "symbol": "[pH]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/acidity/pH",
+    "label": "pH"
+  },
+  {
+    "symbol": "b",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/action-area/barn",
+    "label": "barn"
+  },
+  {
+    "symbol": "[h]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/action/Planck-constant",
+    "label": "Planck constant"
+  },
+  {
+    "symbol": "bit_s",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/amount-of-information/bit-1",
+    "label": "bit"
+  },
+  {
+    "symbol": "bit",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/amount-of-information/bit-2",
+    "label": "bit"
+  },
+  {
+    "symbol": "By",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/amount-of-information/byte",
+    "label": "byte"
+  },
+  {
+    "symbol": "eq",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/amount-of-substance/equivalents",
+    "label": "equivalents"
+  },
+  {
+    "symbol": "mol",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/amount-of-substance/mole",
+    "label": "mole"
+  },
+  {
+    "symbol": "osm",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/amount-of-substance/osmole-of-dissolved-particles",
+    "label": "osmole of dissolved particles"
+  },
+  {
+    "symbol": "[knk'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/arbitrary-biologic-activity/Kunkel-unit",
+    "label": "Kunkel unit"
+  },
+  {
+    "symbol": "[mclg'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/arbitrary-biologic-activity/Mac-Lagan-unit",
+    "label": "Mac Lagan unit"
+  },
+  {
+    "symbol": "[USP'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/arbitrary/United-States-Pharmacopeia-unit",
+    "label": "United States Pharmacopeia unit"
+  },
+  {
+    "symbol": "[arb'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/arbitrary/arbitary-unit",
+    "label": "arbitary unit"
+  },
+  {
+    "symbol": "[iU]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/arbitrary/international-unit",
+    "label": "international unit"
+  },
+  {
+    "symbol": "[acr_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/acre-1",
+    "label": "acre"
+  },
+  {
+    "symbol": "[acr_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/acre-2",
+    "label": "acre"
+  },
+  {
+    "symbol": "ar",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/are",
+    "label": "are"
+  },
+  {
+    "symbol": "[cml_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/circular-mil",
+    "label": "circular mil"
+  },
+  {
+    "symbol": "[sct]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/section",
+    "label": "section"
+  },
+  {
+    "symbol": "[sft_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/square-foot",
+    "label": "square foot"
+  },
+  {
+    "symbol": "[sin_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/square-inch",
+    "label": "square inch"
+  },
+  {
+    "symbol": "[smi_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/square-mile",
+    "label": "square mile"
+  },
+  {
+    "symbol": "[srd_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/square-rod",
+    "label": "square rod"
+  },
+  {
+    "symbol": "[syd_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/square-yard",
+    "label": "square yard"
+  },
+  {
+    "symbol": "[twp]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/area/township",
+    "label": "township"
+  },
+  {
+    "symbol": "[todd'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/biologic-activity-antistreptolysin-O/Todd-unit",
+    "label": "Todd unit"
+  },
+  {
+    "symbol": "[dye'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/biologic-activity-of-amylase/Dye-unit",
+    "label": "Dye unit"
+  },
+  {
+    "symbol": "[smgy'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/biologic-activity-of-amylase/Somogyi-unit",
+    "label": "Somogyi unit"
+  },
+  {
+    "symbol": "[APL'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/biologic-activity-of-anticardiolipin-IgA/APL-unit",
+    "label": "APL unit"
+  },
+  {
+    "symbol": "[GPL'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/biologic-activity-of-anticardiolipin-IgG/GPL-unit",
+    "label": "GPL unit"
+  },
+  {
+    "symbol": "[MPL'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/biologic-activity-of-anticardiolipin-IgM/MPL-unit",
+    "label": "MPL unit"
+  },
+  {
+    "symbol": "[beth'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/biologic-activity-of-factor-VIII-inhibitor/Bethesda-unit",
+    "label": "Bethesda unit"
+  },
+  {
+    "symbol": "[bdsk'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/biologic-activity-of-phosphatase/Bodansky-unit",
+    "label": "Bodansky unit"
+  },
+  {
+    "symbol": "[ka'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/biologic-activity-of-phosphatase/King-Armstrong-unit",
+    "label": "King-Armstrong unit"
+  },
+  {
+    "symbol": "[tb'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/biologic-activity-of-tuberculin/tuberculin-unit",
+    "label": "tuberculin unit"
+  },
+  {
+    "symbol": "Lmb",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/brightness/Lambert",
+    "label": "Lambert"
+  },
+  {
+    "symbol": "U",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/catalytic-activity/Unit",
+    "label": "Unit"
+  },
+  {
+    "symbol": "kat",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/catalytic-activity/katal",
+    "label": "katal"
+  },
+  {
+    "symbol": "[fth_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/depth-of-water/fathom",
+    "label": "fathom"
+  },
+  {
+    "symbol": "Sv",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/dose-equivalent/Sievert",
+    "label": "Sievert"
+  },
+  {
+    "symbol": "REM",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/dose-equivalent/radiation-equivalent-man",
+    "label": "radiation equivalent man"
+  },
+  {
+    "symbol": "[bu_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/dry-volume/bushel",
+    "label": "bushel"
+  },
+  {
+    "symbol": "[dpt_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/dry-volume/dry-pint",
+    "label": "dry pint"
+  },
+  {
+    "symbol": "[dqt_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/dry-volume/dry-quart",
+    "label": "dry quart"
+  },
+  {
+    "symbol": "[gal_wi]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/dry-volume/historical-winchester-gallon",
+    "label": "historical winchester gallon"
+  },
+  {
+    "symbol": "[pk_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/dry-volume/peck",
+    "label": "peck"
+  },
+  {
+    "symbol": "P",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/dynamic-viscosity/Poise",
+    "label": "Poise"
+  },
+  {
+    "symbol": "F",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-capacitance/Farad",
+    "label": "Farad"
+  },
+  {
+    "symbol": "C",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-charge/Coulomb",
+    "label": "Coulomb"
+  },
+  {
+    "symbol": "[e]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-charge/elementary-charge",
+    "label": "elementary charge"
+  },
+  {
+    "symbol": "S",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-conductance/Siemens",
+    "label": "Siemens"
+  },
+  {
+    "symbol": "mho",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-conductance/mho",
+    "label": "mho"
+  },
+  {
+    "symbol": "A",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-current/Ampere",
+    "label": "Ampère"
+  },
+  {
+    "symbol": "Bi",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-current/Biot",
+    "label": "Biot"
+  },
+  {
+    "symbol": "[eps_0]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-permittivity/permittivity-of-vacuum",
+    "label": "permittivity of vacuum"
+  },
+  {
+    "symbol": "B[uV]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-potential-level/bel-microvolt",
+    "label": "bel microvolt"
+  },
+  {
+    "symbol": "B[mV]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-potential-level/bel-millivolt",
+    "label": "bel millivolt"
+  },
+  {
+    "symbol": "B[V]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-potential-level/bel-volt",
+    "label": "bel volt"
+  },
+  {
+    "symbol": "V",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-potential/Volt",
+    "label": "Volt"
+  },
+  {
+    "symbol": "Ohm",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/electric-resistance/Ohm",
+    "label": "Ohm"
+  },
+  {
+    "symbol": "Gy",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy-dose/Gray",
+    "label": "Gray"
+  },
+  {
+    "symbol": "RAD",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy-dose/radiation-absorbed-dose",
+    "label": "radiation absorbed dose"
+  },
+  {
+    "symbol": "[Btu]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit",
+    "label": "British thermal unit"
+  },
+  {
+    "symbol": "[Btu_39]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit-at-39_F",
+    "label": "British thermal unit at 39 °F"
+  },
+  {
+    "symbol": "[Btu_59]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit-at-59_F",
+    "label": "British thermal unit at 59 °F"
+  },
+  {
+    "symbol": "[Btu_60]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit-at-60_F",
+    "label": "British thermal unit at 60 °F"
+  },
+  {
+    "symbol": "J",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/Joule",
+    "label": "Joule"
+  },
+  {
+    "symbol": "cal",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/calorie",
+    "label": "calorie"
+  },
+  {
+    "symbol": "cal_[15]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/calorie-at-15_C",
+    "label": "calorie at 15 °C"
+  },
+  {
+    "symbol": "cal_[20]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/calorie-at-20_C",
+    "label": "calorie at 20 °C"
+  },
+  {
+    "symbol": "eV",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/electronvolt",
+    "label": "electronvolt"
+  },
+  {
+    "symbol": "erg",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/erg",
+    "label": "erg"
+  },
+  {
+    "symbol": "[Btu_IT]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/international-table-British-thermal-unit",
+    "label": "international table British thermal unit"
+  },
+  {
+    "symbol": "cal_IT",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/international-table-calorie",
+    "label": "international table calorie"
+  },
+  {
+    "symbol": "[Btu_m]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/mean-British-thermal-unit",
+    "label": "mean British thermal unit"
+  },
+  {
+    "symbol": "cal_m",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/mean-calorie",
+    "label": "mean calorie"
+  },
+  {
+    "symbol": "[Cal]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/nutrition-label-Calories",
+    "label": "nutrition label Calories"
+  },
+  {
+    "symbol": "[Btu_th]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/thermochemical-British-thermal-unit",
+    "label": "thermochemical British thermal unit"
+  },
+  {
+    "symbol": "cal_th",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/energy/thermochemical-calorie",
+    "label": "thermochemical calorie"
+  },
+  {
+    "symbol": "[PRU]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fluid-resistance/peripheral-vascular-resistance-unit",
+    "label": "peripheral vascular resistance unit"
+  },
+  {
+    "symbol": "[gal_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fluid-volume/Queen_Anne_s-wine-gallon",
+    "label": "Queen Anne's wine gallon"
+  },
+  {
+    "symbol": "[bbl_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fluid-volume/barrel",
+    "label": "barrel"
+  },
+  {
+    "symbol": "[crd_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fluid-volume/cord",
+    "label": "cord"
+  },
+  {
+    "symbol": "[fdr_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fluid-volume/fluid-dram",
+    "label": "fluid dram"
+  },
+  {
+    "symbol": "[foz_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fluid-volume/fluid-ounce",
+    "label": "fluid ounce"
+  },
+  {
+    "symbol": "[gil_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fluid-volume/gill",
+    "label": "gill"
+  },
+  {
+    "symbol": "[min_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fluid-volume/minim",
+    "label": "minim"
+  },
+  {
+    "symbol": "[pt_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fluid-volume/pint",
+    "label": "pint"
+  },
+  {
+    "symbol": "[qt_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fluid-volume/quart",
+    "label": "quart"
+  },
+  {
+    "symbol": "Mx",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/flux-of-magnetic-induction/Maxwell",
+    "label": "Maxwell"
+  },
+  {
+    "symbol": "N",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/force/Newton",
+    "label": "Newton"
+  },
+  {
+    "symbol": "dyn",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/force/dyne",
+    "label": "dyne"
+  },
+  {
+    "symbol": "gf",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/force/gram-force",
+    "label": "gram-force"
+  },
+  {
+    "symbol": "[lbf_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/force/pound-force",
+    "label": "pound force"
+  },
+  {
+    "symbol": "[ppb]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fraction/parts-per-billion",
+    "label": "parts per billion"
+  },
+  {
+    "symbol": "[ppm]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fraction/parts-per-million",
+    "label": "parts per million"
+  },
+  {
+    "symbol": "[ppth]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fraction/parts-per-thousand",
+    "label": "parts per thousand"
+  },
+  {
+    "symbol": "[pptr]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fraction/parts-per-trillion",
+    "label": "parts per trillion"
+  },
+  {
+    "symbol": "%",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/fraction/percent",
+    "label": "percent"
+  },
+  {
+    "symbol": "Hz",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/frequency/Herz",
+    "label": "Herz"
+  },
+  {
+    "symbol": "[Ch]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere",
+    "label": "Charrière"
+  },
+  {
+    "symbol": "[Ch]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere",
+    "label": "french"
+  },
+  {
+    "symbol": "[hd_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/height-of-horses/hand",
+    "label": "hand"
+  },
+  {
+    "symbol": "[hp_C]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/homeopathic-potency/homeopathic-potency-of-centesimal-series",
+    "label": "homeopathic potency of centesimal series"
+  },
+  {
+    "symbol": "[hp_X]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/homeopathic-potency/homeopathic-potency-of-decimal-series",
+    "label": "homeopathic potency of decimal series"
+  },
+  {
+    "symbol": "lx",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/illuminance/lux",
+    "label": "lux"
+  },
+  {
+    "symbol": "ph",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/illuminance/phot",
+    "label": "phot"
+  },
+  {
+    "symbol": "H",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/inductance/Henry",
+    "label": "Henry"
+  },
+  {
+    "symbol": "R",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/ion-dose/Roentgen",
+    "label": "Roentgen"
+  },
+  {
+    "symbol": "St",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/kinematic-viscosity/Stokes",
+    "label": "Stokes"
+  },
+  {
+    "symbol": "Ao",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/Angstrom",
+    "label": "Ångström"
+  },
+  {
+    "symbol": "[ch_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1",
+    "label": "Gunter's chain"
+  },
+  {
+    "symbol": "[ch_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1",
+    "label": "Surveyor's chain"
+  },
+  {
+    "symbol": "[ch_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-2",
+    "label": "Gunter's chain"
+  },
+  {
+    "symbol": "[pca_pr]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/Printer_s-pica",
+    "label": "Printer's pica"
+  },
+  {
+    "symbol": "[pnt_pr]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/Printer_s-point",
+    "label": "Printer's point"
+  },
+  {
+    "symbol": "[rch_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain",
+    "label": "Engineer's chain"
+  },
+  {
+    "symbol": "[rch_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain",
+    "label": "Ramden's chain"
+  },
+  {
+    "symbol": "AU",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/astronomic-unit",
+    "label": "astronomic unit"
+  },
+  {
+    "symbol": "[cicero]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/cicero",
+    "label": "Didot's pica"
+  },
+  {
+    "symbol": "[cicero]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/cicero",
+    "label": "cicero"
+  },
+  {
+    "symbol": "[didot]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/didot",
+    "label": "Didot's point"
+  },
+  {
+    "symbol": "[didot]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/didot",
+    "label": "didot"
+  },
+  {
+    "symbol": "[fth_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/fathom-1",
+    "label": "fathom"
+  },
+  {
+    "symbol": "[fth_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/fathom-2",
+    "label": "fathom"
+  },
+  {
+    "symbol": "[ft_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/foot-1",
+    "label": "foot"
+  },
+  {
+    "symbol": "[ft_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/foot-2",
+    "label": "foot"
+  },
+  {
+    "symbol": "[ft_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/foot-3",
+    "label": "foot"
+  },
+  {
+    "symbol": "[fur_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/furlong",
+    "label": "furlong"
+  },
+  {
+    "symbol": "[in_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/inch-1",
+    "label": "inch"
+  },
+  {
+    "symbol": "[in_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/inch-2",
+    "label": "inch"
+  },
+  {
+    "symbol": "[in_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/inch-3",
+    "label": "inch"
+  },
+  {
+    "symbol": "[ly]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/light-year",
+    "label": "light-year"
+  },
+  {
+    "symbol": "[ligne]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/ligne",
+    "label": "French line"
+  },
+  {
+    "symbol": "[ligne]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/ligne",
+    "label": "ligne"
+  },
+  {
+    "symbol": "[lne]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/line",
+    "label": "line"
+  },
+  {
+    "symbol": "[lk_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/link-for-Gunter_s-chain-1",
+    "label": "link for Gunter's chain"
+  },
+  {
+    "symbol": "[lk_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/link-for-Gunter_s-chain-2",
+    "label": "link for Gunter's chain"
+  },
+  {
+    "symbol": "[rlk_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/link-for-Ramden_s-chain",
+    "label": "link for Ramden's chain"
+  },
+  {
+    "symbol": "m",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/meter",
+    "label": "meter"
+  },
+  {
+    "symbol": "[mil_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/mil-1",
+    "label": "mil"
+  },
+  {
+    "symbol": "[mil_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/mil-2",
+    "label": "mil"
+  },
+  {
+    "symbol": "[mi_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/mile-1",
+    "label": "mile"
+  },
+  {
+    "symbol": "[mi_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/mile-2",
+    "label": "mile"
+  },
+  {
+    "symbol": "[nmi_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/nautic-mile-1",
+    "label": "nautic mile"
+  },
+  {
+    "symbol": "[nmi_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/nautic-mile-2",
+    "label": "nautic mile"
+  },
+  {
+    "symbol": "[pc_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/pace",
+    "label": "pace"
+  },
+  {
+    "symbol": "pc",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/parsec",
+    "label": "parsec"
+  },
+  {
+    "symbol": "[pca]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/pica",
+    "label": "pica"
+  },
+  {
+    "symbol": "[pied]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/pied",
+    "label": "French foot"
+  },
+  {
+    "symbol": "[pied]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/pied",
+    "label": "pied"
+  },
+  {
+    "symbol": "[pnt]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/point",
+    "label": "point"
+  },
+  {
+    "symbol": "[pouce]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/pouce",
+    "label": "French inch"
+  },
+  {
+    "symbol": "[pouce]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/pouce",
+    "label": "pouce"
+  },
+  {
+    "symbol": "[rd_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/rod-1",
+    "label": "rod"
+  },
+  {
+    "symbol": "[rd_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/rod-2",
+    "label": "rod"
+  },
+  {
+    "symbol": "[mi_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/statute-mile",
+    "label": "statute mile"
+  },
+  {
+    "symbol": "[yd_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/yard-1",
+    "label": "yard"
+  },
+  {
+    "symbol": "[yd_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/yard-2",
+    "label": "yard"
+  },
+  {
+    "symbol": "[yd_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/length/yard-3",
+    "label": "yard"
+  },
+  {
+    "symbol": "B",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/level/bel",
+    "label": "bel"
+  },
+  {
+    "symbol": "Np",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/level/neper",
+    "label": "neper"
+  },
+  {
+    "symbol": "Ky",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/lineic-number/Kayser",
+    "label": "Kayser"
+  },
+  {
+    "symbol": "[mesh_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/lineic-number/mesh",
+    "label": "mesh"
+  },
+  {
+    "symbol": "sb",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/lum.-intensity-density/stilb",
+    "label": "stilb"
+  },
+  {
+    "symbol": "lm",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/luminous-flux/lumen",
+    "label": "lumen"
+  },
+  {
+    "symbol": "cd",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/luminous-intensity/candela",
+    "label": "candela"
+  },
+  {
+    "symbol": "Wb",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/magentic-flux/Weber",
+    "label": "Weber"
+  },
+  {
+    "symbol": "Oe",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-field-intensity/Oersted",
+    "label": "Oersted"
+  },
+  {
+    "symbol": "G",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-flux-density/Gauss",
+    "label": "Gauss"
+  },
+  {
+    "symbol": "T",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-flux-density/Tesla",
+    "label": "Tesla"
+  },
+  {
+    "symbol": "[mu_0]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-permeability/permeability-of-vacuum",
+    "label": "permeability of vacuum"
+  },
+  {
+    "symbol": "Gb",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-tension/Gilbert",
+    "label": "Gilbert"
+  },
+  {
+    "symbol": "[car_Au]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass-fraction/carat-of-gold-alloys",
+    "label": "carat of gold alloys"
+  },
+  {
+    "symbol": "g%",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass-fraction/gram-percent",
+    "label": "gram percent"
+  },
+  {
+    "symbol": "[dr_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-1",
+    "label": "dram"
+  },
+  {
+    "symbol": "[dr_ap]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2",
+    "label": "dram"
+  },
+  {
+    "symbol": "[dr_ap]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2",
+    "label": "drachm"
+  },
+  {
+    "symbol": "[m_e]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/electron-mass",
+    "label": "electron mass"
+  },
+  {
+    "symbol": "[gr]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/grain",
+    "label": "grain"
+  },
+  {
+    "symbol": "g",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/gram",
+    "label": "gram"
+  },
+  {
+    "symbol": "[lcwt_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight",
+    "label": "British hundredweight"
+  },
+  {
+    "symbol": "[lcwt_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight",
+    "label": "long hunderdweight"
+  },
+  {
+    "symbol": "[lton_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton",
+    "label": "British ton"
+  },
+  {
+    "symbol": "[lton_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton",
+    "label": "long ton"
+  },
+  {
+    "symbol": "[car_m]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/metric-carat",
+    "label": "metric carat"
+  },
+  {
+    "symbol": "[oz_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/ounce-1",
+    "label": "ounce"
+  },
+  {
+    "symbol": "[oz_tr]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/ounce-2",
+    "label": "ounce"
+  },
+  {
+    "symbol": "[oz_ap]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/ounce-3",
+    "label": "ounce"
+  },
+  {
+    "symbol": "[pwt_tr]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/pennyweight",
+    "label": "pennyweight"
+  },
+  {
+    "symbol": "[lb_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/pound-1",
+    "label": "pound"
+  },
+  {
+    "symbol": "[lb_tr]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/pound-2",
+    "label": "pound"
+  },
+  {
+    "symbol": "[lb_ap]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/pound-3",
+    "label": "pound"
+  },
+  {
+    "symbol": "[m_p]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/proton-mass",
+    "label": "proton mass"
+  },
+  {
+    "symbol": "[sc_ap]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/scruple",
+    "label": "scruple"
+  },
+  {
+    "symbol": "[scwt_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight",
+    "label": "U.S. hundredweight"
+  },
+  {
+    "symbol": "[scwt_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight",
+    "label": "short hundredweight"
+  },
+  {
+    "symbol": "[ston_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton",
+    "label": "U.S. ton"
+  },
+  {
+    "symbol": "[ston_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton",
+    "label": "short ton"
+  },
+  {
+    "symbol": "[stone_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/stone",
+    "label": "British stone"
+  },
+  {
+    "symbol": "[stone_av]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/stone",
+    "label": "stone"
+  },
+  {
+    "symbol": "t",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/tonne",
+    "label": "tonne"
+  },
+  {
+    "symbol": "u",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/mass/unified-atomic-mass-unit",
+    "label": "unified atomic mass unit"
+  },
+  {
+    "symbol": "[MET]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/metabolic-cost-of-physical-activity/metabolic-equivalent",
+    "label": "metabolic equivalent"
+  },
+  {
+    "symbol": "[pi]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/number/the-number-pi",
+    "label": "the number pi"
+  },
+  {
+    "symbol": "10*",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/number/the-number-ten-for-arbitrary-powers-1",
+    "label": "the number ten for arbitrary powers"
+  },
+  {
+    "symbol": "10^",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/number/the-number-ten-for-arbitrary-powers-2",
+    "label": "the number ten for arbitrary powers"
+  },
+  {
+    "symbol": "circ",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/circle",
+    "label": "circle"
+  },
+  {
+    "symbol": "deg",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/degree",
+    "label": "degree"
+  },
+  {
+    "symbol": "gon",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon",
+    "label": "gon"
+  },
+  {
+    "symbol": "gon",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon",
+    "label": "grade"
+  },
+  {
+    "symbol": "'",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/minute",
+    "label": "minute"
+  },
+  {
+    "symbol": "rad",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/radian",
+    "label": "radian"
+  },
+  {
+    "symbol": "''",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/second",
+    "label": "second"
+  },
+  {
+    "symbol": "B[kW]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/power-level/bel-kilowatt",
+    "label": "bel kilowatt"
+  },
+  {
+    "symbol": "B[W]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/power-level/bel-watt",
+    "label": "bel watt"
+  },
+  {
+    "symbol": "W",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/power/Watt",
+    "label": "Watt"
+  },
+  {
+    "symbol": "[HP]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/power/horsepower",
+    "label": "horsepower"
+  },
+  {
+    "symbol": "B[SPL]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/pressure-level/bel-sound-pressure",
+    "label": "bel sound pressure"
+  },
+  {
+    "symbol": "Pa",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/pressure/Pascal",
+    "label": "Pascal"
+  },
+  {
+    "symbol": "bar",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/pressure/bar",
+    "label": "bar"
+  },
+  {
+    "symbol": "[in_i'Hg]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/pressure/inch-of-mercury-column",
+    "label": "inch of mercury column"
+  },
+  {
+    "symbol": "[in_i'H2O]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/pressure/inch-of-water-column",
+    "label": "inch of water column"
+  },
+  {
+    "symbol": "m[Hg]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/pressure/meter-of-mercury-column",
+    "label": "meter of mercury column"
+  },
+  {
+    "symbol": "m[H2O]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/pressure/meter-of-water-column",
+    "label": "meter of water column"
+  },
+  {
+    "symbol": "[psi]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/pressure/pound-per-sqare-inch",
+    "label": "pound per sqare inch"
+  },
+  {
+    "symbol": "atm",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/pressure/standard-atmosphere",
+    "label": "standard atmosphere"
+  },
+  {
+    "symbol": "att",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/pressure/technical-atmosphere",
+    "label": "technical atmosphere"
+  },
+  {
+    "symbol": "Bq",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/radioactivity/Becquerel",
+    "label": "Becquerel"
+  },
+  {
+    "symbol": "Ci",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/radioactivity/Curie",
+    "label": "Curie"
+  },
+  {
+    "symbol": "[diop]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/refraction-of-a-lens/diopter",
+    "label": "diopter"
+  },
+  {
+    "symbol": "[S]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/sedimentation-coefficient/Svedberg-unit",
+    "label": "Svedberg unit"
+  },
+  {
+    "symbol": "Bd",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/signal-transmission-rate/baud",
+    "label": "baud"
+  },
+  {
+    "symbol": "sph",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/solid-angle/spere",
+    "label": "spere"
+  },
+  {
+    "symbol": "sr",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/solid-angle/streadian",
+    "label": "streadian"
+  },
+  {
+    "symbol": "K",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/temperature/Kelvin",
+    "label": "Kelvin"
+  },
+  {
+    "symbol": "Cel",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/temperature/degree-Celsius",
+    "label": "degree Celsius"
+  },
+  {
+    "symbol": "[degF]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/temperature/degree-Fahrenheit",
+    "label": "degree Fahrenheit"
+  },
+  {
+    "symbol": "d",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/day",
+    "label": "day"
+  },
+  {
+    "symbol": "h",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/hour",
+    "label": "hour"
+  },
+  {
+    "symbol": "mo_g",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/mean-Gregorian-month",
+    "label": "mean Gregorian month"
+  },
+  {
+    "symbol": "a_g",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/mean-Gregorian-year",
+    "label": "mean Gregorian year"
+  },
+  {
+    "symbol": "mo_j",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/mean-Julian-month",
+    "label": "mean Julian month"
+  },
+  {
+    "symbol": "a_j",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/mean-Julian-year",
+    "label": "mean Julian year"
+  },
+  {
+    "symbol": "min",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/minute",
+    "label": "minute"
+  },
+  {
+    "symbol": "mo",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/month",
+    "label": "month"
+  },
+  {
+    "symbol": "s",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/second",
+    "label": "second"
+  },
+  {
+    "symbol": "mo_s",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/synodal-month",
+    "label": "synodal month"
+  },
+  {
+    "symbol": "a_t",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/tropical-year",
+    "label": "tropical year"
+  },
+  {
+    "symbol": "wk",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/week",
+    "label": "week"
+  },
+  {
+    "symbol": "a",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/time/year",
+    "label": "year"
+  },
+  {
+    "symbol": "[k]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/unclassified/Boltzmann-constant",
+    "label": "Boltzmann constant"
+  },
+  {
+    "symbol": "[G]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/unclassified/Newtonian-constant-of-gravitation",
+    "label": "Newtonian constant of gravitation"
+  },
+  {
+    "symbol": "[kn_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/velocity/knot-1",
+    "label": "knot"
+  },
+  {
+    "symbol": "[kn_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/velocity/knot-2",
+    "label": "knot"
+  },
+  {
+    "symbol": "[c]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/velocity/velocity-of-light",
+    "label": "velocity of light"
+  },
+  {
+    "symbol": "[HPF]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/view-area-in-microscope/high-power-field",
+    "label": "high power field"
+  },
+  {
+    "symbol": "[LPF]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/view-area-in-microscope/low-power-field",
+    "label": "low power field"
+  },
+  {
+    "symbol": "[bf_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/board-foot",
+    "label": "board foot"
+  },
+  {
+    "symbol": "[bu_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/bushel",
+    "label": "bushel"
+  },
+  {
+    "symbol": "[cr_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/cord",
+    "label": "cord"
+  },
+  {
+    "symbol": "[cft_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/cubic-foot",
+    "label": "cubic foot"
+  },
+  {
+    "symbol": "[cin_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/cubic-inch",
+    "label": "cubic inch"
+  },
+  {
+    "symbol": "[cyd_i]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/cubic-yard",
+    "label": "cubic yard"
+  },
+  {
+    "symbol": "[cup_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/cup",
+    "label": "cup"
+  },
+  {
+    "symbol": "[drp]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/drop",
+    "label": "drop"
+  },
+  {
+    "symbol": "[fdr_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/fluid-dram",
+    "label": "fluid dram"
+  },
+  {
+    "symbol": "[foz_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/fluid-ounce",
+    "label": "fluid ounce"
+  },
+  {
+    "symbol": "[gal_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/gallon",
+    "label": "gallon"
+  },
+  {
+    "symbol": "[gil_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/gill",
+    "label": "gill"
+  },
+  {
+    "symbol": "l",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/liter-1",
+    "label": "liter"
+  },
+  {
+    "symbol": "L",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/liter-2",
+    "label": "liter"
+  },
+  {
+    "symbol": "[min_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/minim",
+    "label": "minim"
+  },
+  {
+    "symbol": "[pk_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/peck",
+    "label": "peck"
+  },
+  {
+    "symbol": "[pt_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/pint",
+    "label": "pint"
+  },
+  {
+    "symbol": "[qt_br]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/quart",
+    "label": "quart"
+  },
+  {
+    "symbol": "st",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/stere",
+    "label": "stere"
+  },
+  {
+    "symbol": "[tbs_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/tablespoon",
+    "label": "tablespoon"
+  },
+  {
+    "symbol": "[tsp_us]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/volume/teaspoon",
+    "label": "teaspoon"
+  },
+  {
+    "symbol": "[hnsf'U]",
+    "unit": "http://purl.oclc.org/NET/muo/ucum/unit/x-ray-attenuation/Hounsfield-unit",
+    "label": "Hounsfield unit"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joulePerKelvin"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joulePerKilogramPerKelvin"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joulePerMeterCubedPerKelvin"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joulePerMolePerKelvin"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterPerKelvin"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perKelvin"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#wattPerMeterSquaredPerKelvin"
+  },
+  {
+    "symbol": "a",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ampere"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#amperePerMeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#amperePerMeterSquared"
+  },
+  {
+    "symbol": "C",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#coulomb"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#coulombMeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#coulombPerMeterCubed"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#coulombPerMeterSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#dimensionlessUnit"
+  },
+  {
+    "symbol": "F",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#farad"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#faradPerMeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#henry"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#henryPerMeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joulePerTesla"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perKilogramMole"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#tesla"
+  },
+  {
+    "symbol": "V",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#volt"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#voltPerMeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#weber"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMil"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterPerSecond"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ohm"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ohmMeter"
+  },
+  {
+    "symbol": "G",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#siemens"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#siemensPerKilogram"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#siemensPerMeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#wattPerMeterPerKelvin"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMeterCubed"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMeterSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterCubedPerSecond"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterSquaredPerSecond"
+  },
+  {
+    "symbol": "J",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joule"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joulePerKilogram"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joulePerMeterSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterSquaredPerSecondSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#watt"
+  },
+  {
+    "symbol": "cd",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#candela"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#candelaPerMeterSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#db"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#lumen"
+  },
+  {
+    "symbol": "Lx",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#lux"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterSquaredPerKilogram"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#wattPerMeterSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#wattPerMeterSquaredPerSteradian"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#wattPerMeterSquaredPerSteradianPerWavelength"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#normalizedUnit"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#month"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year"
+  },
+  {
+    "symbol": "kg",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilogram"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilogramPerMeterCubed"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilogramPerMeterSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterCubedPerKilogram"
+  },
+  {
+    "symbol": "mol",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mole"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#newtonPerMeter"
+  },
+  {
+    "symbol": "Pa",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pascal"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pascalSecond"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perPascal"
+  },
+  {
+    "symbol": "N",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#newton"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilogramRadianPerSecond"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterPerSecondSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#newtonMeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perKilogramMeterSquaredPerSecondKelvin"
+  },
+  {
+    "symbol": "Hz",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perSecond"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radianPerSecond"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radianPerSecondSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilometer"
+  },
+  {
+    "symbol": "rad",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radian"
+  },
+  {
+    "symbol": "sr",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#steradian"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#centimeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#micron"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#nanometer"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterCubed"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilogramMeterPerSecond"
+  },
+  {
+    "symbol": "K",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kelvin"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kelvinPerMeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#MYA"
+  },
+  {
+    "symbol": "s",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#MHz"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hertz"
+  },
+  {
+    "symbol": "m",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#million_km2"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#million_km3"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degrees"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ampereSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#arcminute"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#arcsecond"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#century"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#day"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#decade"
+  },
+  {
+    "symbol": "C",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeC"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeF"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#gigahertz"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hour"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#jouleSecond"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilohertz"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilometerPerHour"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#megahertz"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterCubedPerKelvin"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#metre"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#micrometer"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#millenium"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#millimeter"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#minute"
+  },
+  {
+    "symbol": "pa/s",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pascalPerSecond"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perAmpere"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perAmpereSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perCandela"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perKilogram"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMole"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perRadian"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perSecondCubed"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perSecondSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perSteradian"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perTesla"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perVolt"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#percent"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#permil"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppb"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppbv"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppm"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppmv"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppt"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pptv"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ratio"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#season"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#secondSquared"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#terahertz"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#volumeRatio"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#week"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#FTU"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#FNU"
+  },
+  {
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#FormazinTurbidityUnit"
+  }
+]

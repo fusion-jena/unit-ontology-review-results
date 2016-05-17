@@ -1,0 +1,4505 @@
+[
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "label": "aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_latitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "aberration in latitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_latitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "label": "aberration in latitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_longitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "aberration in longitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_longitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "label": "aberration in longitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_bolometric_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "absolute bolometric magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_bolometric_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Bolometric_magnitude",
+    "label": "absolute bolometric magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "absolute magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acceptor_ionization_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "acceptor ionization energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acceptor_number_density",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density",
+    "label": "acceptor number density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acetic_acid_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "acetic acid mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Albedo",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
+    "label": "albedo"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Altitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "altitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ambient_dose_equivalent",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dose_equivalent",
+    "label": "ambient dose equivalent"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "angular displacement"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_size",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Solid_angle",
+    "label": "angular size"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_velocity",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_speed",
+    "label": "angular velocity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_wave_vector_of_particles",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_wave_vector",
+    "label": "angular wave vector of particles"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_wave_vector_of_phonons",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_wave_vector",
+    "label": "angular wave vector of phonons"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Annual_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "annual aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Annual_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "label": "annual aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_diameter",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "apparent diameter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_distance_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "label": "apparent distance modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_distance_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "apparent distance modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_distance_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance_modulus",
+    "label": "apparent distance modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "distance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "apparent magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Atomic_mass",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
+    "label": "atomic mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Average_speed",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "label": "average speed"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Average_velocity",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "label": "average velocity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Average_velocity",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity",
+    "label": "average velocity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Azimuth",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "azimuth"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "B magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "label": "B magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "B magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "label": "B magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
+    "label": "B magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_maximum_brightness",
+    "label": "B magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "Johnson magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "B magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "label": "B magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
+    "label": "B magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_minimum_brightness",
+    "label": "B magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bolometric_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "bolometric magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bond_albedo",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
+    "label": "bond albedo"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bond_albedo",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Albedo",
+    "label": "bond albedo"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Breadth",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "breadth"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Brightness_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "label": "brightness temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Brightness_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature",
+    "label": "brightness temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bulk_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "label": "bulk modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Celsius_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "label": "Celsius temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Co-rotation_radius",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "co-rotation radius"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Co-rotation_radius",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Radius",
+    "label": "co-rotation radius"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cold_gas_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "cold gas mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Collision_frequency",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Frequency",
+    "label": "collision frequency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Color_area_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Area_fraction",
+    "label": "color area fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Colour_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "label": "colour temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Colour_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature",
+    "label": "colour temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Compressive_stress",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stress",
+    "label": "compressive stress"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Contact_angle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "contact angle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cost",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_money",
+    "label": "cost"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cousins_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "Cousins magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Coverage",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Area_fraction",
+    "label": "coverage"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Critical_density",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Density",
+    "label": "critical density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cut-off_wavelength",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "cut-off wavelength"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cut-off_wavelength",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Wavelength",
+    "label": "cut-off wavelength"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Date",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "date"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Declination",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "declination"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_baryonic_matter",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter",
+    "label": "density parameter for baryonic matter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_matter",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter",
+    "label": "density parameter for matter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_radiation",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter",
+    "label": "density parameter for radiation"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_vacuum",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter",
+    "label": "density parameter for vacuum"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Depth",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "depth"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Detective_quantum_efficiency",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_efficiency",
+    "label": "detective quantum efficiency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diameter",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "diameter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diameter-plane_angle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "diameter (plane angle)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diffusion_length",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "diffusion length"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Directional_dose_equivalent",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dose_equivalent",
+    "label": "directional dose equivalent"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Disodium_ethylene_diamine_tetre_acetate_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "disodium ethylene diamine tetra acetate mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Displacement",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "displacement"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dissociation_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "dissociation energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Distance_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "distance modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Distance_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "label": "distance modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diurnal_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "diurnal aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diurnal_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "label": "diurnal aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Donor_ionization_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "donor ionization energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Donor_number_density",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density",
+    "label": "donor number density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Drainage_speed",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "label": "drainage speed"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dry_matter_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "dry matter mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Duration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "duration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Eccentricity",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
+    "label": "eccentricity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ecliptic_latitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "ecliptic latitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ecliptic_longitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "ecliptic longitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Egg_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "egg mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Elasticity_tensor",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "label": "elasticity tensor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electromotive_force",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_potential",
+    "label": "electromotive force"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_number_density",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density",
+    "label": "electron number density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "label": "electron temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Element_of_path",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "element of path"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ellipticity",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
+    "label": "ellipticity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy_gap",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "energy gap"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy_of_particle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "energy of particle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Enthalpy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "enthalpy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "epoch"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Date",
+    "label": "epoch"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Date",
+    "label": "epoch at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "epoch at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch",
+    "label": "epoch at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
+    "label": "extinction at waveband"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_wavelength",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
+    "label": "extinction at wavelength"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_B",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
+    "label": "extinction in B"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_B",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
+    "label": "extinction in B"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_U",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
+    "label": "extinction in U"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_U",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
+    "label": "extinction in U"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_V",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
+    "label": "extinction in V"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_V",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
+    "label": "extinction in V"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fahrenheit_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "label": "Fahrenheit temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fat_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "fat mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fermi_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "Fermi energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Font_size",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "font size"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Friction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Force",
+    "label": "friction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Galactic_cylindrical_polar_angle_coordinate",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "galactic cylindrical polar angle coordinate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Galactic_latitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "galactic latitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Galactic_longitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "galactic longitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gelatin_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "gelatin mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Geometrical_albedo",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
+    "label": "geometrical albedo"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Geometrical_albedo",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Albedo",
+    "label": "geometrical albedo"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gravitational_acceleration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Acceleration",
+    "label": "gravitational acceleration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Guar_gum_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "guar gum mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Half_life",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "half life"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Heat",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "heat"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Heat_flow_rate",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Power",
+    "label": "heat flow rate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Heat_flux_density",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Power_density",
+    "label": "heat flux density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Height",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "height"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hole_number_density",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density",
+    "label": "hole number density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hour_angle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "hour angle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hubble_constant_at_present_epoch",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Hubble_constant",
+    "label": "Hubble constant at present epoch"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/I_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "I magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/I_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Cousins_magnitude",
+    "label": "I magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Initial_mass_function",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density",
+    "label": "initial mass function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Integrated_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "integrated magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Interaction_energy_between_particles_i_and_j",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "interaction energy between particles i and j"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Internal_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "internal energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Intrinsic_colour_index",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Colour_index",
+    "label": "intrinsic colour index"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Intrinsic_number_density",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density",
+    "label": "intrinsic number density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionisation_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "label": "ionisation temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionization_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "ionization energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Irradiance",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Power_density",
+    "label": "irradiance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Jeans_mass",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
+    "label": "Jeans mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Kerma",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Absorbed_dose",
+    "label": "kerma"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Kinetic_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "kinetic energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lactose_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "lactose mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Light_time",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "light time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Limiting_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "limiting magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_strain",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Strain",
+    "label": "linear strain"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Locust_bean_gum_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "locust bean gum mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Loss_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "label": "loss modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminosity_function",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density",
+    "label": "luminosity function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mean_free_path",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "mean free path"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Metallicity",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
+    "label": "metallicity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Moderated_starch_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "moderated starch mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Modulus_of_elasticity",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "label": "modulus of elasticity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Most_probable_speed",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "label": "most probable speed"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mustard_powder_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "mustard powder mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Noise_equivalent_power",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Power",
+    "label": "noise equivalent power"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_albedo",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
+    "label": "normal albedo"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_albedo",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Albedo",
+    "label": "normal albedo"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_strain",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Strain",
+    "label": "normal strain"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_stress",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stress",
+    "label": "normal stress"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number Botrytis"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_0",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number Botrytis 0"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_0",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "label": "number Botrytis 0"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number Botrytis 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "label": "number Botrytis 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number Botrytis 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "label": "number Botrytis 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number Botrytis 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "label": "number Botrytis 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number Botrytis 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "label": "number Botrytis 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_abscised_buds",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number abscised buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_abscised_buds",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_buds",
+    "label": "number abscised buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_abscised_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number abscised flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_abscised_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "label": "number abscised flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_abscised_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number abscised leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_abscised_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "label": "number abscised leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_blue-discolored_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number blue-discolored flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_blue-discolored_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "label": "number blue-discolored flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number bud stadium"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number bud stadium 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "label": "number bud stadium 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number bud stadium 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "label": "number bud stadium 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number bud stadium 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "label": "number bud stadium 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number bud stadium 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "label": "number bud stadium 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number bud stadium 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "label": "number bud stadium 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_buds",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number color"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number color 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number color 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number color 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number color 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number color 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number color 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number color 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number color 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number color 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number color 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density_of_particles",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density",
+    "label": "number density of particles"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_buds",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number dry buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_buds",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_buds",
+    "label": "number dry buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number dry flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "label": "number dry flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number dry leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "label": "number dry leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number external browning"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number external browning 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number external browning 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number external browning 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number external browning 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number external browning 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number external browning 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number external browning 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number external browning 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number external browning 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_external_browning_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number external browning 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_malformed_buds",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number malformed buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_malformed_buds",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_buds",
+    "label": "number malformed buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_malformed_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number malformed flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_malformed_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "label": "number malformed flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_0",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 0"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_0",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 0"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_0.5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 0.5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_0.5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 0.5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_1.5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 1.5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_1.5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 1.5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_2.5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 2.5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_2.5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 2.5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_3.5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 3.5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_3.5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 3.5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_4.5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 4.5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_4.5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 4.5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number manual firmness 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "label": "number manual firmness 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_nonturgid_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number nonturgid flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_nonturgid_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "label": "number nonturgid flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_nonturgid_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number nonturgid leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_nonturgid_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "label": "number nonturgid leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number pulp browning"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number pulp browning 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number pulp browning 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number pulp browning 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number pulp browning 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number pulp browning 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number pulp browning 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number pulp browning 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number pulp browning 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number pulp browning 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number pulp browning 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_rotten_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number rotten flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_rotten_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "label": "number rotten flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_rotten_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number rotten leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_rotten_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "label": "number rotten leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number vascular browning"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number vascular browning 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_1",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number vascular browning 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number vascular browning 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_2",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number vascular browning 2"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number vascular browning 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_3",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number vascular browning 3"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number vascular browning 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_4",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number vascular browning 4"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number vascular browning 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_5",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "label": "number vascular browning 5"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_wilted_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number wilted flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_wilted_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "label": "number wilted flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_wilted_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number wilted leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_wilted_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "label": "number wilted leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_yellow_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number yellow leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_yellow_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "label": "number yellow leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Organ_dose_equivalent",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dose_equivalent",
+    "label": "organ dose equivalent"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Overrun",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volume_fraction",
+    "label": "overrun"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_position_vector",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "particle position vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_position_vector_component",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "particle position vector component"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_velocity_vector",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "label": "particle velocity vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_velocity_vector_component",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "label": "particle velocity vector component"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peak_wavelength",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "peak wavelength"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peak_wavelength",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Wavelength",
+    "label": "peak wavelength"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Percentage",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Ratio",
+    "label": "percentage"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Period",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "period"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Period_of_variability",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "period of variability"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Personal_dose_equivalent",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dose_equivalent",
+    "label": "personal dose equivalent"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_amplitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Amplitude",
+    "label": "photographic amplitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "photographic magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "photographic magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_maximum_brightness",
+    "label": "photographic magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude",
+    "label": "photographic magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "photographic magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_minimum_brightness",
+    "label": "photographic magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude",
+    "label": "photographic magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planetary_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "planetary aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planetary_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "label": "planetary aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planetary_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
+    "label": "planetary aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Position_vector",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "position vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Potassium_sorbate_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "potassium sorbate mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Potential_difference",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_potential",
+    "label": "potential difference"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Potential_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "potential energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Protein_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "protein mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quality_mark_flower",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quality_mark",
+    "label": "quality mark flower(s)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quality_mark_leaf",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quality_mark",
+    "label": "quality mark leafs"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quality_mark_total",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quality_mark",
+    "label": "quality mark total"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/R_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "R magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/R_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Cousins_magnitude",
+    "label": "R magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "radiant energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_flux",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Power",
+    "label": "radiant flux"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radius",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "radius"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radius-plane_angle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "radius (plane angle)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rankine_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "label": "Rankine temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reaction_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "reaction energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reaumur_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "label": "Réaumur temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Red_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "red magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening_B-V",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening",
+    "label": "reddening (B-V)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening_U-B",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening",
+    "label": "reddening (U-B)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reduced_mass",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
+    "label": "reduced mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relativistic_coordinate",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "relativistic coordinate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relativistic_coordinates",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "relativistic coordinates"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relaxation_time",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "relaxation time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Resonance_energy",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Molar_energy",
+    "label": "resonance energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Right_ascension",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "right ascension"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rotational_speed",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Frequency",
+    "label": "rotational speed"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Salt_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "salt mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Scale_height",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "scale height"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Scale_length",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "scale length"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Secular_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "secular aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Secular_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "label": "secular aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_loss_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "label": "shear loss modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_loss_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Storage_modulus",
+    "label": "shear loss modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "label": "shear modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_storage_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "label": "shear storage modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_storage_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Storage_modulus",
+    "label": "shear storage modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_strain",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Strain",
+    "label": "shear strain"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_stress",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stress",
+    "label": "shear stress"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Soy_bean_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "soy bean mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Space_coordinate",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "space coordinate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Space_coordinates",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "space coordinates"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Corynebacterium_bovis_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Corynebacterium bovis count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Corynebacterium_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Corynebacterium count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Enterobacteriaceae_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Enterobacteriaceae count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Enterococcus_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Enterococcus count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Escherichia_coli_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Escherichia coli count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Klebsiella_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Klebsiella count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Listeria_monocytogenes_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Listeria monocytogenes count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Salmonella_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Salmonella count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Serratia_marcescens_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Serratia marcescens count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Staphylococcus_aureus_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Staphylococcus aureus count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Streptococcus_agalactiae_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Streptococcus agalactiae count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Streptococcus_dysgalactiae_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Streptococcus dysgalactiae count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_Streptococcus_uberis_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "Streptococcus uberis count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_amylase_activity",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_catalytic_activity",
+    "label": "specific amylase activity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_coliform_bacteria_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "coliform bacteria count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_energy_imparted",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Absorbed_dose",
+    "label": "specific energy imparted"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_protease_activity",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_catalytic_activity",
+    "label": "specific protease activity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_yeast_and_fungi_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "yeast and fungi count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Starch_VA40_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "starch VA40 mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Starch_VA85_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "starch VA85 mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Starch_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "starch mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stellar_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "stellar aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stellar_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "label": "stellar aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stellar_aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
+    "label": "stellar aberration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stem_end_rot_area_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Area_fraction",
+    "label": "stem end rot area fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Storage_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "label": "storage modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Strain_tensor",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Strain",
+    "label": "strain tensor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stress_tensor",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stress",
+    "label": "stress tensor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "Strömgren magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Sugar_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "sugar mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Superconductor_energy_gap",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "superconductor energy gap"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Supergalactic_latitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "supergalactic latitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Supergalactic_longitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "supergalactic longitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "label": "thermodynamic temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thickness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "thickness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thrust",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Force",
+    "label": "thrust"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thuan_and_Gunn_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "Thuan and Gunn magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Time_constant",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "time constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_3D_start_end_distance",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "total 3D start-end distance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_3D_start_end_distance",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "label": "total 3D start-end distance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_density_parameter",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter",
+    "label": "total density parameter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_distance_travelled",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "total distance travelled"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_distance_travelled",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "label": "total distance travelled"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_buds",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "total number buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_buds",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_buds",
+    "label": "total number buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "color area fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "label": "color area fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "total number flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "label": "total number flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "total number leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "label": "total number leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/True_distance_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "label": "true distance modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/True_distance_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "true distance modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/True_distance_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance_modulus",
+    "label": "true distance modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Tween_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "tween mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Tycho_broadband_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "Tycho broadband magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "U magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "label": "U magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_amplitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Amplitude",
+    "label": "V amplitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "V magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "label": "V magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "V magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "label": "V magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_maximum_brightness",
+    "label": "V magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude",
+    "label": "V magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "V magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "label": "V magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_minimum_brightness",
+    "label": "V magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude",
+    "label": "V magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Vase_life",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "vaasleven"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Vase_life",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "vase life"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Vase_plus_water_mass",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
+    "label": "vase plus water mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Vase_plus_water_plus_flower_mass",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
+    "label": "vase plus water plus flower mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "label": "velocity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity_component",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "label": "velocity component"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Visual_albedo",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
+    "label": "visual albedo"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Visual_albedo",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Albedo",
+    "label": "visual albedo"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume_strain",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Strain",
+    "label": "volume strain"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Corynebacterium_bovis_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Corynebacterium bovis count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Corynebacterium_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Corynebacterium count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Enterobacteriaceae_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Enterobacteriaceae count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Enterococcus_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Enterococcus count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Escherichia_coli_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Escherichia coli count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Klebsiella_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Klebsiella count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Listeria_monocytogenes_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Listeria monocytogenes count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Salmonella_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Salmonella count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Serratia_marcescens_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Serratia marcescens count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Staphylococcus_aureus_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Staphylococcus aureus count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Streptococcus_agalactiae_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Streptococcus agalactiae count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Streptococcus_dysgalactiae_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Streptococcus dysgalactiae count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_Streptococcus_uberis_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "Streptococcus uberis count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_coliform_bacteria_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "coliform bacteria count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_yeast_and_fungi_count",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "yeast and fungi count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Water_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "water mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wavelength",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "wavelength"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Weight",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Force",
+    "label": "weight"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wetting_angle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "wetting angle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Whey_protein_aggregate_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "whey protein aggregate mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Whey_protein_beads_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "whey protein beads mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Whey_protein_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "whey protein mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "white light magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "white light magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_maximum_brightness",
+    "label": "white light magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude",
+    "label": "white light magnitude at maximum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "white light magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_minimum_brightness",
+    "label": "white light magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude",
+    "label": "white light magnitude at minimum brightness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Width",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "width"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Work",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "work"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Xanthan_mass_fraction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "xanthan mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Zenith_distance",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "zenith distance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/_1040_nm_Lockwood_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "1040 nm Lockwood magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "b magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "label": "b magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/beta_narrow_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "β_narrow magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/beta_narrow_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "label": "β_narrow magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/beta_wide_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "β_wide magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/beta_wide_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "label": "β_wide magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/g_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "g magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/g_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Thuan_and_Gunn_magnitude",
+    "label": "g magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "u magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "label": "u magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "v magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "label": "v magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/x_range",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "x range"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/xy_2D_start_end_distance",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "xy 2D start-end distance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/xy_2D_start_end_distance",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "label": "xy 2D start-end distance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/xy_distance_travelled",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "xy distance travelled"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/xy_distance_travelled",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "label": "xy distance travelled"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/y_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "y magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/y_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "label": "y magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/y_range",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "y range"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/z_range",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "z range"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "label": "plane angle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_activity",
+    "label": "absolute activity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "label": "magnitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absorbed_dose",
+    "label": "absorbed dose"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absorbed_dose_rate",
+    "label": "absorbed dose rate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absorptance",
+    "label": "absorptance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acceleration",
+    "label": "acceleration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acidity",
+    "label": "acidity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acoustic_absorption_coefficient",
+    "label": "acoustic absorption coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acoustic_firmness",
+    "label": "acoustic firmness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acoustic_pressure",
+    "label": "acoustic pressure"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Action",
+    "label": "action"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Action_integral",
+    "label": "action integral"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Activity",
+    "label": "activity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Admittance",
+    "label": "admittance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Affinity",
+    "label": "affinity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Alfven_number",
+    "label": "Alfvén number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Alfven_speed",
+    "label": "Alfvén speed"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ambipolar_diffusion_coefficient",
+    "label": "ambipolar diffusion coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_money",
+    "label": "amount of money"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance",
+    "label": "amount of substance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_concentration",
+    "label": "amount of substance concentration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_flow",
+    "label": "amount of substance flow"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_fraction",
+    "label": "amount of substance fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_fraction_flow",
+    "label": "amount of substance fraction flow"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_ratio",
+    "label": "amount of substance ratio"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amphiphilicity",
+    "label": "amphiphilicity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amplitude",
+    "label": "amplitude"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_acceleration",
+    "label": "angular acceleration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_impulse",
+    "label": "angular impulse"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_momentum",
+    "label": "angular momentum"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_speed",
+    "label": "angular speed"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_wave_vector",
+    "label": "angular wave vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_wavenumber",
+    "label": "angular wavenumber"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Annihilation_operators",
+    "label": "annihilation operators"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Anticommutator_of_A_and_B",
+    "label": "anticommutator of A and B"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "label": "length"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Area",
+    "label": "area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Area_density",
+    "label": "area density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Area_density_rate",
+    "label": "area density rate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Area_fraction",
+    "label": "area fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Atomic_attenuation_coefficient",
+    "label": "atomic attenuation coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Atomic_mass_constant",
+    "label": "atomic mass constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Atomic_stopping_power",
+    "label": "atomic stopping power"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "label": "speed"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Binary_rate_coefficient",
+    "label": "binary rate coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bloch_wave_function",
+    "label": "Bloch wave function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bolometric_correction",
+    "label": "bolometric correction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Boltzmann_function",
+    "label": "Boltzmann function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
+    "label": "quantity of dimension one"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bragg_angle",
+    "label": "Bragg angle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "label": "temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bud_stadium",
+    "label": "bud stadium"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bud_stadium",
+    "label": "knopstadium"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Burgers_vector",
+    "label": "Burgers vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Canonical_partition_function",
+    "label": "canonical partition function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Capacitance",
+    "label": "capacitance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Carrier_life_time",
+    "label": "carrier life time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Catalytic_activity",
+    "label": "catalytic activity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Catalytic_activity_concentration",
+    "label": "catalytic activity concentration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_Botrytis",
+    "label": "cause end of vase life Botrytis"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_abscised_buds",
+    "label": "cause end of vase life abscised buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_abscised_flowers",
+    "label": "cause end of vase life abscised flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_abscised_leaves",
+    "label": "cause end of vase life abscised leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_blue_flowers",
+    "label": "cause end of vase life blue flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_dry_buds",
+    "label": "cause end of vase life dry buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_dry_flowers",
+    "label": "cause end of vase life dry flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_dry_leaves",
+    "label": "cause end of vase life dry leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_malformed_buds",
+    "label": "cause end of vase life malformed buds"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_malformed_flowers",
+    "label": "cause end of vase life malformed flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_nonturgid_flowers",
+    "label": "cause end of vase life nonturgid flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_nonturgid_leaves",
+    "label": "cause end of vase life nonturgid leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_rotten_flowers",
+    "label": "cause end of vase life rotten flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_rotten_leaves",
+    "label": "cause end of vase life rotten leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_wilted_flowers",
+    "label": "cause end of vase life wilted flowers"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_wilted_leaves",
+    "label": "cause end of vase life wilted leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cause_end_of_vase_life_yellow_leaves",
+    "label": "cause end of vase life yellow leaves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cell_density",
+    "label": "cell density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Characteristic_diffusion_length",
+    "label": "characteristic diffusion length"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Characteristic_function_of_Hamilton",
+    "label": "characteristic function of Hamilton"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Characteristic_temperature",
+    "label": "characteristic temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_density_of_electrons",
+    "label": "charge density of electrons"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_number_of_an_ion",
+    "label": "charge number of an ion"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_of_particle",
+    "label": "charge of particle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Chemical_potential",
+    "label": "chemical potential"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Coefficients_in_the_expression_for_the_vibrational_term-for_diatomic_molecules",
+    "label": "coefficients in the expression for the vibrational term; for diatomic molecules"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Coefficients_in_the_expression_for_the_vibrational_term-for_polyatomic_molecules",
+    "label": "coefficients in the expression for the vibrational term; for polyatomic molecules"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Coherence_length",
+    "label": "coherence length"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Colour_index",
+    "label": "colour index"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Column_number_density",
+    "label": "column number density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Commutator_of_A_and_B",
+    "label": "commutator of A and B"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Complex_conjugate_of_psi",
+    "label": "complex conjugate of Ψ"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Compliance_tensor",
+    "label": "compliance tensor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Compressibility",
+    "label": "compressibility"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Compton_wavelength",
+    "label": "Compton wavelength"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cosmological_constant",
+    "label": "cosmological constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Coupling_coefficient",
+    "label": "coupling coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cowling_number",
+    "label": "Cowling number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Creation_operators",
+    "label": "creation operators"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cross_section",
+    "label": "cross section"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cubic_expansion_coefficient",
+    "label": "cubic expansion coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Curie_temperature",
+    "label": "Curie temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Current_density",
+    "label": "current density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Current_density_of_electrons",
+    "label": "current density of electrons"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Curvature_constant",
+    "label": "curvature constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Damping_coefficient",
+    "label": "damping coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Damping_factor",
+    "label": "damping factor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dark_noise",
+    "label": "dark noise"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye-Waller_factor",
+    "label": "Debye-Waller factor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye_angular_frequency",
+    "label": "Debye angular frequency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye_angular_wavenumber",
+    "label": "Debye angular wavenumber"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye_length",
+    "label": "Debye length"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye_temperature",
+    "label": "Debye temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Decay_constant",
+    "label": "decay constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Deceleration_parameter",
+    "label": "deceleration parameter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Degeneracy_of_vibrational_mode",
+    "label": "degeneracy of vibrational mode"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Degree_of_ionization",
+    "label": "degree of ionization"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Degree_of_ionization_for_charge_number_z_greater_than_or_equal_to_1",
+    "label": "degree of ionization for charge number z ≥ 1"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density",
+    "label": "density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_of_heat_flow_rate",
+    "label": "density of heat flow rate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_of_states",
+    "label": "density of states"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_of_vibrational_modes",
+    "label": "density of vibrational modes"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter",
+    "label": "density parameter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Detectivity",
+    "label": "detectivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dielectric_polarization",
+    "label": "dielectric polarization"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diffusion_coefficient",
+    "label": "diffusion coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dirac_bra_vector",
+    "label": "Dirac bra vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dirac_ket_vector",
+    "label": "Dirac_ket_vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dirac_matrices",
+    "label": "Dirac matrices"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Direction_in_a_lattice",
+    "label": "direction in a lattice"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Displacement_vector_of_an_ion",
+    "label": "displacement vector of an ion"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dissipation_factor",
+    "label": "dissipation factor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dose_equivalent",
+    "label": "dose equivalent"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Drift_velocity",
+    "label": "drift velocity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "label": "dynamic modulus"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_range",
+    "label": "dynamic range"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_viscosity",
+    "label": "dynamic viscosity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Effective_mass",
+    "label": "effective mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Einstein_temperature",
+    "label": "Einstein temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_charge",
+    "label": "electric charge"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_charge_density",
+    "label": "electric charge density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_conductivity",
+    "label": "electric conductivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_conductivity_tensor",
+    "label": "electric conductivity tensor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_current",
+    "label": "electric current"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_dipole_moment",
+    "label": "electric dipole moment"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_displacement",
+    "label": "electric displacement"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_field",
+    "label": "electric field"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_flux",
+    "label": "electric flux"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_flux_density",
+    "label": "electric flux density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_potential",
+    "label": "electric potential"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_susceptibility",
+    "label": "electric susceptibility"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electrical_conductance",
+    "label": "electrical conductance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electrical_resistance",
+    "label": "electrical resistance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electromagnetic_energy_density",
+    "label": "electromagnetic energy density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron-ion_recombination_coefficient",
+    "label": "electron-ion recombination coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_affinity",
+    "label": "electron affinity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_annihilation_operator",
+    "label": "electron annihilation operator"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_creation_operator",
+    "label": "electron creation operator"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_cyclotron_circular_frequency",
+    "label": "electron cyclotron circular frequency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_diffusion_coefficient",
+    "label": "electron diffusion coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_plasma_circular_frequency",
+    "label": "electron plasma circular frequency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electronic_term",
+    "label": "electronic term"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Emissivity",
+    "label": "emissivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "label": "energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy_density",
+    "label": "energy density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Entropy",
+    "label": "entropy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Entropy_flow",
+    "label": "entropy flow"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "label": "time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Equilibrium_constant",
+    "label": "equilibrium_constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Equilibrium_position_vector_of_an_ion",
+    "label": "equilibrium position vector of an ion"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ettinghausen_coefficient",
+    "label": "Ettinghausen coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Euler_number",
+    "label": "Euler number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Exchange_integral",
+    "label": "exchange integral"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Expectation_value_of_A",
+    "label": "expectation value of A"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Exposure_to_x_and_gamma_rays",
+    "label": "exposure to x and γ rays"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extent_of_reaction",
+    "label": "extent of reaction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/External_browning",
+    "label": "external browning"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
+    "label": "extinction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fermi_angular_wave_vector",
+    "label": "Fermi angular wave vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Firmness-penetrometer-method_1",
+    "label": "firmness (penetrometer) (method 1)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Firmness-penetrometer-method_2",
+    "label": "firmness (penetrometer) (method 2)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/First_Cowling_number",
+    "label": "first Cowling number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/First_Ettinghausen-Nernst_coefficient",
+    "label": "first Ettinghausen-Nernst coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/First_Righi-Leduc_coefficient",
+    "label": "first Righi-Leduc coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fluidity",
+    "label": "fluidity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Force",
+    "label": "force"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fourier_number",
+    "label": "Fourier number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fourier_number_for_mass_transfer",
+    "label": "Fourier number for mass transfer"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Frequency",
+    "label": "frequency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Friction_coefficient",
+    "label": "friction coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Froude_number",
+    "label": "Froude number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Full_set_of_directions_in_a_lattice_equivalent_by_symmetry",
+    "label": "full set of directions in a lattice equivalent by symmetry"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Full_set_of_planes_in_a_lattice_equivalent_by_symmetry",
+    "label": "full set of planes in a lattice equivalent by symmetry"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fundamental_translation_vectors_for_the_crystal_lattice",
+    "label": "fundamental translation vectors for the crystal lattice"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fundamental_translation_vectors_for_the_reciprocal_lattice",
+    "label": "fundamental translation vectors for the reciprocal lattice"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fundamental_translation_vectors_where_δik_is_the_Kronecker_delta_symbol",
+    "label": "fundamental translation vectors where δik is the Kronecker delta symbol"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/G-factor",
+    "label": "g-factor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gas_constant",
+    "label": "gas constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Generalised_coordinate",
+    "label": "generalised coordinate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Generalised_momentum",
+    "label": "generalised momentum"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gibbs_function",
+    "label": "Gibbs function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Grand_canonical_partition_function",
+    "label": "grand canonical partition function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Grashof_number",
+    "label": "Grashof number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Grashof_number_for_mass_transfer",
+    "label": "Grashof number for mass transfer"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gravitational_constant",
+    "label": "gravitational constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Group_velocity",
+    "label": "group velocity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Growth_rate",
+    "label": "growth rate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gruneisen_parameter",
+    "label": "Grüneisen parameter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gyromagnetic_ratio",
+    "label": "gyromagnetic ratio"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hall_coefficient",
+    "label": "Hall coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hamiltonian_function",
+    "label": "Hamiltonian function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hartmann_number",
+    "label": "Hartmann number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Heat_capacity",
+    "label": "heat capacity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Helmholtz_function",
+    "label": "Helmholtz function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hermitian_conjugate_of_operator_A",
+    "label": "Hermitian conjugate of operator A"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hubble_constant",
+    "label": "Hubble constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hydrophilicity",
+    "label": "hydrophilicity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hydrophobicity",
+    "label": "hydrophobicity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hyperfine_quantum_number",
+    "label": "hyperfine quantum number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Illuminance",
+    "label": "illuminance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Impact_parameter",
+    "label": "impact parameter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Impedance",
+    "label": "impedance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Impulse",
+    "label": "impulse"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Inductance",
+    "label": "inductance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Inertia",
+    "label": "inertia"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Information_capacity",
+    "label": "information capacity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Internal_conversion_coefficient",
+    "label": "internal conversion coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ion-ion_recombination_coefficient",
+    "label": "ion-ion recombination coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ion_cyclotron_circular_frequency",
+    "label": "ion cyclotron circular frequency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ion_temperature",
+    "label": "ion temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionization_efficiency",
+    "label": "ionization efficiency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionization_frequency",
+    "label": "ionization frequency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Isentropic_exponent",
+    "label": "isentropic exponent"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Joule-Thomson_coefficient",
+    "label": "Joule-Thomson coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Kinematic_viscosity",
+    "label": "kinematic viscosity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Knudsen_number",
+    "label": "Knudsen number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lagrangian_function",
+    "label": "Lagrangian function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lame_coefficients_for_an_isotropic_medium",
+    "label": "Lamé coefficients for an isotropic medium"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Landau-Ginzburg_parameter",
+    "label": "Landau-Ginzburg parameter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Larmor_circular_frequency",
+    "label": "Larmor circular frequency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lattice_plane_spacing",
+    "label": "lattice plane spacing"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lattice_vector",
+    "label": "lattice vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Level_width",
+    "label": "level width"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lewis_number",
+    "label": "Lewis number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_absorption_coefficient",
+    "label": "linear absorption coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_attenuation_coefficient",
+    "label": "linear attenuation coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_charge_density",
+    "label": "linear charge density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_expansion_coefficient",
+    "label": "linear expansion coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_frequency",
+    "label": "linear frequency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_range",
+    "label": "linear range"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_stopping_power",
+    "label": "linear stopping power"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lipophilicity",
+    "label": "lipophilicity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Logarithmic_cell_density",
+    "label": "logarithmic cell density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Logarithmic_decrement",
+    "label": "logarithmic decrement"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/London_penetration_depth",
+    "label": "London penetration depth"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Long_range_order_parameter",
+    "label": "long range order parameter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lorenz_coefficient",
+    "label": "Lorenz coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Loss_angle",
+    "label": "loss angle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Loudness_level",
+    "label": "loudness level"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminance",
+    "label": "luminance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_efficacy",
+    "label": "luminous efficacy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_efficiency",
+    "label": "luminous efficiency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_exitance",
+    "label": "luminous exitance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_flux",
+    "label": "luminous flux"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_intensity",
+    "label": "luminous intensity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mach_number",
+    "label": "Mach number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Macroscopic_cross_section",
+    "label": "macroscopic cross section"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Madelung_constant",
+    "label": "Madelung constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_Reynolds_number",
+    "label": "magnetic Reynolds number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_diffusivity",
+    "label": "magnetic diffusivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_dipole_moment",
+    "label": "magnetic dipole moment"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_field_strength",
+    "label": "magnetic field strength"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_flux",
+    "label": "magnetic flux"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_flux_density",
+    "label": "magnetic flux density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_moment",
+    "label": "magnetic moment"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_moment_of_a_particle",
+    "label": "magnetic moment of a particle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_potential_difference",
+    "label": "magnetic potential difference"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_pressure",
+    "label": "magnetic pressure"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_pressure_ratio",
+    "label": "magnetic pressure ratio"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_quantum_number",
+    "label": "magnetic quantum number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_susceptibility",
+    "label": "magnetic susceptibility"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_vector_potential",
+    "label": "magnetic vector potential"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetization",
+    "label": "magnetization"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetomotive_force",
+    "label": "magnetomotive force"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Manual_firmness",
+    "label": "manual firmness"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
+    "label": "mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_attenuation_coefficient",
+    "label": "mass attenuation coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_excess",
+    "label": "mass excess"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_flow",
+    "label": "mass flow"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "label": "mass fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction_flow",
+    "label": "mass fraction flow"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Massieu_function",
+    "label": "Massieu function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Material_potential",
+    "label": "material potential"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Matrix_element",
+    "label": "matrix element"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Maximum_spectral_luminous_efficacy",
+    "label": "maximum spectral luminous efficacy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mean_free_path_of_electrons",
+    "label": "mean free path of electrons"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mean_free_path_of_phonons",
+    "label": "mean free path of phonons"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mean_life",
+    "label": "mean life"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mean_time_interval_between_collisions",
+    "label": "mean time interval between collisions"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Microcanonical_partition_function",
+    "label": "microcanonical partition function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Miller_indices",
+    "label": "Miller indices"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mobility",
+    "label": "mobility"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mobility_ratio",
+    "label": "mobility ratio"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Molality",
+    "label": "molality"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Molar_energy",
+    "label": "molar energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Molar_entropy",
+    "label": "molar entropy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Molar_heat_capacity",
+    "label": "molar heat capacity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Molar_mass",
+    "label": "molar mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Molar_volume",
+    "label": "molar volume"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Moment_of_force",
+    "label": "moment of force"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Moment_of_inertia",
+    "label": "moment of inertia"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Momentum",
+    "label": "momentum"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Momentum_operator_in_coordinate_representation",
+    "label": "momentum operator in coordinate representation"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mutual_inductance",
+    "label": "mutual inductance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Natural_logarithmic_cell_density",
+    "label": "natural logarithmic cell density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Neel_temperature",
+    "label": "Néel temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Neutral_particle_temperature",
+    "label": "neutral particle temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Neutron_number",
+    "label": "neutron number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_coordinates",
+    "label": "normal coordinates"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normalised_detectivity",
+    "label": "normalised detectivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Nuclear_mass",
+    "label": "nuclear mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Nuclear_spin_quantum_number",
+    "label": "nuclear spin quantum number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Nucleon_number",
+    "label": "nucleon number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density",
+    "label": "number density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density_of_ions_of_charge_number_z",
+    "label": "number density of ions of charge number z"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_of_particles",
+    "label": "number of particles"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Nusselt_number",
+    "label": "Nusselt number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Nusselt_number_for_mass_transfer",
+    "label": "Nusselt number for mass transfer"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/One-body_rate_coefficient",
+    "label": "one-body rate coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/One-electron_wave_function",
+    "label": "one-electron wave function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Orbital_angular_momentum_quantum_number",
+    "label": "orbital angular momentum quantum number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Order_of_reflexion",
+    "label": "order of reflexion"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Osmotic_coefficient",
+    "label": "osmotic coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Osmotic_pressure",
+    "label": "osmotic pressure"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_momentum_vector",
+    "label": "particle momentum vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_momentum_vector_component",
+    "label": "particle momentum vector component"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pauli_matrices",
+    "label": "Pauli matrices"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peclet_number",
+    "label": "Péclet number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peclet_number_for_mass_transfer",
+    "label": "Péclet number for mass transfer"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peltier_coefficient_for_substances_a_and_b",
+    "label": "Peltier coefficient for substances a and b"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Permeability",
+    "label": "permeability"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Permeability_of_free_space",
+    "label": "permeability of free space"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Permeance",
+    "label": "permeance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Permeance-electromagnetic",
+    "label": "permeance (electromagnetic)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Permittivity",
+    "label": "permittivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Phonon_annihilation_operator",
+    "label": "phonon annihilation operator"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Phonon_creation_operator",
+    "label": "phonon creation operator"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planck_function",
+    "label": "Planck function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Plasma_pressure",
+    "label": "plasma pressure"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Poisson_ratio",
+    "label": "Poisson ratio"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Polarizability",
+    "label": "polarizability"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Polarization_vector",
+    "label": "polarization vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Positive_or_negative_ion_diffusion_coefficient",
+    "label": "positive or negative ion diffusion coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Power",
+    "label": "power"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Power_density",
+    "label": "power density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Poynting_vector",
+    "label": "Poynting vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Prandtl_number",
+    "label": "Prandtl number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pressure",
+    "label": "pressure"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pressure_coefficient",
+    "label": "pressure coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pressure_momentum",
+    "label": "pressure momentum"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Principal_function_of_Hamilton",
+    "label": "principal function of Hamilton"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Principal_moments_of_inertia",
+    "label": "principal moments of inertia"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Principal_quantum_number",
+    "label": "principal quantum number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Probability_current_density",
+    "label": "probability current density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Probability_density",
+    "label": "probability density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Proton_number",
+    "label": "proton number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pulp_browning",
+    "label": "pulp browning"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quadrupole_moment",
+    "label": "quadrupole moment"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quality_mark",
+    "label": "quality mark"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_light",
+    "label": "quantity of light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_efficiency",
+    "label": "quantum efficiency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_electronic_orbital_angular_momentum_vector_along_the_symmetry_axis",
+    "label": "quantum number of component electronic orbital angular momentum vector along the symmetry axis"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_J_in_the_direction_of_an_external_field",
+    "label": "quantum number of component of J in the direction of an external field"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_X_in_the_direction_of_an_external_field",
+    "label": "quantum number of component of X in the direction of an external field"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_angular_momentum_along_the_symmetry_axis-excluding_nuclear_spin",
+    "label": "quantum number of component of angular momentum along the symmetry axis (excluding nuclear spin)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_angular_momentum_along_the_symmetry_axis-for_linear_molecules-excluding_electron_and_nuclear_spin",
+    "label": "quantum number of component of angular momentum along the symmetry axis (for linear molecules, excluding electron and nuclear spin)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_electronic_spin_along_the_symmetry_axis",
+    "label": "quantum number of component of electronic spin along the symmetry axis"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_electronic_spin",
+    "label": "quantum number of electronic spin"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_nuclear_spin",
+    "label": "quantum number of nuclear spin"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_total_angular_momentum-excluding_nuclear_spin",
+    "label": "quantum number of total angular momentum (excluding nuclear spin)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_total_angular_momentum-including_nuclear_spin",
+    "label": "quantum number of total angular momentum (including nuclear spin)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_total_angular_momentum-linear_molecules_and_symmetric_top_molecules-excluding_electron_and_nuclear_spin",
+    "label": "quantum number of total angular momentum (linear molecules and symmetric top molecules; excluding electron and nuclear spin)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_total_electronic_angular_momentum_vector_along_the_symmetry_axis",
+    "label": "quantum number of total electronic angular momentum vector along the symmetry axis"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_vibrational_angular_momentum",
+    "label": "quantum number of vibrational angular momentum"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_vibrational_mode",
+    "label": "quantum number of vibrational mode"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiance",
+    "label": "radiance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_energy_density",
+    "label": "radiant energy density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_exitance",
+    "label": "radiant exitance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_flux_density",
+    "label": "radiant flux density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_intensity",
+    "label": "radiant intensity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rate_coefficient",
+    "label": "rate coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ratio",
+    "label": "ratio"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ratio_of_specific_heat_capacities",
+    "label": "ratio of specific heat capacities"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rayleigh_number",
+    "label": "Rayleigh number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reactance",
+    "label": "reactance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reciprocal_lattice_vector",
+    "label": "reciprocal lattice vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Recombination_coefficient",
+    "label": "recombination coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening",
+    "label": "reddening"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reduced_activity",
+    "label": "reduced activity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reflectance",
+    "label": "reflectance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reflection_coefficient",
+    "label": "reflection coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_activity",
+    "label": "relative activity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_atomic_mass",
+    "label": "relative atomic mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_density",
+    "label": "relative density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_humidity",
+    "label": "relative humidity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_molar_mass",
+    "label": "relative molar mass"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_permeability",
+    "label": "relative permeability"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_permittivity",
+    "label": "relative permittivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_pressure_coefficient",
+    "label": "relative pressure coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reluctance",
+    "label": "reluctance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Residual_resistivity",
+    "label": "residual resistivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Resistivity",
+    "label": "resistivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Resistivity_tensor",
+    "label": "resistivity tensor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Responsivity",
+    "label": "responsivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reynolds_number",
+    "label": "Reynolds number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Richardson_constant",
+    "label": "Richardson constant"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rotational_characteristic_temperature",
+    "label": "rotational characteristic temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rotational_constants",
+    "label": "rotational constants"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rotational_inertia",
+    "label": "rotational inertia"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rotational_momentum",
+    "label": "rotational momentum"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rotational_quantum_number",
+    "label": "rotational quantum number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rotational_term",
+    "label": "rotational term"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Salt_strength",
+    "label": "salt strength"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Scale_factor",
+    "label": "scale factor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Scattering_angle",
+    "label": "scattering angle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Schmidt_number",
+    "label": "Schmidt number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Secondary_electron_emission_coefficient",
+    "label": "secondary electron emission coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Seebeck_coefficient_for_substances_a_and_b",
+    "label": "Seebeck coefficient for substances a and b"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Self-inductance",
+    "label": "self-inductance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_rate",
+    "label": "shear rate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Short_range_order_parameter",
+    "label": "short range order parameter"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Single_plane_or_set_of_parallel_planes_in_a_lattice",
+    "label": "single plane or set of parallel planes in a lattice"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Solid_angle",
+    "label": "solid angle"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Sound_energy_flux",
+    "label": "sound energy flux"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Sound_particle_velocity",
+    "label": "sound particle velocity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Sound_power_level",
+    "label": "sound power level"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Sound_pressure",
+    "label": "sound pressure"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Sound_pressure_level",
+    "label": "sound pressure level"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_catalytic_activity",
+    "label": "specific catalytic activity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_energy",
+    "label": "specific energy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_entropy",
+    "label": "specific entropy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_heat_capacity",
+    "label": "specific heat capacity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_viable_count",
+    "label": "viable count (specific)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_volume",
+    "label": "specific volume"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_concentration_of_luminous_intensity",
+    "label": "spectral concentration of luminous intensity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_concentration_of_radiant_energy_density",
+    "label": "spectral concentration of radiant energy density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_concentration_of_radiant_intensity",
+    "label": "spectral concentration of radiant intensity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_luminous_efficacy",
+    "label": "spectral luminous efficacy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_luminous_efficiency",
+    "label": "spectral luminous efficiency"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_response",
+    "label": "spectral response"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spin_quantum_number",
+    "label": "spin quantum number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stanton_number",
+    "label": "Stanton number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stanton_number_for_mass_transfer",
+    "label": "Stanton number for mass transfer"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stem_end_rot",
+    "label": "stem end rot"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stick_stone",
+    "label": "stick stone"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stoichiometric_number_of_substance_B",
+    "label": "stoichiometric number of substance B"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Strain",
+    "label": "strain"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stress",
+    "label": "stress"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Strouhal_number",
+    "label": "Strouhal number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Superconductor_critical_field_strength",
+    "label": "Superconductor critical field strength"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Superconductor_critical_field_strength-type_II",
+    "label": "Superconductor critical field strength (type II)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Superconductor_critical_transition_temperature",
+    "label": "Superconductor critical transition temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Surface_charge_density",
+    "label": "surface charge density"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Surface_tension",
+    "label": "surface tension"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Susceptance",
+    "label": "susceptance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Symbol_rate",
+    "label": "symbol rate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Symmetry_number",
+    "label": "symmetry number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Tangential_acceleration",
+    "label": "tangential acceleration"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature_rate",
+    "label": "temperature rate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ternary_rate_coefficient",
+    "label": "ternary rate coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_conductivity",
+    "label": "thermal conductivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_conductivity_tensor",
+    "label": "thermal conductivity tensor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusion_coefficient",
+    "label": "thermal diffusion coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusion_factor",
+    "label": "thermal diffusion factor"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusion_ratio",
+    "label": "thermal diffusion ratio"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusivity",
+    "label": "thermal diffusivity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_resistance",
+    "label": "thermal resistance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermoelectromotive_force_between_substances_a_and_b",
+    "label": "thermoelectromotive force between substances a and b"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thomson_coefficient",
+    "label": "Thomson coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Torque",
+    "label": "torque"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_angular_momentum_quantum_number",
+    "label": "total angular momentum quantum number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_term",
+    "label": "total term"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Townsend_electron_ionization_coefficient",
+    "label": "Townsend electron ionization coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Townsend_ion_ionization_coefficient",
+    "label": "Townsend ion ionization coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Transmission_coefficient",
+    "label": "transmission coefficient"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Transmittance",
+    "label": "transmittance"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Unit_matrix",
+    "label": "unit matrix"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Vascular_browning",
+    "label": "vascular browning"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity_distribution_function",
+    "label": "velocity distribution function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity_of_longitudinal_waves",
+    "label": "velocity of longitudinal waves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity_of_sound",
+    "label": "velocity of sound"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity_of_transverse_waves",
+    "label": "velocity of transverse waves"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Vibrational_characteristic_temperature",
+    "label": "vibrational characteristic temperature"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Vibrational_quantum_number",
+    "label": "vibrational quantum number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Vibrational_term",
+    "label": "vibrational term"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume",
+    "label": "volume"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume_fraction",
+    "label": "volume fraction"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume_in_γ_phase_space",
+    "label": "volume in γ phase space"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_flow_rate",
+    "label": "volumetric flow rate"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volumetric_viable_count",
+    "label": "viable count (volumetric)"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Water_activity",
+    "label": "water activity"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wave_function",
+    "label": "wave function"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wave_vector",
+    "label": "wave vector"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wavenumber",
+    "label": "wavenumber"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Weber_number",
+    "label": "Weber number"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Work_function",
+    "label": "work function"
+  }
+]

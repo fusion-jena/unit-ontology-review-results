@@ -1,0 +1,191 @@
+<!doctype html>
+<head>
+  <title>check - multiple labels - unit ontology review</title>
+  <meta charset="utf-8" />
+  <style>
+    
+    .comment {
+      font-size: 90%;
+      text-align: center;
+    }
+    
+    #legendBox {
+      position: fixed;
+      width: calc( 100% - 2em );
+      background-color: white;
+      z-index: 100;
+    }
+    
+    body {
+      margin: 0;
+      padding: 0 1em;
+    }
+    /* XXXXXXXXXXXXXXXXXXXXXXXXXX Tooltips  XXXXXXXXXXXXXXXXXXXXXXXXX */
+    
+    .tooltip {
+      position: relative;
+      cursor: help;
+    }
+    
+    .tooltip > div {
+      display: none;
+      position: absolute;
+      top: 1em;
+      right: -1em;
+      text-align: left;
+      border: 1px solid black;
+      border-radius: 0.3em;
+      padding: 0.3em;
+      background-color: white;
+      z-index: 100;
+    }
+    
+    .tooltip:hover > div {
+      display: block;
+    }
+    
+    .tooltip li {
+      white-space: nowrap;
+    }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXX Table related  XXXXXXXXXXXXXXXXXXXXXXX */
+    
+    table {
+      width: 100%;
+      border-spacing: 0;
+    }
+    th, td {
+      text-align: center;
+      border: 2px solid transparent;
+    }
+    tr:nth-child( even ) {
+      background-color: #BDBDBD;
+    }
+    
+    .green { background-color: #BCF5A9; }
+    .red   { background-color: #F5BCA9; }
+    tr:nth-child( even ) .green { background-color: #82FA58; }
+    tr:nth-child( even ) .red   { background-color: #FA8258; }
+    
+
+    tr:hover:not(:first-child) th:first-child{
+      border-color: black transparent black black;
+    }
+    tr:hover:not(:first-child) td {
+      border-color: black transparent;
+    }
+    tr:hover:not(:first-child) td:last-child{
+      border-color: black black black transparent;
+    }
+    
+    .leftAligned td, .leftAligned th {
+      text-align: left;
+    }
+    
+    .firstColHeader th:first-child {
+      background-color: white;
+      border-style: solid;
+      border-width: 2px;
+      border-color: transparent transparent black;
+    }
+    .firstColHeader tr:hover th:first-child {
+      border-color: transparent transparent black;
+    }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXXX List related  XXXXXXXXXXXXXXXXXXXXXXX */
+    
+    ul.col4 {
+      -webkit-column-count: 4;
+         -moz-column-count: 4;
+              column-count: 4;
+    }
+    
+    th ul { margin: 0; }
+    
+    li[data-onto] { list-style-type: none; }
+    li[data-onto]:before {
+      content: ' ';
+      width: 0.7em;
+      height: 0.7em;
+      margin-right: -0.7em;
+      display: inline-block;
+      position: relative;
+      left: -1em;
+      border-radius: 0.3em;
+    }
+    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    li:before    { background-color: #7f7f7f; }
+    li[data-onto="MUO"]:before    { background-color: #1f77b4; }
+    li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
+    li[data-onto="OM"]:before     { background-color: #2ca02c; }
+    li[data-onto="QU"]:before     { background-color: #d62728; }
+    li[data-onto="QUDT"]:before   { background-color: #9467bd; }
+    li[data-onto="SWEET"]:before  { background-color: #8c564b; }
+    li[data-onto="UO"]:before     { background-color: #e377c2; }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
+    
+    input.collapsible { display: none; }
+    input.collapsible:checked + * { display: none; }
+    
+    label.collapsible {
+      cursor: pointer;
+      text-decoration: underline;
+      opacity: 0.6;
+    }
+
+  </style>
+</head>
+<body>
+  <div id="legendBox">
+    <fieldset style="margin-bottom: 1em; height: 5em;">
+      <legend>Ontology Color Codes</legend>
+      <ul class="col4">
+        <li data-onto="MUO">MUO
+        <li data-onto="OBOE">OBOE
+        <li data-onto="OM">OM
+        <li data-onto="QU">QU
+        <li data-onto="QUDT">QUDT
+        <li data-onto="SWEET">SWEET
+        <li data-onto="UO">UO
+      </ul>
+    </fieldset>
+  </div>
+  <div style="visibility: hidden;">
+    <fieldset style="margin-bottom: 1em; height: 5em;">
+      <legend>Ontology Color Codes</legend>
+      <ul class="col4">
+        <li data-onto="MUO">MUO
+        <li data-onto="OBOE">OBOE
+        <li data-onto="OM">OM
+        <li data-onto="QU">QU
+        <li data-onto="QUDT">QUDT
+        <li data-onto="SWEET">SWEET
+        <li data-onto="UO">UO
+      </ul>
+    </fieldset>
+  </div>
+  <h2><ul><li data-onto="MUO">MUO</ul></h2><h3>unit</h3><ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere">http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere</a><ul><li>Charrière<li>french</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1">http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1</a><ul><li>Gunter's chain<li>Surveyor's chain</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain">http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain</a><ul><li>Engineer's chain<li>Ramden's chain</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/cicero">http://purl.oclc.org/NET/muo/ucum/unit/length/cicero</a><ul><li>Didot's pica<li>cicero</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/didot">http://purl.oclc.org/NET/muo/ucum/unit/length/didot</a><ul><li>Didot's point<li>didot</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/ligne">http://purl.oclc.org/NET/muo/ucum/unit/length/ligne</a><ul><li>French line<li>ligne</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/pied">http://purl.oclc.org/NET/muo/ucum/unit/length/pied</a><ul><li>French foot<li>pied</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/pouce">http://purl.oclc.org/NET/muo/ucum/unit/length/pouce</a><ul><li>French inch<li>pouce</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2">http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2</a><ul><li>dram<li>drachm</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight">http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight</a><ul><li>British hundredweight<li>long hunderdweight</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton">http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton</a><ul><li>British ton<li>long ton</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight">http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight</a><ul><li>U.S. hundredweight<li>short hundredweight</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton">http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton</a><ul><li>U.S. ton<li>short ton</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/stone">http://purl.oclc.org/NET/muo/ucum/unit/mass/stone</a><ul><li>British stone<li>stone</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon">http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon</a><ul><li>gon<li>grade</ul></ul><h2><ul><li data-onto="OBOE">OBOE</ul></h2><h2><ul><li data-onto="OM">OM</ul></h2><h3>quantKind</h3><ul><li><a href="http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers">http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers</a><ul><li>color area fraction<li>total number flowers</ul><li><a href="http://www.wurvoc.org/vocabularies/om-1.8/Vase_life">http://www.wurvoc.org/vocabularies/om-1.8/Vase_life</a><ul><li>vaasleven<li>vase life</ul><li><a href="http://www.wurvoc.org/vocabularies/om-1.8/Bud_stadium">http://www.wurvoc.org/vocabularies/om-1.8/Bud_stadium</a><ul><li>bud stadium<li>knopstadium</ul></ul><h3>system</h3><ul><li><a href="http://www.wurvoc.org/vocabularies/om-1.8/Apothecaries_system_of_weights">http://www.wurvoc.org/vocabularies/om-1.8/Apothecaries_system_of_weights</a><ul><li>Apothecaries' system of weights<li>Apothecaries-systeem</ul><li><a href="http://www.wurvoc.org/vocabularies/om-1.8/Avoirdupois_system_of_units">http://www.wurvoc.org/vocabularies/om-1.8/Avoirdupois_system_of_units</a><ul><li>Avoirdupois system of units<li>Avoirdupois-systeem</ul><li><a href="http://www.wurvoc.org/vocabularies/om-1.8/Gaussian_system_of_units">http://www.wurvoc.org/vocabularies/om-1.8/Gaussian_system_of_units</a><ul><li>Gaussian system of units<li>Gaussische eenhedenstelsel</ul><li><a href="http://www.wurvoc.org/vocabularies/om-1.8/Imperial_System">http://www.wurvoc.org/vocabularies/om-1.8/Imperial_System</a><ul><li>Imperial System<li>imperiaal stelsel</ul></ul><h2><ul><li data-onto="QU">QU</ul></h2><h2><ul><li data-onto="QUDT">QUDT</ul></h2><h2><ul><li data-onto="SWEET">SWEET</ul></h2><h2><ul><li data-onto="UO">UO</ul></h2>
+  <script>
+  !function(){
+    
+    // get all collapsible lists
+    var collapsibles = document.querySelectorAll( '[data-collapsible="true"]' );
+    
+    for( var i=0; i<collapsibles.length; i++ ) {
+      
+      // shortcut
+      var list = collapsibles[ i ];
+      
+      // build control element
+      var ctrl = '<label class="collapsible" for="collapsible' + i + '"> Show/Hide</label>'
+                 + '<input type="checkbox" class="collapsible" autocomplete="off" id="collapsible' + i + '" checked />';
+      
+      // insert before list
+      list.insertAdjacentHTML( 'beforebegin', ctrl );
+
+    }
+    
+  }();
+  </script>
+</body>

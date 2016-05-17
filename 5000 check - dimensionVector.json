@@ -1,0 +1,86 @@
+[
+ [
+  {
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/capacitance-dimension",
+   "onto": "OM",
+   "vector": [
+    -2,
+    -1,
+    4,
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "uri": "http://qudt.org/vocab/quantity#Capacitance",
+   "onto": "QUDT",
+   "vector": [
+    -2,
+    -1,
+    4,
+    2,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ [
+  {
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/action_or_angular_momentum-dimension",
+   "onto": "OM",
+   "vector": [
+    2,
+    1,
+    -1,
+    0,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "uri": "http://qudt.org/vocab/quantity#AngularMomentum",
+   "onto": "QUDT",
+   "vector": [
+    2,
+    1,
+    -1,
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ [
+  {
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/thermal_resistance-dimension",
+   "onto": "OM",
+   "vector": [
+    0,
+    -1,
+    3,
+    0,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "uri": "http://qudt.org/vocab/quantity#ThermalResistance",
+   "onto": "QUDT",
+   "vector": [
+    -2,
+    -1,
+    3,
+    0,
+    1,
+    0,
+    0
+   ]
+  }
+ ]
+]

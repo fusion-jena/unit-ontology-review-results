@@ -1,0 +1,3849 @@
+[
+  {
+    "symbol": "ac",
+    "unit": "http://qudt.org/vocab/unit#Acre",
+    "label": "Acre"
+  },
+  {
+    "symbol": "A",
+    "unit": "http://qudt.org/vocab/unit#Ampere",
+    "label": "Ampere"
+  },
+  {
+    "symbol": "A-hr",
+    "unit": "http://qudt.org/vocab/unit#AmpereHour",
+    "label": "Ampere Hour"
+  },
+  {
+    "symbol": "Å",
+    "unit": "http://qudt.org/vocab/unit#Angstrom",
+    "definition": "The ångström or angstrom (symbol Å) (the latter spelling, without diacritics, is now usually used in English) (pronounced /ˈæŋstrəm/; Swedish: [ˈɔŋstrøm]) is an internationally recognized unit of length equal to 0.1 nanometre or 1×10−10 metres. It is named after Anders Jonas Ångström. Although accepted for use, it is not formally defined within the International System of Units(SI). (That article lists the units that are so defined.) The ångström is often used in the natural sciences to express the sizes of atoms, lengths of chemical bonds and the wavelengths of electromagnetic radiation, and in technology for the dimensions of parts of integrated circuits. It is also commonly used in structural biology. [Wikipedia]",
+    "label": "Angstrom"
+  },
+  {
+    "symbol": "a",
+    "unit": "http://qudt.org/vocab/unit#Are",
+    "label": "Are"
+  },
+  {
+    "symbol": "au",
+    "unit": "http://qudt.org/vocab/unit#AstronomicalUnit",
+    "label": "Astronomical Unit"
+  },
+  {
+    "symbol": "atm",
+    "unit": "http://qudt.org/vocab/unit#AtmosphereStandard",
+    "label": "Standard Atmosphere"
+  },
+  {
+    "symbol": "at",
+    "unit": "http://qudt.org/vocab/unit#AtmosphereTechnical",
+    "label": "Technical Atmosphere"
+  },
+  {
+    "symbol": "u",
+    "unit": "http://qudt.org/vocab/unit#AtomicMassUnit",
+    "definition": "The unified atomic mass unit (symbol: u) or dalton (symbol: Da) is a unit that is used for indicating mass on an atomic or molecular scale. It is defined as one twelfth of the rest mass of an unbound atom of carbon-12 in its nuclear and electronic ground state,[1] and has a value of 1.660538782(83)×10−27 kg.[2] One Da is approximately equal to the mass of one proton or one neutron. The CIPM have categorised it as a \"non-SI unit whose values in SI units must be obtained experimentally\".[1] [Wikipedia]",
+    "label": "Atomic mass unit"
+  },
+  {
+    "symbol": "b",
+    "unit": "http://qudt.org/vocab/unit#Barn",
+    "label": "Barn"
+  },
+  {
+    "symbol": "Bq",
+    "unit": "http://qudt.org/vocab/unit#Becquerel",
+    "label": "Becquerel"
+  },
+  {
+    "symbol": "cd",
+    "unit": "http://qudt.org/vocab/unit#Candela",
+    "label": "Candela"
+  },
+  {
+    "symbol": "cP",
+    "unit": "http://qudt.org/vocab/unit#Centipoise",
+    "label": "Centipoise"
+  },
+  {
+    "symbol": "cSt",
+    "unit": "http://qudt.org/vocab/unit#Centistokes",
+    "label": "Centistokes"
+  },
+  {
+    "symbol": "clo",
+    "unit": "http://qudt.org/vocab/unit#Clo",
+    "label": "Clo"
+  },
+  {
+    "symbol": "C",
+    "unit": "http://qudt.org/vocab/unit#Coulomb",
+    "label": "Coulomb"
+  },
+  {
+    "symbol": "C kg^-1",
+    "unit": "http://qudt.org/vocab/unit#CoulombPerKilogram",
+    "label": "Coulomb per Kilogram"
+  },
+  {
+    "symbol": "C mol^-1",
+    "unit": "http://qudt.org/vocab/unit#CoulombPerMole",
+    "label": "Coulomb per Mole"
+  },
+  {
+    "symbol": "ft^3",
+    "unit": "http://qudt.org/vocab/unit#CubicFoot",
+    "label": "Cubic Foot"
+  },
+  {
+    "symbol": "ft^3/min",
+    "unit": "http://qudt.org/vocab/unit#CubicFootPerMinute",
+    "label": "Cubic Foot per Minute"
+  },
+  {
+    "symbol": "in^3",
+    "unit": "http://qudt.org/vocab/unit#CubicInch",
+    "label": "Cubic Inch"
+  },
+  {
+    "symbol": "in^3/min",
+    "unit": "http://qudt.org/vocab/unit#CubicInchPerMinute",
+    "label": "Cubic Inch per Minute"
+  },
+  {
+    "symbol": "yd^3",
+    "unit": "http://qudt.org/vocab/unit#CubicYard",
+    "label": "Cubic Yard"
+  },
+  {
+    "symbol": "yd^3/min",
+    "unit": "http://qudt.org/vocab/unit#CubicYardPerMinute",
+    "label": "Cubic Yard per Minute"
+  },
+  {
+    "symbol": "Ci",
+    "unit": "http://qudt.org/vocab/unit#Curie",
+    "label": "Curie"
+  },
+  {
+    "symbol": "d",
+    "unit": "http://qudt.org/vocab/unit#Day",
+    "definition": "Mean solar day",
+    "label": "Day"
+  },
+  {
+    "symbol": "dB",
+    "unit": "http://qudt.org/vocab/unit#Decibel",
+    "label": "Decibel"
+  },
+  {
+    "symbol": "degC",
+    "unit": "http://qudt.org/vocab/unit#DegreeCelsius",
+    "label": "Degree Celsius"
+  },
+  {
+    "symbol": "degC / hr",
+    "unit": "http://qudt.org/vocab/unit#DegreeCelsiusPerHour",
+    "label": "Degree Celsius per Hour"
+  },
+  {
+    "symbol": "degC / m",
+    "unit": "http://qudt.org/vocab/unit#DegreeCelsiusPerMinute",
+    "label": "Degree Celsius per Minute"
+  },
+  {
+    "symbol": "degC / s",
+    "unit": "http://qudt.org/vocab/unit#DegreeCelsiusPerSecond",
+    "label": "Degree Celsius per Second"
+  },
+  {
+    "symbol": "degF",
+    "unit": "http://qudt.org/vocab/unit#DegreeFahrenheit",
+    "label": "Degree Fahrenheit"
+  },
+  {
+    "symbol": "degF / h",
+    "unit": "http://qudt.org/vocab/unit#DegreeFahrenheitPerHour",
+    "label": "Degree Fahrenheit per Hour"
+  },
+  {
+    "symbol": "degF / m",
+    "unit": "http://qudt.org/vocab/unit#DegreeFahrenheitPerMinute",
+    "label": "Degree Fahrenheit per Minute"
+  },
+  {
+    "symbol": "degF / s",
+    "unit": "http://qudt.org/vocab/unit#DegreeFahrenheitPerSecond",
+    "label": "Degree Fahrenheit per Second"
+  },
+  {
+    "symbol": "deg/s",
+    "unit": "http://qudt.org/vocab/unit#DegreePerSecond",
+    "label": "Degree per Second"
+  },
+  {
+    "symbol": "degR",
+    "unit": "http://qudt.org/vocab/unit#DegreeRankine",
+    "label": "Degree Rankine"
+  },
+  {
+    "symbol": "degR / h",
+    "unit": "http://qudt.org/vocab/unit#DegreeRankinePerHour",
+    "label": "Degree Rankine per Hour"
+  },
+  {
+    "symbol": "degR / m",
+    "unit": "http://qudt.org/vocab/unit#DegreeRankinePerMinute",
+    "label": "Degree Rankine per Minute"
+  },
+  {
+    "symbol": "degR / s",
+    "unit": "http://qudt.org/vocab/unit#DegreeRankinePerSecond",
+    "label": "Degree Rankine per Second"
+  },
+  {
+    "symbol": "dyn",
+    "unit": "http://qudt.org/vocab/unit#Dyne",
+    "label": "Dyne"
+  },
+  {
+    "symbol": "erg",
+    "unit": "http://qudt.org/vocab/unit#Erg",
+    "label": "Erg"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#ErgPerGram",
+    "label": "Erg per Gram"
+  },
+  {
+    "symbol": "erg/s",
+    "unit": "http://qudt.org/vocab/unit#ErgPerSecond",
+    "label": "Erg per Second"
+  },
+  {
+    "symbol": "F",
+    "unit": "http://qudt.org/vocab/unit#Farad",
+    "label": "Farad"
+  },
+  {
+    "symbol": "fath",
+    "unit": "http://qudt.org/vocab/unit#Fathom",
+    "label": "Fathom"
+  },
+  {
+    "symbol": "ft",
+    "unit": "http://qudt.org/vocab/unit#Foot",
+    "label": "Foot"
+  },
+  {
+    "symbol": "ftH2O",
+    "unit": "http://qudt.org/vocab/unit#FootOfWater",
+    "label": "Foot of Water"
+  },
+  {
+    "symbol": "ft/hr",
+    "unit": "http://qudt.org/vocab/unit#FootPerHour",
+    "label": "Foot per Hour"
+  },
+  {
+    "symbol": "ft/min",
+    "unit": "http://qudt.org/vocab/unit#FootPerMinute",
+    "label": "Foot per Minute"
+  },
+  {
+    "symbol": "ft/s",
+    "unit": "http://qudt.org/vocab/unit#FootPerSecond",
+    "label": "Foot per Second"
+  },
+  {
+    "symbol": "ft/s^2",
+    "unit": "http://qudt.org/vocab/unit#FootPerSecondSquared",
+    "label": "Foot per Second Squared"
+  },
+  {
+    "symbol": "Gal",
+    "unit": "http://qudt.org/vocab/unit#Gal",
+    "label": "Gal"
+  },
+  {
+    "symbol": "gal/min",
+    "unit": "http://qudt.org/vocab/unit#GallonUSPerMinute",
+    "label": "US Gallon per Minute"
+  },
+  {
+    "symbol": "GHz",
+    "unit": "http://qudt.org/vocab/unit#GigaHertz",
+    "label": "Gigahertz"
+  },
+  {
+    "symbol": "gon",
+    "unit": "http://qudt.org/vocab/unit#Gon",
+    "label": "Gon"
+  },
+  {
+    "symbol": "gr",
+    "unit": "http://qudt.org/vocab/unit#Grade",
+    "definition": "the tangent of an angle of inclination multiplied by 100",
+    "label": "Grade"
+  },
+  {
+    "symbol": "gr",
+    "unit": "http://qudt.org/vocab/unit#Grain",
+    "label": "Grain"
+  },
+  {
+    "symbol": "g",
+    "unit": "http://qudt.org/vocab/unit#Gram",
+    "label": "Gram"
+  },
+  {
+    "symbol": "Gy",
+    "unit": "http://qudt.org/vocab/unit#Gray",
+    "label": "Gray"
+  },
+  {
+    "symbol": "Gy/s",
+    "unit": "http://qudt.org/vocab/unit#GrayPerSecond",
+    "label": "Gray per Second"
+  },
+  {
+    "symbol": "ha",
+    "unit": "http://qudt.org/vocab/unit#Hectare",
+    "label": "Hectare"
+  },
+  {
+    "symbol": "H",
+    "unit": "http://qudt.org/vocab/unit#Henry",
+    "label": "Henry"
+  },
+  {
+    "symbol": "Hz",
+    "unit": "http://qudt.org/vocab/unit#Hertz",
+    "label": "Hertz"
+  },
+  {
+    "symbol": "hr",
+    "unit": "http://qudt.org/vocab/unit#Hour",
+    "label": "Hour"
+  },
+  {
+    "symbol": "in",
+    "unit": "http://qudt.org/vocab/unit#Inch",
+    "label": "Inch"
+  },
+  {
+    "symbol": "inHg",
+    "unit": "http://qudt.org/vocab/unit#InchOfMercury",
+    "label": "Inch of Mercury"
+  },
+  {
+    "symbol": "inAq",
+    "unit": "http://qudt.org/vocab/unit#InchOfWater",
+    "label": "Inch of Water"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#InchPerSecond",
+    "label": "Inch per Second"
+  },
+  {
+    "symbol": "in/s^2",
+    "unit": "http://qudt.org/vocab/unit#InchPerSecondSquared",
+    "label": "Inch per Second Squared"
+  },
+  {
+    "symbol": "J",
+    "unit": "http://qudt.org/vocab/unit#Joule",
+    "label": "Joule"
+  },
+  {
+    "symbol": "J K^-1",
+    "unit": "http://qudt.org/vocab/unit#JoulePerKelvin",
+    "label": "Joule per Kelvin"
+  },
+  {
+    "symbol": "J/kg",
+    "unit": "http://qudt.org/vocab/unit#JoulePerKilogram",
+    "label": "Joule per Kilogram"
+  },
+  {
+    "symbol": "J/(kg-K)",
+    "unit": "http://qudt.org/vocab/unit#JoulePerKilogramKelvin",
+    "label": "Joule per Kilogram Kelvin"
+  },
+  {
+    "symbol": "J/mol",
+    "unit": "http://qudt.org/vocab/unit#JoulePerMole",
+    "label": "Joule per Mole"
+  },
+  {
+    "symbol": "J mol^-1 K^-1",
+    "unit": "http://qudt.org/vocab/unit#JoulePerMoleKelvin",
+    "label": "Joule per Mole Kelvin"
+  },
+  {
+    "symbol": "J s",
+    "unit": "http://qudt.org/vocab/unit#JouleSecond",
+    "label": "Joule Second"
+  },
+  {
+    "symbol": "kat",
+    "unit": "http://qudt.org/vocab/unit#Katal",
+    "label": "Katal"
+  },
+  {
+    "symbol": "K",
+    "unit": "http://qudt.org/vocab/unit#Kelvin",
+    "label": "Kelvin"
+  },
+  {
+    "symbol": "K / h",
+    "unit": "http://qudt.org/vocab/unit#KelvinPerHour",
+    "label": "Kelvin per Hour"
+  },
+  {
+    "symbol": "K / m",
+    "unit": "http://qudt.org/vocab/unit#KelvinPerMinute",
+    "label": "Kelvin per Minute"
+  },
+  {
+    "symbol": "K / s",
+    "unit": "http://qudt.org/vocab/unit#KelvinPerSecond",
+    "label": "Kelvin per Second"
+  },
+  {
+    "symbol": "K/W",
+    "unit": "http://qudt.org/vocab/unit#KelvinPerWatt",
+    "label": "Kelvin per Watt"
+  },
+  {
+    "symbol": "KHz",
+    "unit": "http://qudt.org/vocab/unit#KiloHertz",
+    "label": "Kilohertz"
+  },
+  {
+    "symbol": "KPa",
+    "unit": "http://qudt.org/vocab/unit#KiloPascal",
+    "label": "Kilopascal"
+  },
+  {
+    "symbol": "kp",
+    "unit": "http://qudt.org/vocab/unit#KiloPond",
+    "definition": "Same as kilogramForce",
+    "label": "Kilopond"
+  },
+  {
+    "symbol": "kg",
+    "unit": "http://qudt.org/vocab/unit#Kilogram",
+    "label": "Kilogram"
+  },
+  {
+    "symbol": "kg/h",
+    "unit": "http://qudt.org/vocab/unit#KilogramPerHour",
+    "label": "Kilogram per Hour"
+  },
+  {
+    "symbol": "kg mol^-1",
+    "unit": "http://qudt.org/vocab/unit#KilogramPerMole",
+    "label": "Kilogram per Mole"
+  },
+  {
+    "symbol": "kg/s",
+    "unit": "http://qudt.org/vocab/unit#KilogramPerSecond",
+    "label": "Kilogram per Second"
+  },
+  {
+    "symbol": "kW",
+    "unit": "http://qudt.org/vocab/unit#Kilowatt",
+    "label": "Kilowatt"
+  },
+  {
+    "symbol": "kn",
+    "unit": "http://qudt.org/vocab/unit#Knot",
+    "label": "Knot"
+  },
+  {
+    "symbol": "ly",
+    "unit": "http://qudt.org/vocab/unit#LightYear",
+    "definition": "A unit of length defining the distance, in meters, that light travels in a vacuum in one year.",
+    "label": "Light Year"
+  },
+  {
+    "symbol": "lm",
+    "unit": "http://qudt.org/vocab/unit#Lumen",
+    "label": "Lumen"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#LumenPerWatt",
+    "label": "Lumen per Watt"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#LumenSecond",
+    "label": "Lumen Second"
+  },
+  {
+    "symbol": "lx",
+    "unit": "http://qudt.org/vocab/unit#Lux",
+    "label": "Lux"
+  },
+  {
+    "symbol": "MHz",
+    "unit": "http://qudt.org/vocab/unit#MegaHertz",
+    "label": "Megahertz"
+  },
+  {
+    "symbol": "mho",
+    "unit": "http://qudt.org/vocab/unit#Mho",
+    "label": "Mho"
+  },
+  {
+    "symbol": "microF",
+    "unit": "http://qudt.org/vocab/unit#MicroFarad",
+    "label": "Microfarad"
+  },
+  {
+    "symbol": "microH",
+    "unit": "http://qudt.org/vocab/unit#MicroHenry",
+    "label": "Microhenry"
+  },
+  {
+    "symbol": "microsec",
+    "unit": "http://qudt.org/vocab/unit#MicroSecond",
+    "label": "Microsecond"
+  },
+  {
+    "symbol": "mi/hr",
+    "unit": "http://qudt.org/vocab/unit#MilePerHour",
+    "label": "Mile per Hour"
+  },
+  {
+    "symbol": "milliH",
+    "unit": "http://qudt.org/vocab/unit#MilliHenry",
+    "label": "Millihenry"
+  },
+  {
+    "symbol": "ms",
+    "unit": "http://qudt.org/vocab/unit#MilliSecond",
+    "label": "Millisecond"
+  },
+  {
+    "symbol": "mbar",
+    "unit": "http://qudt.org/vocab/unit#Millibar",
+    "label": "Millibar"
+  },
+  {
+    "symbol": "mol",
+    "unit": "http://qudt.org/vocab/unit#Mole",
+    "label": "Mole"
+  },
+  {
+    "symbol": "mol/kg",
+    "unit": "http://qudt.org/vocab/unit#MolePerKilogram",
+    "label": "Mole per Kilogram"
+  },
+  {
+    "symbol": "nF",
+    "unit": "http://qudt.org/vocab/unit#NanoFarad",
+    "label": "Nanofarad"
+  },
+  {
+    "symbol": "n mile",
+    "unit": "http://qudt.org/vocab/unit#NauticalMile",
+    "label": "Nautical Mile"
+  },
+  {
+    "symbol": "N",
+    "unit": "http://qudt.org/vocab/unit#Newton",
+    "label": "Newton"
+  },
+  {
+    "symbol": "ohm",
+    "unit": "http://qudt.org/vocab/unit#Ohm",
+    "label": "Ohm"
+  },
+  {
+    "symbol": "oz/ft^2",
+    "unit": "http://qudt.org/vocab/unit#OuncePerSquareFoot",
+    "label": "Ounce per Square Foot"
+  },
+  {
+    "symbol": "oz/yd^2",
+    "unit": "http://qudt.org/vocab/unit#OuncePerSquareYard",
+    "label": "Ounce per Square Yard"
+  },
+  {
+    "symbol": "pc",
+    "unit": "http://qudt.org/vocab/unit#Parsec",
+    "definition": "The parsec (parallax of one arcsecond; symbol: pc) is a unit of length, equal to just under 31 trillion (31×1012) kilometres (about 19 trillion miles), 206265 AU, or about 3.26 light-years. The parsec measurement unit is used in astronomy. It is defined as the length of the adjacent side of an imaginary right triangle in space. The two dimensions that specify this triangle are the parallax angle (defined as 1 arcsecond) and the opposite side (defined as 1 astronomical unit (AU), the distance from the Earth to the Sun). Given these two measurements, along with the rules of trigonometry, the length of the adjacent side (the parsec) can be found. [Wikipedia]",
+    "label": "Parsec"
+  },
+  {
+    "symbol": "Pa",
+    "unit": "http://qudt.org/vocab/unit#Pascal",
+    "label": "Pascal"
+  },
+  {
+    "symbol": "Pa-s",
+    "unit": "http://qudt.org/vocab/unit#PascalSecond",
+    "label": "Pascal Second"
+  },
+  {
+    "symbol": "pF",
+    "unit": "http://qudt.org/vocab/unit#PicoFarad",
+    "label": "Picofarad"
+  },
+  {
+    "symbol": "P",
+    "unit": "http://qudt.org/vocab/unit#Poise",
+    "label": "Poise"
+  },
+  {
+    "symbol": "lb/ft^3",
+    "unit": "http://qudt.org/vocab/unit#PoundPerCubicFoot",
+    "label": "Pound per Cubic Foot"
+  },
+  {
+    "symbol": "lb/in^3",
+    "unit": "http://qudt.org/vocab/unit#PoundPerCubicInch",
+    "label": "Pound per Cubic Inch"
+  },
+  {
+    "symbol": "lb/yd^3",
+    "unit": "http://qudt.org/vocab/unit#PoundPerCubicYard",
+    "label": "Pound per Cubic Yard"
+  },
+  {
+    "symbol": "lb/ft",
+    "unit": "http://qudt.org/vocab/unit#PoundPerFoot",
+    "label": "Pound per Foot"
+  },
+  {
+    "symbol": "lb/(ft-hr)",
+    "unit": "http://qudt.org/vocab/unit#PoundPerFootHour",
+    "label": "Pound per Foot Hour"
+  },
+  {
+    "symbol": "lb/(ft-s)",
+    "unit": "http://qudt.org/vocab/unit#PoundPerFootSecond",
+    "label": "Pound per Foot Second"
+  },
+  {
+    "symbol": "lb/hr",
+    "unit": "http://qudt.org/vocab/unit#PoundPerHour",
+    "label": "Pound per Hour"
+  },
+  {
+    "symbol": "lb/ft^2",
+    "unit": "http://qudt.org/vocab/unit#PoundPerSquareFoot",
+    "label": "Pound per Square Foot"
+  },
+  {
+    "symbol": "rad",
+    "unit": "http://qudt.org/vocab/unit#Rad",
+    "label": "Rad"
+  },
+  {
+    "symbol": "rad",
+    "unit": "http://qudt.org/vocab/unit#Radian",
+    "definition": "The radian is the standard unit of angular measure, used in many areas of mathematics. It describes the plane angle subtended by a circular arc as the length of the arc divided by the radius of the arc. The unit was formerly a SI supplementary unit, but this category was abolished in 1995 and the radian is now considered a SI derived unit. The SI unit of solid angle measurement is the steradian.\r\nThe radian is represented by the symbol \"rad\" or, more rarely, by the superscript c (for \"circular measure\"). For example, an angle of 1.2 radians would be written as \"1.2 rad\" or \"1.2c\" (the second symbol is often mistaken for a degree: \"1.2°\"). As the ratio of two lengths, the radian is a \"pure number\" that needs no unit symbol, and in mathematical writing the symbol \"rad\" is almost always omitted. In the absence of any symbol radians are assumed, and when degrees are meant the symbol ° is used. [Wikipedia]",
+    "label": "Radian"
+  },
+  {
+    "symbol": "rad/m",
+    "unit": "http://qudt.org/vocab/unit#RadianPerMinute",
+    "label": "Radian per second"
+  },
+  {
+    "symbol": "rad/s",
+    "unit": "http://qudt.org/vocab/unit#RadianPerSecond",
+    "label": "Radian per Second"
+  },
+  {
+    "symbol": "rad/s^2",
+    "unit": "http://qudt.org/vocab/unit#RadianPerSecondSquared",
+    "label": "Radian per Second Squared"
+  },
+  {
+    "symbol": "rem",
+    "unit": "http://qudt.org/vocab/unit#Rem",
+    "label": "Rem"
+  },
+  {
+    "symbol": "R",
+    "unit": "http://qudt.org/vocab/unit#Roentgen",
+    "label": "Roentgen"
+  },
+  {
+    "symbol": "S",
+    "unit": "http://qudt.org/vocab/unit#Siemens",
+    "label": "Siemens"
+  },
+  {
+    "symbol": "Sv",
+    "unit": "http://qudt.org/vocab/unit#Sievert",
+    "definition": "Although the sievert has the same dimensions as the gray (i.e. joules per kilogram), it measures a different quantity. To avoid any risk of confusion between the absorbed dose and the equivalent dose, the corresponding special units, namely the gray instead of the joule per kilogram for absorbed dose and the sievert instead of the joule per kilogram for the dose equivalent, should be used.",
+    "label": "Sievert"
+  },
+  {
+    "symbol": "slug",
+    "unit": "http://qudt.org/vocab/unit#Slug",
+    "label": "Slug"
+  },
+  {
+    "symbol": "slug/ft^3",
+    "unit": "http://qudt.org/vocab/unit#SlugPerCubicFoot",
+    "label": "Slug per Cubic Foot"
+  },
+  {
+    "symbol": "slug/(ft-s)",
+    "unit": "http://qudt.org/vocab/unit#SlugPerFootSecond",
+    "label": "Slug per Foot Second"
+  },
+  {
+    "symbol": "slug/s",
+    "unit": "http://qudt.org/vocab/unit#SlugPerSecond",
+    "label": "Slug per Second"
+  },
+  {
+    "symbol": "ft^2",
+    "unit": "http://qudt.org/vocab/unit#SquareFoot",
+    "label": "Square Foot"
+  },
+  {
+    "symbol": "ft^2/s",
+    "unit": "http://qudt.org/vocab/unit#SquareFootPerSecond",
+    "label": "Square Foot per Second"
+  },
+  {
+    "symbol": "in^2",
+    "unit": "http://qudt.org/vocab/unit#SquareInch",
+    "label": "Square Inch"
+  },
+  {
+    "symbol": "mi^2",
+    "unit": "http://qudt.org/vocab/unit#SquareMile",
+    "label": "Square Mile"
+  },
+  {
+    "symbol": "yd^2",
+    "unit": "http://qudt.org/vocab/unit#SquareYard",
+    "label": "Square Yard"
+  },
+  {
+    "symbol": "sr",
+    "unit": "http://qudt.org/vocab/unit#Steradian",
+    "definition": "The steradian (symbol: sr) is the SI unit of solid angle. It is used to describe two-dimensional angular spans in three-dimensional space, analogous to the way in which the radian describes angles in a plane.",
+    "label": "Steradian"
+  },
+  {
+    "symbol": "st",
+    "unit": "http://qudt.org/vocab/unit#Stere",
+    "label": "Stere"
+  },
+  {
+    "symbol": "St",
+    "unit": "http://qudt.org/vocab/unit#Stokes",
+    "label": "Stokes"
+  },
+  {
+    "symbol": "T",
+    "unit": "http://qudt.org/vocab/unit#Tesla",
+    "label": "Tesla"
+  },
+  {
+    "symbol": "torr",
+    "unit": "http://qudt.org/vocab/unit#Torr",
+    "label": "Torr"
+  },
+  {
+    "symbol": "u",
+    "unit": "http://qudt.org/vocab/unit#UnifiedAtomicMassUnit",
+    "label": "Unified Atomic Mass Unit"
+  },
+  {
+    "symbol": "V",
+    "unit": "http://qudt.org/vocab/unit#Volt",
+    "label": "Volt"
+  },
+  {
+    "symbol": "V / sec",
+    "unit": "http://qudt.org/vocab/unit#VoltPerSecond",
+    "label": "Volt per second"
+  },
+  {
+    "symbol": "W",
+    "unit": "http://qudt.org/vocab/unit#Watt",
+    "label": "Watt"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#WattPerSteradian",
+    "label": "Watt per Steradian"
+  },
+  {
+    "symbol": "Wb",
+    "unit": "http://qudt.org/vocab/unit#Weber",
+    "label": "Weber"
+  },
+  {
+    "symbol": "yd",
+    "unit": "http://qudt.org/vocab/unit#Yard",
+    "label": "Yard"
+  },
+  {
+    "symbol": "abA",
+    "unit": "http://qudt.org/vocab/unit#Abampere",
+    "definition": "The abampere (aA), also called the biot after Jean-Baptiste Biot, is the basic electromagnetic unit of electric current in the emu-cgs system of units (electromagnetic cgs). One abampere is equal to ten amperes in the SI system of units. [Wikipedia]",
+    "label": "Abampere"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#AbamperePerSquareCentimeter",
+    "label": "Abampere per Square Centimeter"
+  },
+  {
+    "symbol": "abC",
+    "unit": "http://qudt.org/vocab/unit#Abcoulomb",
+    "definition": "The abcoulomb (abC or aC) or electromagnetic unit of charge (emu of charge) is the basic physical unit of electric charge in the cgs-emu system of units. One abcoulomb is equal to ten coulombs. [Wikipedia]",
+    "label": "Abcoulomb"
+  },
+  {
+    "symbol": "abC/cm^2",
+    "unit": "http://qudt.org/vocab/unit#AbcoulombPerSquareCentimeter",
+    "label": "Abcoulomb per Square Centimeter"
+  },
+  {
+    "symbol": "abF",
+    "unit": "http://qudt.org/vocab/unit#Abfarad",
+    "definition": "An abfarad is an obsolete electromagnetic (CGS) unit of capacitance equal to 10^9 farads (1,000,000,000 F or 1 GF). This very large unit is used in medical terminology only. [Wikipedia]",
+    "label": "Abfarad"
+  },
+  {
+    "symbol": "abF/cm",
+    "unit": "http://qudt.org/vocab/unit#AbfaradPerCentimeter",
+    "label": "Abfarad per Centimeter"
+  },
+  {
+    "symbol": "abH",
+    "unit": "http://qudt.org/vocab/unit#Abhenry",
+    "label": "Abhenry"
+  },
+  {
+    "symbol": "abOhm",
+    "unit": "http://qudt.org/vocab/unit#Abohm",
+    "label": "Abohm"
+  },
+  {
+    "symbol": "aS",
+    "unit": "http://qudt.org/vocab/unit#Absiemen",
+    "label": "Absiemen"
+  },
+  {
+    "symbol": "abT",
+    "unit": "http://qudt.org/vocab/unit#Abtesla",
+    "label": "Abtesla"
+  },
+  {
+    "symbol": "abV",
+    "unit": "http://qudt.org/vocab/unit#Abvolt",
+    "label": "Abvolt"
+  },
+  {
+    "symbol": "abV cm",
+    "unit": "http://qudt.org/vocab/unit#AbvoltCentimeter",
+    "label": "Abvolt Centimeter"
+  },
+  {
+    "symbol": "abV/cm",
+    "unit": "http://qudt.org/vocab/unit#AbvoltPerCentimeter",
+    "label": "Abvolt per centimeter"
+  },
+  {
+    "symbol": "abV-s",
+    "unit": "http://qudt.org/vocab/unit#AbvoltSecond",
+    "label": "Abvolt Second"
+  },
+  {
+    "symbol": "ac-ft",
+    "unit": "http://qudt.org/vocab/unit#AcreFoot",
+    "label": "Acre Foot"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Afghani",
+    "definition": "Afghanistan",
+    "label": "Afghani"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#AlgerianDinar",
+    "definition": "Algeria",
+    "label": "Algerian Dinar"
+  },
+  {
+    "symbol": "A/deg",
+    "unit": "http://qudt.org/vocab/unit#AmperePerDegree",
+    "label": "Ampere per Degree"
+  },
+  {
+    "symbol": "A J^-1",
+    "unit": "http://qudt.org/vocab/unit#AmperePerJoule",
+    "label": "Ampere per Joule"
+  },
+  {
+    "symbol": "A/m",
+    "unit": "http://qudt.org/vocab/unit#AmperePerMeter",
+    "label": "Ampere per Meter"
+  },
+  {
+    "symbol": "A/rad",
+    "unit": "http://qudt.org/vocab/unit#AmperePerRadian",
+    "label": "Ampere per Radian"
+  },
+  {
+    "symbol": "A/m^2",
+    "unit": "http://qudt.org/vocab/unit#AmperePerSquareMeter",
+    "label": "Ampere per Square Meter"
+  },
+  {
+    "symbol": "At",
+    "unit": "http://qudt.org/vocab/unit#AmpereTurn",
+    "label": "Ampere Turn"
+  },
+  {
+    "symbol": "At/in",
+    "unit": "http://qudt.org/vocab/unit#AmpereTurnPerInch",
+    "label": "Ampere Turn per Inch"
+  },
+  {
+    "symbol": "At/m",
+    "unit": "http://qudt.org/vocab/unit#AmpereTurnPerMeter",
+    "label": "Ampere Turn per Meter"
+  },
+  {
+    "symbol": "arcMin",
+    "unit": "http://qudt.org/vocab/unit#ArcMinute",
+    "label": "Arc Minute"
+  },
+  {
+    "symbol": "arcSec",
+    "unit": "http://qudt.org/vocab/unit#ArcSecond",
+    "label": "Arc Second"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#ArgentinePeso",
+    "definition": "Argentina",
+    "label": "Argentine Peso"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#ArmenianDram",
+    "definition": "Armenia",
+    "label": "Armenian Dram"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#ArubanGuilder",
+    "definition": "Aruba",
+    "label": "Aruban Guilder"
+  },
+  {
+    "symbol": "Z",
+    "unit": "http://qudt.org/vocab/unit#AtomicNumber",
+    "label": "Atomic Number"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#AustralianDollar",
+    "definition": "Australia, Australian Antarctic Territory, Christmas Island, Cocos (Keeling) Islands, Heard and McDonald Islands, Kiribati, Nauru, Norfolk Island, Tuvalu",
+    "label": "Australian Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#AzerbaijanianManat",
+    "definition": "Azerbaijan",
+    "label": "Azerbaijanian Manat"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BahamianDollar",
+    "definition": "Bahamas",
+    "label": "Bahamian Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BahrainiDinar",
+    "definition": "Bahrain",
+    "label": "Bahraini Dinar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Baht",
+    "definition": "Thailand",
+    "label": "Baht"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Balboa",
+    "definition": "Panama",
+    "label": "Balboa"
+  },
+  {
+    "symbol": "ban",
+    "unit": "http://qudt.org/vocab/unit#Ban",
+    "definition": "A ban is a logarithmic unit which measures information or entropy, based on base 10 logarithms and powers of 10, rather than the powers of 2 and base 2 logarithms which define the bit. One ban is approximately 3.32 (log_2 10) bits.",
+    "label": "Ban"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BangladeshiTaka",
+    "definition": "Bangladesh",
+    "label": "Bangladeshi Taka"
+  },
+  {
+    "symbol": "bar",
+    "unit": "http://qudt.org/vocab/unit#Bar",
+    "label": "Bar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BarbadosDollar",
+    "definition": "Barbados",
+    "label": "Barbados Dollar"
+  },
+  {
+    "symbol": "bbl",
+    "unit": "http://qudt.org/vocab/unit#Barrel",
+    "label": "Barrel"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BelarussianRuble",
+    "definition": "Belarus",
+    "label": "Belarussian Ruble"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BelizeDollar",
+    "definition": "Belize",
+    "label": "Belize Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BermudaDollar",
+    "definition": "Bermuda",
+    "label": "Bermuda Dollar"
+  },
+  {
+    "symbol": "Bi",
+    "unit": "http://qudt.org/vocab/unit#Biot",
+    "label": "Biot"
+  },
+  {
+    "symbol": "b",
+    "unit": "http://qudt.org/vocab/unit#Bit",
+    "definition": "In information theory, a bit is the amount of information that, on average, can be stored in a discrete bit. It is thus the amount of information carried by a choice between two equally likely outcomes. One bit corresponds to about 0.693 nats (ln(2)), or 0.301 hartleys (log10(2)).",
+    "label": "Bit"
+  },
+  {
+    "symbol": "bps",
+    "unit": "http://qudt.org/vocab/unit#BitsPerSecond",
+    "label": "Bits per Second"
+  },
+  {
+    "symbol": "Bf",
+    "unit": "http://qudt.org/vocab/unit#BoardFoot",
+    "label": "Board Foot"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BolivianMvdol",
+    "definition": "Bolivia",
+    "label": "Bolivian Mvdol (Funds code)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Boliviano",
+    "definition": "Bolivia",
+    "label": "Boliviano"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BrazilianReal",
+    "definition": "Brazil",
+    "label": "Brazilian Real"
+  },
+  {
+    "symbol": "breaths/min",
+    "unit": "http://qudt.org/vocab/unit#BreathPerMinute",
+    "label": "Breath per Minute"
+  },
+  {
+    "symbol": "Btu",
+    "unit": "http://qudt.org/vocab/unit#BritishThermalUnitInternationalTable",
+    "definition": "The British thermal unit (BTU or Btu) is a traditional unit of energy equal to about 1 055.05585 joules. It is approximately the amount of energy needed to heat 1 pound (0.454 kg) of water from 39 °F (3.9 °C) to 40 °F (4.4 °C). The unit is most often used in the power, steam generation, heating and air conditioning industries. In scientific contexts the BTU has largely been replaced by the SI unit of energy, the joule, though it may be used as a measure of agricultural energy production (BTU/kg). It is still used unofficially in metric English-speaking countries (such as Canada), and remains the standard unit of classification for air conditioning units manufactured and sold in many non-English-speaking metric countries.",
+    "label": "British Thermal Unit - International Steam Table"
+  },
+  {
+    "symbol": "Btu",
+    "unit": "http://qudt.org/vocab/unit#BritishThermalUnitThermochemical",
+    "label": "British Thermal Unit - Thermochemical Calorie"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BruneiDollar",
+    "definition": "Brunei",
+    "label": "Brunei Dollar"
+  },
+  {
+    "symbol": "Btu-ft",
+    "unit": "http://qudt.org/vocab/unit#BtuFoot",
+    "label": "BTU Foot"
+  },
+  {
+    "symbol": "Btu-ft/(hr-ft^2-degF)",
+    "unit": "http://qudt.org/vocab/unit#BtuFootPerSquareFootHourDegreeFahrenheit",
+    "label": "BTU Foot per Square Foot Hour Degree Fahrenheit"
+  },
+  {
+    "symbol": "Btu-in",
+    "unit": "http://qudt.org/vocab/unit#BtuInch",
+    "label": "BTU Inch"
+  },
+  {
+    "symbol": "Btu-in/(hr-ft^2-degF)",
+    "unit": "http://qudt.org/vocab/unit#BtuInchPerSquareFootHourDegreeFahrenheit",
+    "label": "BTU Inch per Square Foot Hour Degree Fahrenheit"
+  },
+  {
+    "symbol": "Btu-in/(ft^2-s-degF)",
+    "unit": "http://qudt.org/vocab/unit#BtuInchPerSquareFootSecondDegreeFahrenheit",
+    "label": "BTU Inch per Square Foot Second Degree Fahrenheit"
+  },
+  {
+    "symbol": "Btu/degF",
+    "unit": "http://qudt.org/vocab/unit#BtuPerDegreeFahrenheit",
+    "label": "BTU per Degree Fahrenheit"
+  },
+  {
+    "symbol": "Btu/degR",
+    "unit": "http://qudt.org/vocab/unit#BtuPerDegreeRankine",
+    "label": "BTU per Degree Rankine"
+  },
+  {
+    "symbol": "Btu/hr",
+    "unit": "http://qudt.org/vocab/unit#BtuPerHour",
+    "definition": "The British thermal unit (BTU or Btu) is a traditional unit of energy equal to about 1 055.05585 joules. It is approximately the amount of energy needed to heat 1 pound (0.454 kg) of water from 39 °F (3.9 °C) to 40 °F (4.4 °C). The unit is most often used in the power, steam generation, heating and air conditioning industries. In scientific contexts the BTU has largely been replaced by the SI unit of energy, the joule, though it may be used as a measure of agricultural energy production (BTU/kg).  [Wikipedia]",
+    "label": "BTU per Hour"
+  },
+  {
+    "symbol": "Btu/(hr-ft^2)",
+    "unit": "http://qudt.org/vocab/unit#BtuPerHourSquareFoot",
+    "label": "BTU per Hour Square Foot"
+  },
+  {
+    "symbol": "Btu/lb",
+    "unit": "http://qudt.org/vocab/unit#BtuPerPound",
+    "label": "BTU per Pound"
+  },
+  {
+    "symbol": "Btu/(lb-degF)",
+    "unit": "http://qudt.org/vocab/unit#BtuPerPoundDegreeFahrenheit",
+    "label": "BTU per Pound Degree Fahrenheit"
+  },
+  {
+    "symbol": "Btu/(lb-degR)",
+    "unit": "http://qudt.org/vocab/unit#BtuPerPoundDegreeRankine",
+    "label": "BTU per Pound Degree Rankine"
+  },
+  {
+    "symbol": "Btu/(lb-mol)",
+    "unit": "http://qudt.org/vocab/unit#BtuPerPoundMole",
+    "label": "BTU per Pound Mole"
+  },
+  {
+    "symbol": "Btu/(lb-mol-degF)",
+    "unit": "http://qudt.org/vocab/unit#BtuPerPoundMoleDegreeFahrenheit",
+    "label": "BTU per Pound Mole Degree Fahrenheit"
+  },
+  {
+    "symbol": "Btu/s",
+    "unit": "http://qudt.org/vocab/unit#BtuPerSecond",
+    "label": "BTU per Second"
+  },
+  {
+    "symbol": "Btu/(s-ft^2)",
+    "unit": "http://qudt.org/vocab/unit#BtuPerSecondSquareFoot",
+    "label": "BTU per Second Square Foot"
+  },
+  {
+    "symbol": "Btu/ft^2",
+    "unit": "http://qudt.org/vocab/unit#BtuPerSquareFoot",
+    "label": "BTU per Square Foot"
+  },
+  {
+    "symbol": "Btu/(hr-ft^2-degF)",
+    "unit": "http://qudt.org/vocab/unit#BtuPerSquareFootHourDegreeFahrenheit",
+    "label": "BTU per Square Foot Hour Degree Fahrenheit"
+  },
+  {
+    "symbol": "Btu/(ft^2-s-degF)",
+    "unit": "http://qudt.org/vocab/unit#BtuPerSquareFootSecondDegreeFahrenheit",
+    "label": "BTU per Square Foot Second Degree Fahrenheit"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BulgarianLev",
+    "definition": "Bulgaria",
+    "label": "Bulgarian Lev"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#BurundianFranc",
+    "definition": "Burundi",
+    "label": "Burundian Franc"
+  },
+  {
+    "symbol": "bu",
+    "unit": "http://qudt.org/vocab/unit#Bushel",
+    "label": "Bushel"
+  },
+  {
+    "symbol": "B",
+    "unit": "http://qudt.org/vocab/unit#Byte",
+    "label": "Byte"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CFAFrancBCEAO",
+    "definition": "Benin, Burkina Faso, C�te d'Ivoire, Guinea-Bissau, Mali, Niger, Senegal, Togo",
+    "label": "CFA Franc BCEAO"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CFAFrancBEAC",
+    "definition": "Cameroon, Central African Republic, Congo, Chad, Equatorial Guinea, Gabon",
+    "label": "CFA Franc BEAC"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CFPFranc",
+    "definition": "French Polynesia, New Caledonia, Wallis and Futuna",
+    "label": "CFP franc"
+  },
+  {
+    "symbol": "Cal",
+    "unit": "http://qudt.org/vocab/unit#CalorieNutritional",
+    "label": "Nutritional Calorie"
+  },
+  {
+    "symbol": "cal",
+    "unit": "http://qudt.org/vocab/unit#CalorieThermochemical",
+    "label": "Thermochemical Calorie"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CanadianDollar",
+    "definition": "Canada",
+    "label": "Canadian Dollar"
+  },
+  {
+    "symbol": "cd/in^2",
+    "unit": "http://qudt.org/vocab/unit#CandelaPerSquareInch",
+    "label": "Candela per Square Inch"
+  },
+  {
+    "symbol": "cd/m^2",
+    "unit": "http://qudt.org/vocab/unit#CandelaPerSquareMeter",
+    "label": "Candela per Square Meter"
+  },
+  {
+    "symbol": "cd",
+    "unit": "http://qudt.org/vocab/unit#Candle",
+    "label": "Candle"
+  },
+  {
+    "symbol": "cd",
+    "unit": "http://qudt.org/vocab/unit#Candlepower",
+    "label": "Candlepower"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CapeVerdeEscudo",
+    "definition": "Cape Verde",
+    "label": "Cape Verde Escudo"
+  },
+  {
+    "symbol": "Nm/ct",
+    "unit": "http://qudt.org/vocab/unit#Carat",
+    "label": "Carat"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CaymanIslandsDollar",
+    "definition": "Cayman Islands",
+    "label": "Cayman Islands Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Cedi",
+    "definition": "Ghana",
+    "label": "Cedi"
+  },
+  {
+    "symbol": "cm",
+    "unit": "http://qudt.org/vocab/unit#Centimeter",
+    "label": "Centimeter"
+  },
+  {
+    "symbol": "cmH2O",
+    "unit": "http://qudt.org/vocab/unit#CentimeterOfWater",
+    "label": "Centimeter of Water"
+  },
+  {
+    "symbol": "cm/s",
+    "unit": "http://qudt.org/vocab/unit#CentimeterPerSecond",
+    "label": "Centimeter per Second"
+  },
+  {
+    "symbol": "cm/s^2",
+    "unit": "http://qudt.org/vocab/unit#CentimeterPerSecondSquared",
+    "label": "Centimeter per Second Squared"
+  },
+  {
+    "symbol": "cm-s-degC",
+    "unit": "http://qudt.org/vocab/unit#CentimeterSecondDegreeCelsius",
+    "label": "Centimeter Second Degree Celsius"
+  },
+  {
+    "symbol": "ch",
+    "unit": "http://qudt.org/vocab/unit#Chain",
+    "label": "Chain"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#ChileanPeso",
+    "definition": "Chile",
+    "label": "Chilean Peso"
+  },
+  {
+    "symbol": "cmil",
+    "unit": "http://qudt.org/vocab/unit#CircularMil",
+    "label": "Circular Mil"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#ColombianPeso",
+    "definition": "Colombia",
+    "label": "Colombian Peso"
+  },
+  {
+    "symbol": "CFU",
+    "unit": "http://qudt.org/vocab/unit#ColonyFormingUnit",
+    "label": "Colony Forming Unit"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#ComoroFranc",
+    "definition": "Comoros",
+    "label": "Comoro Franc"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#ConvertibleMark",
+    "definition": "Bosnia and Herzegovina",
+    "label": "Convertible Marks"
+  },
+  {
+    "symbol": "C",
+    "unit": "http://qudt.org/vocab/unit#Cord",
+    "label": "Cord"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CordobaOro",
+    "definition": "Nicaragua",
+    "label": "Cordoba Oro"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CostaRicanColon",
+    "definition": "Costa Rica",
+    "label": "Costa Rican Colon"
+  },
+  {
+    "symbol": "C m",
+    "unit": "http://qudt.org/vocab/unit#CoulombMeter",
+    "label": "Coulomb Meter"
+  },
+  {
+    "symbol": "C m^-3",
+    "unit": "http://qudt.org/vocab/unit#CoulombPerCubicMeter",
+    "label": "Coulomb per Cubic Meter"
+  },
+  {
+    "symbol": "C/m",
+    "unit": "http://qudt.org/vocab/unit#CoulombPerMeter",
+    "label": "Coulomb per Meter"
+  },
+  {
+    "symbol": "C m^-2",
+    "unit": "http://qudt.org/vocab/unit#CoulombPerSquareMeter",
+    "label": "Coulomb per Square Meter"
+  },
+  {
+    "symbol": "C m^2",
+    "unit": "http://qudt.org/vocab/unit#CoulombSquareMeter",
+    "label": "Coulomb Square Meter"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CroatianKuna",
+    "definition": "Croatia",
+    "label": "Croatian Kuna"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CubanPeso",
+    "definition": "Cuba",
+    "label": "Cuban Peso"
+  },
+  {
+    "symbol": "cm^3",
+    "unit": "http://qudt.org/vocab/unit#CubicCentimeter",
+    "label": "Cubic Centimeter"
+  },
+  {
+    "symbol": "C^3 m^3 J^-2",
+    "unit": "http://qudt.org/vocab/unit#CubicCoulombMeterPerSquareJoule",
+    "label": "Cubic Coulomb Meter per Square Joule"
+  },
+  {
+    "symbol": "ft^3/s",
+    "unit": "http://qudt.org/vocab/unit#CubicFootPerSecond",
+    "label": "Cubic Foot per Second"
+  },
+  {
+    "symbol": "km^3/s^2",
+    "unit": "http://qudt.org/vocab/unit#CubicKilometerPerSecondSquared",
+    "label": "Cubic Kilometer per Second Squared"
+  },
+  {
+    "symbol": "m^3",
+    "unit": "http://qudt.org/vocab/unit#CubicMeter",
+    "label": "Cubic Meter"
+  },
+  {
+    "symbol": "m^3/h",
+    "unit": "http://qudt.org/vocab/unit#CubicMeterPerHour",
+    "label": "Cubic Meter per Hour"
+  },
+  {
+    "symbol": "m^3/K",
+    "unit": "http://qudt.org/vocab/unit#CubicMeterPerKelvin",
+    "label": "Cubic Meter per Kelvin"
+  },
+  {
+    "symbol": "m^3/kg",
+    "unit": "http://qudt.org/vocab/unit#CubicMeterPerKilogram",
+    "label": "Cubic Meter per Kilogram"
+  },
+  {
+    "symbol": "m^3 kg^-1 s^-2",
+    "unit": "http://qudt.org/vocab/unit#CubicMeterPerKilogramSecondSquared",
+    "label": "Cubic Meter per Kilogram Second Squared"
+  },
+  {
+    "symbol": "m^3 mol^-1",
+    "unit": "http://qudt.org/vocab/unit#CubicMeterPerMole",
+    "label": "Cubic Meter per Mole"
+  },
+  {
+    "symbol": "m^3/s",
+    "unit": "http://qudt.org/vocab/unit#CubicMeterPerSecond",
+    "label": "Cubic Meter per Second"
+  },
+  {
+    "symbol": "m^3/s^2",
+    "unit": "http://qudt.org/vocab/unit#CubicMeterPerSecondSquared",
+    "label": "Cubic Meter per Second Squared"
+  },
+  {
+    "symbol": "mi^3",
+    "unit": "http://qudt.org/vocab/unit#CubicMile",
+    "label": "Cubic Mile"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CyprusPound",
+    "definition": "Cyprus",
+    "label": "Cyprus Pound"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#CzechKoruna",
+    "definition": "Czech Republic",
+    "label": "Czech Koruna"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Dalasi",
+    "definition": "Gambia",
+    "label": "Dalasi"
+  },
+  {
+    "symbol": "Da",
+    "unit": "http://qudt.org/vocab/unit#Dalton",
+    "definition": "The unified atomic mass unit (symbol: u) or dalton (symbol: Da) is a unit that is used for indicating mass on an atomic or molecular scale. It is defined as one twelfth of the rest mass of an unbound atom of carbon-12 in its nuclear and electronic ground state,[1] and has a value of 1.660538782(83)×10−27 kg.[2] One Da is approximately equal to the mass of one proton or one neutron. The CIPM have categorised it as a \"non-SI unit whose values in SI units must be obtained experimentally\".[1] [Wikipedia]",
+    "label": "Dalton"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#DanishKrone",
+    "definition": "Denmark, Faroe Islands, Greenland",
+    "label": "Danish Krone"
+  },
+  {
+    "symbol": "d",
+    "unit": "http://qudt.org/vocab/unit#DaySidereal",
+    "label": "Day Sidereal"
+  },
+  {
+    "symbol": "D",
+    "unit": "http://qudt.org/vocab/unit#Debye",
+    "label": "Debye"
+  },
+  {
+    "symbol": "dBc",
+    "unit": "http://qudt.org/vocab/unit#DecibelCarrier",
+    "label": "Decibel Carrier Unit"
+  },
+  {
+    "symbol": "dBm",
+    "unit": "http://qudt.org/vocab/unit#DecibelReferredToOneMilliwatt",
+    "label": "Decibel Referred to 1mw"
+  },
+  {
+    "symbol": "°",
+    "unit": "http://qudt.org/vocab/unit#DegreeAngle",
+    "label": "Degree Angle"
+  },
+  {
+    "symbol": "cm-degC",
+    "unit": "http://qudt.org/vocab/unit#DegreeCelsiusCentimeter",
+    "label": "Degree Celsius Centimeter"
+  },
+  {
+    "symbol": "DegC",
+    "unit": "http://qudt.org/vocab/unit#DegreeCentigrade",
+    "label": "Degree Centigrade"
+  },
+  {
+    "symbol": "degF-hr",
+    "unit": "http://qudt.org/vocab/unit#DegreeFahrenheitHour",
+    "label": "Degree Fahrenheit Hour"
+  },
+  {
+    "symbol": "degF-hr/Btu",
+    "unit": "http://qudt.org/vocab/unit#DegreeFahrenheitHourPerBtu",
+    "label": "Degree Fahrenheit Hour per BTU"
+  },
+  {
+    "symbol": "deg/h",
+    "unit": "http://qudt.org/vocab/unit#DegreePerHour",
+    "label": "Degree per Hour"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#DegreePerMinute",
+    "label": "Degree per Minute"
+  },
+  {
+    "symbol": "deg/(s^2)",
+    "unit": "http://qudt.org/vocab/unit#DegreePerSecondSquared",
+    "label": "Degree per Second Squared"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Denar",
+    "definition": "Former Yugoslav Republic of Macedonia",
+    "label": "Denar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Denier",
+    "label": "Denier"
+  },
+  {
+    "symbol": "D",
+    "unit": "http://qudt.org/vocab/unit#Diopter",
+    "definition": "A dioptre, or diopter, is a unit of measurement of the optical power of a lens or curved mirror, which is equal to the reciprocal of the focal length measured in metres (that is, 1/metres). For example, a 3 dioptre lens brings parallel rays of light to focus at 1/3 metre. The same unit is also sometimes used for other reciprocals of distance, particularly radii of curvature and the vergence of optical beams.\r\n\r\nThough the diopter is based on the SI-metric system it has not been included in the standard so that there is no international name or abbreviation for this unit of measurement—within the international system of units this unit for optical power would need to be specified explicitly as the inverse metre. [Wikipedia]",
+    "label": "Diopter"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#DjiboutiFranc",
+    "definition": "Djibouti",
+    "label": "Djibouti Franc"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Dobra",
+    "definition": "S�o Tom� and Pr�ncipe",
+    "label": "Dobra"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#DominicanPeso",
+    "definition": "Dominican Republic",
+    "label": "Dominican Peso"
+  },
+  {
+    "symbol": "dry_gal",
+    "unit": "http://qudt.org/vocab/unit#DryGallonUS",
+    "label": "Dry Gallon US"
+  },
+  {
+    "symbol": "dry_pt",
+    "unit": "http://qudt.org/vocab/unit#DryPintUS",
+    "label": "US Dry Pint"
+  },
+  {
+    "symbol": "dry_qt",
+    "unit": "http://qudt.org/vocab/unit#DryQuartUS",
+    "label": "US Dry Quart"
+  },
+  {
+    "symbol": "dyn-cm",
+    "unit": "http://qudt.org/vocab/unit#DyneCentimeter",
+    "label": "Dyne Centimeter"
+  },
+  {
+    "symbol": "dyn/cm^2",
+    "unit": "http://qudt.org/vocab/unit#DynePerSquareCentimeter",
+    "label": "Dyne per Square Centimeter"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#EastCaribbeanDollar",
+    "definition": "Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines",
+    "label": "East Caribbean Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#EgyptianPound",
+    "definition": "Egypt",
+    "label": "Egyptian Pound"
+  },
+  {
+    "symbol": "eV",
+    "unit": "http://qudt.org/vocab/unit#ElectronVolt",
+    "label": "Electron Volt"
+  },
+  {
+    "symbol": "eV K^-1",
+    "unit": "http://qudt.org/vocab/unit#ElectronVoltPerKelvin",
+    "label": "Electron Volt per Kelvin"
+  },
+  {
+    "symbol": "eV T^-1",
+    "unit": "http://qudt.org/vocab/unit#ElectronVoltPerTesla",
+    "label": "Electron Volt per Tesla"
+  },
+  {
+    "symbol": "eV s",
+    "unit": "http://qudt.org/vocab/unit#ElectronVoltSecond",
+    "label": "Electron Volt Second"
+  },
+  {
+    "symbol": "erg/cm^3",
+    "unit": "http://qudt.org/vocab/unit#ErgPerCubicCentimeter",
+    "label": "Erg per Cubic Centimeter"
+  },
+  {
+    "symbol": "erg/(cm^2-s)",
+    "unit": "http://qudt.org/vocab/unit#ErgPerSquareCentimeterSecond",
+    "label": "Erg per Square Centimeter Second"
+  },
+  {
+    "symbol": "erg s",
+    "unit": "http://qudt.org/vocab/unit#ErgSecond",
+    "label": "Erg Second"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#EthiopianBirr",
+    "definition": "Ethiopia",
+    "label": "Ethiopian Birr"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Euro",
+    "definition": "European Union, see eurozone",
+    "label": "Euro"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#EuropeanCompositeUnit",
+    "definition": "Bonds market unit",
+    "label": "European Composite Unit (EURCO) (Bonds market unit)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#EuropeanMonetaryUnit",
+    "definition": "Bonds market unit",
+    "label": "European Monetary Unit (E.M.U.-6) (Bonds market unit)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#EuropeanUnitOfAccount17",
+    "definition": "Bonds market unit",
+    "label": "European Unit of Account 17 (E.U.A.-17) (Bonds market unit)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#EuropeanUnitOfAccount9",
+    "definition": "Bonds market unit",
+    "label": "European Unit of Account 9 (E.U.A.-9) (Bonds market unit)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#FalklandIslandsPound",
+    "definition": "Falkland Islands",
+    "label": "Falkland Islands Pound"
+  },
+  {
+    "symbol": "F m^-1",
+    "unit": "http://qudt.org/vocab/unit#FaradPerMeter",
+    "label": "Farad per Meter"
+  },
+  {
+    "symbol": "F",
+    "unit": "http://qudt.org/vocab/unit#Faraday",
+    "label": "Faraday"
+  },
+  {
+    "symbol": "fm",
+    "unit": "http://qudt.org/vocab/unit#Femtometer",
+    "label": "Femtometer"
+  },
+  {
+    "symbol": "fm",
+    "unit": "http://qudt.org/vocab/unit#Fermi",
+    "label": "Fermi"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#FijiDollar",
+    "definition": "Fiji",
+    "label": "Fiji Dollar"
+  },
+  {
+    "symbol": "fc",
+    "unit": "http://qudt.org/vocab/unit#FootCandle",
+    "label": "Foot Candle"
+  },
+  {
+    "symbol": "ft-L",
+    "unit": "http://qudt.org/vocab/unit#FootLambert",
+    "label": "Foot Lambert"
+  },
+  {
+    "symbol": "ft-lbf",
+    "unit": "http://qudt.org/vocab/unit#FootPoundForce",
+    "label": "Foot Pound Force"
+  },
+  {
+    "symbol": "ft-lbf/hr",
+    "unit": "http://qudt.org/vocab/unit#FootPoundForcePerHour",
+    "label": "Foot Pound Force per Hour"
+  },
+  {
+    "symbol": "ft-lbf/min",
+    "unit": "http://qudt.org/vocab/unit#FootPoundForcePerMinute",
+    "label": "Foot Pound Force per Minute"
+  },
+  {
+    "symbol": "ft-lbf/s",
+    "unit": "http://qudt.org/vocab/unit#FootPoundForcePerSecond",
+    "label": "Foot Pound Force per Second"
+  },
+  {
+    "symbol": "ft-lbf/ft^2",
+    "unit": "http://qudt.org/vocab/unit#FootPoundForcePerSquareFoot",
+    "label": "Foot Pound per Square Foot"
+  },
+  {
+    "symbol": "ft-lbf(ft^2-s)",
+    "unit": "http://qudt.org/vocab/unit#FootPoundForcePerSquareFootSecond",
+    "label": "Foot Pound Force per Square Foot Second"
+  },
+  {
+    "symbol": "ft-lbf/m^2",
+    "unit": "http://qudt.org/vocab/unit#FootPoundForcePerSquareMeter",
+    "label": "Foot Pound Force per Square Meter"
+  },
+  {
+    "symbol": "lbf / s",
+    "unit": "http://qudt.org/vocab/unit#FootPoundForceSecond",
+    "label": "Foot Pound Force Second"
+  },
+  {
+    "symbol": "ft-pdl",
+    "unit": "http://qudt.org/vocab/unit#FootPoundal",
+    "label": "Foot Poundal"
+  },
+  {
+    "symbol": "ft",
+    "unit": "http://qudt.org/vocab/unit#FootUSSurvey",
+    "label": "US Survey Foot"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Forint",
+    "definition": "Hungary",
+    "label": "Forint"
+  },
+  {
+    "symbol": "fa",
+    "unit": "http://qudt.org/vocab/unit#FractionalArea",
+    "label": "Fractional area"
+  },
+  {
+    "symbol": "fps",
+    "unit": "http://qudt.org/vocab/unit#FramePerSecond",
+    "label": "Frame per Second"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#FrancCongolais",
+    "definition": "Democratic Republic of Congo",
+    "label": "Franc Congolais"
+  },
+  {
+    "symbol": "Fr",
+    "unit": "http://qudt.org/vocab/unit#Franklin",
+    "label": "Franklin"
+  },
+  {
+    "symbol": "fur",
+    "unit": "http://qudt.org/vocab/unit#Furlong",
+    "label": "Furlong"
+  },
+  {
+    "symbol": "gal",
+    "unit": "http://qudt.org/vocab/unit#GallonImperial",
+    "label": "Imperial Gallon"
+  },
+  {
+    "symbol": "gal",
+    "unit": "http://qudt.org/vocab/unit#GallonUS",
+    "label": "US Gallon"
+  },
+  {
+    "symbol": "gal/d",
+    "unit": "http://qudt.org/vocab/unit#GallonUSPerDay",
+    "label": "US Gallon per Day"
+  },
+  {
+    "symbol": "gamma",
+    "unit": "http://qudt.org/vocab/unit#Gamma",
+    "label": "Gamma"
+  },
+  {
+    "symbol": "G",
+    "unit": "http://qudt.org/vocab/unit#Gauss",
+    "label": "Gauss"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#GibraltarPound",
+    "definition": "Gibraltar",
+    "label": "Gibraltar pound"
+  },
+  {
+    "symbol": "GeV",
+    "unit": "http://qudt.org/vocab/unit#GigaElectronVolt",
+    "label": "Giga Electron Volt"
+  },
+  {
+    "symbol": "Gi",
+    "unit": "http://qudt.org/vocab/unit#Gilbert",
+    "definition": "The fundamental unit of magnetomotive force (mmf) in electromagnetic units is called a Gilbert. It is the mmf which will produce a magnetic field strength of one Gauss (Maxwell per Square Centimeter) in a path one centimeter long.",
+    "label": "Gilbert"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Gold-OunceTroy",
+    "label": "Gold (one Troy ounce)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#GoldFranc",
+    "definition": "Bank for International Settlements",
+    "label": "Gold franc (special settlement currency)"
+  },
+  {
+    "symbol": "grad",
+    "unit": "http://qudt.org/vocab/unit#Grad",
+    "label": "Grad"
+  },
+  {
+    "symbol": "gr/gal",
+    "unit": "http://qudt.org/vocab/unit#GrainPerGallon",
+    "label": "Grain per Gallon"
+  },
+  {
+    "symbol": "g-degC",
+    "unit": "http://qudt.org/vocab/unit#GramDegreeCelsius",
+    "label": "Gram Degree Celsius"
+  },
+  {
+    "symbol": "G",
+    "unit": "http://qudt.org/vocab/unit#Gravity",
+    "label": "Gravity"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Guarani",
+    "definition": "Paraguay",
+    "label": "Guarani"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#GuineaFranc",
+    "definition": "Guinea",
+    "label": "Guinea Franc"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#GuyanaDollar",
+    "definition": "Guyana",
+    "label": "Guyana Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#HaitiGourde",
+    "definition": "Haiti",
+    "label": "Haiti Gourde"
+  },
+  {
+    "symbol": "E_h",
+    "unit": "http://qudt.org/vocab/unit#Hartree",
+    "definition": "A hartree (symbol E_h) is the atomic unit of energy. The hartree energy is equal to the absolute value of the electric potential energy of the hydrogen atom in its ground state.",
+    "label": "Hartree"
+  },
+  {
+    "symbol": "BPM",
+    "unit": "http://qudt.org/vocab/unit#HeartBeatsPerMinute",
+    "label": "Heart Beat per Minute"
+  },
+  {
+    "symbol": "H/m",
+    "unit": "http://qudt.org/vocab/unit#HenryPerMeter",
+    "label": "Henry per Meter"
+  },
+  {
+    "symbol": "Hz K^-1",
+    "unit": "http://qudt.org/vocab/unit#HertzPerKelvin",
+    "label": "Hertz per Kelvin"
+  },
+  {
+    "symbol": "Hz T^-1",
+    "unit": "http://qudt.org/vocab/unit#HertzPerTesla",
+    "label": "Hertz per Tesla"
+  },
+  {
+    "symbol": "Hz V^-1",
+    "unit": "http://qudt.org/vocab/unit#HertzPerVolt",
+    "label": "Hertz per Volt"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#HongKongDollar",
+    "definition": "Hong Kong Special Administrative Region",
+    "label": "Hong Kong Dollar"
+  },
+  {
+    "symbol": "HP",
+    "unit": "http://qudt.org/vocab/unit#Horsepower",
+    "definition": "550 foot-pound force per second",
+    "label": "Horsepower"
+  },
+  {
+    "symbol": "hp/boiler",
+    "unit": "http://qudt.org/vocab/unit#HorsepowerBoiler",
+    "label": "Horsepower Boiler"
+  },
+  {
+    "symbol": "hp/V",
+    "unit": "http://qudt.org/vocab/unit#HorsepowerElectric",
+    "label": "Horsepower Electric"
+  },
+  {
+    "symbol": "hp/m",
+    "unit": "http://qudt.org/vocab/unit#HorsepowerMetric",
+    "label": "Horsepower Metric"
+  },
+  {
+    "symbol": "hp/H2O",
+    "unit": "http://qudt.org/vocab/unit#HorsepowerWater",
+    "label": "Horsepower Water"
+  },
+  {
+    "symbol": "hr",
+    "unit": "http://qudt.org/vocab/unit#HourSidereal",
+    "label": "Hour Sidereal"
+  },
+  {
+    "symbol": "hr-ft^2",
+    "unit": "http://qudt.org/vocab/unit#HourSquareFoot",
+    "label": "Hour Square Foot"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Hryvnia",
+    "definition": "Ukraine",
+    "label": "Hryvnia"
+  },
+  {
+    "symbol": "cwt",
+    "unit": "http://qudt.org/vocab/unit#HundredWeightLong",
+    "label": "Hundred Weight - Long"
+  },
+  {
+    "symbol": "cwt",
+    "unit": "http://qudt.org/vocab/unit#HundredWeightShort",
+    "label": "Hundred Weight - Short"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#IcelandKrona",
+    "definition": "Iceland",
+    "label": "Iceland Krona"
+  },
+  {
+    "symbol": "in-lbf",
+    "unit": "http://qudt.org/vocab/unit#InchPoundForce",
+    "label": "Inch Pound Force"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#IndianRupee",
+    "definition": "Bhutan, India",
+    "label": "Indian Rupee"
+  },
+  {
+    "symbol": "IU",
+    "unit": "http://qudt.org/vocab/unit#InternationalUnit",
+    "label": "International Unit"
+  },
+  {
+    "symbol": "IU/L",
+    "unit": "http://qudt.org/vocab/unit#InternationalUnitPerLiter",
+    "label": "International Unit per Liter"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#IranianRial",
+    "definition": "Iran",
+    "label": "Iranian Rial"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#IraqiDinar",
+    "definition": "Iraq",
+    "label": "Iraqi Dinar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#JamaicanDollar",
+    "definition": "Jamaica",
+    "label": "Jamaican Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#JapaneseYen",
+    "definition": "Japan",
+    "label": "Japanese yen"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#JordanianDinar",
+    "definition": "Jordan",
+    "label": "Jordanian Dinar"
+  },
+  {
+    "symbol": "J m mol^-1",
+    "unit": "http://qudt.org/vocab/unit#JouleMeterPerMole",
+    "label": "Joule Meter per Mole"
+  },
+  {
+    "symbol": "J/m^3",
+    "unit": "http://qudt.org/vocab/unit#JoulePerCubicMeter",
+    "label": "Joule per Cubic Meter"
+  },
+  {
+    "symbol": "J/(m^3 K)",
+    "unit": "http://qudt.org/vocab/unit#JoulePerCubicMeterKelvin",
+    "label": "Joule per Cubic Meter Kelvin"
+  },
+  {
+    "symbol": "J/(kg-K-m^3)",
+    "unit": "http://qudt.org/vocab/unit#JoulePerKilogramKelvinPerCubicMeter",
+    "label": "Joule per Kilogram Kelvin per Cubic Meter"
+  },
+  {
+    "symbol": "J/(km-K-Pa)",
+    "unit": "http://qudt.org/vocab/unit#JoulePerKilogramKelvinPerPascal",
+    "label": "Joule per Kilogram Kelvin per Pascal"
+  },
+  {
+    "symbol": "J/m^2",
+    "unit": "http://qudt.org/vocab/unit#JoulePerSquareMeter",
+    "label": "Joule per Square Meter"
+  },
+  {
+    "symbol": "J T^-2",
+    "unit": "http://qudt.org/vocab/unit#JoulePerSquareTesla",
+    "label": "Joule per Square Tesla"
+  },
+  {
+    "symbol": "J T^-1",
+    "unit": "http://qudt.org/vocab/unit#JoulePerTesla",
+    "label": "Joule per Tesla"
+  },
+  {
+    "symbol": "J s mol^-1",
+    "unit": "http://qudt.org/vocab/unit#JouleSecondPerMole",
+    "label": "Joule Second per Mole"
+  },
+  {
+    "symbol": "K T^-1",
+    "unit": "http://qudt.org/vocab/unit#KelvinPerTesla",
+    "label": "Kelvin per Tesla"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#KenyanShilling",
+    "definition": "Kenya",
+    "label": "Kenyan Shilling"
+  },
+  {
+    "symbol": "keV",
+    "unit": "http://qudt.org/vocab/unit#KiloElectronVolt",
+    "label": "Kilo Electron Volt"
+  },
+  {
+    "symbol": "keV/µm",
+    "unit": "http://qudt.org/vocab/unit#KiloElectronVoltPerMicrometer",
+    "label": "Kilo Electron Volt per Micrometer"
+  },
+  {
+    "symbol": "KPaA",
+    "unit": "http://qudt.org/vocab/unit#KiloPascalAbsolute",
+    "label": "Kilopascal Absolute"
+  },
+  {
+    "symbol": "kbps",
+    "unit": "http://qudt.org/vocab/unit#KilobitsPerSecond",
+    "label": "Kilobit per Second"
+  },
+  {
+    "symbol": "kcal",
+    "unit": "http://qudt.org/vocab/unit#Kilocalorie",
+    "label": "Kilocalorie"
+  },
+  {
+    "symbol": "cal/(cm-s-degC)",
+    "unit": "http://qudt.org/vocab/unit#KilocaloriePerCentimeterSecondDegreeCelsius",
+    "label": "Calorie per Centimeter Second Degree Celsius"
+  },
+  {
+    "symbol": "kcal/gm",
+    "unit": "http://qudt.org/vocab/unit#KilocaloriePerGram",
+    "label": "Kilocalorie per Gram"
+  },
+  {
+    "symbol": "kcal/(gm-degC)",
+    "unit": "http://qudt.org/vocab/unit#KilocaloriePerGramDegreeCelsius",
+    "label": "Calorie per Gram Degree Celsius"
+  },
+  {
+    "symbol": "kcal/min",
+    "unit": "http://qudt.org/vocab/unit#KilocaloriePerMinute",
+    "label": "Kilocalorie per Minute"
+  },
+  {
+    "symbol": "kcal/mol",
+    "unit": "http://qudt.org/vocab/unit#KilocaloriePerMole",
+    "label": "Kilocalorie per Mole"
+  },
+  {
+    "symbol": "kcal/(mol-degC)",
+    "unit": "http://qudt.org/vocab/unit#KilocaloriePerMoleDegreeCelsius",
+    "label": "Kilocalorie per Mole Degree Celsius"
+  },
+  {
+    "symbol": "kcal/s",
+    "unit": "http://qudt.org/vocab/unit#KilocaloriePerSecond",
+    "label": "Kilocalorie per Second"
+  },
+  {
+    "symbol": "kcal/cm^2",
+    "unit": "http://qudt.org/vocab/unit#KilocaloriePerSquareCentimeter",
+    "label": "Kilocalorie per Square Centimeter"
+  },
+  {
+    "symbol": "kcal/(cm^2-min)",
+    "unit": "http://qudt.org/vocab/unit#KilocaloriePerSquareCentimeterMinute",
+    "label": "Kilocalorie per Square Centimeter Minute"
+  },
+  {
+    "symbol": "kcal/(cm^2-s)",
+    "unit": "http://qudt.org/vocab/unit#KilocaloriePerSquareCentimeterSecond",
+    "label": "Kilocalorie per Square Centimeter Second"
+  },
+  {
+    "symbol": "kgf",
+    "unit": "http://qudt.org/vocab/unit#KilogramForce",
+    "label": "Kilogram Force"
+  },
+  {
+    "symbol": "kgf-m",
+    "unit": "http://qudt.org/vocab/unit#KilogramForceMeter",
+    "label": "Kilogram Force Meter"
+  },
+  {
+    "symbol": "kgf/cm^2",
+    "unit": "http://qudt.org/vocab/unit#KilogramForcePerSquareCentimeter",
+    "label": "Kilogram Force per Square Centimeter"
+  },
+  {
+    "symbol": "kg-K",
+    "unit": "http://qudt.org/vocab/unit#KilogramKelvin",
+    "label": "Kilogram Kelvin"
+  },
+  {
+    "symbol": "kg m s^-1",
+    "unit": "http://qudt.org/vocab/unit#KilogramMeterPerSecond",
+    "label": "Kilogram Meter Per Second"
+  },
+  {
+    "symbol": "kg-m^2",
+    "unit": "http://qudt.org/vocab/unit#KilogramMeterSquared",
+    "label": "Kilogram Meter Squared"
+  },
+  {
+    "symbol": "kg/m^3",
+    "unit": "http://qudt.org/vocab/unit#KilogramPerCubicMeter",
+    "label": "Kilogram per Cubic Meter"
+  },
+  {
+    "symbol": "kg/m",
+    "unit": "http://qudt.org/vocab/unit#KilogramPerMeter",
+    "label": "Kilogram per Meter"
+  },
+  {
+    "symbol": "kg/m^2",
+    "unit": "http://qudt.org/vocab/unit#KilogramPerSquareMeter",
+    "label": "Kilogram per Square Meter"
+  },
+  {
+    "symbol": "km",
+    "unit": "http://qudt.org/vocab/unit#Kilometer",
+    "label": "Kilometer"
+  },
+  {
+    "symbol": "km/hr",
+    "unit": "http://qudt.org/vocab/unit#KilometerPerHour",
+    "label": "Kilometer per Hour"
+  },
+  {
+    "symbol": "km/s",
+    "unit": "http://qudt.org/vocab/unit#KilometerPerSecond",
+    "label": "Kilometer per Second"
+  },
+  {
+    "symbol": "kW-hr",
+    "unit": "http://qudt.org/vocab/unit#Kilowatthour",
+    "label": "Kilowatthour"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Kina",
+    "definition": "Papua New Guinea",
+    "label": "Kina"
+  },
+  {
+    "symbol": "kip",
+    "unit": "http://qudt.org/vocab/unit#Kip",
+    "definition": "1000 pound-force",
+    "label": "Kip"
+  },
+  {
+    "symbol": "kip/in^2",
+    "unit": "http://qudt.org/vocab/unit#KipPerSquareInch",
+    "label": "Kip per Square Inch"
+  },
+  {
+    "symbol": "kt/s",
+    "unit": "http://qudt.org/vocab/unit#KnotPerSecond",
+    "label": "Knot per Second"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Kroon",
+    "definition": "Estonia",
+    "label": "Kroon"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#KuwaitiDinar",
+    "definition": "Kuwait",
+    "label": "Kuwaiti Dinar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Kwanza",
+    "definition": "Angola",
+    "label": "Kwanza"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Kyat",
+    "definition": "Myanmar",
+    "label": "Kyat"
+  },
+  {
+    "symbol": "L",
+    "unit": "http://qudt.org/vocab/unit#Lambert",
+    "label": "Lambert"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Lari",
+    "definition": "Georgia",
+    "label": "Lari"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#LatvianLats",
+    "definition": "Latvia",
+    "label": "Latvian Lats"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#LebanesePound",
+    "definition": "Lebanon",
+    "label": "Lebanese Pound"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Lek",
+    "definition": "Albania",
+    "label": "Lek"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Lempira",
+    "definition": "Honduras",
+    "label": "Lempira"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Leone",
+    "definition": "Sierra Leone",
+    "label": "Leone"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#LiberianDollar",
+    "definition": "Liberia",
+    "label": "Liberian Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#LibyanDinar",
+    "definition": "Libya",
+    "label": "Libyan Dinar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Lilangeni",
+    "definition": "Swaziland",
+    "label": "Lilangeni"
+  },
+  {
+    "symbol": "cup",
+    "unit": "http://qudt.org/vocab/unit#LiquidCupUS",
+    "label": "US Liquid Cup"
+  },
+  {
+    "symbol": "oz",
+    "unit": "http://qudt.org/vocab/unit#LiquidOunceUS",
+    "label": "US Liquid Ounce"
+  },
+  {
+    "symbol": "pt",
+    "unit": "http://qudt.org/vocab/unit#LiquidPintUS",
+    "label": "US Liquid Pint"
+  },
+  {
+    "symbol": "qt",
+    "unit": "http://qudt.org/vocab/unit#LiquidQuartUS",
+    "label": "US Liquid Quart"
+  },
+  {
+    "symbol": "L",
+    "unit": "http://qudt.org/vocab/unit#Liter",
+    "label": "Liter"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#LithuanianLitas",
+    "definition": "Lithuania",
+    "label": "Lithuanian Litas"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Loti",
+    "definition": "Lesotho",
+    "label": "Loti"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Mach",
+    "label": "Mach"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#MalagasyAriary",
+    "definition": "Madagascar",
+    "label": "Malagasy Ariary"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#MalawiKwacha",
+    "definition": "Malawi",
+    "label": "Malawi Kwacha"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#MalaysianRinggit",
+    "definition": "Malaysia",
+    "label": "Malaysian Ringgit"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#MalteseLira",
+    "definition": "Malta",
+    "label": "Maltese Lira"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Manat",
+    "definition": "Turkmenistan",
+    "label": "Manat"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#MauritiusRupee",
+    "definition": "Mauritius",
+    "label": "Mauritius Rupee"
+  },
+  {
+    "symbol": "Mx",
+    "unit": "http://qudt.org/vocab/unit#Maxwell",
+    "label": "Maxwell"
+  },
+  {
+    "symbol": "MeV",
+    "unit": "http://qudt.org/vocab/unit#MegaElectronVolt",
+    "label": "Mega Electron Volt"
+  },
+  {
+    "symbol": "MeV fm",
+    "unit": "http://qudt.org/vocab/unit#MegaElectronVoltFemtometer",
+    "label": "Mega Electron Volt Femtometer"
+  },
+  {
+    "symbol": "MeV/cm",
+    "unit": "http://qudt.org/vocab/unit#MegaElectronVoltPerCentimeter",
+    "label": "Mega Electron Volt per Centimeter"
+  },
+  {
+    "symbol": "MeV/c",
+    "unit": "http://qudt.org/vocab/unit#MegaElectronVoltPerSpeedOfLight",
+    "label": "Mega Electron Volt per Speed of Light"
+  },
+  {
+    "symbol": "MHz K^-1",
+    "unit": "http://qudt.org/vocab/unit#MegaHertzPerKelvin",
+    "label": "Mega Hertz per Kelvin"
+  },
+  {
+    "symbol": "MHz T^-1",
+    "unit": "http://qudt.org/vocab/unit#MegaHertzPerTesla",
+    "label": "Mega Hertz per Tesla"
+  },
+  {
+    "symbol": "mbps",
+    "unit": "http://qudt.org/vocab/unit#MegabitsPerSecond",
+    "label": "Megabit per Second"
+  },
+  {
+    "symbol": "m",
+    "unit": "http://qudt.org/vocab/unit#Meter",
+    "label": "Meter"
+  },
+  {
+    "symbol": "m K",
+    "unit": "http://qudt.org/vocab/unit#MeterKelvin",
+    "label": "Meter Kelvin"
+  },
+  {
+    "symbol": "K-m/W",
+    "unit": "http://qudt.org/vocab/unit#MeterKelvinPerWatt",
+    "label": "Meter Kelvin per Watt"
+  },
+  {
+    "symbol": "m-kg",
+    "unit": "http://qudt.org/vocab/unit#MeterKilogram",
+    "label": "Meter Kilogram"
+  },
+  {
+    "symbol": "m/F",
+    "unit": "http://qudt.org/vocab/unit#MeterPerFarad",
+    "label": "Meter per Farad"
+  },
+  {
+    "symbol": "m h^-1",
+    "unit": "http://qudt.org/vocab/unit#MeterPerHour",
+    "label": "Meter per Hour"
+  },
+  {
+    "symbol": "m/K",
+    "unit": "http://qudt.org/vocab/unit#MeterPerKelvin",
+    "label": "Meter per Kelvin"
+  },
+  {
+    "symbol": "m min^-1",
+    "unit": "http://qudt.org/vocab/unit#MeterPerMinute",
+    "label": "Meter per Minute"
+  },
+  {
+    "symbol": "m s^-1",
+    "unit": "http://qudt.org/vocab/unit#MeterPerSecond",
+    "label": "Meter per Second"
+  },
+  {
+    "symbol": "m s^-2",
+    "unit": "http://qudt.org/vocab/unit#MeterPerSecondSquared",
+    "label": "Meter per Second Squared"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Metical",
+    "definition": "Mozambique",
+    "label": "Metical"
+  },
+  {
+    "symbol": "mT",
+    "unit": "http://qudt.org/vocab/unit#MetricTon",
+    "definition": "Also called tonne",
+    "label": "Metric Ton"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#MexicanPeso",
+    "definition": "Mexico",
+    "label": "Mexican Peso"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#MexicanUnidadDeInversion",
+    "definition": "Mexico",
+    "label": "Mexican Unidad de Inversion (UDI) (Funds code)"
+  },
+  {
+    "symbol": "in^-6",
+    "unit": "http://qudt.org/vocab/unit#MicroInch",
+    "label": "Microinch"
+  },
+  {
+    "symbol": "µtorr",
+    "unit": "http://qudt.org/vocab/unit#MicroTorr",
+    "label": "MicroTorr"
+  },
+  {
+    "symbol": "microG",
+    "unit": "http://qudt.org/vocab/unit#Microgravity",
+    "label": "Microgravity"
+  },
+  {
+    "symbol": "µm",
+    "unit": "http://qudt.org/vocab/unit#Micrometer",
+    "label": "Micrometer"
+  },
+  {
+    "symbol": "mil",
+    "unit": "http://qudt.org/vocab/unit#MilAngle",
+    "definition": "The Mil unit of plane angle, as defined by NATO to be 1/6400 of a circle.",
+    "label": "Mil Angle (NATO)"
+  },
+  {
+    "symbol": "mil",
+    "unit": "http://qudt.org/vocab/unit#MilLength",
+    "label": "Mil Length"
+  },
+  {
+    "symbol": "mi",
+    "unit": "http://qudt.org/vocab/unit#MileInternational",
+    "label": "Mile - International Standard"
+  },
+  {
+    "symbol": "mi/min",
+    "unit": "http://qudt.org/vocab/unit#MilePerMinute",
+    "label": "Mile per Minute"
+  },
+  {
+    "symbol": "mi",
+    "unit": "http://qudt.org/vocab/unit#MileUSStatute",
+    "label": "Mile US Statute"
+  },
+  {
+    "symbol": "utorr",
+    "unit": "http://qudt.org/vocab/unit#MilliTorr",
+    "label": "MilliTorr"
+  },
+  {
+    "symbol": "mG",
+    "unit": "http://qudt.org/vocab/unit#Milligravity",
+    "label": "Milligravity"
+  },
+  {
+    "symbol": "mmHg",
+    "unit": "http://qudt.org/vocab/unit#MillimeterOfMercury",
+    "definition": "The millimeter of mercury is defined as the pressure exerted at the base of a column of fluid exactly 1 mm high, when the density of the fluid is exactly 13.5951 g/cm3, at a place where the acceleration of gravity is exactly 9.80665 m/s^2.",
+    "label": "Millimeter of Mercury"
+  },
+  {
+    "symbol": "mmHgA",
+    "unit": "http://qudt.org/vocab/unit#MillimeterOfMercuryAbsolute",
+    "definition": "Millimeters of Mercury inclusive of atmospheric pressure",
+    "label": "Millimeter of Mercury - Absolute"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#MillionUSDollars",
+    "label": "Million US Dollars"
+  },
+  {
+    "symbol": "min",
+    "unit": "http://qudt.org/vocab/unit#MinuteSidereal",
+    "label": "Minute Sidereal"
+  },
+  {
+    "symbol": "min",
+    "unit": "http://qudt.org/vocab/unit#MinuteTime",
+    "label": "Minute Time"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#MoldovanLeu",
+    "definition": "Moldova",
+    "label": "Moldovan Leu"
+  },
+  {
+    "symbol": "mol-degC",
+    "unit": "http://qudt.org/vocab/unit#MoleDegreeCelsius",
+    "label": "Mole Degree Celsius"
+  },
+  {
+    "symbol": "mol-K",
+    "unit": "http://qudt.org/vocab/unit#MoleKelvin",
+    "label": "Mole Kelvin"
+  },
+  {
+    "symbol": "mol/m^3",
+    "unit": "http://qudt.org/vocab/unit#MolePerCubicMeter",
+    "label": "Mole per Cubic Meter"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#MoroccanDirham",
+    "definition": "Morocco, Western Sahara",
+    "label": "Moroccan Dirham"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Naira",
+    "definition": "Nigeria",
+    "label": "Naira"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Nakfa",
+    "definition": "Eritrea",
+    "label": "Nakfa"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#NamibianDollar",
+    "definition": "Namibia",
+    "label": "Namibian Dollar"
+  },
+  {
+    "symbol": "nat",
+    "unit": "http://qudt.org/vocab/unit#Nat",
+    "definition": "A nat is a logarithmic unit of information or entropy, based on natural logarithms and powers of e, rather than the powers of 2 and base 2 logarithms which define the bit. The nat is the natural unit for information entropy. Physical systems of natural units which normalize Boltzmann's constant to 1 are effectively measuring thermodynamic entropy in nats.",
+    "label": "Nat"
+  },
+  {
+    "symbol": "nmi/hr",
+    "unit": "http://qudt.org/vocab/unit#NauticalMilePerHour",
+    "label": "Nautical Mile per Hour"
+  },
+  {
+    "symbol": "nmi/min",
+    "unit": "http://qudt.org/vocab/unit#NauticalMilePerMinute",
+    "label": "Nautical Mile per Minute"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#NepaleseRupee",
+    "definition": "Nepal",
+    "label": "Nepalese Rupee"
+  },
+  {
+    "symbol": "NTU",
+    "unit": "http://qudt.org/vocab/unit#NephelometricTurbidityUnit",
+    "label": "Nephelometry Turbidity Unit"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#NetherlandsAntillianGuilder",
+    "definition": "Netherlands Antilles",
+    "label": "Netherlands Antillian Guilder"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#NewIsraeliShekel",
+    "definition": "Israel",
+    "label": "New Israeli Shekel"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#NewTaiwanDollar",
+    "definition": "Taiwan and other islands that are under the effective control of the Republic of China (ROC)",
+    "label": "New Taiwan Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#NewTurkishLira",
+    "definition": "Turkey",
+    "label": "New Turkish Lira"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#NewZealandDollar",
+    "definition": "Cook Islands, New Zealand, Niue, Pitcairn, Tokelau",
+    "label": "New Zealand Dollar"
+  },
+  {
+    "symbol": "N-m",
+    "unit": "http://qudt.org/vocab/unit#NewtonMeter",
+    "label": "Newton Meter"
+  },
+  {
+    "symbol": "N/C",
+    "unit": "http://qudt.org/vocab/unit#NewtonPerCoulomb",
+    "label": "Newton per Coulomb"
+  },
+  {
+    "symbol": "N/kg",
+    "unit": "http://qudt.org/vocab/unit#NewtonPerKilogram",
+    "label": "Newton per Kilogram"
+  },
+  {
+    "symbol": "N/m",
+    "unit": "http://qudt.org/vocab/unit#NewtonPerMeter",
+    "label": "Newton per Meter"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Ngultrum",
+    "definition": "Bhutan",
+    "label": "Ngultrum"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#NorthKoreanWon",
+    "definition": "North Korea",
+    "label": "North Korean Won"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#NorwegianKrone",
+    "definition": "Norway",
+    "label": "Norwegian Krone"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#NuevoSol",
+    "definition": "Peru",
+    "label": "Nuevo Sol"
+  },
+  {
+    "symbol": "#",
+    "unit": "http://qudt.org/vocab/unit#Number",
+    "label": "Number"
+  },
+  {
+    "symbol": "#/yr",
+    "unit": "http://qudt.org/vocab/unit#NumberPerYear",
+    "label": "Number per Year"
+  },
+  {
+    "symbol": "Oe",
+    "unit": "http://qudt.org/vocab/unit#Oersted",
+    "label": "Oersted"
+  },
+  {
+    "symbol": "Oe-cm",
+    "unit": "http://qudt.org/vocab/unit#OerstedCentimeter",
+    "label": "Oersted Centimeter"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#OmaniRial",
+    "definition": "Oman",
+    "label": "Rial Omani"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Ouguiya",
+    "definition": "Mauritania",
+    "label": "Ouguiya"
+  },
+  {
+    "symbol": "ozf",
+    "unit": "http://qudt.org/vocab/unit#OunceForce",
+    "label": "Ounce Force"
+  },
+  {
+    "symbol": "ozf-in",
+    "unit": "http://qudt.org/vocab/unit#OunceForceInch",
+    "label": "Ounce Force Inch"
+  },
+  {
+    "symbol": "oz",
+    "unit": "http://qudt.org/vocab/unit#OunceImperial",
+    "label": "Imperial Ounce"
+  },
+  {
+    "symbol": "ozm",
+    "unit": "http://qudt.org/vocab/unit#OunceMass",
+    "definition": "An ounce of mass is 1/16th of a pound of mass, based on the international standard definition of the pound as exactly 0.45359237 kg.",
+    "label": "Ounce Mass"
+  },
+  {
+    "symbol": "oz/in^3",
+    "unit": "http://qudt.org/vocab/unit#OuncePerCubicInch",
+    "label": "Ounce per Cubic Inch"
+  },
+  {
+    "symbol": "oz/gal",
+    "unit": "http://qudt.org/vocab/unit#OuncePerGallon",
+    "label": "Ounce per Gallon"
+  },
+  {
+    "symbol": "oz",
+    "unit": "http://qudt.org/vocab/unit#OunceTroy",
+    "definition": "An obsolete unit of mass; the Troy Ounce is 1/12th of a Troy Pound. Based on the international definition of a Troy Pound as 5760 grains, the Troy Ounce is exactly 480 grains, or 0.0311034768 kg.",
+    "label": "Ounce Troy"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Paanga",
+    "definition": "Tonga",
+    "label": "Pa'anga"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PakistanRupee",
+    "definition": "Pakistan",
+    "label": "Pakistan Rupee"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Palladium-OunceTroy",
+    "label": "Palladium (one Troy ounce)"
+  },
+  {
+    "symbol": "P / hr",
+    "unit": "http://qudt.org/vocab/unit#PascalPerHour",
+    "label": "Pascal per Hour"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PascalPerMinute",
+    "label": "Pascal per Minute"
+  },
+  {
+    "symbol": "P / s",
+    "unit": "http://qudt.org/vocab/unit#PascalPerSecond",
+    "label": "Pascal per Second"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Pataca",
+    "definition": "Macau Special Administrative Region",
+    "label": "Pataca"
+  },
+  {
+    "symbol": "pk",
+    "unit": "http://qudt.org/vocab/unit#Peck",
+    "label": "US Peck"
+  },
+  {
+    "symbol": "dwt",
+    "unit": "http://qudt.org/vocab/unit#PennyWeight",
+    "label": "Penny Weight"
+  },
+  {
+    "symbol": "m^-3",
+    "unit": "http://qudt.org/vocab/unit#PerCubicMeter",
+    "label": "Per Cubic Meter"
+  },
+  {
+    "symbol": "m^-1",
+    "unit": "http://qudt.org/vocab/unit#PerMeter",
+    "label": "Per Meter Unit"
+  },
+  {
+    "symbol": "m^-1 K^-1",
+    "unit": "http://qudt.org/vocab/unit#PerMeterKelvin",
+    "label": "Per Meter Kelvin Unit"
+  },
+  {
+    "symbol": "mol^-1",
+    "unit": "http://qudt.org/vocab/unit#PerMole",
+    "label": "Per Mole Unit"
+  },
+  {
+    "symbol": "s^-1",
+    "unit": "http://qudt.org/vocab/unit#PerSecond",
+    "label": "Inverse Second"
+  },
+  {
+    "symbol": "GeV^-2",
+    "unit": "http://qudt.org/vocab/unit#PerSquareGigaElectronVolt",
+    "label": "Per Square Giga Electron Volt Unit"
+  },
+  {
+    "symbol": "m^-1 T^-1",
+    "unit": "http://qudt.org/vocab/unit#PerTeslaMeter",
+    "label": "Per Tesla Meter Unit"
+  },
+  {
+    "symbol": "s^-1 T^-1",
+    "unit": "http://qudt.org/vocab/unit#PerTeslaSecond",
+    "label": "Per Tesla Second Unit"
+  },
+  {
+    "symbol": "%",
+    "unit": "http://qudt.org/vocab/unit#Percent",
+    "label": "Percent"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PhilippinePeso",
+    "definition": "Philippines",
+    "label": "Philippine Peso"
+  },
+  {
+    "symbol": "ph",
+    "unit": "http://qudt.org/vocab/unit#Phot",
+    "label": "Phot"
+  },
+  {
+    "symbol": "Pm",
+    "unit": "http://qudt.org/vocab/unit#Pica",
+    "label": "Pica"
+  },
+  {
+    "symbol": "pi",
+    "unit": "http://qudt.org/vocab/unit#PintImperial",
+    "label": "Imperial Pint"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckArea",
+    "label": "Planck Area"
+  },
+  {
+    "symbol": "Q_p",
+    "unit": "http://qudt.org/vocab/unit#PlanckCharge",
+    "label": "Planck Charge"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckCurrent",
+    "label": "Planck Current"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckCurrentDensity",
+    "label": "Planck Current Density"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckDensity",
+    "label": "Planck Density"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckEnergy",
+    "label": "Planck Energy"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckForce",
+    "label": "Planck Force"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckFrequency",
+    "label": "Planck Frequency"
+  },
+  {
+    "symbol": "l_P",
+    "unit": "http://qudt.org/vocab/unit#PlanckLength",
+    "label": "Planck Length"
+  },
+  {
+    "symbol": "m_P",
+    "unit": "http://qudt.org/vocab/unit#PlanckMass",
+    "label": "Planck Mass"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckMomentum",
+    "label": "Planck Momentum"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckPower",
+    "label": "Planck Power"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckPressure",
+    "label": "Planck Pressure"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckResistance",
+    "label": "Planck Resistance"
+  },
+  {
+    "symbol": "Θ_P",
+    "unit": "http://qudt.org/vocab/unit#PlanckTemperature",
+    "label": "Planck Temperature"
+  },
+  {
+    "symbol": "t_P",
+    "unit": "http://qudt.org/vocab/unit#PlanckTime",
+    "label": "Planck Time"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckVolt",
+    "label": "Planck Volt"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PlanckVolume",
+    "label": "Planck Volume"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Platinum-OunceTroy",
+    "label": "Platinum (one Troy ounce)"
+  },
+  {
+    "symbol": "pt",
+    "unit": "http://qudt.org/vocab/unit#Point",
+    "label": "Point"
+  },
+  {
+    "symbol": "lb-degF",
+    "unit": "http://qudt.org/vocab/unit#PoundDegreeFahrenheit",
+    "label": "Pound Degree Fahrenheit"
+  },
+  {
+    "symbol": "lb-degR",
+    "unit": "http://qudt.org/vocab/unit#PoundDegreeRankine",
+    "label": "Pound Degree Rankine"
+  },
+  {
+    "symbol": "lbf",
+    "unit": "http://qudt.org/vocab/unit#PoundForce",
+    "label": "Pound Force"
+  },
+  {
+    "symbol": "lbf-ft",
+    "unit": "http://qudt.org/vocab/unit#PoundForceFoot",
+    "label": "Pound Force Foot"
+  },
+  {
+    "symbol": "lbf-in",
+    "unit": "http://qudt.org/vocab/unit#PoundForceInch",
+    "label": "Pound Force Inch"
+  },
+  {
+    "symbol": "lbf/ft",
+    "unit": "http://qudt.org/vocab/unit#PoundForcePerFoot",
+    "label": "Pound Force per Foot"
+  },
+  {
+    "symbol": "lbf/in",
+    "unit": "http://qudt.org/vocab/unit#PoundForcePerInch",
+    "label": "Pound Force per Inch"
+  },
+  {
+    "symbol": "lbf/lb",
+    "unit": "http://qudt.org/vocab/unit#PoundForcePerPound",
+    "label": "Pound Force per Pound"
+  },
+  {
+    "symbol": "lbf/ft^2",
+    "unit": "http://qudt.org/vocab/unit#PoundForcePerSquareFoot",
+    "label": "Pound Force per Square Foot"
+  },
+  {
+    "symbol": "psi",
+    "unit": "http://qudt.org/vocab/unit#PoundForcePerSquareInch",
+    "label": "Pound Force per Square Inch"
+  },
+  {
+    "symbol": "lbf / in^2-s",
+    "unit": "http://qudt.org/vocab/unit#PoundForcePerSquareInchSecond",
+    "label": "Pound Force per Square Inch Second"
+  },
+  {
+    "symbol": "lbf-s/ft^2",
+    "unit": "http://qudt.org/vocab/unit#PoundForceSecondPerSquareFoot",
+    "label": "Pound Force Second per Square Foot"
+  },
+  {
+    "symbol": "lbf-s/in^2",
+    "unit": "http://qudt.org/vocab/unit#PoundForceSecondPerSquareInch",
+    "label": "Pound Force Second per Square Inch"
+  },
+  {
+    "symbol": "lbm",
+    "unit": "http://qudt.org/vocab/unit#PoundMass",
+    "definition": "A pound of mass, based on the international standard definition of the pound as exactly 0.45359237 kg.",
+    "label": "Pound Mass"
+  },
+  {
+    "symbol": "lb-mol",
+    "unit": "http://qudt.org/vocab/unit#PoundMole",
+    "label": "Pound Mole"
+  },
+  {
+    "symbol": "lb-mol-degF",
+    "unit": "http://qudt.org/vocab/unit#PoundMoleDegreeFahrenheit",
+    "label": "Pound Mole Degree Fahrenheit"
+  },
+  {
+    "symbol": "lbm/m^3",
+    "unit": "http://qudt.org/vocab/unit#PoundPerCubicMeter",
+    "label": "Pound per Cubic Meter"
+  },
+  {
+    "symbol": "lb/gal",
+    "unit": "http://qudt.org/vocab/unit#PoundPerGallon",
+    "label": "Pound per Gallon"
+  },
+  {
+    "symbol": "lb/in",
+    "unit": "http://qudt.org/vocab/unit#PoundPerInch",
+    "label": "Pound per Inch"
+  },
+  {
+    "symbol": "lb/min",
+    "unit": "http://qudt.org/vocab/unit#PoundPerMinute",
+    "label": "Pound per Minute"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#PoundSterling",
+    "definition": "United Kingdom",
+    "label": "Pound Sterling"
+  },
+  {
+    "symbol": "lbm",
+    "unit": "http://qudt.org/vocab/unit#PoundTroy",
+    "definition": "An obsolete unit of mass; the Troy Pound has been defined as exactly 5760 grains, or 0.3732417216 kg. A Troy Ounce is 1/12th of a Troy Pound.",
+    "label": "Pound Troy"
+  },
+  {
+    "symbol": "pdl",
+    "unit": "http://qudt.org/vocab/unit#Poundal",
+    "label": "Poundal"
+  },
+  {
+    "symbol": "pdl/ft^2",
+    "unit": "http://qudt.org/vocab/unit#PoundalPerSquareFoot",
+    "label": "Poundal per Square Foot"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Pula",
+    "definition": "Botswana",
+    "label": "Pula"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#QatariRial",
+    "definition": "Qatar",
+    "label": "Qatari Rial"
+  },
+  {
+    "symbol": "quad",
+    "unit": "http://qudt.org/vocab/unit#Quad",
+    "label": "Quad"
+  },
+  {
+    "symbol": "C^4 m^4 J^-3",
+    "unit": "http://qudt.org/vocab/unit#QuarticCoulombMeterPerCubicEnergy",
+    "label": "Quartic Coulomb Meter per Cubic Energy"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Quetzal",
+    "definition": "Guatemala",
+    "label": "Quetzal"
+  },
+  {
+    "symbol": "rad/h",
+    "unit": "http://qudt.org/vocab/unit#RadianPerHour",
+    "label": "Radian per Hour"
+  },
+  {
+    "symbol": "RT",
+    "unit": "http://qudt.org/vocab/unit#RegisterTon",
+    "definition": "The register ton is a unit of volume used for the cargo capacity of a ship, defined as 100 cubic feet (roughly 2.83 cubic metres).",
+    "label": "Register Ton"
+  },
+  {
+    "symbol": "μr",
+    "unit": "http://qudt.org/vocab/unit#RelativePermeability",
+    "label": "Relative Permeability"
+  },
+  {
+    "symbol": "εr",
+    "unit": "http://qudt.org/vocab/unit#RelativePermittivity",
+    "label": "Relative Permittivity"
+  },
+  {
+    "symbol": "rev",
+    "unit": "http://qudt.org/vocab/unit#Revolution",
+    "label": "Revolution"
+  },
+  {
+    "symbol": "rev/h",
+    "unit": "http://qudt.org/vocab/unit#RevolutionPerHour",
+    "label": "Revolution per Hour"
+  },
+  {
+    "symbol": "rev/min",
+    "unit": "http://qudt.org/vocab/unit#RevolutionPerMinute",
+    "label": "Revolution per Minute"
+  },
+  {
+    "symbol": "rev/s",
+    "unit": "http://qudt.org/vocab/unit#RevolutionPerSecond",
+    "label": "Revolution per Second"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#RevolutionPerSecondSquared",
+    "label": "Revolution per Second Squared"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Riel",
+    "definition": "Cambodia",
+    "label": "Riel"
+  },
+  {
+    "symbol": "rd",
+    "unit": "http://qudt.org/vocab/unit#Rod",
+    "definition": "A unit of distance equal to 5.5 yards (16 feet 6 inches).",
+    "label": "Rod"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#RomanianNeLeu",
+    "definition": "Romania",
+    "label": "Romanian New Leu"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Rufiyaa",
+    "definition": "Maldives",
+    "label": "Rufiyaa"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Rupiah",
+    "definition": "Indonesia",
+    "label": "Rupiah"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#RussianRuble",
+    "definition": "Russia, Abkhazia, South Ossetia",
+    "label": "Russian Ruble"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#RwandaFranc",
+    "definition": "Rwanda",
+    "label": "Rwanda Franc"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SaintHelenaPound",
+    "definition": "Saint Helena",
+    "label": "Saint Helena Pound"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SamoanTala",
+    "definition": "Samoa",
+    "label": "Samoan Tala"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SamplePerSecond",
+    "definition": "The number of discrete samples of some thing per second.",
+    "label": "Sample per second"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SaudiRiyal",
+    "definition": "Saudi Arabia",
+    "label": "Saudi Riyal"
+  },
+  {
+    "symbol": "s-ft^2",
+    "unit": "http://qudt.org/vocab/unit#SecondSquareFoot",
+    "label": "Second Square Foot"
+  },
+  {
+    "symbol": "s",
+    "unit": "http://qudt.org/vocab/unit#SecondTime",
+    "label": "Second"
+  },
+  {
+    "symbol": "s^2",
+    "unit": "http://qudt.org/vocab/unit#SecondTimeSquared",
+    "label": "Second Time Squared"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SerbianDinar",
+    "definition": "Serbia",
+    "label": "Serbian Dinar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SeychellesRupee",
+    "definition": "Seychelles",
+    "label": "Seychelles Rupee"
+  },
+  {
+    "symbol": "Sh",
+    "unit": "http://qudt.org/vocab/unit#Shake",
+    "label": "Shake"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Silver-OunceTroy",
+    "label": "Silver (one Troy ounce)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SingaporeDollar",
+    "definition": "Singapore",
+    "label": "Singapore Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SlovakKoruna",
+    "definition": "Slovakia",
+    "label": "Slovak Koruna"
+  },
+  {
+    "symbol": "slug/ft",
+    "unit": "http://qudt.org/vocab/unit#SlugPerFoot",
+    "label": "Slug per Foot"
+  },
+  {
+    "symbol": "slug/ft^2",
+    "unit": "http://qudt.org/vocab/unit#SlugPerSquareFoot",
+    "label": "Slug per Square Foot"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SolomonIslandsDollar",
+    "definition": "Solomon Islands",
+    "label": "Solomon Islands Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Som",
+    "definition": "Kyrgyzstan",
+    "label": "Som"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SomaliShilling",
+    "definition": "Somalia",
+    "label": "Somali Shilling"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Somoni",
+    "definition": "Tajikistan",
+    "label": "Somoni"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SouthAfricanRand",
+    "definition": "South Africa",
+    "label": "South African Rand"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SouthKoreanWon",
+    "definition": "South Korea",
+    "label": "South Korean Won"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SpecialDrawingRights",
+    "definition": "International Monetary Fund",
+    "label": "Special Drawing Rights"
+  },
+  {
+    "symbol": "cm^2",
+    "unit": "http://qudt.org/vocab/unit#SquareCentimeter",
+    "label": "Square Centimeter"
+  },
+  {
+    "symbol": "cm^2-m",
+    "unit": "http://qudt.org/vocab/unit#SquareCentimeterMinute",
+    "label": "Square Centimeter Minute"
+  },
+  {
+    "symbol": "cm^2-s",
+    "unit": "http://qudt.org/vocab/unit#SquareCentimeterSecond",
+    "label": "Square Centimeter Second"
+  },
+  {
+    "symbol": "C^2 m^2 J^-1",
+    "unit": "http://qudt.org/vocab/unit#SquareCoulombMeterPerJoule",
+    "label": "Square Coulomb Meter per Joule"
+  },
+  {
+    "symbol": "deg^2",
+    "unit": "http://qudt.org/vocab/unit#SquareDegree",
+    "label": "Square degree"
+  },
+  {
+    "symbol": "ft^2-degF",
+    "unit": "http://qudt.org/vocab/unit#SquareFootDegreeFahrenheit",
+    "label": "Square Foot Degree Fahrenheit"
+  },
+  {
+    "symbol": "ft^2-hr-degF",
+    "unit": "http://qudt.org/vocab/unit#SquareFootHourDegreeFahrenheit",
+    "label": "Square Foot Hour Degree Fahrenheit"
+  },
+  {
+    "symbol": "(degF-hr-ft^2)/Btu",
+    "unit": "http://qudt.org/vocab/unit#SquareFootHourDegreeFahrenheitPerBtu",
+    "label": "Square Foot Hour Degree Fahrenheit per BTU"
+  },
+  {
+    "symbol": "ft^2/(Btu-in)",
+    "unit": "http://qudt.org/vocab/unit#SquareFootPerBtuInch",
+    "label": "Square Foot per BTU Inch"
+  },
+  {
+    "symbol": "ft^2/hr",
+    "unit": "http://qudt.org/vocab/unit#SquareFootPerHour",
+    "label": "Square Foot per Hour"
+  },
+  {
+    "symbol": "ft^2-s-degF",
+    "unit": "http://qudt.org/vocab/unit#SquareFootSecondDegreeFahrenheit",
+    "label": "Square Foot Second Degree Fahrenheit"
+  },
+  {
+    "symbol": "m^2",
+    "unit": "http://qudt.org/vocab/unit#SquareMeter",
+    "label": "Square Meter"
+  },
+  {
+    "symbol": "m^2-K",
+    "unit": "http://qudt.org/vocab/unit#SquareMeterKelvin",
+    "label": "Square Meter Kelvin"
+  },
+  {
+    "symbol": "(K^2)m/W",
+    "unit": "http://qudt.org/vocab/unit#SquareMeterKelvinPerWatt",
+    "label": "Square Meter Kelvin per Watt"
+  },
+  {
+    "symbol": "m^2/K",
+    "unit": "http://qudt.org/vocab/unit#SquareMeterPerKelvin",
+    "label": "Square Meter per Kelvin"
+  },
+  {
+    "symbol": "m^2 s^-1",
+    "unit": "http://qudt.org/vocab/unit#SquareMeterPerSecond",
+    "label": "Square Meter per Second"
+  },
+  {
+    "symbol": "m^2-sr",
+    "unit": "http://qudt.org/vocab/unit#SquareMeterSteradian",
+    "label": "Square Meter Steradian"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SriLankaRupee",
+    "definition": "Sri Lanka",
+    "label": "Sri Lanka Rupee"
+  },
+  {
+    "symbol": "statA",
+    "unit": "http://qudt.org/vocab/unit#Statampere",
+    "label": "Statampere"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#StatamperePerSquareCentimeter",
+    "label": "Statampere per Square Centimeter"
+  },
+  {
+    "symbol": "statC",
+    "unit": "http://qudt.org/vocab/unit#Statcoulomb",
+    "label": "Statcoulomb"
+  },
+  {
+    "symbol": "statC/mol",
+    "unit": "http://qudt.org/vocab/unit#StatcoulombPerMole",
+    "label": "Statcoulomb per Mole"
+  },
+  {
+    "symbol": "statC/cm^2",
+    "unit": "http://qudt.org/vocab/unit#StatcoulombPerSquareCentimeter",
+    "label": "Statcoulomb per Square Centimeter"
+  },
+  {
+    "symbol": "statF",
+    "unit": "http://qudt.org/vocab/unit#Statfarad",
+    "label": "Statfarad"
+  },
+  {
+    "symbol": "statH",
+    "unit": "http://qudt.org/vocab/unit#Stathenry",
+    "label": "Stathenry"
+  },
+  {
+    "symbol": "statH/cm",
+    "unit": "http://qudt.org/vocab/unit#StathenryPerCentimeter",
+    "label": "Stathenry per Centimeter"
+  },
+  {
+    "symbol": "statS",
+    "unit": "http://qudt.org/vocab/unit#Statmho",
+    "label": "Statmho"
+  },
+  {
+    "symbol": "statOhm",
+    "unit": "http://qudt.org/vocab/unit#Statohm",
+    "label": "Statohm"
+  },
+  {
+    "symbol": "statV",
+    "unit": "http://qudt.org/vocab/unit#Statvolt",
+    "label": "Statvolt"
+  },
+  {
+    "symbol": "statV cm",
+    "unit": "http://qudt.org/vocab/unit#StatvoltCentimeter",
+    "label": "Statvolt Centimeter"
+  },
+  {
+    "symbol": "statV/cm",
+    "unit": "http://qudt.org/vocab/unit#StatvoltPerCentimeter",
+    "label": "Statvolt per Centimeter"
+  },
+  {
+    "symbol": "sb",
+    "unit": "http://qudt.org/vocab/unit#Stilb",
+    "label": "Stilb"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SudanesePound",
+    "definition": "Sudan",
+    "label": "Sudanese Pound"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SurinamDollar",
+    "definition": "Suriname",
+    "label": "Surinam Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SwedishKrona",
+    "definition": "Sweden",
+    "label": "Swedish Krona"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SwissFranc",
+    "definition": "Switzerland, Liechtenstein",
+    "label": "Swiss Franc"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#SyrianPound",
+    "definition": "Syria",
+    "label": "Syrian Pound"
+  },
+  {
+    "symbol": "tbsp",
+    "unit": "http://qudt.org/vocab/unit#Tablespoon",
+    "label": "Tablespoon"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#TanzanianShilling",
+    "definition": "Tanzania",
+    "label": "Tanzanian Shilling"
+  },
+  {
+    "symbol": "tsp",
+    "unit": "http://qudt.org/vocab/unit#Teaspoon",
+    "label": "Teaspoon"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Tenge",
+    "definition": "Kazakhstan",
+    "label": "Tenge"
+  },
+  {
+    "symbol": "m T",
+    "unit": "http://qudt.org/vocab/unit#TeslaMeter",
+    "label": "Tesla Meter"
+  },
+  {
+    "symbol": "s T",
+    "unit": "http://qudt.org/vocab/unit#TeslaSecond",
+    "label": "Tesla Second"
+  },
+  {
+    "symbol": "tex",
+    "unit": "http://qudt.org/vocab/unit#Tex",
+    "label": "Tex"
+  },
+  {
+    "symbol": "therm (EC)",
+    "unit": "http://qudt.org/vocab/unit#ThermEEC",
+    "label": "Therm EC"
+  },
+  {
+    "symbol": "therm (US)",
+    "unit": "http://qudt.org/vocab/unit#ThermUS",
+    "label": "Therm US"
+  },
+  {
+    "symbol": "AT",
+    "unit": "http://qudt.org/vocab/unit#TonAssay",
+    "label": "Ton Assay"
+  },
+  {
+    "symbol": "t/lbf",
+    "unit": "http://qudt.org/vocab/unit#TonEnergy",
+    "definition": "Energy equivalent of one ton of TNT",
+    "label": "Ton Energy"
+  },
+  {
+    "symbol": "ton",
+    "unit": "http://qudt.org/vocab/unit#TonLong",
+    "label": "Ton - Long"
+  },
+  {
+    "symbol": "ton/yd^3",
+    "unit": "http://qudt.org/vocab/unit#TonLongPerCubicYard",
+    "label": "Ton Long per Cubic Yard"
+  },
+  {
+    "symbol": "toe",
+    "unit": "http://qudt.org/vocab/unit#TonOfOilEquivalent",
+    "label": "Ton of Oil Equivalent"
+  },
+  {
+    "symbol": "t/fg",
+    "unit": "http://qudt.org/vocab/unit#TonOfRefrigeration",
+    "definition": "12000 btu per hour",
+    "label": "Ton of Refrigeration"
+  },
+  {
+    "symbol": "ton",
+    "unit": "http://qudt.org/vocab/unit#TonShort",
+    "label": "Ton - Short"
+  },
+  {
+    "symbol": "ton/yd",
+    "unit": "http://qudt.org/vocab/unit#TonShortPerCubicYard",
+    "label": "Ton Short per Cubic Yard"
+  },
+  {
+    "symbol": "ton/hr",
+    "unit": "http://qudt.org/vocab/unit#TonShortPerHour",
+    "label": "Short Ton per Hour"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#TrinidadAndTobagoDollar",
+    "definition": "Trinidad and Tobago",
+    "label": "Trinidad and Tobago Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Tugrik",
+    "definition": "Mongolia",
+    "label": "Tugrik"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#TunisianDinar",
+    "definition": "Tunisia",
+    "label": "Tunisian Dinar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#UAEDirham",
+    "definition": "United Arab Emirates",
+    "label": "United Arab Emirates dirham"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#UICFranc",
+    "definition": "International Union of Railways",
+    "label": "UIC franc (special settlement currency)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#USDollar",
+    "definition": "American Samoa, British Indian Ocean Territory, Ecuador, El Salvador, Guam, Haiti, Marshall Islands, Micronesia, Northern Mariana Islands, Palau, Panama, Puerto Rico, East Timor, Turks and Caicos Islands, United States, Virgin Islands",
+    "label": "US Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#USDollar-NextDay",
+    "definition": "United States",
+    "label": "United States Dollar (next day) (funds code)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#USDollar-SameDay",
+    "definition": "United States",
+    "label": "United States Dollar (same day) (funds code)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#UgandaShilling",
+    "definition": "Uganda",
+    "label": "Uganda Shilling"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#UnidadDeValorReal",
+    "definition": "Colombia",
+    "label": "Unidad de Valor Real"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#UnidadesDeFormento",
+    "definition": "Chile",
+    "label": "Unidades de formento (Funds code)"
+  },
+  {
+    "symbol": "U/nWb",
+    "unit": "http://qudt.org/vocab/unit#UnitPole",
+    "definition": "A magnetic pole is a unit pole if it exerts a force of one dyne on another pole of equal strength at a distance of 1 cm. The strength of any given pole in cgs units is therefore numerically equal to the force in dynes which it exerts on a unit pole 1 cm away.",
+    "label": "Unit Pole"
+  },
+  {
+    "symbol": "U",
+    "unit": "http://qudt.org/vocab/unit#Unitless",
+    "definition": "An explicit unit to say something has no units.",
+    "label": "Unitless"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#UruguayPeso",
+    "definition": "Uruguay",
+    "label": "Peso Uruguayo"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#UzbekistanSom",
+    "definition": "Uzbekistan",
+    "label": "Uzbekistan Som"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Vatu",
+    "definition": "Vanuatu",
+    "label": "Vatu"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#VenezuelanBolvar",
+    "definition": "Venezuela",
+    "label": "Venezuelan bol�var"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#VietnameseDong",
+    "definition": "Vietnam",
+    "label": "Vietnamese ??ng"
+  },
+  {
+    "symbol": "m V",
+    "unit": "http://qudt.org/vocab/unit#VoltMeter",
+    "label": "Volt Meter"
+  },
+  {
+    "symbol": "V m^-1",
+    "unit": "http://qudt.org/vocab/unit#VoltPerMeter",
+    "label": "Volt per Meter"
+  },
+  {
+    "symbol": "V m^-2",
+    "unit": "http://qudt.org/vocab/unit#VoltPerSquareMeter",
+    "label": "Volt per Square Meter"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#WIREuro",
+    "definition": "Switzerland",
+    "label": "WIR Euro (complementary currency)"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#WIRFranc",
+    "definition": "Switzerland",
+    "label": "WIR Franc (complementary currency)"
+  },
+  {
+    "symbol": "W/(m*K)",
+    "unit": "http://qudt.org/vocab/unit#WattPerMeterKelvin",
+    "label": "Watt per Meter Kelvin"
+  },
+  {
+    "symbol": "W/cm^2",
+    "unit": "http://qudt.org/vocab/unit#WattPerSquareCentimeter",
+    "label": "Watt per Square Centimeter"
+  },
+  {
+    "symbol": "W/ft^2",
+    "unit": "http://qudt.org/vocab/unit#WattPerSquareFoot",
+    "label": "Watt per Square Foot"
+  },
+  {
+    "symbol": "W/in^2",
+    "unit": "http://qudt.org/vocab/unit#WattPerSquareInch",
+    "label": "Watt per Square Inch"
+  },
+  {
+    "symbol": "W/m^2",
+    "unit": "http://qudt.org/vocab/unit#WattPerSquareMeter",
+    "definition": "Heat flux density, irradiance, power density",
+    "label": "Watt per Square Meter"
+  },
+  {
+    "symbol": "W/(m^2-K)",
+    "unit": "http://qudt.org/vocab/unit#WattPerSquareMeterKelvin",
+    "label": "Watt per Square Meter Kelvin"
+  },
+  {
+    "symbol": "W m^-2 K^-4",
+    "unit": "http://qudt.org/vocab/unit#WattPerSquareMeterQuarticKelvin",
+    "label": "Watt per Square Meter Quartic Kelvin"
+  },
+  {
+    "symbol": "W/(m^2-sr)",
+    "unit": "http://qudt.org/vocab/unit#WattPerSquareMeterSteradian",
+    "definition": "Radiance",
+    "label": "Watt per Square Meter Steradian"
+  },
+  {
+    "symbol": "W m^2",
+    "unit": "http://qudt.org/vocab/unit#WattSquareMeter",
+    "label": "Watt Square Meter"
+  },
+  {
+    "symbol": "W m^2 sr^-1",
+    "unit": "http://qudt.org/vocab/unit#WattSquareMeterPerSteradian",
+    "label": "Watt Square Meter per Steradian"
+  },
+  {
+    "symbol": "W-hr",
+    "unit": "http://qudt.org/vocab/unit#Watthour",
+    "label": "Watthour"
+  },
+  {
+    "symbol": "yr",
+    "unit": "http://qudt.org/vocab/unit#Year365Day",
+    "label": "Year (365 Day)"
+  },
+  {
+    "symbol": "yr",
+    "unit": "http://qudt.org/vocab/unit#YearSidereal",
+    "definition": "A sidereal year is the time taken for Sun to return to the same position with respect to the stars of the celestial sphere.",
+    "label": "Year Sidereal"
+  },
+  {
+    "symbol": "yr",
+    "unit": "http://qudt.org/vocab/unit#YearTropical",
+    "label": "Year Tropical"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#YemeniRial",
+    "definition": "Yemen",
+    "label": "Yemeni Rial"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#YuanRenminbi",
+    "definition": "Mainland China",
+    "label": "Yuan Renminbi"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#ZambianKwacha",
+    "definition": "Zambia",
+    "label": "Zambian Kwacha"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#ZimbabweDollar",
+    "definition": "Zimbabwe",
+    "label": "Zimbabwe Dollar"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Zloty",
+    "definition": "Poland",
+    "label": "Zloty"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Breath",
+    "label": "Breath"
+  },
+  {
+    "symbol": "m^3",
+    "unit": "http://qudt.org/vocab/unit#CubicMillimeter",
+    "label": "Cubic Millimeter"
+  },
+  {
+    "symbol": "u",
+    "unit": "http://qudt.org/vocab/unit#Dalton2",
+    "definition": "The unified atomic mass unit (symbol: u) or dalton (symbol: Da) is a unit that is used for indicating mass on an atomic or molecular scale. It is defined as one twelfth of the rest mass of an unbound atom of carbon-12 in its nuclear and electronic ground state,[1] and has a value of 1.660538782(83)×10−27 kg.[2] One Da is approximately equal to the mass of one proton or one neutron. The CIPM have categorised it as a \"non-SI unit whose values in SI units must be obtained experimentally\".[1] [Wikipedia]",
+    "label": "Atomic mass unit"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Decimeter",
+    "label": "Decimeter"
+  },
+  {
+    "symbol": "flight",
+    "unit": "http://qudt.org/vocab/unit#Flight",
+    "label": "Flight"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#HeartBeat",
+    "label": "Heart Beat"
+  },
+  {
+    "symbol": "kg-s^2",
+    "unit": "http://qudt.org/vocab/unit#KilogramSecondSquared",
+    "label": "Kilogram Second Squared"
+  },
+  {
+    "symbol": "₭",
+    "unit": "http://qudt.org/vocab/unit#LaosKip",
+    "definition": "Laos",
+    "label": "Laos kip"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#Launch",
+    "label": "Launch"
+  },
+  {
+    "symbol": "mm",
+    "unit": "http://qudt.org/vocab/unit#Millimeter",
+    "label": "Millimeter"
+  },
+  {
+    "symbol": "M$/Flight",
+    "unit": "http://qudt.org/vocab/unit#MillionDollarsPerFlight",
+    "label": "Million US Dollars per Flight"
+  },
+  {
+    "symbol": "M$/yr",
+    "unit": "http://qudt.org/vocab/unit#MillionDollarsPerYear",
+    "label": "Million US Dollars per Year"
+  },
+  {
+    "symbol": "'",
+    "unit": "http://qudt.org/vocab/unit#MinuteAngle",
+    "label": "Minute Angle"
+  },
+  {
+    "symbol": "person",
+    "unit": "http://qudt.org/vocab/unit#Person",
+    "label": "Person"
+  },
+  {
+    "symbol": "\"",
+    "unit": "http://qudt.org/vocab/unit#SecondAngle",
+    "label": "Second Angle"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#TonMetric",
+    "label": "Ton metric"
+  },
+  {
+    "unit": "http://qudt.org/vocab/unit#VideoFrame",
+    "label": "Video Frame"
+  }
+]

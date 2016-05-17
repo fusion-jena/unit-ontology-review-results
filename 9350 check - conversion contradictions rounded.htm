@@ -1,0 +1,191 @@
+<!doctype html>
+<head>
+  <title>check - conversion contradictions rounded - unit ontology review</title>
+  <meta charset="utf-8" />
+  <style>
+    
+    .comment {
+      font-size: 90%;
+      text-align: center;
+    }
+    
+    #legendBox {
+      position: fixed;
+      width: calc( 100% - 2em );
+      background-color: white;
+      z-index: 100;
+    }
+    
+    body {
+      margin: 0;
+      padding: 0 1em;
+    }
+    /* XXXXXXXXXXXXXXXXXXXXXXXXXX Tooltips  XXXXXXXXXXXXXXXXXXXXXXXXX */
+    
+    .tooltip {
+      position: relative;
+      cursor: help;
+    }
+    
+    .tooltip > div {
+      display: none;
+      position: absolute;
+      top: 1em;
+      right: -1em;
+      text-align: left;
+      border: 1px solid black;
+      border-radius: 0.3em;
+      padding: 0.3em;
+      background-color: white;
+      z-index: 100;
+    }
+    
+    .tooltip:hover > div {
+      display: block;
+    }
+    
+    .tooltip li {
+      white-space: nowrap;
+    }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXX Table related  XXXXXXXXXXXXXXXXXXXXXXX */
+    
+    table {
+      width: 100%;
+      border-spacing: 0;
+    }
+    th, td {
+      text-align: center;
+      border: 2px solid transparent;
+    }
+    tr:nth-child( even ) {
+      background-color: #BDBDBD;
+    }
+    
+    .green { background-color: #BCF5A9; }
+    .red   { background-color: #F5BCA9; }
+    tr:nth-child( even ) .green { background-color: #82FA58; }
+    tr:nth-child( even ) .red   { background-color: #FA8258; }
+    
+
+    tr:hover:not(:first-child) th:first-child{
+      border-color: black transparent black black;
+    }
+    tr:hover:not(:first-child) td {
+      border-color: black transparent;
+    }
+    tr:hover:not(:first-child) td:last-child{
+      border-color: black black black transparent;
+    }
+    
+    .leftAligned td, .leftAligned th {
+      text-align: left;
+    }
+    
+    .firstColHeader th:first-child {
+      background-color: white;
+      border-style: solid;
+      border-width: 2px;
+      border-color: transparent transparent black;
+    }
+    .firstColHeader tr:hover th:first-child {
+      border-color: transparent transparent black;
+    }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXXX List related  XXXXXXXXXXXXXXXXXXXXXXX */
+    
+    ul.col4 {
+      -webkit-column-count: 4;
+         -moz-column-count: 4;
+              column-count: 4;
+    }
+    
+    th ul { margin: 0; }
+    
+    li[data-onto] { list-style-type: none; }
+    li[data-onto]:before {
+      content: ' ';
+      width: 0.7em;
+      height: 0.7em;
+      margin-right: -0.7em;
+      display: inline-block;
+      position: relative;
+      left: -1em;
+      border-radius: 0.3em;
+    }
+    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    li:before    { background-color: #7f7f7f; }
+    li[data-onto="MUO"]:before    { background-color: #1f77b4; }
+    li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
+    li[data-onto="OM"]:before     { background-color: #2ca02c; }
+    li[data-onto="QU"]:before     { background-color: #d62728; }
+    li[data-onto="QUDT"]:before   { background-color: #9467bd; }
+    li[data-onto="SWEET"]:before  { background-color: #8c564b; }
+    li[data-onto="UO"]:before     { background-color: #e377c2; }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
+    
+    input.collapsible { display: none; }
+    input.collapsible:checked + * { display: none; }
+    
+    label.collapsible {
+      cursor: pointer;
+      text-decoration: underline;
+      opacity: 0.6;
+    }
+
+  </style>
+</head>
+<body>
+  <div id="legendBox">
+    <fieldset style="margin-bottom: 1em; height: 5em;">
+      <legend>Ontology Color Codes</legend>
+      <ul class="col4">
+        <li data-onto="MUO">MUO
+        <li data-onto="OBOE">OBOE
+        <li data-onto="OM">OM
+        <li data-onto="QU">QU
+        <li data-onto="QUDT">QUDT
+        <li data-onto="SWEET">SWEET
+        <li data-onto="UO">UO
+      </ul>
+    </fieldset>
+  </div>
+  <div style="visibility: hidden;">
+    <fieldset style="margin-bottom: 1em; height: 5em;">
+      <legend>Ontology Color Codes</legend>
+      <ul class="col4">
+        <li data-onto="MUO">MUO
+        <li data-onto="OBOE">OBOE
+        <li data-onto="OM">OM
+        <li data-onto="QU">QU
+        <li data-onto="QUDT">QUDT
+        <li data-onto="SWEET">SWEET
+        <li data-onto="UO">UO
+      </ul>
+    </fieldset>
+  </div>
+  <table class="firstColHeader"><tr><th>Conversion</th><th>Ontology</th><th>Direction</th><th>Factor</th><th>Offset</th><th>Computed</th></tr><tr><th rowspan="2">bushel &harr; meter cubed</th><td><ul><li data-onto="OBOE">OBOE</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.035239072</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>bushel &rarr; liter: *35.239072 + 0<br><li>liter &rarr; meter cubed: *0.001 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.03523907</td><td>0</td><td></td></tr><tr><th rowspan="2">centimetre of mercury &harr; kilopascal</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.00133322</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>centimetre of mercury &rarr; metre of mercury: *0.01 + 0<br><li>metre of mercury &rarr; Pascal: *1.33322e2 + 0<br><li>kilopascal &rarr; Pascal: *1000 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>1.333224</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>centimetre of mercury &rarr; Pascal: *1.333224e3 + 0.0<br><li>kilopascal &rarr; Pascal: *1e3 + <br></ul></div></span></div></td></tr><tr><th rowspan="2">centimetre of mercury &harr; megapascal</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.00000133322</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>centimetre of mercury &rarr; metre of mercury: *0.01 + 0<br><li>metre of mercury &rarr; Pascal: *1.33322e2 + 0<br><li>megapascal &rarr; Pascal: *1000000 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.001333224</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>centimetre of mercury &rarr; Pascal: *1.333224e3 + 0.0<br><li>megapascal &rarr; Pascal: *1e6 + <br></ul></div></span></div></td></tr><tr><th rowspan="2">chain &harr; meter</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>20.11684</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QUDT">QUDT</ul></td><td style="font-size: 200%;"> &larr; </td><td>20.1168</td><td>0</td><td></td></tr><tr><th rowspan="2">dry gallon (US) &harr; hectolitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.0440488377086</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>dry gallon (US) &rarr; meter cubed: *4.40488377086e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>hectolitre &rarr; liter: *100 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.04404884</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>dry gallon (US) &rarr; meter cubed: *4.404884e-3 + 0.0<br><li>hectolitre &rarr; meter cubed: *1e-1 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">dry gallon (US) &harr; centilitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>440.488377086</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>dry gallon (US) &rarr; meter cubed: *4.40488377086e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>centilitre &rarr; liter: *0.01 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>440.4884</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>dry gallon (US) &rarr; meter cubed: *4.404884e-3 + 0.0<br><li>centilitre &rarr; meter cubed: *1e-5 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">dry gallon (US) &harr; decalitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.440488377086</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>dry gallon (US) &rarr; meter cubed: *4.40488377086e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>decalitre &rarr; liter: *10 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.4404884</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>dry gallon (US) &rarr; meter cubed: *4.404884e-3 + 0.0<br><li>decalitre &rarr; meter cubed: *1e-2 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">dry gallon (US) &harr; decilitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>44.0488377086</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>dry gallon (US) &rarr; meter cubed: *4.40488377086e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>decilitre &rarr; liter: *0.1 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>44.04884</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>dry gallon (US) &rarr; meter cubed: *4.404884e-3 + 0.0<br><li>decilitre &rarr; meter cubed: *1e-4 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">dry gallon (US) &harr; milliliter</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>4404.88377086</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>dry gallon (US) &rarr; meter cubed: *4.40488377086e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>milliliter &rarr; liter: *0.001 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>4404.884</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>dry gallon (US) &rarr; meter cubed: *4.404884e-3 + 0.0<br><li>milliliter &rarr; meter cubed: *1e-6 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="4">fathom &harr; meter</th><td><ul><li data-onto="OBOE">OBOE</ul></td><td style="font-size: 200%;"> &larr; </td><td>1.8288</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>1.828804</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>1.8288</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QUDT">QUDT</ul></td><td style="font-size: 200%;"> &larr; </td><td>1.8288</td><td>0</td><td></td></tr><tr><th rowspan="2">gallon uk &harr; kiloliter</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.00454609</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.54609e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>kiloliter &rarr; liter: *1000 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>219.969151526189967</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>kiloliter &rarr; meter cubed: *1 + 0.0<br><li>gallon uk &rarr; meter cubed: *4.546092e-3 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">gallon uk &harr; centilitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>454.609</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.54609e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>centilitre &rarr; liter: *0.01 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>454.6092</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.546092e-3 + 0.0<br><li>centilitre &rarr; meter cubed: *1e-5 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">gallon uk &harr; decalitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.454609</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.54609e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>decalitre &rarr; liter: *10 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.4546092</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.546092e-3 + 0.0<br><li>decalitre &rarr; meter cubed: *1e-2 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">gallon uk &harr; meter cubed</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.00454609</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.004546092</td><td>0</td><td></td></tr><tr><th rowspan="2">gallon uk &harr; decilitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>45.4609</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.54609e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>decilitre &rarr; liter: *0.1 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>45.46092</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.546092e-3 + 0.0<br><li>decilitre &rarr; meter cubed: *1e-4 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">gallon uk &harr; milliliter</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>4546.09</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.54609e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>milliliter &rarr; liter: *0.001 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>4546.092</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.546092e-3 + 0.0<br><li>milliliter &rarr; meter cubed: *1e-6 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">gallon uk &harr; pint uk</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>8</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.54609e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>milliliter &rarr; liter: *0.001 + 0<br><li>pint uk &rarr; milliliter: *568.26125 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.124999890015424</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>pint uk &rarr; meter cubed: *5.68261e-4 + 0.0<br><li>gallon uk &rarr; meter cubed: *4.546092e-3 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">gallon uk &harr; hectolitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.0454609</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.54609e-3 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>hectolitre &rarr; liter: *100 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.04546092</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>gallon uk &rarr; meter cubed: *4.546092e-3 + 0.0<br><li>hectolitre &rarr; meter cubed: *1e-1 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">horsepower (metric) &harr; Watt</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>735.4988</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>735.49875</td><td>0</td><td></td></tr><tr><th rowspan="2">kilometre per hour &harr; meter per second</th><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.277778</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="SWEET">SWEET</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.27777777</td><td>0</td><td></td></tr><tr><th rowspan="2">meter cubed &harr; pint uk</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>1759.7539863927023</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>liter &rarr; meter cubed: *1.0e-3 + 0<br><li>milliliter &rarr; liter: *0.001 + 0<br><li>pint uk &rarr; milliliter: *568.26125 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.000568261</td><td>0</td><td></td></tr><tr><th rowspan="2">pint uk &harr; decilitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>5.6826125</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>pint uk &rarr; milliliter: *568.26125 + 0<br><li>milliliter &rarr; liter: *0.001 + 0<br><li>decilitre &rarr; liter: *0.1 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>5.68261</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>pint uk &rarr; meter cubed: *5.68261e-4 + 0.0<br><li>decilitre &rarr; meter cubed: *1e-4 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">pint uk &harr; centilitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>56.826125</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>pint uk &rarr; milliliter: *568.26125 + 0<br><li>milliliter &rarr; liter: *0.001 + 0<br><li>centilitre &rarr; liter: *0.01 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>56.8261</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>pint uk &rarr; meter cubed: *5.68261e-4 + 0.0<br><li>centilitre &rarr; meter cubed: *1e-5 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">pint uk &harr; decalitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.056826125</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>pint uk &rarr; milliliter: *568.26125 + 0<br><li>milliliter &rarr; liter: *0.001 + 0<br><li>decalitre &rarr; liter: *10 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.0568261</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>pint uk &rarr; meter cubed: *5.68261e-4 + 0.0<br><li>decalitre &rarr; meter cubed: *1e-2 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">pint uk &harr; kiloliter</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.00056826125</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>pint uk &rarr; milliliter: *568.26125 + 0<br><li>milliliter &rarr; liter: *0.001 + 0<br><li>kiloliter &rarr; liter: *1000 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>1759.75476057656605</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>kiloliter &rarr; meter cubed: *1 + 0.0<br><li>pint uk &rarr; meter cubed: *5.68261e-4 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">pint uk &harr; milliliter</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>568.26125</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>568.261</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>pint uk &rarr; meter cubed: *5.68261e-4 + 0.0<br><li>milliliter &rarr; meter cubed: *1e-6 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">pound &harr; kilogram</th><td><ul><li data-onto="OBOE">OBOE</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.4536</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.45359237</td><td>0</td><td></td></tr><tr><th rowspan="2">quart uk &harr; meter cubed</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.0011365</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; liter: *1.1365 + 0<br><li>liter &rarr; meter cubed: *1.0e-3 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.0011365225</td><td>0</td><td></td></tr><tr><th rowspan="2">quart uk &harr; kiloliter</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.0011365</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; liter: *1.1365 + 0<br><li>kiloliter &rarr; liter: *1000 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>879.87699319635115</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>kiloliter &rarr; meter cubed: *1 + 0.0<br><li>quart uk &rarr; meter cubed: *1.1365225e-3 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">quart uk &harr; hectolitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.011365</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; liter: *1.1365 + 0<br><li>hectolitre &rarr; liter: *100 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.011365225</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; meter cubed: *1.1365225e-3 + 0.0<br><li>hectolitre &rarr; meter cubed: *1e-1 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">quart uk &harr; centilitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>113.65</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; liter: *1.1365 + 0<br><li>centilitre &rarr; liter: *0.01 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>113.65225</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; meter cubed: *1.1365225e-3 + 0.0<br><li>centilitre &rarr; meter cubed: *1e-5 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">quart uk &harr; decilitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>11.365</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; liter: *1.1365 + 0<br><li>decilitre &rarr; liter: *0.1 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>11.365225</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; meter cubed: *1.1365225e-3 + 0.0<br><li>decilitre &rarr; meter cubed: *1e-4 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">quart uk &harr; decalitre</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.11365</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; liter: *1.1365 + 0<br><li>decalitre &rarr; liter: *10 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.11365225</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; meter cubed: *1.1365225e-3 + 0.0<br><li>decalitre &rarr; meter cubed: *1e-2 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">quart uk &harr; liter</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>1.1365</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>1.1365225</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>quart uk &rarr; meter cubed: *1.1365225e-3 + 0.0<br><li>liter &rarr; meter cubed: *1e-3 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="3">slug &harr; kilogram</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>14.5939</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>14.5939</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QUDT">QUDT</ul></td><td style="font-size: 200%;"> &larr; </td><td>14.593903</td><td>0</td><td></td></tr><tr><th rowspan="2">ton (long) &harr; kilogram</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>1016.047</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QUDT">QUDT</ul></td><td style="font-size: 200%;"> &larr; </td><td>1016.0469088</td><td>0</td><td></td></tr><tr><th rowspan="2">ton (short) &harr; kilogram</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>907.1847</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QUDT">QUDT</ul></td><td style="font-size: 200%;"> &larr; </td><td>907.18474</td><td>0</td><td></td></tr><tr><th rowspan="2">torr &harr; millibar</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>1.33322368421053</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>torr &rarr; Pascal: *1.33322368421053e2 + 0<br><li>bar &rarr; Pascal: *1.0e5 + 0<br><li>millibar &rarr; bar: *0.001 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>1.333224</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>torr &rarr; Pascal: *133.3224 + 0.0<br><li>millibar &rarr; Pascal: *1e2 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">torr &harr; microbar</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>1333.22368421053</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>torr &rarr; Pascal: *1.33322368421053e2 + 0<br><li>bar &rarr; Pascal: *1.0e5 + 0<br><li>microbar &rarr; bar: *0.000001 + 0<br></ul></div></span></div></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &rarr; </td><td>0.000750061505043</td><td>0</td><td><div><span class="tooltip">&#10133;<div><ul><li>microbar &rarr; Pascal: *1e-1 + 0.0<br><li>torr &rarr; Pascal: *133.3224 + 0.0<br></ul></div></span></div></td></tr><tr><th rowspan="2">torr &harr; Pascal</th><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>133.322368421053</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>133.3224</td><td>0</td><td></td></tr><tr><th rowspan="4">yard &harr; meter</th><td><ul><li data-onto="OBOE">OBOE</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.914398</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="OM">OM</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.9144</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QU">QU</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.9144</td><td>0</td><td></td></tr><tr><td><ul><li data-onto="QUDT">QUDT</ul></td><td style="font-size: 200%;"> &larr; </td><td>0.9144</td><td>0</td><td></td></tr></table>
+  <script>
+  !function(){
+    
+    // get all collapsible lists
+    var collapsibles = document.querySelectorAll( '[data-collapsible="true"]' );
+    
+    for( var i=0; i<collapsibles.length; i++ ) {
+      
+      // shortcut
+      var list = collapsibles[ i ];
+      
+      // build control element
+      var ctrl = '<label class="collapsible" for="collapsible' + i + '"> Show/Hide</label>'
+                 + '<input type="checkbox" class="collapsible" autocomplete="off" id="collapsible' + i + '" checked />';
+      
+      // insert before list
+      list.insertAdjacentHTML( 'beforebegin', ctrl );
+
+    }
+    
+  }();
+  </script>
+</body>

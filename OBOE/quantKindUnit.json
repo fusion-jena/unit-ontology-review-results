@@ -1,0 +1,562 @@
+[
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Amount",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Mole"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceConcentration",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicromolePerLiter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceConcentration",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicromolePerMeterCubed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceConcentration",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MillimolePerLiter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceConcentration",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MillimolePerMeterCubed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceConcentration",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MolePerLiter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceConcentration",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MolePerMeterCubed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceConcentration",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NanomolePerLiter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Angle",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Radian"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Angle",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Degree"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Angle",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Grad"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicrometerSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MileSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MillimeterSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#YardSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Are"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#CentimeterSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#FootSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectare"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#KilometerSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#ArealDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NumberPerMeterSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#ArealMassDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#KilogramPerMeterSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#ArealMassDensityRate",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MilligramPerMeterSquaredPerDay"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#ArealMassDensityRate",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#KilogramPerMeterSquaredPerDay"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Conductance",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Siemens"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Conductivity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicrosiemensPerMeter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Conductivity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MillisiemensPerMeter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Conductivity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#SiemensPerMeter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Count",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Number"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Current",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Ampere"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Force",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Newton"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Force",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Volt"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Frequency",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Megahertz"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Frequency",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millihertz"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Frequency",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hertz"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Frequency",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilohertz"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Irradiance",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralIrradiance",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#LinkClarke"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Megameter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Micrometer"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Micron"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Mile"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millimeter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Nanometer"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NauticalMile"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Yard"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#YardIndian"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Angstrom"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Centimeter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Decimeter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Dekameter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Fathom"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Foot"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#FootGoldCoast"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectometer"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Inch"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilometer"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Luminosity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Lumen"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Luminosity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Candela"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Megagram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Microgram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Milligram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Nanogram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pound"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Ton"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Tonne"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Centigram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Decigram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Dekagram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Gram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectogram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilogram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicrogramPerLiter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicrogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MilligramPerLiter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MilligramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NanogramPerLiter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#GramPerLiter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#GramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#KilogramPerLiter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#KilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassPerMass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicrogramPerGram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassPerMass",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#GramPerGram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Molality",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicromolePerKilogram"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#PhotonFluxDensity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicroeinsteinsPerMeterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Pressure",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millibar"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Pressure",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pascal"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Pressure",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Bar"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Pressure",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Decibar"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Pressure",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectopascal"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Pressure",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilopascal"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Proportion",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MilliliterPerLIter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Proportion",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#PartPerThousand"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Proportion",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Percent"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Radiance",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquaredPerSteradian"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralRadiance",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquaredPerSteradian"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#RadionucleotideActivity",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Becquerel"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Speed",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Knot"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Speed",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterPerSecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Speed",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#CentimeterPerSecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Temperature",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Celsius"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Temperature",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#FahrenheitDegree"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Temperature",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kelvin"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Megasecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Microsecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millisecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Minute"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Nanosecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NominalDay"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NominalHour"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NominalLeapYear"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NominalMinute"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NominalWeek"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NominalYear"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Second"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Centisecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Day"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Decisecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Dekasecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectosecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hour"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilosecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Liter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterCubed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Microliter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Milliliter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pint"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Quart"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Bushel"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#CentimeterCubed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Gallon"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#InchCubed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kiloliter"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#VolumetricMassDensityRate",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MilligramPerMeterCubedPerDay"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#VolumetricRate",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#LiterPerSecond"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#WaveNumber",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#ReciprocalMeter"
+  }
+]

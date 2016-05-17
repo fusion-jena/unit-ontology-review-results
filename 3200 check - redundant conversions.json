@@ -1,0 +1,39 @@
+{
+ "MUO": [],
+ "OBOE": [
+  [
+   {
+    "convOffset": 0,
+    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
+    "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared",
+    "convFactor": "4046.85642"
+   },
+   {
+    "convOffset": 0,
+    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
+    "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared",
+    "convFactor": "4046.8564"
+   }
+  ]
+ ],
+ "OM": [
+  [
+   {
+    "convOffset": 0,
+    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+    "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+    "convFactor": 1000
+   },
+   {
+    "convOffset": 0,
+    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+    "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+    "convFactor": "1.0e-3"
+   }
+  ]
+ ],
+ "QU": [],
+ "QUDT": [],
+ "SWEET": [],
+ "UO": []
+}

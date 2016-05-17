@@ -1,0 +1,3880 @@
+[
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerKilogram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogramSecond",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ampereSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "273.15",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeCelsius",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvin",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerCubicDecimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerLitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#henryPerOhm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#katal",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSecond",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilolitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliamperePerMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerMetre",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimolePerGram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerKilogram",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimolePerLitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerCubicMetre",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonPerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#stere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#wattSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decametre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dyneSecondPerCubicCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecondPerMetre",
+    "convFactor": "10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre",
+    "convFactor": "10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#day",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "86400"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#exajoule",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e18"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "convFactor": "1e9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicKilometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigabecquerel",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "convFactor": "1e9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigacoulombPerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "convFactor": "1e9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigahertz",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hertz",
+    "convFactor": "1e9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigahertzMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hertzMetre",
+    "convFactor": "1e9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigajoule",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigaohm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "convFactor": "1e9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigaohmMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "convFactor": "1e9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigaohmPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre",
+    "convFactor": "1e9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigapascal",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigawatt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1e9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megahertzKilometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hertzMetre",
+    "convFactor": "1e9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megaohmKilometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "convFactor": "1e9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerMetre",
+    "convFactor": "1e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#are",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decitonne",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e2"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hectometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1e2"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hectopascal",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millibar",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonPerCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonPerMetre",
+    "convFactor": "1e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "convFactor": "1e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareDecametre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre",
+    "convFactor": "1e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "3600"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicDecametre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decare",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerCubicCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerMillilitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloampere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloamperePerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloamperePerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerSquareMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilobecquerel",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocoulomb",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocoulombPerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocoulombPerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicDecimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerLitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilohertz",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hertz",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilohertzMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hertzMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoule",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoulePerKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKelvin",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoulePerKilogram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogram",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoulePerKilogramKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoulePerMole",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMole",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilomole",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#mole",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilomolePerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilomolePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSecond",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilonewton",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilonewtonMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloohm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloohmMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilopascal",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilosecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilosiemens",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemens",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilosiemensPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilovolt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#volt",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilovoltAmpere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#voltAmpere",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilovoltAmpereReactive",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#var",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilovoltPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilowatt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1e3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloweberPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#weberPerMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megaLitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megagram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megagramPerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerCubicDecimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerLitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmKilometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecondPerLitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecondPerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareCentimetrePerErg",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerJoule",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareCentimetrePerSteradianErg",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSteradianJoule",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonneMetricTon",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonnePerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonnePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#weberPerMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#weberPerMetre",
+    "convFactor": "1e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerSquareMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerSquareMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicHectometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilopascalSquareMetrePerGram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecondSquared",
+    "convFactor": "1e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilotonne",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megaampere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megaamperePerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerSquareMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megabecquerel",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megacoulomb",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megacoulombPerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megacoulombPerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megahertz",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hertz",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megahertzMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hertzMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megajoule",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megajoulePerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerCubicMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megajoulePerKilogram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogram",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#meganewton",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#meganewtonMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megaohm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megaohmMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megaohmPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megapascal",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megasiemensPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megavolt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#volt",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megavoltAmpere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#voltAmpere",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megavoltPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megawatt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonPerSquareMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareKilometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetreToTheFourthPower",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metreToTheFourthPower",
+    "convFactor": "1e-12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#picoampere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "convFactor": "1e-12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#picocoulomb",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "convFactor": "1e-12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#picofarad",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#farad",
+    "convFactor": "1e-12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#picofaradPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#faradPerMetre",
+    "convFactor": "1e-12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#picohenry",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#henry",
+    "convFactor": "1e-12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#picometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1e-12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#picosecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1e-12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#picowatt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1e-12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#picowattPerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetre",
+    "convFactor": "1e-12"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pikosiemensPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "convFactor": "1e-12"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMicrometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e-12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#femtojoule",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e-15"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#femtometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1e-15"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#minuteUnitOfTime",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "60"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#petajoule",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e15"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#terahertz",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hertz",
+    "convFactor": "1e12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#terajoule",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#teraohm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "convFactor": "1e12"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#terawatt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1e12"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poise",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond",
+    "convFactor": "0.1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#acre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "4046.873"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ampereHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "convFactor": "3.6e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#wattHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "3.6e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerSquareMetre",
+    "convFactor": "1e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
+    "convFactor": "1e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hectare",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre",
+    "convFactor": "1e4"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#perSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetre",
+    "convFactor": "1e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareHectometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#angstrom",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1e-10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#astronomicalUnit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1.49597870e11"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#attojoule",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e-18"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barUnitOfPressure",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dyneSecondPerCentimetreToTheFifthPower",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecondPerCubicMetre",
+    "convFactor": "1e5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barn",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e-28"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barnPerSteradian",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSteradian",
+    "convFactor": "1e-28"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barnPerElectronvolt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerJoule",
+    "convFactor": "6.24151e-10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barrelUkPetroleum",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "0.15911315"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barrelUkPetroleumPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "0.15911315"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barrelUkPetroleumPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.8415874e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barrelUkPetroleumPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "4.419810e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barrelUkPetroleumPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.651886"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barrelUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "158.9873e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barrelUsPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.64979e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barrelUsPetroleumPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "4.416314e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barrelUsPetroleumPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "0.1589873"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#brakeHorsePower",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "7.457e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTable",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1.055056e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTablePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1.055056e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTableFootPerHourSquareFootDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin",
+    "convFactor": "1.730735"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTableInchPerHourSquareFootDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin",
+    "convFactor": "0.1442279"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTableInchPerSecondSquareFootDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin",
+    "convFactor": "5.192204e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTablePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "2.930711e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTablePerHourSquareFootDegreeRankine",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetreKelvin",
+    "convFactor": "5.67826"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTablePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "17.584266"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTablePerPound",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogram",
+    "convFactor": "2326"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTablePerPoundDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin",
+    "convFactor": "4.1868e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieInternationalTablePerGramDegreeCelsius",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin",
+    "convFactor": "4.1868e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocalorieInternationalTable",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "4.1868e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTablePerPoundDegreeRankine",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin",
+    "convFactor": "4186.8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieInternationalTablePerGram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogram",
+    "convFactor": "4186.8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieInternationalTablePerGramKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin",
+    "convFactor": "4186.8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTablePerSecondFootDegreeRankine",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin",
+    "convFactor": "6230.64"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTablePerSecondSquareFootDegreeRankine",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetreKelvin",
+    "convFactor": "20441.7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitMean",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1.05587e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitThermochemicalFootPerHourSquareFootDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin",
+    "convFactor": "1.729577"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitThermochemicalInchPerHourSquareFootDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin",
+    "convFactor": "0.1441314"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitThermochemicalInchPerSecondSquareFootDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin",
+    "convFactor": "5.188732e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitThermochemicalPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "0.2928751"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitThermochemicalPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "17.57250"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitThermochemicalPerPoundDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin",
+    "convFactor": "4.184e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieThermochemicalPerGramDegreeCelsius",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin",
+    "convFactor": "4.184e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieThermochemicalPerGramKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin",
+    "convFactor": "4.184e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocalorieThermochemical",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "4.184e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocalorieThermochemicalPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "4.184e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitThermochemicalPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1.054350e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#bushelUk",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "3.636872e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#bushelUkPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "3.636872e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#bushelUkPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "4.209343e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#bushelUkPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.010242e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#bushelUkPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "6.061453e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#bushelUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "3.523907e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#bushelUsDryPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "3.523907e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#bushelUsDryPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "4.078596e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#bushelUsDryPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "9.788631e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#bushelUsDryPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "5.873178e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieThermochemical",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "4.184"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieThermochemicalPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "4.184"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieThermochemicalPerCentimetreSecondDegreeCelsius",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin",
+    "convFactor": "4.184e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieThermochemicalPerGram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogram",
+    "convFactor": "4184"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieThermochemicalPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "6.973333e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieThermochemicalPerSecondCentimetreKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin",
+    "convFactor": "418.4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieThermochemicalPerSecondSquareCentimetreKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetreKelvin",
+    "convFactor": "4.184e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centigram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centilitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dyne",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "convFactor": "1e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ergPerCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMetre",
+    "convFactor": "1e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligal",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecondSquared",
+    "convFactor": "1e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliroentgenAequivalentMen",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#sievert",
+    "convFactor": "1e-5"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1e-2"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetrePerKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin",
+    "convFactor": "1e-2"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetrePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "1e-2"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centinewtonMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decagram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decalitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gal",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecondSquared",
+    "convFactor": "1e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligramPerSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre",
+    "convFactor": "1e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitrePerSquareCentimetreSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "1e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "convFactor": "1e-2"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#percent",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#euclid",
+    "convFactor": "1e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#radAbsorbedDose",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#gray",
+    "convFactor": "1e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#rem",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#sievert",
+    "convFactor": "1e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareDecimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetreOfMercury",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1.333224e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetrePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "0.277777778e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centipoise",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicDecimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicDecimetrePerMole",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerMole",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicDecimetrePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dynePerCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonPerMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dyneSecondPerCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonSecondPerMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ergPerSecondSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ergPerSquareCentimetreSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#faradPerKilometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#faradPerMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerMetreGramPer100Centimetres",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerMole",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMole",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#henryPerKiloohm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerKilometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerKilomol",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMole",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#litre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#litrePerKilogram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerKilogram",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#litrePerMole",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerMole",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#litrePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megaohmPerKilometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliampere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millicoulomb",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millicoulombPerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millicoulombPerKilogram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogram",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millicoulombPerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millifarad",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#farad",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligramPerLitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligray",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#gray",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millihenry",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#henry",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millihenryPerOhm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millijoule",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetrePerKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetrePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimole",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#mole",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimolePerKilogram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerKilogram",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millinewton",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millinewtonMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millinewtonPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonPerMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliohm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliohmMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliohmPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millipascalSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliradian",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#radian",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millisecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millisiemens",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemens",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millisievert",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#sievert",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millitesla",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#tesla",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millivolt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#volt",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millivoltAmpere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#voltAmpere",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millivoltPerKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerKelvin",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millivoltPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliwatt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliwattPerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliweber",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#weber",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerKilometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre",
+    "convFactor": "1e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centistokes",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSecond",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicCentimetrePerMole",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerMole",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicCentimetrePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramSquareMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramMetreSquared",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microampere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microbecquerel",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microcoulomb",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microcoulombPerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microcoulombPerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microfarad",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#farad",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microfaradPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#faradPerMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microgramPerLitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microhenry",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#henry",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microhenryPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#henryPerMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microhenryPerOhm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#micrometreMicron",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#micrometrePerKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#micromole",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#mole",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#micromolePerSquareMetrePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSquareMetrePerSecond",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#micronewton",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#micronewtonMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microohm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microohmMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#micropascal",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#micropoise",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microradian",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#radian",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microsecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microsiemens",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemens",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microsiemensPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microtesla",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#tesla",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microvolt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#volt",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microvoltPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microwatt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1e-6"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microwattPerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligramPerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligramPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligramPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligramPerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millihenryPerKiloohm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitrePerKilogram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerKilogram",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitrePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetreSquaredPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSecond",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#chevalVapeur",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "7.354988e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#clo",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetreKelvinPerWatt",
+    "convFactor": "0.155"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#commonYear",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "3.1536e7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#conventionalCentimetreOfWater",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "9.80665e1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#conventionalMillimetreOfMercury",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "133.3224"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#torr",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "133.3224"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#conventionalMillimetreOfWater",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "9.80665"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramForce",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "convFactor": "9.80665"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramForceMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "9.80665"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramForceMetrePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "9.80665"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramForcePerSquareMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "9.80665"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilopond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "convFactor": "9.80665"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#standardAccelerationOfFreeFall",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecondSquared",
+    "convFactor": "9.80665"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicCentimetrePerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.15741e-11"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligramPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.15741e-11"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitrePerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.15741e-11"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicCentimetrePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.77778e-10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligramPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "2.77778e-10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitrePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.77778e-10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicCentimetrePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.66667e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligramPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.66667e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitrePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.66667e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicDecimetrePerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.15741e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.15741e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#litrePerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.15741e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicDecimetrePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.77778e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "2.77778e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicDecimetrePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.66667e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.66667e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#litrePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.66667e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "2.831685e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicFootPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "3.277413e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicFootPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "7.86579e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicFootPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "4.719474e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicInch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "16.387064e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicInchPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "4.55196e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicInchPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.73118e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicInchPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.63871e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.15741e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.15741e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.77778e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerSecond",
+    "convFactor": "2.77778e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "2.77778e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilolitrePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.77778e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSecond",
+    "convFactor": "2.77778e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.66667e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerSecond",
+    "convFactor": "1.66667e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.66667e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSecond",
+    "convFactor": "1.66667e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microgram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microgramPerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microhenryPerKiloohm",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microlitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanoampere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanocoulomb",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanofarad",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#farad",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanofaradPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#faradPerMetre",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanohenry",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#henry",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanohenryPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#henryPerMetre",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanometre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanoohmMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanosecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanosiemensPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanotesla",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#tesla",
+    "convFactor": "1e-9"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanowatt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicYard",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "0.764555"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicYardPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "8.849015e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicYardPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.123764e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicYardPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.274258e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicYardPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "0.7645549"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cupUnitOfVolume",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "2.365882e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#curie",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "convFactor": "3.7e10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decapascal",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMetre",
+    "convFactor": "1e1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decibel",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#neper",
+    "convFactor": "0.1151293"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decigram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decilitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramMetreSquared",
+    "convFactor": "1e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microsiemensPerCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "convFactor": "1e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "1e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#stokes",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSecond",
+    "convFactor": "1e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decilitrePerGram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerKilogram",
+    "convFactor": "1e-1"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1e-1"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decinewtonMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dynePerSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ergPerCubicCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerCubicMetre",
+    "convFactor": "1e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hectogram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hectolitre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microbar",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millisiemensPerCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "convFactor": "1e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareCentimetrePerGram",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerKilogram",
+    "convFactor": "1e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeFahrenheitHourSquareFootPerBritishThermalUnitInternationalTable",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetreKelvinPerWatt",
+    "convFactor": "0.1761102"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeFahrenheitHourSquareFootPerBritishThermalUnitThermochemical",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetreKelvinPerWatt",
+    "convFactor": "0.176228"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeFahrenheitPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerSecond",
+    "convFactor": "1.543210e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeRankinePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerSecond",
+    "convFactor": "1.543210e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeFahrenheitPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerSecond",
+    "convFactor": "9.259259e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeRankinePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerSecond",
+    "convFactor": "9.259259e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeFahrenheitPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerSecond",
+    "convFactor": "0.5555556"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeRankinePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerSecond",
+    "convFactor": "0.5555556"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#radianPerSecond",
+    "convFactor": "1.745329e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeUnitOfAngle",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#radian",
+    "convFactor": "1.745329e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dryBarrelUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1.15627e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dryGallonUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "4.404884e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dryPintUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "5.506105e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUsDry",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "5.506105e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dryQuartUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1.101221e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUsDry",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1.101221e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dyneCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#erg",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ergPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nanosiemensPerCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre",
+    "convFactor": "1e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#electronvolt",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1.60217733e-19"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#electronvoltPerMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMetre",
+    "convFactor": "1.60217733e-19"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#fathom",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1.8288"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#fluidOunceUk",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "2.841306e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceUkFluidPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.841306e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#fluidOunceUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "2.957353e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceUsFluidPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.957353e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#foot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "0.3048"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "0.3048"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footPerSecondSquared",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecondSquared",
+    "convFactor": "0.3048"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footOfMercury",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "4.063666e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footOfWater",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "2.989067e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footPerDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin",
+    "convFactor": "0.54864"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "8.466667e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "5.08e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footPoundForce",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "1.355818"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footPoundForcePerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1.355818"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footPoundForcePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "3.766161e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#footPoundForcePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "2.259697e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#frenchGauge",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "0.333333333e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "4.546092e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUkPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "5.261678e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUkPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.262803e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUkPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "4.54609e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "3.785412e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUsLiquidPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "3.785412e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUsPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.0515e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gigawattHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "3.6e12"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gillUkPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.644274e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gillUkPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "3.946258e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gillUkPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "0.02367755"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gillUkPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.420653e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gillUsPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.369145e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gillUsPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "3.285947e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gillUsPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.971568e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gillUsPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.182941e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gon",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#radian",
+    "convFactor": "1.570796e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#grain",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "64.79891e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#grainPerGallonUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1.711806e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gramForcePerSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "98.0665"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gunterSChain",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "20.1168"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hectobar",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#horsepowerBoiler",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "9.80950e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#horsepowerElectric",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "746"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hundredPoundCwtPerHundredWeightUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "45.3592"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hundredWeightUk",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "50.80235"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#imperialGallonPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "7.57682e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#inch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "25.4e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#inchPerDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin",
+    "convFactor": "4.572e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#inchPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "0.0254"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#inchPerSecondSquared",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecondSquared",
+    "convFactor": "0.0254"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#inchToTheFourthPower",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metreToTheFourthPower",
+    "convFactor": "41.62314e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#internationalTableItCalorie",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "4.1868"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#internationalTableItCaloriePerSecondCentimetreKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin",
+    "convFactor": "418.68"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#internationalTableItCaloriePerSecondSquareCentimetreKelvin",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetreKelvin",
+    "convFactor": "4.1868e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloampereHourThousandAmpereHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb",
+    "convFactor": "3.6e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilowattHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "3.6e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilobar",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "1e8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocalorieMean",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "4.19002e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocalorieThermochemicalPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "1.16222"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocalorieThermochemicalPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "69.73333"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilocurie",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "convFactor": "3.7e13"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramForcePerSquareCentimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "9.80665e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramForcePerSquareMillimetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "9.80665e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilometrePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "0.277778"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilomolePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSecond",
+    "convFactor": "2.77778e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilomolePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSecond",
+    "convFactor": "16.6667"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonnePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "16.6667"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kiloroentgen",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogram",
+    "convFactor": "2.58e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#knot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "0.514444"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#lightYear",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "9.46073e15"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#liquidPintUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "4.731765e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUsLiquidPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "4.731765e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#liquidQuartUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "9.463529e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUsLiquidPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "9.463529e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megawattHour1000KwH",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "3.6e9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "0.016666"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#metricHorsePower",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+    "convFactor": "735.49875"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microInch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "25.4e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#microcurie",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "convFactor": "3.7e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "0.44704"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#mileStatuteMile",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1609.344"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliInch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "25.4e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliamperePerInch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerMetre",
+    "convFactor": "3.93700787401575e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millicurie",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel",
+    "convFactor": "3.7e7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetrePerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "0.277777778e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetrePerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "1.666666667e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetrePerYear",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond",
+    "convFactor": "3.15576e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milliroentgen",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogram",
+    "convFactor": "2.58e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#minuteUnitOfAngle",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#radian",
+    "convFactor": "2.908882e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#month",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "2.629800e6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#nauticalMile",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "1852"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMile",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre",
+    "convFactor": "6.21371e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounce",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "2.834952e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "2.834952e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisForce",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "convFactor": "0.2780139"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisForceInch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "7.061552e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisPerCubicInch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1.729994e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisPerCubicYard",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "3.70798e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "3.281194e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisPerGallonUk",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "6.236023"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisPerGallonUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "7.489152"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "7.874867e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "4.72492e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ouncePerSquareFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre",
+    "convFactor": "0.3051517"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ouncePerSquareYard",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre",
+    "convFactor": "3.390575e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceUkFluidPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "3.288549e-10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceUkFluidPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "7.892517e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceUkFluidPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "4.73551e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceUsFluidPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "3.422862e-10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceUsFluidPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "8.214869e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounceUsFluidPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "4.928922e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#parsec",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "3.085678e16"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#peck",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "8.809768e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#peckUsDryPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "8.809768e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#peckUk",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "9.092181e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#peckUkPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "9.092181e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#peckUkPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.052336e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#peckUkPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.525606e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#peckUkPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.5153635e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#peckUsDryPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.019649e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#peckUsDryPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.447158e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#peckUsDryPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.468295e-4"
+  },
+  {
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#perSquareCentimetreHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetreSecond",
+    "convFactor": "0.277777778"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUk",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "5.68261e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUkPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "6.577098e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUkPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.578504e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUkPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "9.471022e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUkPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "5.682613e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "4.73176e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUsLiquidPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "5.476580e-9"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUsLiquidPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.314379e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUsLiquidPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "7.886275e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pound",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "0.45359237"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundAvoirdupoisPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "5.249912e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundAvoirdupoisPerGallonUk",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "99.77637"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundAvoirdupoisPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "7.559873e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundAvoirdupoisPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "0.4535924"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundAvoirdupoisSquareFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramMetreSquared",
+    "convFactor": "4.214011e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundForce",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "convFactor": "4.448222"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundForcePerSquareFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "47.88026"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundForceSecondPerSquareFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond",
+    "convFactor": "47.88026"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slugPerFootSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond",
+    "convFactor": "47.88026"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundForcePerSquareInch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "6.894757e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundForceSecondPerSquareInch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond",
+    "convFactor": "6.894757e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundForcePerSquareInchDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalPerKelvin",
+    "convFactor": "1.241056e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundInchSquared",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramMetreSquared",
+    "convFactor": "2.926397e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerCubicFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1.601846e1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerCubicInch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "2.767990e4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerCubicYard",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "0.5932764"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMetre",
+    "convFactor": "1.488164"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerFootSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond",
+    "convFactor": "1.488164"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerFootHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond",
+    "convFactor": "4.133789e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerGallonUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1.198264e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.259979e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerInchOfLength",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMetre",
+    "convFactor": "1.785797e1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerSquareFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre",
+    "convFactor": "4.882428"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerSquareInchAbsolute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre",
+    "convFactor": "7.030696e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1.1365225e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUkLiquidPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.315420e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUkLiquidPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "3.157008e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUkLiquidPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.894205e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUkLiquidPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.136523e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "0.9463529e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUsLiquidPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.095316e-8"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUsLiquidPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "2.628758e-7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUsLiquidPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "1.577255e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalAngstrom",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalMetre",
+    "convFactor": "1e10"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalElectronVoltPerCubicMetre",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalJoulePerCubicMetre",
+    "convFactor": "6.24146e18"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalPsi",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalPascalOrPascalToThePowerMinusOne",
+    "convFactor": "1.450377e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#rodUnitOfDistance",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "5.029210"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#roentgen",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogram",
+    "convFactor": "2.58e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#roentgenPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogramSecond",
+    "convFactor": "2.58e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfAngle",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#radian",
+    "convFactor": "4.848137e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#siderealYear",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "3.155815e7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slug",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1.459390e1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slugPerCubicFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "5.153788e2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slugPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.689109e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slugPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "4.053861e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slugPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "0.2432317"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slugPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "14.59390"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "9.290304e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareFootPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSecond",
+    "convFactor": "0.09290304"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareInch",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "6.4516e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareInchPerSecond",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSecond",
+    "convFactor": "6.4516e-4"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#squareYard",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+    "convFactor": "8.361274e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#standardAtmosphere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "101325"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#standardCubicFoot",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "4.672"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#stoneUk",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "6.350293"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tablespoonUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1.478676e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#teaspoonUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "4.928922e-6"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#technicalAtmosphere",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+    "convFactor": "98066.5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#terawattHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "3.6e15"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonForceUsShort",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#newton",
+    "convFactor": "8.896443e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonLongPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.175980e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonShortPerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.049982e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonUkLongPerCubicYard",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1.328939e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonUkOrLongTonUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "1.016047e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonUkShipping",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1.1893"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonUsOrShortTonUkPerUs",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "0.9071847e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonUsPerHour",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "2.519958e-1"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonUsShipping",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+    "convFactor": "1.1326"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonUsShortPerCubicYard",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre",
+    "convFactor": "1.186553e3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonnePerDay",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond",
+    "convFactor": "1.15741e-2"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tropicalYear",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "3.1556925e7"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#troyOunceOrApothecaryOunce",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+    "convFactor": "31.1034768e-3"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#usGallonPerMinute",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond",
+    "convFactor": "6.309020e-5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#week",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "6.048e5"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#xo15degCCalorie",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+    "convFactor": "4.18846"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#yard",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+    "convFactor": "0.9144"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#yardPerDegreeFahrenheit",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin",
+    "convFactor": "1.64592"
+  },
+  {
+    "convOffset": "0.0",
+    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#year",
+    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime",
+    "convFactor": "3.15576e7"
+  }
+]

@@ -1,0 +1,191 @@
+<!doctype html>
+<head>
+  <title>check - mapping sorted words in labels - appField - unit ontology review</title>
+  <meta charset="utf-8" />
+  <style>
+    
+    .comment {
+      font-size: 90%;
+      text-align: center;
+    }
+    
+    #legendBox {
+      position: fixed;
+      width: calc( 100% - 2em );
+      background-color: white;
+      z-index: 100;
+    }
+    
+    body {
+      margin: 0;
+      padding: 0 1em;
+    }
+    /* XXXXXXXXXXXXXXXXXXXXXXXXXX Tooltips  XXXXXXXXXXXXXXXXXXXXXXXXX */
+    
+    .tooltip {
+      position: relative;
+      cursor: help;
+    }
+    
+    .tooltip > div {
+      display: none;
+      position: absolute;
+      top: 1em;
+      right: -1em;
+      text-align: left;
+      border: 1px solid black;
+      border-radius: 0.3em;
+      padding: 0.3em;
+      background-color: white;
+      z-index: 100;
+    }
+    
+    .tooltip:hover > div {
+      display: block;
+    }
+    
+    .tooltip li {
+      white-space: nowrap;
+    }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXX Table related  XXXXXXXXXXXXXXXXXXXXXXX */
+    
+    table {
+      width: 100%;
+      border-spacing: 0;
+    }
+    th, td {
+      text-align: center;
+      border: 2px solid transparent;
+    }
+    tr:nth-child( even ) {
+      background-color: #BDBDBD;
+    }
+    
+    .green { background-color: #BCF5A9; }
+    .red   { background-color: #F5BCA9; }
+    tr:nth-child( even ) .green { background-color: #82FA58; }
+    tr:nth-child( even ) .red   { background-color: #FA8258; }
+    
+
+    tr:hover:not(:first-child) th:first-child{
+      border-color: black transparent black black;
+    }
+    tr:hover:not(:first-child) td {
+      border-color: black transparent;
+    }
+    tr:hover:not(:first-child) td:last-child{
+      border-color: black black black transparent;
+    }
+    
+    .leftAligned td, .leftAligned th {
+      text-align: left;
+    }
+    
+    .firstColHeader th:first-child {
+      background-color: white;
+      border-style: solid;
+      border-width: 2px;
+      border-color: transparent transparent black;
+    }
+    .firstColHeader tr:hover th:first-child {
+      border-color: transparent transparent black;
+    }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXXX List related  XXXXXXXXXXXXXXXXXXXXXXX */
+    
+    ul.col4 {
+      -webkit-column-count: 4;
+         -moz-column-count: 4;
+              column-count: 4;
+    }
+    
+    th ul { margin: 0; }
+    
+    li[data-onto] { list-style-type: none; }
+    li[data-onto]:before {
+      content: ' ';
+      width: 0.7em;
+      height: 0.7em;
+      margin-right: -0.7em;
+      display: inline-block;
+      position: relative;
+      left: -1em;
+      border-radius: 0.3em;
+    }
+    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    li:before    { background-color: #7f7f7f; }
+    li[data-onto="MUO"]:before    { background-color: #1f77b4; }
+    li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
+    li[data-onto="OM"]:before     { background-color: #2ca02c; }
+    li[data-onto="QU"]:before     { background-color: #d62728; }
+    li[data-onto="QUDT"]:before   { background-color: #9467bd; }
+    li[data-onto="SWEET"]:before  { background-color: #8c564b; }
+    li[data-onto="UO"]:before     { background-color: #e377c2; }
+    
+    /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
+    
+    input.collapsible { display: none; }
+    input.collapsible:checked + * { display: none; }
+    
+    label.collapsible {
+      cursor: pointer;
+      text-decoration: underline;
+      opacity: 0.6;
+    }
+
+  </style>
+</head>
+<body>
+  <div id="legendBox">
+    <fieldset style="margin-bottom: 1em; height: 5em;">
+      <legend>Ontology Color Codes</legend>
+      <ul class="col4">
+        <li data-onto="MUO">MUO
+        <li data-onto="OBOE">OBOE
+        <li data-onto="OM">OM
+        <li data-onto="QU">QU
+        <li data-onto="QUDT">QUDT
+        <li data-onto="SWEET">SWEET
+        <li data-onto="UO">UO
+      </ul>
+    </fieldset>
+  </div>
+  <div style="visibility: hidden;">
+    <fieldset style="margin-bottom: 1em; height: 5em;">
+      <legend>Ontology Color Codes</legend>
+      <ul class="col4">
+        <li data-onto="MUO">MUO
+        <li data-onto="OBOE">OBOE
+        <li data-onto="OM">OM
+        <li data-onto="QU">QU
+        <li data-onto="QUDT">QUDT
+        <li data-onto="SWEET">SWEET
+        <li data-onto="UO">UO
+      </ul>
+    </fieldset>
+  </div>
+  <b>acoustics</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/acoustics">acoustics<br>(http://www.wurvoc.org/vocabularies/om-1.8/acoustics)</a><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#AcousticsScheme">acoustics scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#AcousticsScheme)</a></ul><b>anatomy</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Anatomy">anatomy<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Anatomy)</a></ul><b>and astronomy astrophysics</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics">astronomy and astrophysics<br>(http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics)</a></ul><b>and atomic nuclear physics</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics">atomic and nuclear physics<br>(http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics)</a><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#AtomicAndNuclearPhysicsScheme">atomic and nuclear physics scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#AtomicAndNuclearPhysicsScheme)</a></ul><b>and electricity magnetism</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism">electricity and magnetism<br>(http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism)</a><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#ElectricityAndMagnetismScheme">electricity and magnetism scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#ElectricityAndMagnetismScheme)</a></ul><b>and ionizing nuclear radiations reactions scheme</b><ul><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#NuclearReactionsAndIonizingRadiationsScheme">nuclear reactions and ionizing radiations scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#NuclearReactionsAndIonizingRadiationsScheme)</a></ul><b>and light radiation</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light">radiation and light<br>(http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light)</a><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#LightAndRelatedElectromagneticRadiationsScheme">light and related electromagnetic radiations scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#LightAndRelatedElectromagneticRadiationsScheme)</a></ul><b>and periodic phenomena related scheme</b><ul><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#PeriodicAndRelatedPhenomenaScheme">periodic and related phenomena scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#PeriodicAndRelatedPhenomenaScheme)</a></ul><b>and space time</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/space_and_time">space and time<br>(http://www.wurvoc.org/vocabularies/om-1.8/space_and_time)</a><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#SpaceAndTimeScheme">space and time scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#SpaceAndTimeScheme)</a></ul><b>application area common</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/common_application_area">common application area<br>(http://www.wurvoc.org/vocabularies/om-1.8/common_application_area)</a></ul><b>atmospheric science</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#AtmosphericScience">atmospheric science<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#AtmosphericScience)</a></ul><b>behavioral science</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#BehavioralScience">behavioral science<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#BehavioralScience)</a></ul><b>biochemistry</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biochemistry">biochemistry<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biochemistry)</a></ul><b>biogeochemistry</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biogeochemistry">biogeochemistry<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biogeochemistry)</a></ul><b>biology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology">biology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology)</a></ul><b>chemical physics</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics">chemical physics<br>(http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics)</a><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#PhysicalChemistryAndMolecularPhysicsScheme">physical chemistry and molecular physics scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#PhysicalChemistryAndMolecularPhysicsScheme)</a></ul><b>chemistry</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry">chemistry<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry)</a></ul><b>climatology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Climatology">climatology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Climatology)</a></ul><b>cosmology</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/cosmology">cosmology<br>(http://www.wurvoc.org/vocabularies/om-1.8/cosmology)</a></ul><b>dimension human</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#HumanDimension">human dimension<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#HumanDimension)</a></ul><b>dimensionless parameters</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters">dimensionless parameters<br>(http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters)</a><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#CharacteristicNumbersDimensionlessParametersScheme">characteristic numbers dimensionless parameters scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#CharacteristicNumbersDimensionlessParametersScheme)</a></ul><b>domain knowledge</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#KnowledgeDomain">knowledge domain<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#KnowledgeDomain)</a></ul><b>dynamics</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics">dynamics<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics)</a></ul><b>ecology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Ecology">ecology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Ecology)</a></ul><b>ecology landscape</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#LandscapeEcology">landscape ecology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#LandscapeEcology)</a></ul><b>economics</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Economics">economics<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Economics)</a></ul><b>epidemiology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Epidemiology">epidemiology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Epidemiology)</a></ul><b>genetics</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Genetics">genetics<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Genetics)</a></ul><b>geochemistry</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geochemistry">geochemistry<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geochemistry)</a></ul><b>geodesy</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geodesy">geodesy<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geodesy)</a></ul><b>geology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geology">geology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geology)</a></ul><b>geophysics</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geophysics">geophysics<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geophysics)</a></ul><b>heat scheme</b><ul><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#HeatScheme">heat scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#HeatScheme)</a></ul><b>hydrology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Hydrology">hydrology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Hydrology)</a></ul><b>limnology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Limnology">limnology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Limnology)</a></ul><b>lithology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Lithology">lithology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Lithology)</a></ul><b>mechanics</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/mechanics">mechanics<br>(http://www.wurvoc.org/vocabularies/om-1.8/mechanics)</a><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mechanics">mechanics<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mechanics)</a><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#MechanicsScheme">mechanics scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#MechanicsScheme)</a></ul><b>mechanics quantum</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics">quantum mechanics<br>(http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics)</a></ul><b>meteorology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Meteorology">meteorology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Meteorology)</a></ul><b>mineralogy</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mineralogy">mineralogy<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mineralogy)</a></ul><b>molecular spectroscopy</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy">molecular spectroscopy<br>(http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy)</a></ul><b>neotectonics</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Neotectonics">neotectonics<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Neotectonics)</a></ul><b>nutrition science</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#NutritionScience">nutrition science<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#NutritionScience)</a></ul><b>oceanography</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Oceanography">oceanography<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Oceanography)</a></ul><b>oceanology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Oceanology">oceanology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Oceanology)</a></ul><b>paleoclimatology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleoclimatology">paleoclimatology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleoclimatology)</a></ul><b>paleontology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleontology">paleontology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleontology)</a></ul><b>petrography</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrography">petrography<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrography)</a></ul><b>petrology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrology">petrology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrology)</a></ul><b>phenology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Phenology">phenology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Phenology)</a></ul><b>photochemistry</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Photochemistry">photochemistry<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Photochemistry)</a></ul><b>physics</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics">physics<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics)</a></ul><b>physics plasma</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics">plasma physics<br>(http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics)</a></ul><b>physics solid state</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics">solid state physics<br>(http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics)</a><li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/dim#SolidStatePhysicsScheme">solid state physics scheme<br>(http://purl.oclc.org/NET/ssnx/qu/dim#SolidStatePhysicsScheme)</a></ul><b>physics statistical</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics">statistical physics<br>(http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics)</a></ul><b>physiology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physiology">physiology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physiology)</a></ul><b>planetary science</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#PlanetaryScience">planetary science<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#PlanetaryScience)</a></ul><b>plate tectonics</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#PlateTectonics">plate tectonics<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#PlateTectonics)</a></ul><b>psychology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Psychology">psychology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Psychology)</a></ul><b>rheology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Rheology">rheology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Rheology)</a></ul><b>science</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Science">science<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Science)</a></ul><b>seismology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Seismology">seismology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Seismology)</a></ul><b>shipping</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/shipping">shipping<br>(http://www.wurvoc.org/vocabularies/om-1.8/shipping)</a></ul><b>sociology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Sociology">sociology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Sociology)</a></ul><b>stratigraphy</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Stratigraphy">stratigraphy<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Stratigraphy)</a></ul><b>tectonics</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Tectonics">tectonics<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Tectonics)</a></ul><b>thermodynamics</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics">thermodynamics<br>(http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics)</a><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics">thermodynamics<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics)</a></ul><b>toxicology</b><ul><li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Toxicology">toxicology<br>(http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Toxicology)</a></ul>
+  <script>
+  !function(){
+    
+    // get all collapsible lists
+    var collapsibles = document.querySelectorAll( '[data-collapsible="true"]' );
+    
+    for( var i=0; i<collapsibles.length; i++ ) {
+      
+      // shortcut
+      var list = collapsibles[ i ];
+      
+      // build control element
+      var ctrl = '<label class="collapsible" for="collapsible' + i + '"> Show/Hide</label>'
+                 + '<input type="checkbox" class="collapsible" autocomplete="off" id="collapsible' + i + '" checked />';
+      
+      // insert before list
+      list.insertAdjacentHTML( 'beforebegin', ctrl );
+
+    }
+    
+  }();
+  </script>
+</body>

@@ -1,0 +1,209 @@
+[
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AlgaeLifeStage",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#FishLifeStage",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MammalLifeStage",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#PlantLifeStage",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralIrradiance",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Irradiance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralRadiance",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Radiance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Amount"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceConcentration"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceMass"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceWeight"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AmountOfSubstanceWeightFlux"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Angle"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Area"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#ArealDensity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#ArealMassDensity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#ArealMassDensityRate"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Capacitance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#CatalyticActivity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Charge"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Conductance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Conductivity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Count"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Current"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#CurrentDensity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#DoseEquivalent"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Energy"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Force"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Frequency"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Illuminance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Inductance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Irradiance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Luminance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Luminosity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MagneticFieldStrength"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MagneticFlux"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MagneticFluxDensity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassDensity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassFlux"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassPerMass"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassSpecificCount"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MassSpecificLength"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Molality"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#PhotonFluxDensity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Power"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Pressure"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Proportion"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Radiance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#RadionucleotideActivity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Resistance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Resistivity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpecificArea"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpecificEnergy"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpecificVolume"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Speed"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Temperature"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Time"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Transmissivity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#VolumePerVolume"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#VolumetricArea"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#VolumetricDensity"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#VolumetricMassDensityRate"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#VolumetricRate"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#WaveNumber"
+  }
+]
