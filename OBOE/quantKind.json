@@ -1,19 +1,23 @@
 [
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AlgaeLifeStage",
-    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage"
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
+    "label": "Algae Life Stage"
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#FishLifeStage",
-    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage"
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
+    "label": "Fish Life Stage"
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MammalLifeStage",
-    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage"
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
+    "label": "Mammal Life Stage"
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#PlantLifeStage",
-    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage"
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
+    "label": "Plant Life Stage"
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralIrradiance",
@@ -102,7 +106,8 @@
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length"
   },
   {
-    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage"
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
+    "label": "Life Stage"
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Luminance"

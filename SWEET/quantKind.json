@@ -99,7 +99,8 @@
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/phenFluidDynamics.owl#HighPressure",
-    "parent": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Pressure"
+    "parent": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Pressure",
+    "label": "High Pressure"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/phenAtmoPressure.owl#CutOffLow",
@@ -107,7 +108,8 @@
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/phenFluidDynamics.owl#LowPressure",
-    "parent": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Pressure"
+    "parent": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Pressure",
+    "label": "Low Pressure"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/phenAtmoPressure.owl#ExtratropicalCyclone",
@@ -1138,7 +1140,8 @@
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#AbsorbedSolarRadiation",
-    "parent": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#SolarRadiation"
+    "parent": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#SolarRadiation",
+    "label": "Absorbed Solar Radiation"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Brightness",
@@ -1256,11 +1259,13 @@
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Albedo",
-    "parent": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#RadiationMediumInteractionQuantity"
+    "parent": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#RadiationMediumInteractionQuantity",
+    "label": "Albedo"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Albedo",
-    "parent": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#FractionalQuantity"
+    "parent": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#FractionalQuantity",
+    "label": "Albedo"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#AvailableWaterCapacity",
@@ -1380,7 +1385,8 @@
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#MixingRatio",
-    "parent": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#FractionalQuantity"
+    "parent": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#FractionalQuantity",
+    "label": "Mixing Ratio"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#MoleConcentration",
@@ -2424,7 +2430,8 @@
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Altitude",
-    "parent": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Height"
+    "parent": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Height",
+    "label": "Altitude"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#VerticalExtent",
@@ -2756,11 +2763,13 @@
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Acceleration",
-    "parent": "http://sweet.jpl.nasa.gov/2.3/prop.owl#MotionProperty"
+    "parent": "http://sweet.jpl.nasa.gov/2.3/prop.owl#MotionProperty",
+    "label": "Acceleration"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Acceleration",
-    "parent": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#PhysicalQuantity"
+    "parent": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#PhysicalQuantity",
+    "label": "Acceleration"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Airspeed",
@@ -3140,7 +3149,8 @@
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmAtmoWeather.owl#CondensationLevel",
-    "parent": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level"
+    "parent": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level",
+    "label": "Condensation Level"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmAtmoWeather.owl#ConvectiveCondensationLevel",
