@@ -29,72 +29,25 @@
   ]
  },
  {
-  "dimVector": "[-1,0,0,1,0,0,0]",
+  "dimVector": "[0,0,0,0,0,0,1]",
   "entries": [
    [
-    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_field_strength-dimension"
+    "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension",
+    "http://qudt.org/vocab/quantity#LuminousIntensity"
    ],
    [
-    "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength"
+    "http://www.wurvoc.org/vocabularies/om-1.8/luminous_flux-dimension",
+    "http://qudt.org/vocab/quantity#LuminousFlux"
    ]
   ],
   "labels": [
    [
-    "magnetic field strength",
-    "magneticfieldstrength"
+    "luminous intensity",
+    "luminousintensity"
    ],
    [
-    "electric current per length",
-    "electriccurrentperlength",
-    "electric current per unit length",
-    "electriccurrentperunitlength"
-   ]
-  ]
- },
- {
-  "dimVector": "[1,0,-2,0,0,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/acceleration-dimension",
-    "http://qudt.org/vocab/quantity#LinearAcceleration"
-   ],
-   [
-    "http://qudt.org/vocab/quantity#ThrustToMassRatio"
-   ]
-  ],
-  "labels": [
-   [
-    "acceleration",
-    "linear acceleration",
-    "linearacceleration"
-   ],
-   [
-    "thrust to mass ratio",
-    "thrusttomassratio"
-   ]
-  ]
- },
- {
-  "dimVector": "[0,0,-1,0,0,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/angular_speed-dimension",
-    "http://qudt.org/vocab/quantity#AngularVelocity"
-   ],
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/frequency-dimension",
-    "http://qudt.org/vocab/quantity#Frequency"
-   ]
-  ],
-  "labels": [
-   [
-    "angular speed",
-    "angularspeed",
-    "angular velocity",
-    "angularvelocity"
-   ],
-   [
-    "frequency"
+    "luminous flux",
+    "luminousflux"
    ]
   ]
  },
@@ -120,24 +73,210 @@
   ]
  },
  {
-  "dimVector": "[2,1,-2,0,0,0,0]",
+  "dimVector": "[0,0,-1,0,0,0,0]",
   "entries": [
    [
-    "http://www.wurvoc.org/vocabularies/om-1.8/energy-dimension",
-    "http://qudt.org/vocab/quantity#EnergyAndWork"
+    "http://www.wurvoc.org/vocabularies/om-1.8/frequency-dimension",
+    "http://qudt.org/vocab/quantity#Frequency"
    ],
    [
-    "http://qudt.org/vocab/quantity#Torque"
+    "http://www.wurvoc.org/vocabularies/om-1.8/angular_speed-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#AngularVelocity"
    ]
   ],
   "labels": [
    [
-    "energy",
-    "energy and work",
-    "energyandwork"
+    "frequency"
    ],
    [
-    "torque"
+    "angular speed",
+    "angularspeed"
+   ],
+   [
+    "angular velocity",
+    "angularvelocity"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[-1,0,0,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/wavenumber-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#InverseLength"
+   ]
+  ],
+  "labels": [
+   [
+    "wavenumber"
+   ],
+   [
+    "inverse length",
+    "inverselength"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[0,0,0,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/dimension_one"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#Dimensionless"
+   ]
+  ],
+  "labels": [
+   [
+    "one"
+   ],
+   [
+    "dimensionless"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[1,0,-2,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/acceleration-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#LinearAcceleration"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#ThrustToMassRatio"
+   ]
+  ],
+  "labels": [
+   [
+    "acceleration"
+   ],
+   [
+    "linear acceleration",
+    "linearacceleration"
+   ],
+   [
+    "thrust to mass ratio",
+    "thrusttomassratio"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[-3,0,0,0,0,1,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/amount_of_substance_concentration-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#AmountOfSubstancePerUnitVolume"
+   ]
+  ],
+  "labels": [
+   [
+    "amount of substance concentration",
+    "amountofsubstanceconcentration"
+   ],
+   [
+    "amount of substance per volume",
+    "amountofsubstancepervolume",
+    "amount of substance per unit volume",
+    "amountofsubstanceperunitvolume"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[-2,0,0,1,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/current_density-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#ElectricCurrentDensity"
+   ]
+  ],
+  "labels": [
+   [
+    "current density",
+    "currentdensity"
+   ],
+   [
+    "electric current density",
+    "electriccurrentdensity"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[-2,0,0,0,0,0,1]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/luminance-dimension",
+    "http://qudt.org/vocab/quantity#Luminance"
+   ],
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/illuminance-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#LuminousFluxPerArea"
+   ]
+  ],
+  "labels": [
+   [
+    "luminance"
+   ],
+   [
+    "illuminance"
+   ],
+   [
+    "luminous flux per area",
+    "luminousfluxperarea"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[-1,0,0,1,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_field_strength-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength"
+   ]
+  ],
+  "labels": [
+   [
+    "magnetic field strength",
+    "magneticfieldstrength"
+   ],
+   [
+    "electric current per length",
+    "electriccurrentperlength",
+    "electric current per unit length",
+    "electriccurrentperunitlength"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[1,0,-1,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/speed-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#LinearVelocity"
+   ]
+  ],
+  "labels": [
+   [
+    "speed"
+   ],
+   [
+    "linear velocity",
+    "linearvelocity"
    ]
   ]
  },
@@ -145,22 +284,205 @@
   "dimVector": "[-1,1,-2,0,0,0,0]",
   "entries": [
    [
+    "http://www.wurvoc.org/vocabularies/om-1.8/pressure-dimension"
+   ],
+   [
     "http://www.wurvoc.org/vocabularies/om-1.8/energy_density-dimension"
    ],
    [
-    "http://www.wurvoc.org/vocabularies/om-1.8/pressure-dimension",
     "http://qudt.org/vocab/quantity#ForcePerArea"
    ]
   ],
   "labels": [
    [
+    "pressure"
+   ],
+   [
     "energy density",
     "energydensity"
    ],
    [
-    "pressure",
     "force per area",
     "forceperarea"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[2,1,-2,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/energy-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#Torque"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#EnergyAndWork"
+   ]
+  ],
+  "labels": [
+   [
+    "energy"
+   ],
+   [
+    "torque"
+   ],
+   [
+    "energy and work",
+    "energyandwork"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[2,1,-3,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/power-dimension",
+    "http://qudt.org/vocab/quantity#Power"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#RadiantIntensity"
+   ]
+  ],
+  "labels": [
+   [
+    "power"
+   ],
+   [
+    "radiant intensity",
+    "radiantintensity"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[2,1,-3,-1,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/electric_potential-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#EnergyPerElectricCharge"
+   ]
+  ],
+  "labels": [
+   [
+    "electric potential",
+    "electricpotential"
+   ],
+   [
+    "energy per electric charge",
+    "energyperelectriccharge"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[2,1,-3,-2,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/electrical_resistance-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#Resistance"
+   ]
+  ],
+  "labels": [
+   [
+    "electrical resistance",
+    "electricalresistance"
+   ],
+   [
+    "resistance"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[-2,-1,3,2,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/electrical_conductance-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#ElectricConductivity"
+   ]
+  ],
+  "labels": [
+   [
+    "electrical conductance",
+    "electricalconductance"
+   ],
+   [
+    "electric conductivity",
+    "electricconductivity"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[0,1,-2,-1,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_flux_density-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#MagneticField"
+   ]
+  ],
+  "labels": [
+   [
+    "magnetic flux density",
+    "magneticfluxdensity"
+   ],
+   [
+    "magnetic field",
+    "magneticfield"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[2,0,-1,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/kinematic_viscosity-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#AreaPerTime"
+   ]
+  ],
+  "labels": [
+   [
+    "kinematic viscosity",
+    "kinematicviscosity"
+   ],
+   [
+    "area per time",
+    "areapertime"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[0,1,-3,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/power_density-dimension"
+   ],
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/radiance-dimension",
+    "http://qudt.org/vocab/quantity#Radiance"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#PowerPerArea"
+   ]
+  ],
+  "labels": [
+   [
+    "power density",
+    "powerdensity"
+   ],
+   [
+    "radiance"
+   ],
+   [
+    "power per area",
+    "powerperarea"
    ]
   ]
  },
@@ -189,145 +511,6 @@
   ]
  },
  {
-  "dimVector": "[-2,0,0,0,0,0,1]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/illuminance-dimension",
-    "http://qudt.org/vocab/quantity#LuminousFluxPerArea"
-   ],
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/luminance-dimension",
-    "http://qudt.org/vocab/quantity#Luminance"
-   ]
-  ],
-  "labels": [
-   [
-    "illuminance",
-    "luminous flux per area",
-    "luminousfluxperarea"
-   ],
-   [
-    "luminance"
-   ]
-  ]
- },
- {
-  "dimVector": "[0,0,0,0,0,0,1]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/luminous_flux-dimension",
-    "http://qudt.org/vocab/quantity#LuminousFlux"
-   ],
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension",
-    "http://qudt.org/vocab/quantity#LuminousIntensity"
-   ]
-  ],
-  "labels": [
-   [
-    "luminous flux",
-    "luminousflux"
-   ],
-   [
-    "luminous intensity",
-    "luminousintensity"
-   ]
-  ]
- },
- {
-  "dimVector": "[2,1,-3,0,0,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/power-dimension",
-    "http://qudt.org/vocab/quantity#Power"
-   ],
-   [
-    "http://qudt.org/vocab/quantity#RadiantIntensity"
-   ]
-  ],
-  "labels": [
-   [
-    "power"
-   ],
-   [
-    "radiant intensity",
-    "radiantintensity"
-   ]
-  ]
- },
- {
-  "dimVector": "[0,1,-3,0,0,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/power_density-dimension",
-    "http://qudt.org/vocab/quantity#PowerPerArea"
-   ],
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/radiance-dimension",
-    "http://qudt.org/vocab/quantity#Radiance"
-   ]
-  ],
-  "labels": [
-   [
-    "power density",
-    "powerdensity",
-    "power per area",
-    "powerperarea"
-   ],
-   [
-    "radiance"
-   ]
-  ]
- },
- {
-  "dimVector": "[0,1,-2,0,0,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/surface_tension-dimension",
-    "http://qudt.org/vocab/quantity#ForcePerLength"
-   ],
-   [
-    "http://qudt.org/vocab/quantity#EnergyPerArea"
-   ]
-  ],
-  "labels": [
-   [
-    "surface tension",
-    "surfacetension",
-    "force per length",
-    "forceperlength",
-    "force per unit length",
-    "forceperunitlength"
-   ],
-   [
-    "energy per area",
-    "energyperarea"
-   ]
-  ]
- },
- {
-  "dimVector": "[0,-1,3,0,1,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/thermal_resistance-dimension",
-    "http://qudt.org/vocab/quantity#ThermalResistance"
-   ],
-   [
-    "http://qudt.org/vocab/quantity#ThermalInsulance"
-   ]
-  ],
-  "labels": [
-   [
-    "thermal resistance",
-    "thermalresistance"
-   ],
-   [
-    "thermal insulance",
-    "thermalinsulance"
-   ]
-  ]
- },
- {
   "dimVector": "[1,1,-3,-1,0,0,0]",
   "entries": [
    [
@@ -346,6 +529,188 @@
    [
     "force per electric charge",
     "forceperelectriccharge"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[-3,0,1,1,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/electric_charge_density-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#ElectricChargeVolumeDensity"
+   ]
+  ],
+  "labels": [
+   [
+    "electric charge density",
+    "electricchargedensity"
+   ],
+   [
+    "electric charge volume density",
+    "electricchargevolumedensity"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[-2,0,1,1,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/electric_flux_density-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#ElectricChargePerArea"
+   ]
+  ],
+  "labels": [
+   [
+    "electric flux density",
+    "electricfluxdensity"
+   ],
+   [
+    "electric charge per area",
+    "electricchargeperarea",
+    "electric charge per unit area",
+    "electricchargeperunitarea"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[1,1,-2,-2,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/permeability_of_free_space-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#Permeability"
+   ]
+  ],
+  "labels": [
+   [
+    "permeability of free space",
+    "permeabilityoffreespace"
+   ],
+   [
+    "permeability"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[0,-1,1,1,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/exposure_to_x_and_gamma_rays-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#ElectricChargePerMass"
+   ]
+  ],
+  "labels": [
+   [
+    "exposure to x and γ rays",
+    "exposuretoxandγrays",
+    "exposure to x and gamma rays",
+    "exposuretoxandgammarays"
+   ],
+   [
+    "electric charge per mass",
+    "electricchargepermass"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[0,1,-2,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/surface_tension-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#EnergyPerArea"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#ForcePerLength"
+   ]
+  ],
+  "labels": [
+   [
+    "surface tension",
+    "surfacetension"
+   ],
+   [
+    "energy per area",
+    "energyperarea"
+   ],
+   [
+    "force per length",
+    "forceperlength",
+    "force per unit length",
+    "forceperunitlength"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[3,0,-1,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/volumetric_flow_rate-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#VolumePerUnitTime"
+   ]
+  ],
+  "labels": [
+   [
+    "volumetric flow rate",
+    "volumetricflowrate"
+   ],
+   [
+    "volume per time",
+    "volumepertime",
+    "volume per unit time",
+    "volumeperunittime"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[0,1,-1,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/mass_flow-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#MassPerTime"
+   ]
+  ],
+  "labels": [
+   [
+    "mass flow",
+    "massflow"
+   ],
+   [
+    "mass per time",
+    "masspertime"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[-3,0,0,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/number_density-dimension"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#InverseVolume"
+   ]
+  ],
+  "labels": [
+   [
+    "number density",
+    "numberdensity"
+   ],
+   [
+    "inverse volume",
+    "inversevolume"
    ]
   ]
  },

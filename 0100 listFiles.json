@@ -11,7 +11,7 @@
   "exportHTML": []
  },
  {
-  "desc": "run all analysis scripts in order of their numbering\r\n\nstarting with the given script (or prefix thereof)",
+  "desc": "run all analysis scripts in order of their numbering\nstarting with the given script (or prefix thereof)",
   "key": "0010",
   "name": "runFromScript",
   "file": "0010 runFromScript.js",
@@ -22,7 +22,7 @@
   "exportHTML": []
  },
  {
-  "desc": "run the given analysis scripts in order of their numbering\r\n\nscripts are given by just their number",
+  "desc": "run the given analysis scripts in order of their numbering\nscripts are given by just their number",
   "key": "0020",
   "name": "runScripts",
   "file": "0020 runScripts.js",
@@ -446,6 +446,34 @@
   "exportResult": [
    "statistic - relation coverage",
    "statistic - relation coverage + ' missing'"
+  ],
+  "exportHTML": []
+ },
+ {
+  "desc": "count languages used for labels per type\r\n\r\noutput:\r\n- \"statistic - label languages\"",
+  "key": "3750",
+  "name": "statistic - label languages",
+  "file": "3750 statistic - label languages.js",
+  "loadedResults": [],
+  "loadedPredefined": [],
+  "loadedData": [],
+  "exportResult": [
+   "statistic - label languages"
+  ],
+  "exportHTML": []
+ },
+ {
+  "desc": "find individuals, that are lacking a label in a specific language, \r\neven though that language is specified for that type and ontology\r\n\r\noutput:\r\n- 'check - missing languages in labels'",
+  "key": "3751",
+  "name": "check - missing languages in labels",
+  "file": "3751 check - missing languages in labels.js",
+  "loadedResults": [
+   "statistic - label languages"
+  ],
+  "loadedPredefined": [],
+  "loadedData": [],
+  "exportResult": [
+   "check - missing languages in labels"
   ],
   "exportHTML": []
  },
@@ -902,7 +930,6 @@
   "name": "check - missed units",
   "file": "9130 check - missed units.js",
   "loadedResults": [
-   "unit",
    "check - missed units"
   ],
   "loadedPredefined": [],
@@ -1101,6 +1128,36 @@
   "exportResult": [],
   "exportHTML": [
    "check - multiple labels"
+  ]
+ },
+ {
+  "desc": "Create HTML output for the languages used in labels per ontology and type\r\n\noutput:\r\n- \"statistic - label languages\" ... table of languages used per ontology and type",
+  "key": "9750",
+  "name": "statistic - label languages",
+  "file": "9750 statistic - label languages.js",
+  "loadedResults": [
+   "statistic - label languages"
+  ],
+  "loadedPredefined": [],
+  "loadedData": [],
+  "exportResult": [],
+  "exportHTML": [
+   "statistic - label languages"
+  ]
+ },
+ {
+  "desc": "Create HTML output for languages missing in labels per ontology and type\r\n\noutput:\r\n- \"check - missing languages in labels\" ... list of languages missing in labels per ontology and type",
+  "key": "9751",
+  "name": "check - missing languages in labels",
+  "file": "9751 check - missing lnaguages in labels.js",
+  "loadedResults": [
+   "check - missing languages in labels"
+  ],
+  "loadedPredefined": [],
+  "loadedData": [],
+  "exportResult": [],
+  "exportHTML": [
+   "check - missing languages in labels"
   ]
  }
 ]

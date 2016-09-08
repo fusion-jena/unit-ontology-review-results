@@ -3,42 +3,69 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Ampere",
-    "definition": "The ampere is the SI unit of electric current and is one of the seven SI base units."
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Angstrom",
-    "definition": "The angstrom is a unit of length equal to 0.1 nanometre."
+    "definition": "The ampere is the SI unit of electric current and is one of the seven SI base units.",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Ampere"
+  },
+  {
+    "definition": "The angstrom is a unit of length equal to 0.1 nanometre.",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Angstrom"
+  },
+  {
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Are"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Bar",
-    "definition": "The bar (symbol: bar) is a unit of pressure equal to 100 kilopascals, and roughly equal to the atmospheric pressure on Earth at sea level. \n\nIt is not an SI or cgs units, but accepted for use with the SI. The bar is widely used in descriptions of pressure because it is only about 1% smaller than \"standard\" atmospheric pressure, and is legally recognized in countries of the European Union.\n\nCommon derivatives are millibar (meteorology) and decibar (oceanography)"
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Dekameter"
+  },
+  {
+    "definition": "The bar (symbol: bar) is a unit of pressure equal to 100 kilopascals, and roughly equal to the atmospheric pressure on Earth at sea level. \n\nIt is not an SI or cgs units, but accepted for use with the SI. The bar is widely used in descriptions of pressure because it is only about 1% smaller than \"standard\" atmospheric pressure, and is legally recognized in countries of the European Union.\n\nCommon derivatives are millibar (meteorology) and decibar (oceanography)",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Bar"
+  },
+  {
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilopascal"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Becquerel"
   },
   {
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Second"
+  },
+  {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Bushel"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Candela",
-    "definition": "The candela is the SI base unit of luminous intensity, i.e., the power emitted by a light source in a particular direction, weighted by the luminosity function (a standardized model of the sensitivity of the human eye to different wavelengths)."
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Liter"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Celsius",
-    "definition": "The degree Celsius is a unit of thermodynamic temperature with the same magnitude as the unit kelvin but where absolute zero (0 Kelvin) is defined as -273.15 degrees Celsius."
+    "definition": "The candela is the SI base unit of luminous intensity, i.e., the power emitted by a light source in a particular direction, weighted by the luminosity function (a standardized model of the sensitivity of the human eye to different wavelengths).",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Candela"
+  },
+  {
+    "definition": "The degree Celsius is a unit of thermodynamic temperature with the same magnitude as the unit kelvin but where absolute zero (0 Kelvin) is defined as -273.15 degrees Celsius.",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Celsius"
+  },
+  {
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kelvin"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Centigram"
+  },
+  {
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilogram"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Centimeter"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#CentimeterCubed"
+  },
+  {
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Milliliter"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#CentimeterPerSecond"
@@ -53,8 +80,8 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Day"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Decibar",
-    "definition": "A decibar is a unit pressure commonly used in oceanography because it's value is generally equivalent to depth in meters.  1 dbar = 0.1 bar = 10 kPa"
+    "definition": "A decibar is a unit pressure commonly used in oceanography because it's value is generally equivalent to depth in meters.  1 dbar = 0.1 bar = 10 kPa",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Decibar"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Decigram"
@@ -69,10 +96,10 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Degree"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Dekagram"
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Radian"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Dekameter"
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Dekagram"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Dekasecond"
@@ -114,14 +141,22 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectare"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectogram"
-  },
-  {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectometer"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectopascal",
-    "definition": "Unit of pressures often used in meteorology. One hectopascal is equivalent to one millibar; one standard atmosphere is exactly equal to 1013.25 hPa. One hectopascal corresponds to about 0.1% of atmospheric pressure near sea level (Wikipedia)."
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectogram"
+  },
+  {
+    "definition": "Unit of pressures often used in meteorology. One hectopascal is equivalent to one millibar; one standard atmosphere is exactly equal to 1013.25 hPa. One hectopascal corresponds to about 0.1% of atmospheric pressure near sea level (Wikipedia).",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectopascal"
+  },
+  {
+    "definition": "A millibar is a unit pressure commonly used in meterology. 1 mbar = 0.001 bar = 0.1 kPa = 1 hPa (hectopascal)",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millibar"
+  },
+  {
+    "definition": "The pascal (symbol: Pa) is the SI derived unit of pressure. It is a measure of force per unit area, and defined as one newton per sqare meter.\n1 Pa = N m-2",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pascal"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hectosecond"
@@ -139,12 +174,6 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#InchCubed"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kelvin"
-  },
-  {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilogram"
-  },
-  {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#KilogramPerLiter"
   },
   {
@@ -160,7 +189,13 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilohertz"
   },
   {
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilosecond"
+  },
+  {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kiloliter"
+  },
+  {
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterCubed"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilometer"
@@ -169,20 +204,14 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#KilometerSquared"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilopascal"
+    "definition": "A knot is one nautical mile per hour, which is equal to exactly 1.852 km/h and approximately 1.151 mph.",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Knot"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilosecond"
-  },
-  {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Knot",
-    "definition": "A knot is one nautical mile per hour, which is equal to exactly 1.852 km/h and approximately 1.151 mph."
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NauticalMile"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#LinkClarke"
-  },
-  {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Liter"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#LiterPerSecond"
@@ -197,26 +226,17 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Megahertz"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Megameter"
-  },
-  {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Megasecond"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter"
-  },
-  {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterCubed"
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Megameter"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterPerSecond"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared"
-  },
-  {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicroeinsteinsPerMeterSquaredPerSecond",
-    "definition": "An einstein is a unit used in irradiance and in photochemistry. One einstein is defined as one mole of photons, regardless of their frequency. Therefore, the number of photons in an einstein is Avogadro's number, 6.022×1023.\n\nQuantum flux of Photosynthetically active radiation (PAR) is usually reported in microeinsteins per second per square meter, one microeinstein being one-millionth of an einstein.\n\nIrradiance might be measured in einsteins per square metre per second, if the source is monochromatic. (note: If the optical frequency is not well defined this is a sloppy misuse of the term irradiance, which is defined in terms of power per unit area, and p.\n\n\nThe einstein is used in studies of photosynthesis since the light requirement for the production of a given quantity of oxygen is a fixed number of photosynthetically active photons (about nine photosynthetically active einsteins per mole of oxygen formed).\n\nIt is named in honor of Albert Einstein, who in a 1905 paper explained the photoelectric effect in terms of light quanta, now called photons, an idea introduced by Max Planck."
+    "definition": "An einstein is a unit used in irradiance and in photochemistry. One einstein is defined as one mole of photons, regardless of their frequency. Therefore, the number of photons in an einstein is Avogadro's number, 6.022×1023.\n\nQuantum flux of Photosynthetically active radiation (PAR) is usually reported in microeinsteins per second per square meter, one microeinstein being one-millionth of an einstein.\n\nIrradiance might be measured in einsteins per square metre per second, if the source is monochromatic. (note: If the optical frequency is not well defined this is a sloppy misuse of the term irradiance, which is defined in terms of power per unit area, and p.\n\n\nThe einstein is used in studies of photosynthesis since the light requirement for the production of a given quantity of oxygen is a fixed number of photosynthetically active photons (about nine photosynthetically active einsteins per mole of oxygen formed).\n\nIt is named in honor of Albert Einstein, who in a 1905 paper explained the photoelectric effect in terms of light quanta, now called photons, an idea introduced by Max Planck.",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicroeinsteinsPerMeterSquaredPerSecond"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Microgram"
@@ -234,14 +254,17 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Microliter"
   },
   {
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millimeter"
+  },
+  {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Micrometer"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicrometerSquared"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicromolePerKilogram",
-    "definition": "Unit of concentration often used for gasses (e.g., oxygen, or O2) because it is related to solubility measurements."
+    "definition": "Unit of concentration often used for gasses (e.g., oxygen, or O2) because it is related to solubility measurements.",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicromolePerKilogram"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MicromolePerLiter"
@@ -265,10 +288,6 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MileSquared"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millibar",
-    "definition": "A millibar is a unit pressure commonly used in meterology. 1 mbar = 0.001 bar = 0.1 kPa = 1 hPa (hectopascal)"
-  },
-  {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Milligram"
   },
   {
@@ -287,14 +306,11 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millihertz"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Milliliter"
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millisecond"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MilliliterPerLIter",
-    "definition": "A unit of concentration used for liquid-liquid solutions or for mixtures of gasses and of gasses and liquids."
-  },
-  {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millimeter"
+    "definition": "A unit of concentration used for liquid-liquid solutions or for mixtures of gasses and of gasses and liquids.",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MilliliterPerLIter"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MillimeterSquared"
@@ -304,9 +320,6 @@
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MillimolePerMeterCubed"
-  },
-  {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millisecond"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MillisiemensPerMeter"
@@ -339,11 +352,8 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Nanosecond"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NauticalMile"
-  },
-  {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Newton",
-    "definition": "The newton is the unit of force derived in the SI system; it is equal to the amount of net force required to accelerate a mass of one kilogram at a rate of one meter per second per second. \n1 N = kg  m  s-2"
+    "definition": "The newton is the unit of force derived in the SI system; it is equal to the amount of net force required to accelerate a mass of one kilogram at a rate of one meter per second per second. \n1 N = kg  m  s-2",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Newton"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NominalDay"
@@ -373,12 +383,8 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#PartPerThousand"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pascal",
-    "definition": "The pascal (symbol: Pa) is the SI derived unit of pressure. It is a measure of force per unit area, and defined as one newton per sqare meter.\n1 Pa = N m-2"
-  },
-  {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Percent",
-    "definition": "Ratio of two quantities as percent composition (1:100)."
+    "definition": "Ratio of two quantities as percent composition (1:100).",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Percent"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pint"
@@ -390,21 +396,15 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Quart"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Radian"
-  },
-  {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#ReciprocalMeter"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Second"
+    "definition": "The siemens (symbol: S) is the SI derived unit of electric conductance and electric admittance. Conductance and admittance are the reciprocals of resistance and impedance respectively, hence one siemens is equal to the reciprocal of one ohm, and is sometimes referred to as the mho. It is named after the German inventor and industrialist Ernst Werner von Siemens. In English, the term siemens is used both for the singular and plural. The 14th General Conference on Weights and Measures approved the addition of the siemens as an SI derived unit in 1971.\n\nIt is a composite unit in OBOE because it is composed of 2 base units, and OBOE-derived units are a single base unit raised to a power.\n\na siemens is Ampere/volt",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Siemens"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Siemens",
-    "definition": "The siemens (symbol: S) is the SI derived unit of electric conductance and electric admittance. Conductance and admittance are the reciprocals of resistance and impedance respectively, hence one siemens is equal to the reciprocal of one ohm, and is sometimes referred to as the mho. It is named after the German inventor and industrialist Ernst Werner von Siemens. In English, the term siemens is used both for the singular and plural. The 14th General Conference on Weights and Measures approved the addition of the siemens as an SI derived unit in 1971.\n\nIt is a composite unit in OBOE because it is composed of 2 base units, and OBOE-derived units are a single base unit raised to a power.\n\na siemens is Ampere/volt"
-  },
-  {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#SiemensPerMeter",
-    "definition": "Conductivity is the reciprocal (inverse) of electrical resistivity, ρ, and has the SI units of siemens per metre (S·m-1). \"siemens\" is used for both singular and plural."
+    "definition": "Conductivity is the reciprocal (inverse) of electrical resistivity, ρ, and has the SI units of siemens per metre (S·m-1). \"siemens\" is used for both singular and plural.",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#SiemensPerMeter"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Ton"
@@ -413,8 +413,8 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Tonne"
   },
   {
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Volt",
-    "definition": "The volt is defined as the value of the voltage across a conductor when a current of one ampere dissipates one watt of power in the conductor.[2] It can be written in terms of SI base units as: m2 · kg · s−3 · A−1. It is also equal to one joule of energy per coulomb of charge, J/C."
+    "definition": "The volt is defined as the value of the voltage across a conductor when a current of one ampere dissipates one watt of power in the conductor.[2] It can be written in terms of SI base units as: m2 · kg · s−3 · A−1. It is also equal to one joule of energy per coulomb of charge, J/C.",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Volt"
   },
   {
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquared"

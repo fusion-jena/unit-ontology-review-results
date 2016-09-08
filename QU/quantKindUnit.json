@@ -1,307 +1,83 @@
 [
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#acceleration",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecondSquared"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fluxDensity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetreSecond"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#accousticalImpedance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecondPerCubicMetre"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reciprocalArea",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#amountOfSubstance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#mole"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonFluxDensity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSquareMetrePerSecond"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angle",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#radian"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angularAcceleration",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#radianPerSecondSquared"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#solidAngle",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#steradian"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angularMomentum",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#jouleSecond"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#apparentPower",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltAmpere"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#area",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#areicElectricCurrent",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerSquareMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#capacitance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#farad"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#chargeDensity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#coefficientOfThermalInsulation",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetreKelvinPerWatt"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#compressibility",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalPascalOrPascalToThePowerMinusOne"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#concentration",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerCubicMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#conductance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemens"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#density",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#differentialCrossSection",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSteradian"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diffusionCoefficient",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSecond"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dimensionless",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#euclid"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dimensionless",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#percent"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeed",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#radianPerSecond"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#distance",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#metre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#doseEquivalent",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#sievert"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lengthPerTemperature",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thicknessFrequencyProduct",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#hertzMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#area",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volume",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#duration",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#secondUnitOfTime"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dynamicViscosity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angularAcceleration",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#radianPerSecondSquared"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricCharge",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#velocityOrSpeed",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricConductivity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#acceleration",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecondSquared"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricCurrentRate",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricDipoleMoment",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricDisplacement",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricFieldStrength",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricLineReactance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricPotential",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#volt"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricResistance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electromagneticMoment",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#ampereSquareMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electronicDensityOfStates",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalJoulePerCubicMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#emissivity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#one"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energy",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyDensity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerCubicMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyFlux",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#exposure",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogram"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#exposureRate",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogramSecond"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#fluxDensity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetreSecond"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#force",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#newton"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberPerLength",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalMetre"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#frequency",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#hertz"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gravitationalCoupling",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonMetreSquaredKilogramSquared"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatCapacity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKelvin"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatTransferCoefficient",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetreKelvin"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#holographicMaterialSlabSensitivity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerJoule"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#illuminance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#lux"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#inductance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#henry"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#inverseAmount",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalMole"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#lengthPerTemperature",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerKelvin"
-  },
-  {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#levelOfAFieldQuantity",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#neper"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearDensity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearEnergyTransfer",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousEfficacy",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#lumenPerWatt"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousExposure",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#luxSecond"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousFlux",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#lumen"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousIntensity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#candela"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFlux",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#weber"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFluxDensity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#tesla"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticVectorPotential",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#weberPerMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magnetization",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerMetre"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mass",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massAttenuationCoefficient",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerKilogram"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massFlowRate",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massPerTimePerArea",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetreSecond"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mechanicalImpedance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonSecondPerMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molality",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerKilogram"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarAbsorptionCoefficient",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerMole"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarConductivity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensSquareMetrePerMole"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarEnergy",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMole"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarFlux",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSecond"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarHeatCapacity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMoleKelvin"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarVolume",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerMole"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#density",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerCubicMetre"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molecularWeight",
@@ -312,28 +88,252 @@
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramMetreSquared"
   },
   {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#emissivity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#one"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificVolume",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerKilogram"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massAttenuationCoefficient",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerKilogram"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearDensity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceDensity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre"
+  },
+  {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#momentum",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramMetrePerSecond"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#numberPerLength",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalMetre"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#force",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#newton"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permeability",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#henryPerMetre"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#gravitationalCoupling",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonMetreSquaredKilogramSquared"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energy",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joule"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stressOrPressure",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressureCoefficient",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalPerKelvin"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#compressibility",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalPascalOrPascalToThePowerMinusOne"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#secondMomentOfArea",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#metreToTheFourthPower"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dynamicViscosity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecond"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#diffusionCoefficient",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSecond"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceTension",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonPerMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#torsionalStiffness",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonMetrePerSquareMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#power",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#watt"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massFlowRate",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSecond"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#massPerTimePerArea",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetreSecond"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeFlowRate",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#temperature",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvin"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#temperature",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeCelsius"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#temperatureDrift",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerSecond"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyFlux",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalConductivity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatTransferCoefficient",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetreKelvin"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#coefficientOfThermalInsulation",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetreKelvinPerWatt"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalResistance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerWatt"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalConductance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerKelvin"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#heatCapacity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKelvin"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificEntropy",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificEnergy",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogram"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricCurrentRate",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#ampere"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricCharge",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulomb"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#chargeDensity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricDisplacement",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricFieldStrength",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricPotential",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#volt"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#capacitance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#farad"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permittivity",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#faradPerMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonExposure",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalSquareMetre"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricDipoleMoment",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonFluxDensity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSquareMetrePerSecond"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#areicElectricCurrent",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerSquareMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#exposureRate",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogramSecond"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magnetization",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFluxDensity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#tesla"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFlux",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#weber"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticVectorPotential",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#weberPerMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#inductance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#henry"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#permeability",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#henryPerMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electromagneticMoment",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#ampereSquareMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#energyDensity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerCubicMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricResistance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohm"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#conductance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemens"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricConductivity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensPerMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resistivity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electricLineReactance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reluctance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalHenry"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#apparentPower",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltAmpere"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactivePower",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#var"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralRadiantEnergyDensityInTermsOfWaveLength",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMetreToTheFourthPower"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radianceExposure",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerSquareMetre"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonIntensity",
@@ -344,175 +344,175 @@
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalSecondPerSteradianMetreSquared"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#power",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#watt"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#photonExposure",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalSquareMetre"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#powerGradient",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#pressureCoefficient",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalPerKelvin"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#quantityOfLight",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#lumenSecond"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiantIntensity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSteradian"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiance",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSteradianSquareMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radianceExposure",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerSquareMetre"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stefanBoltzmannConstant",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetreKelvinToTheFourthPower"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiantIntensity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSteradian"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousIntensity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#candela"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiationDose",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gray"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousFlux",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#lumen"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiationDoseRate",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#grayPerSecond"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#quantityOfLight",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#lumenSecond"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reactivePower",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#var"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#illuminance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#lux"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reciprocalArea",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetre"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousExposure",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#luxSecond"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#reluctance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalHenry"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#luminousEfficacy",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#lumenPerWatt"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#resistivity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotationalSpeed",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#radianPerSecond"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotatoryPower",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#radianSquareMetrePerKilogram"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#secondMomentOfArea",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#metreToTheFourthPower"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#seebeckCoefficient",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerKelvin"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#solidAngle",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#steradian"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarAbsorptionCoefficient",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerMole"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificAcousticImpedance",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecondPerMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificEnergy",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogram"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#accousticalImpedance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascalSecondPerCubicMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificEntropy",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerKilogramKelvin"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#mechanicalImpedance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonSecondPerMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#specificVolume",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerKilogram"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#amountOfSubstance",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#mole"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralAngularCrossSection",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSteradianJoule"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#inverseAmount",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalMole"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralConcentrationOfVibrationalModesInTermsOfAngularFrequency",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#secondPerCubicMetreRadian"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarVolume",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerMole"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralRadiantEnergyDensityInTermsOfWaveLength",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMetreToTheFourthPower"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarEnergy",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMole"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stefanBoltzmannConstant",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSquareMetreKelvinToTheFourthPower"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarHeatCapacity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMoleKelvin"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#stressOrPressure",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#concentration",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerCubicMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceDensity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramPerSquareMetre"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumicDose",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#secondPerCubicMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#surfaceTension",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonPerMetre"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarFlux",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerSecond"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#temperature",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#degreeCelsius"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molality",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#molePerKilogram"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#temperature",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvin"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#molarConductivity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#siemensSquareMetrePerMole"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#temperatureDrift",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerSecond"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#rotatoryPower",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#radianSquareMetrePerKilogram"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalConductance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerKelvin"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#angularMomentum",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#jouleSecond"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalConductivity",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerMetreKelvin"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thermalResistance",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#kelvinPerWatt"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#thicknessFrequencyProduct",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#hertzMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#torsionalStiffness",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonMetrePerSquareMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#velocityOrSpeed",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#metrePerSecond"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volume",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeDensityRate",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalSecondPerCubicMetre"
-  },
-  {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeFlowRate",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetrePerSecond"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#activity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerel"
   },
   {
     "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumicActivity",
     "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#becquerelPerCubicMetre"
   },
   {
-    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumicDose",
-    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#secondPerCubicMetre"
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#differentialCrossSection",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSteradian"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#holographicMaterialSlabSensitivity",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerJoule"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralAngularCrossSection",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetrePerSteradianJoule"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#linearEnergyTransfer",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeDensityRate",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalSecondPerCubicMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiationDose",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#gray"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#doseEquivalent",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#sievert"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#radiationDoseRate",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#grayPerSecond"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#exposure",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerKilogram"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#spectralConcentrationOfVibrationalModesInTermsOfAngularFrequency",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#secondPerCubicMetreRadian"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#electronicDensityOfStates",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalJoulePerCubicMetre"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#seebeckCoefficient",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#voltPerKelvin"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dimensionless",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#euclid"
+  },
+  {
+    "quantKind": "http://purl.oclc.org/NET/ssnx/qu/quantity#dimensionless",
+    "unit": "http://purl.oclc.org/NET/ssnx/qu/unit#percent"
   }
 ]

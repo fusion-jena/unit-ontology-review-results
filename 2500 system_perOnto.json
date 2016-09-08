@@ -6,12 +6,29 @@
    "__type": "SemObject",
    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Apothecaries_system_of_weights",
    "ontology": "OM",
-   "labels": [
-    "apothecaries system of weights",
-    "apothecariessystemofweights",
-    "apothecaries systeem",
-    "apothecariessysteem"
-   ],
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "apothecaries system of weights",
+      "apothecariessystemofweights"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "apothecaries system of weights",
+      "apothecariessystemofweights"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "apothecaries systeem",
+      "apothecariessysteem"
+     ]
+    }
+   },
    "dispLabel": "Apothecaries' system of weights",
    "raw": null
   },
@@ -19,12 +36,29 @@
    "__type": "SemObject",
    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Avoirdupois_system_of_units",
    "ontology": "OM",
-   "labels": [
-    "avoirdupois system of units",
-    "avoirdupoissystemofunits",
-    "avoirdupois systeem",
-    "avoirdupoissysteem"
-   ],
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois system of units",
+      "avoirdupoissystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois system of units",
+      "avoirdupoissystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois systeem",
+      "avoirdupoissysteem"
+     ]
+    }
+   },
    "dispLabel": "Avoirdupois system of units",
    "raw": null
   },
@@ -32,91 +66,89 @@
    "__type": "SemObject",
    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/British_system_of_units",
    "ontology": "OM",
-   "labels": [
-    "british system of units",
-    "britishsystemofunits"
-   ],
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "british system of units",
+      "britishsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "british system of units",
+      "britishsystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "britse systeem van eenheden",
+      "britsesysteemvaneenheden"
+     ]
+    }
+   },
    "dispLabel": "British system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Gaussian_system_of_units",
-   "ontology": "OM",
-   "labels": [
-    "gaussian system of units",
-    "gaussiansystemofunits",
-    "gaussische eenhedenstelsel",
-    "gaussischeeenhedenstelsel"
-   ],
-   "dispLabel": "Gaussian system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Imperial_System",
-   "ontology": "OM",
-   "labels": [
-    "imperial system",
-    "imperialsystem",
-    "imperiaal stelsel",
-    "imperiaalstelsel"
-   ],
-   "dispLabel": "Imperial System",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/International_System_of_Units",
-   "ontology": "OM",
-   "labels": [
-    "international system of units",
-    "internationalsystemofunits"
-   ],
-   "dispLabel": "International System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Troy_system_of_units",
-   "ontology": "OM",
-   "labels": [
-    "troy system of units",
-    "troysystemofunits"
-   ],
-   "dispLabel": "Troy system of units",
    "raw": null
   },
   {
    "__type": "SemObject",
    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-biot_system_of_units",
    "ontology": "OM",
-   "labels": [
-    "centimetre gram second biot system of units",
-    "centimetregramsecondbiotsystemofunits"
-   ],
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "centimetre gram second biot system of units",
+      "centimetregramsecondbiotsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "centimetre gram second biot system of units",
+      "centimetregramsecondbiotsystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "centimeter gram seconde biot systeem",
+      "centimetergramsecondebiotsysteem"
+     ]
+    }
+   },
    "dispLabel": "centimetre-gram-second-biot system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-franklin_system_of_units",
-   "ontology": "OM",
-   "labels": [
-    "centimetre gram second franklin system of units",
-    "centimetregramsecondfranklinsystemofunits"
-   ],
-   "dispLabel": "centimetre-gram-second-franklin system of units",
    "raw": null
   },
   {
    "__type": "SemObject",
    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electromagnetic_system_of_units",
    "ontology": "OM",
-   "labels": [
-    "centimetre gram second electromagnetic system of units",
-    "centimetregramsecondelectromagneticsystemofunits"
-   ],
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "centimetre gram second electromagnetic system of units",
+      "centimetregramsecondelectromagneticsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "centimetre gram second electromagnetic system of units",
+      "centimetregramsecondelectromagneticsystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "centimeter gram seconde electromagnetische systeem",
+      "centimetergramsecondeelectromagnetischesysteem"
+     ]
+    }
+   },
    "dispLabel": "centimetre-gram-second electromagnetic system of units",
    "raw": null
   },
@@ -124,33 +156,240 @@
    "__type": "SemObject",
    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electrostatic_system_of_units",
    "ontology": "OM",
-   "labels": [
-    "centimetre gram second electrostatic system of units",
-    "centimetregramsecondelectrostaticsystemofunits"
-   ],
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "centimetre gram second electrostatic system of units",
+      "centimetregramsecondelectrostaticsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "centimetre gram second electrostatic system of units",
+      "centimetregramsecondelectrostaticsystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "centimeter gram seconde electrostatische systeem",
+      "centimetergramsecondeelectrostatischesysteem"
+     ]
+    }
+   },
    "dispLabel": "centimetre-gram-second electrostatic system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-franklin_system_of_units",
+   "ontology": "OM",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "centimetre gram second franklin system of units",
+      "centimetregramsecondfranklinsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "centimetre gram second franklin system of units",
+      "centimetregramsecondfranklinsystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "centimeter gram seconde franklin systeem",
+      "centimetergramsecondefranklinsysteem"
+     ]
+    }
+   },
+   "dispLabel": "centimetre-gram-second-franklin system of units",
    "raw": null
   },
   {
    "__type": "SemObject",
    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_system_of_units",
    "ontology": "OM",
-   "labels": [
-    "centimetre gram second system of units",
-    "centimetregramsecondsystemofunits"
-   ],
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "centimetre gram second system of units",
+      "centimetregramsecondsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "centimetre gram second system of units",
+      "centimetregramsecondsystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "centimeter gram seconde systeem",
+      "centimetergramsecondesysteem"
+     ]
+    }
+   },
    "dispLabel": "centimetre-gram-second system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Gaussian_system_of_units",
+   "ontology": "OM",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "gaussian system of units",
+      "gaussiansystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "gaussian system of units",
+      "gaussiansystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "gaussische eenhedenstelsel",
+      "gaussischeeenhedenstelsel"
+     ]
+    }
+   },
+   "dispLabel": "Gaussian system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Imperial_System",
+   "ontology": "OM",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "imperial system",
+      "imperialsystem"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "imperial system",
+      "imperialsystem"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "imperiaal stelsel",
+      "imperiaalstelsel"
+     ]
+    }
+   },
+   "dispLabel": "Imperial System",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/International_System_of_Units",
+   "ontology": "OM",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "international system of units",
+      "internationalsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "international system of units",
+      "internationalsystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "internationale stelsel van eenheden",
+      "internationalestelselvaneenheden"
+     ]
+    }
+   },
+   "dispLabel": "International System of Units",
    "raw": null
   },
   {
    "__type": "SemObject",
    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/metre-kilogram-second-ampere_system_of_units",
    "ontology": "OM",
-   "labels": [
-    "metre kilogram second ampere system of units",
-    "metrekilogramsecondamperesystemofunits"
-   ],
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "metre kilogram second ampere system of units",
+      "metrekilogramsecondamperesystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "metre kilogram second ampere system of units",
+      "metrekilogramsecondamperesystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "meter kilogram seconde ampère systeem",
+      "meterkilogramsecondeampèresysteem"
+     ]
+    }
+   },
    "dispLabel": "metre-kilogram-second-ampere system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Troy_system_of_units",
+   "ontology": "OM",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "troy system of units",
+      "troysystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "troy system of units",
+      "troysystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "troy systeem",
+      "troysysteem"
+     ]
+    }
+   },
+   "dispLabel": "Troy system of units",
    "raw": null
   }
  ],
@@ -158,143 +397,255 @@
  "QUDT": [
   {
    "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_Atomic",
-   "ontology": "QUDT",
-   "labels": [
-    "atomic system of units",
-    "atomicsystemofunits",
-    "system of units atomic",
-    "systemofunitsatomic"
-   ],
-   "dispLabel": "Atomic System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
    "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS-ESU",
    "ontology": "QUDT",
-   "labels": [
-    "cgs esu system of units",
-    "cgsesusystemofunits",
-    "system of units cgs esu",
-    "systemofunitscgsesu"
-   ],
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "cgs esu system of units",
+      "cgsesusystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units cgs esu",
+      "systemofunitscgsesu"
+     ]
+    }
+   },
    "dispLabel": "CGS-ESU System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS",
-   "ontology": "QUDT",
-   "labels": [
-    "cgs system of units",
-    "cgssystemofunits",
-    "system of units cgs",
-    "systemofunitscgs"
-   ],
-   "dispLabel": "CGS System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS-EMU",
-   "ontology": "QUDT",
-   "labels": [
-    "cgs emu system of units",
-    "cgsemusystemofunits",
-    "system of units cgs emu",
-    "systemofunitscgsemu"
-   ],
-   "dispLabel": "CGS-EMU System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS-Gauss",
-   "ontology": "QUDT",
-   "labels": [
-    "cgs gauss system of units",
-    "cgsgausssystemofunits",
-    "system of units cgs gauss",
-    "systemofunitscgsgauss"
-   ],
-   "dispLabel": "CGS-Gauss System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_Planck",
-   "ontology": "QUDT",
-   "labels": [
-    "planck system of units",
-    "plancksystemofunits",
-    "system of units planck",
-    "systemofunitsplanck"
-   ],
-   "dispLabel": "Planck System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_SI",
-   "ontology": "QUDT",
-   "labels": [
-    "international system of units",
-    "internationalsystemofunits",
-    "system of units si",
-    "systemofunitssi"
-   ],
-   "dispLabel": "International System of Units",
    "raw": null
   },
   {
    "__type": "SemObject",
    "uri": "http://qudt.org/vocab/unit#SystemOfUnits_USCustomary",
    "ontology": "QUDT",
-   "labels": [
-    "us customary unit system",
-    "uscustomaryunitsystem",
-    "system of units uscustomary",
-    "systemofunitsuscustomary"
-   ],
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "us customary unit system",
+      "uscustomaryunitsystem"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units uscustomary",
+      "systemofunitsuscustomary"
+     ]
+    }
+   },
    "dispLabel": "US Customary Unit System",
    "raw": null
   },
   {
    "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_ISO4217-Currencies",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS",
    "ontology": "QUDT",
-   "labels": [
-    "iso 4217 currencies",
-    "iso4217currencies",
-    "system of units iso4217 currencies",
-    "systemofunitsiso4217currencies"
-   ],
-   "dispLabel": "ISO 4217 Currencies",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "cgs system of units",
+      "cgssystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units cgs",
+      "systemofunitscgs"
+     ]
+    }
+   },
+   "dispLabel": "CGS System of Units",
    "raw": null
   },
   {
    "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_Imperial",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_SI",
    "ontology": "QUDT",
-   "labels": [
-    "system of units imperial",
-    "systemofunitsimperial"
-   ],
-   "dispLabel": "System of units_Imperial",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "international system of units",
+      "internationalsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units si",
+      "systemofunitssi"
+     ]
+    }
+   },
+   "dispLabel": "International System of Units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_Planck",
+   "ontology": "QUDT",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "planck system of units",
+      "plancksystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units planck",
+      "systemofunitsplanck"
+     ]
+    }
+   },
+   "dispLabel": "Planck System of Units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS-Gauss",
+   "ontology": "QUDT",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "cgs gauss system of units",
+      "cgsgausssystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units cgs gauss",
+      "systemofunitscgsgauss"
+     ]
+    }
+   },
+   "dispLabel": "CGS-Gauss System of Units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS-EMU",
+   "ontology": "QUDT",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "cgs emu system of units",
+      "cgsemusystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units cgs emu",
+      "systemofunitscgsemu"
+     ]
+    }
+   },
+   "dispLabel": "CGS-EMU System of Units",
    "raw": null
   },
   {
    "__type": "SemObject",
    "uri": "http://qudt.org/vocab/unit#SystemOfUnits_MKS",
    "ontology": "QUDT",
-   "labels": [
-    "mks system of units",
-    "mkssystemofunits",
-    "system of units mks",
-    "systemofunitsmks"
-   ],
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "mks system of units",
+      "mkssystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units mks",
+      "systemofunitsmks"
+     ]
+    }
+   },
    "dispLabel": "MKS System of Units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_Atomic",
+   "ontology": "QUDT",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "atomic system of units",
+      "atomicsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units atomic",
+      "systemofunitsatomic"
+     ]
+    }
+   },
+   "dispLabel": "Atomic System of Units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_Imperial",
+   "ontology": "QUDT",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "system of units imperial",
+      "systemofunitsimperial"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units imperial",
+      "systemofunitsimperial"
+     ]
+    }
+   },
+   "dispLabel": "System of units_Imperial",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_ISO4217-Currencies",
+   "ontology": "QUDT",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "iso 4217 currencies",
+      "iso4217currencies"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "system of units iso4217 currencies",
+      "systemofunitsiso4217currencies"
+     ]
+    }
+   },
+   "dispLabel": "ISO 4217 Currencies",
    "raw": null
   }
  ],

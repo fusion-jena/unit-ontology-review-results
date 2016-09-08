@@ -4,178 +4,32 @@
   "values": [
    {
     "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/acoustics",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time",
     "ontology": "OM",
-    "labels": [
-     "acoustics"
-    ],
-    "dispLabel": "acoustics",
-    "raw": null
-   },
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#AcousticsScheme",
-    "ontology": "QU",
-    "labels": [
-     "acoustics scheme",
-     "acousticsscheme"
-    ],
-    "dispLabel": "acoustics scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics",
-    "ontology": "OM",
-    "labels": [
-     "astronomy and astrophysics",
-     "astronomyandastrophysics"
-    ],
-    "dispLabel": "astronomy and astrophysics",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics",
-    "ontology": "OM",
-    "labels": [
-     "atomic and nuclear physics",
-     "atomicandnuclearphysics"
-    ],
-    "dispLabel": "atomic and nuclear physics",
-    "raw": null
-   },
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#AtomicAndNuclearPhysicsScheme",
-    "ontology": "QU",
-    "labels": [
-     "atomic and nuclear physics scheme",
-     "atomicandnuclearphysicsscheme"
-    ],
-    "dispLabel": "atomic and nuclear physics scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics",
-    "ontology": "OM",
-    "labels": [
-     "chemical physics",
-     "chemicalphysics"
-    ],
-    "dispLabel": "chemical physics",
-    "raw": null
-   },
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#PhysicalChemistryAndMolecularPhysicsScheme",
-    "ontology": "QU",
-    "labels": [
-     "physical chemistry and molecular physics scheme",
-     "physicalchemistryandmolecularphysicsscheme"
-    ],
-    "dispLabel": "physical chemistry and molecular physics scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area",
-    "ontology": "OM",
-    "labels": [
-     "common application area",
-     "commonapplicationarea"
-    ],
-    "dispLabel": "common application area",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology",
-    "ontology": "OM",
-    "labels": [
-     "cosmology"
-    ],
-    "dispLabel": "cosmology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters",
-    "ontology": "OM",
-    "labels": [
-     "dimensionless parameters",
-     "dimensionlessparameters"
-    ],
-    "dispLabel": "dimensionless parameters",
-    "raw": null
-   },
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#CharacteristicNumbersDimensionlessParametersScheme",
-    "ontology": "QU",
-    "labels": [
-     "characteristic numbers dimensionless parameters scheme",
-     "characteristicnumbersdimensionlessparametersscheme"
-    ],
-    "dispLabel": "characteristic numbers dimensionless parameters scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism",
-    "ontology": "OM",
-    "labels": [
-     "electricity and magnetism",
-     "electricityandmagnetism"
-    ],
-    "dispLabel": "electricity and magnetism",
-    "raw": null
-   },
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#ElectricityAndMagnetismScheme",
-    "ontology": "QU",
-    "labels": [
-     "electricity and magnetism scheme",
-     "electricityandmagnetismscheme"
-    ],
-    "dispLabel": "electricity and magnetism scheme",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "space and time",
+       "spaceandtime"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "space and time",
+       "spaceandtime"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "ruimte en tijd",
+       "ruimteentijd"
+      ]
+     }
+    },
+    "dispLabel": "space and time",
     "raw": null
    }
   ]
@@ -187,9 +41,26 @@
     "__type": "SemObject",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics",
     "ontology": "OM",
-    "labels": [
-     "mechanics"
-    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "mechanics"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "mechanics"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "mechanica"
+      ]
+     }
+    },
     "dispLabel": "mechanics",
     "raw": null
    },
@@ -197,165 +68,15 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mechanics",
     "ontology": "SWEET",
-    "labels": [
-     "mechanics"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "mechanics"
+      ]
+     }
+    },
     "dispLabel": "mechanics",
-    "raw": null
-   },
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#MechanicsScheme",
-    "ontology": "QU",
-    "labels": [
-     "mechanics scheme",
-     "mechanicsscheme"
-    ],
-    "dispLabel": "mechanics scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy",
-    "ontology": "OM",
-    "labels": [
-     "molecular spectroscopy",
-     "molecularspectroscopy"
-    ],
-    "dispLabel": "molecular spectroscopy",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics",
-    "ontology": "OM",
-    "labels": [
-     "plasma physics",
-     "plasmaphysics"
-    ],
-    "dispLabel": "plasma physics",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics",
-    "ontology": "OM",
-    "labels": [
-     "quantum mechanics",
-     "quantummechanics"
-    ],
-    "dispLabel": "quantum mechanics",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light",
-    "ontology": "OM",
-    "labels": [
-     "radiation and light",
-     "radiationandlight"
-    ],
-    "dispLabel": "radiation and light",
-    "raw": null
-   },
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#LightAndRelatedElectromagneticRadiationsScheme",
-    "ontology": "QU",
-    "labels": [
-     "light and related electromagnetic radiations scheme",
-     "lightandrelatedelectromagneticradiationsscheme"
-    ],
-    "dispLabel": "light and related electromagnetic radiations scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/shipping",
-    "ontology": "OM",
-    "labels": [
-     "shipping"
-    ],
-    "dispLabel": "shipping",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics",
-    "ontology": "OM",
-    "labels": [
-     "solid state physics",
-     "solidstatephysics"
-    ],
-    "dispLabel": "solid state physics",
-    "raw": null
-   },
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#SolidStatePhysicsScheme",
-    "ontology": "QU",
-    "labels": [
-     "solid state physics scheme",
-     "solidstatephysicsscheme"
-    ],
-    "dispLabel": "solid state physics scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time",
-    "ontology": "OM",
-    "labels": [
-     "space and time",
-     "spaceandtime"
-    ],
-    "dispLabel": "space and time",
-    "raw": null
-   },
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#SpaceAndTimeScheme",
-    "ontology": "QU",
-    "labels": [
-     "space and time scheme",
-     "spaceandtimescheme"
-    ],
-    "dispLabel": "space and time scheme",
     "raw": null
    }
   ]
@@ -367,10 +88,29 @@
     "__type": "SemObject",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics",
     "ontology": "OM",
-    "labels": [
-     "statistical physics",
-     "statisticalphysics"
-    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "statistical physics",
+       "statisticalphysics"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "statistical physics",
+       "statisticalphysics"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "statistische natuurkunde",
+       "statistischenatuurkunde"
+      ]
+     }
+    },
     "dispLabel": "statistical physics",
     "raw": null
    }
@@ -383,9 +123,26 @@
     "__type": "SemObject",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics",
     "ontology": "OM",
-    "labels": [
-     "thermodynamics"
-    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "thermodynamics"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermodynamics"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "thermodynamica"
+      ]
+     }
+    },
     "dispLabel": "thermodynamics",
     "raw": null
    },
@@ -393,10 +150,576 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics",
     "ontology": "SWEET",
-    "labels": [
-     "thermodynamics"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermodynamics"
+      ]
+     }
+    },
     "dispLabel": "thermodynamics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "electricity and magnetism",
+       "electricityandmagnetism"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electricity and magnetism",
+       "electricityandmagnetism"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "electriciteit en magnetisme",
+       "electriciteitenmagnetisme"
+      ]
+     }
+    },
+    "dispLabel": "electricity and magnetism",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "radiation and light",
+       "radiationandlight"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "radiation and light",
+       "radiationandlight"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "straling en licht",
+       "stralingenlicht"
+      ]
+     }
+    },
+    "dispLabel": "radiation and light",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/acoustics",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "acoustics"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "acoustics"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "akoestiek"
+      ]
+     }
+    },
+    "dispLabel": "acoustics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "quantum mechanics",
+       "quantummechanics"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "quantum mechanics",
+       "quantummechanics"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "kwantummechanica"
+      ]
+     }
+    },
+    "dispLabel": "quantum mechanics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "atomic and nuclear physics",
+       "atomicandnuclearphysics"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "atomic and nuclear physics",
+       "atomicandnuclearphysics"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "atoom en kernfysica",
+       "atoomenkernfysica"
+      ]
+     }
+    },
+    "dispLabel": "atomic and nuclear physics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "molecular spectroscopy",
+       "molecularspectroscopy"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "molecular spectroscopy",
+       "molecularspectroscopy"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "molecuulspectroscopie"
+      ]
+     }
+    },
+    "dispLabel": "molecular spectroscopy",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "solid state physics",
+       "solidstatephysics"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "solid state physics",
+       "solidstatephysics"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "vastestoffysica"
+      ]
+     }
+    },
+    "dispLabel": "solid state physics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "chemical physics",
+       "chemicalphysics"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "chemical physics",
+       "chemicalphysics"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "fysische chemie",
+       "fysischechemie"
+      ]
+     }
+    },
+    "dispLabel": "chemical physics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "plasma physics",
+       "plasmaphysics"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "plasma physics",
+       "plasmaphysics"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "plasmafysica"
+      ]
+     }
+    },
+    "dispLabel": "plasma physics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "dimensionless parameters",
+       "dimensionlessparameters"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "dimensionless parameters",
+       "dimensionlessparameters"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "dimensieloze parameters",
+       "dimensielozeparameters"
+      ]
+     }
+    },
+    "dispLabel": "dimensionless parameters",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/shipping",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "shipping"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "shipping"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "shipping"
+      ]
+     }
+    },
+    "dispLabel": "shipping",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "common application area",
+       "commonapplicationarea"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "common application area",
+       "commonapplicationarea"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "algemeen toepassingsgebied",
+       "algemeentoepassingsgebied"
+      ]
+     }
+    },
+    "dispLabel": "common application area",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology",
+    "ontology": "OM",
+    "labels": {
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "kosmologie"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "cosmology"
+      ]
+     },
+     "en": {
+      "__type": "Set",
+      "values": [
+       "cosmology"
+      ]
+     }
+    },
+    "dispLabel": "cosmology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "astronomy and astrophysics",
+       "astronomyandastrophysics"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "astronomy and astrophysics",
+       "astronomyandastrophysics"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "astronomie en astrofysica",
+       "astronomieenastrofysica"
+      ]
+     }
+    },
+    "dispLabel": "astronomy and astrophysics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#AcousticsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "acoustics scheme",
+       "acousticsscheme"
+      ]
+     }
+    },
+    "dispLabel": "acoustics scheme",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#AtomicAndNuclearPhysicsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "atomic and nuclear physics scheme",
+       "atomicandnuclearphysicsscheme"
+      ]
+     }
+    },
+    "dispLabel": "atomic and nuclear physics scheme",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#CharacteristicNumbersDimensionlessParametersScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "characteristic numbers dimensionless parameters scheme",
+       "characteristicnumbersdimensionlessparametersscheme"
+      ]
+     }
+    },
+    "dispLabel": "characteristic numbers dimensionless parameters scheme",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#ElectricityAndMagnetismScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electricity and magnetism scheme",
+       "electricityandmagnetismscheme"
+      ]
+     }
+    },
+    "dispLabel": "electricity and magnetism scheme",
     "raw": null
    }
   ]
@@ -408,11 +731,58 @@
     "__type": "SemObject",
     "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#HeatScheme",
     "ontology": "QU",
-    "labels": [
-     "heat scheme",
-     "heatscheme"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "heat scheme",
+       "heatscheme"
+      ]
+     }
+    },
     "dispLabel": "heat scheme",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#LightAndRelatedElectromagneticRadiationsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "light and related electromagnetic radiations scheme",
+       "lightandrelatedelectromagneticradiationsscheme"
+      ]
+     }
+    },
+    "dispLabel": "light and related electromagnetic radiations scheme",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#MechanicsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "mechanics scheme",
+       "mechanicsscheme"
+      ]
+     }
+    },
+    "dispLabel": "mechanics scheme",
     "raw": null
    }
   ]
@@ -424,10 +794,15 @@
     "__type": "SemObject",
     "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#NuclearReactionsAndIonizingRadiationsScheme",
     "ontology": "QU",
-    "labels": [
-     "nuclear reactions and ionizing radiations scheme",
-     "nuclearreactionsandionizingradiationsscheme"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "nuclear reactions and ionizing radiations scheme",
+       "nuclearreactionsandionizingradiationsscheme"
+      ]
+     }
+    },
     "dispLabel": "nuclear reactions and ionizing radiations scheme",
     "raw": null
    }
@@ -440,10 +815,15 @@
     "__type": "SemObject",
     "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#PeriodicAndRelatedPhenomenaScheme",
     "ontology": "QU",
-    "labels": [
-     "periodic and related phenomena scheme",
-     "periodicandrelatedphenomenascheme"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "periodic and related phenomena scheme",
+       "periodicandrelatedphenomenascheme"
+      ]
+     }
+    },
     "dispLabel": "periodic and related phenomena scheme",
     "raw": null
    }
@@ -454,12 +834,18 @@
   "values": [
    {
     "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Anatomy",
-    "ontology": "SWEET",
-    "labels": [
-     "anatomy"
-    ],
-    "dispLabel": "anatomy",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#PhysicalChemistryAndMolecularPhysicsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "physical chemistry and molecular physics scheme",
+       "physicalchemistryandmolecularphysicsscheme"
+      ]
+     }
+    },
+    "dispLabel": "physical chemistry and molecular physics scheme",
     "raw": null
    }
   ]
@@ -469,13 +855,39 @@
   "values": [
    {
     "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#KnowledgeDomain",
-    "ontology": "SWEET",
-    "labels": [
-     "knowledge domain",
-     "knowledgedomain"
-    ],
-    "dispLabel": "knowledge domain",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#SolidStatePhysicsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "solid state physics scheme",
+       "solidstatephysicsscheme"
+      ]
+     }
+    },
+    "dispLabel": "solid state physics scheme",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#SpaceAndTimeScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "space and time scheme",
+       "spaceandtimescheme"
+      ]
+     }
+    },
+    "dispLabel": "space and time scheme",
     "raw": null
    }
   ]
@@ -487,267 +899,16 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#AtmosphericScience",
     "ontology": "SWEET",
-    "labels": [
-     "atmospheric science",
-     "atmosphericscience"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "atmospheric science",
+       "atmosphericscience"
+      ]
+     }
+    },
     "dispLabel": "atmospheric science",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biochemistry",
-    "ontology": "SWEET",
-    "labels": [
-     "biochemistry"
-    ],
-    "dispLabel": "biochemistry",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biogeochemistry",
-    "ontology": "SWEET",
-    "labels": [
-     "biogeochemistry"
-    ],
-    "dispLabel": "biogeochemistry",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry",
-    "ontology": "SWEET",
-    "labels": [
-     "chemistry"
-    ],
-    "dispLabel": "chemistry",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geology",
-    "ontology": "SWEET",
-    "labels": [
-     "geology"
-    ],
-    "dispLabel": "geology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology",
-    "ontology": "SWEET",
-    "labels": [
-     "biology"
-    ],
-    "dispLabel": "biology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Climatology",
-    "ontology": "SWEET",
-    "labels": [
-     "climatology"
-    ],
-    "dispLabel": "climatology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics",
-    "ontology": "SWEET",
-    "labels": [
-     "dynamics"
-    ],
-    "dispLabel": "dynamics",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Ecology",
-    "ontology": "SWEET",
-    "labels": [
-     "ecology"
-    ],
-    "dispLabel": "ecology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Economics",
-    "ontology": "SWEET",
-    "labels": [
-     "economics"
-    ],
-    "dispLabel": "economics",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Epidemiology",
-    "ontology": "SWEET",
-    "labels": [
-     "epidemiology"
-    ],
-    "dispLabel": "epidemiology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Genetics",
-    "ontology": "SWEET",
-    "labels": [
-     "genetics"
-    ],
-    "dispLabel": "genetics",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geochemistry",
-    "ontology": "SWEET",
-    "labels": [
-     "geochemistry"
-    ],
-    "dispLabel": "geochemistry",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geodesy",
-    "ontology": "SWEET",
-    "labels": [
-     "geodesy"
-    ],
-    "dispLabel": "geodesy",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geophysics",
-    "ontology": "SWEET",
-    "labels": [
-     "geophysics"
-    ],
-    "dispLabel": "geophysics",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Hydrology",
-    "ontology": "SWEET",
-    "labels": [
-     "hydrology"
-    ],
-    "dispLabel": "hydrology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#LandscapeEcology",
-    "ontology": "SWEET",
-    "labels": [
-     "landscape ecology",
-     "landscapeecology"
-    ],
-    "dispLabel": "landscape ecology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Limnology",
-    "ontology": "SWEET",
-    "labels": [
-     "limnology"
-    ],
-    "dispLabel": "limnology",
     "raw": null
    }
   ]
@@ -759,26 +920,16 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#PlanetaryScience",
     "ontology": "SWEET",
-    "labels": [
-     "planetary science",
-     "planetaryscience"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "planetary science",
+       "planetaryscience"
+      ]
+     }
+    },
     "dispLabel": "planetary science",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Lithology",
-    "ontology": "SWEET",
-    "labels": [
-     "lithology"
-    ],
-    "dispLabel": "lithology",
     "raw": null
    }
   ]
@@ -790,9 +941,14 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Meteorology",
     "ontology": "SWEET",
-    "labels": [
-     "meteorology"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "meteorology"
+      ]
+     }
+    },
     "dispLabel": "meteorology",
     "raw": null
    }
@@ -803,12 +959,478 @@
   "values": [
    {
     "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mineralogy",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Climatology",
     "ontology": "SWEET",
-    "labels": [
-     "mineralogy"
-    ],
-    "dispLabel": "mineralogy",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "climatology"
+      ]
+     }
+    },
+    "dispLabel": "climatology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleoclimatology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "paleoclimatology"
+      ]
+     }
+    },
+    "dispLabel": "paleoclimatology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Phenology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "phenology"
+      ]
+     }
+    },
+    "dispLabel": "phenology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Anatomy",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "anatomy"
+      ]
+     }
+    },
+    "dispLabel": "anatomy",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "biology"
+      ]
+     }
+    },
+    "dispLabel": "biology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biochemistry",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "biochemistry"
+      ]
+     }
+    },
+    "dispLabel": "biochemistry",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Science",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "science"
+      ]
+     }
+    },
+    "dispLabel": "science",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Genetics",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "genetics"
+      ]
+     }
+    },
+    "dispLabel": "genetics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physiology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "physiology"
+      ]
+     }
+    },
+    "dispLabel": "physiology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleontology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "paleontology"
+      ]
+     }
+    },
+    "dispLabel": "paleontology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Ecology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "ecology"
+      ]
+     }
+    },
+    "dispLabel": "ecology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#LandscapeEcology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "landscape ecology",
+       "landscapeecology"
+      ]
+     }
+    },
+    "dispLabel": "landscape ecology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "geology"
+      ]
+     }
+    },
+    "dispLabel": "geology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biogeochemistry",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "biogeochemistry"
+      ]
+     }
+    },
+    "dispLabel": "biogeochemistry",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geochemistry",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "geochemistry"
+      ]
+     }
+    },
+    "dispLabel": "geochemistry",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "chemistry"
+      ]
+     }
+    },
+    "dispLabel": "chemistry",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geophysics",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "geophysics"
+      ]
+     }
+    },
+    "dispLabel": "geophysics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "physics"
+      ]
+     }
+    },
+    "dispLabel": "physics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "petrology"
+      ]
+     }
+    },
+    "dispLabel": "petrology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Lithology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "lithology"
+      ]
+     }
+    },
+    "dispLabel": "lithology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrography",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "petrography"
+      ]
+     }
+    },
+    "dispLabel": "petrography",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Stratigraphy",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "stratigraphy"
+      ]
+     }
+    },
+    "dispLabel": "stratigraphy",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Seismology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "seismology"
+      ]
+     }
+    },
+    "dispLabel": "seismology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Tectonics",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "tectonics"
+      ]
+     }
+    },
+    "dispLabel": "tectonics",
     "raw": null
    }
   ]
@@ -820,9 +1442,14 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Neotectonics",
     "ontology": "SWEET",
-    "labels": [
-     "neotectonics"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "neotectonics"
+      ]
+     }
+    },
     "dispLabel": "neotectonics",
     "raw": null
    }
@@ -833,13 +1460,160 @@
   "values": [
    {
     "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#NutritionScience",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#PlateTectonics",
     "ontology": "SWEET",
-    "labels": [
-     "nutrition science",
-     "nutritionscience"
-    ],
-    "dispLabel": "nutrition science",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "plate tectonics",
+       "platetectonics"
+      ]
+     }
+    },
+    "dispLabel": "plate tectonics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#BehavioralScience",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "behavioral science",
+       "behavioralscience"
+      ]
+     }
+    },
+    "dispLabel": "behavioral science",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#KnowledgeDomain",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "knowledge domain",
+       "knowledgedomain"
+      ]
+     }
+    },
+    "dispLabel": "knowledge domain",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Economics",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "economics"
+      ]
+     }
+    },
+    "dispLabel": "economics",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Sociology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "sociology"
+      ]
+     }
+    },
+    "dispLabel": "sociology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Psychology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "psychology"
+      ]
+     }
+    },
+    "dispLabel": "psychology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Hydrology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "hydrology"
+      ]
+     }
+    },
+    "dispLabel": "hydrology",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Limnology",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "limnology"
+      ]
+     }
+    },
+    "dispLabel": "limnology",
     "raw": null
    }
   ]
@@ -851,9 +1625,14 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Oceanography",
     "ontology": "SWEET",
-    "labels": [
-     "oceanography"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "oceanography"
+      ]
+     }
+    },
     "dispLabel": "oceanography",
     "raw": null
    }
@@ -866,161 +1645,15 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Oceanology",
     "ontology": "SWEET",
-    "labels": [
-     "oceanology"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "oceanology"
+      ]
+     }
+    },
     "dispLabel": "oceanology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleoclimatology",
-    "ontology": "SWEET",
-    "labels": [
-     "paleoclimatology"
-    ],
-    "dispLabel": "paleoclimatology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleontology",
-    "ontology": "SWEET",
-    "labels": [
-     "paleontology"
-    ],
-    "dispLabel": "paleontology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrography",
-    "ontology": "SWEET",
-    "labels": [
-     "petrography"
-    ],
-    "dispLabel": "petrography",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrology",
-    "ontology": "SWEET",
-    "labels": [
-     "petrology"
-    ],
-    "dispLabel": "petrology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Phenology",
-    "ontology": "SWEET",
-    "labels": [
-     "phenology"
-    ],
-    "dispLabel": "phenology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Photochemistry",
-    "ontology": "SWEET",
-    "labels": [
-     "photochemistry"
-    ],
-    "dispLabel": "photochemistry",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics",
-    "ontology": "SWEET",
-    "labels": [
-     "physics"
-    ],
-    "dispLabel": "physics",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physiology",
-    "ontology": "SWEET",
-    "labels": [
-     "physiology"
-    ],
-    "dispLabel": "physiology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#PlateTectonics",
-    "ontology": "SWEET",
-    "labels": [
-     "plate tectonics",
-     "platetectonics"
-    ],
-    "dispLabel": "plate tectonics",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Psychology",
-    "ontology": "SWEET",
-    "labels": [
-     "psychology"
-    ],
-    "dispLabel": "psychology",
     "raw": null
    }
   ]
@@ -1032,9 +1665,14 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Rheology",
     "ontology": "SWEET",
-    "labels": [
-     "rheology"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "rheology"
+      ]
+     }
+    },
     "dispLabel": "rheology",
     "raw": null
    }
@@ -1045,12 +1683,17 @@
   "values": [
    {
     "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Seismology",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics",
     "ontology": "SWEET",
-    "labels": [
-     "seismology"
-    ],
-    "dispLabel": "seismology",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "dynamics"
+      ]
+     }
+    },
+    "dispLabel": "dynamics",
     "raw": null
    }
   ]
@@ -1060,42 +1703,18 @@
   "values": [
    {
     "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Sociology",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#NutritionScience",
     "ontology": "SWEET",
-    "labels": [
-     "sociology"
-    ],
-    "dispLabel": "sociology",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Stratigraphy",
-    "ontology": "SWEET",
-    "labels": [
-     "stratigraphy"
-    ],
-    "dispLabel": "stratigraphy",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Tectonics",
-    "ontology": "SWEET",
-    "labels": [
-     "tectonics"
-    ],
-    "dispLabel": "tectonics",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "nutrition science",
+       "nutritionscience"
+      ]
+     }
+    },
+    "dispLabel": "nutrition science",
     "raw": null
    }
   ]
@@ -1107,9 +1726,14 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Toxicology",
     "ontology": "SWEET",
-    "labels": [
-     "toxicology"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "toxicology"
+      ]
+     }
+    },
     "dispLabel": "toxicology",
     "raw": null
    }
@@ -1120,12 +1744,17 @@
   "values": [
    {
     "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Science",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Epidemiology",
     "ontology": "SWEET",
-    "labels": [
-     "science"
-    ],
-    "dispLabel": "science",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "epidemiology"
+      ]
+     }
+    },
+    "dispLabel": "epidemiology",
     "raw": null
    }
   ]
@@ -1135,13 +1764,57 @@
   "values": [
    {
     "__type": "SemObject",
-    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#BehavioralScience",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Photochemistry",
     "ontology": "SWEET",
-    "labels": [
-     "behavioral science",
-     "behavioralscience"
-    ],
-    "dispLabel": "behavioral science",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "photochemistry"
+      ]
+     }
+    },
+    "dispLabel": "photochemistry",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mineralogy",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "mineralogy"
+      ]
+     }
+    },
+    "dispLabel": "mineralogy",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemObject",
+    "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geodesy",
+    "ontology": "SWEET",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "geodesy"
+      ]
+     }
+    },
+    "dispLabel": "geodesy",
     "raw": null
    }
   ]
@@ -1153,10 +1826,15 @@
     "__type": "SemObject",
     "uri": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#HumanDimension",
     "ontology": "SWEET",
-    "labels": [
-     "human dimension",
-     "humandimension"
-    ],
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "human dimension",
+       "humandimension"
+      ]
+     }
+    },
     "dispLabel": "human dimension",
     "raw": null
    }

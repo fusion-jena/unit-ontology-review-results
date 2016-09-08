@@ -1,5 +1,9 @@
 [
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrology",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/matrRock.owl#Rock"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Lithology",
     "appField": "http://sweet.jpl.nasa.gov/2.3/matrRock.owl#Rock"
   },
@@ -9,10 +13,6 @@
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Stratigraphy",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/matrRock.owl#Rock"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrology",
     "appField": "http://sweet.jpl.nasa.gov/2.3/matrRock.owl#Rock"
   },
   {
@@ -52,11 +52,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Charge",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#MagneticMoment",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#MagneticMoment",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Charge",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -64,23 +64,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#AngularMotionProperty",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#ElectromagneticProperty",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#PhysicalProperty",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#ElectromagneticRadiationProperty",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#FluidProperty",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#MotionProperty",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -92,7 +80,23 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#MotionProperty",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#AngularMotionProperty",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#ElectromagneticProperty",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#WaveProperty",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#FluidProperty",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -100,27 +104,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#CoefficientOfHeatTransfer",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#CoefficientOfThermalExpansion",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#HeatCapacity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#PhysicalQuantity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#LinearThermalExpansion",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#MolarHeatCapacity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -128,11 +112,27 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ThermodynamicQuantity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#HeatCapacity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#MolarHeatCapacity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#VolumetricHeatCapacity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#VolumetricThermalExpansion",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#LinearThermalExpansion",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#CoefficientOfThermalExpansion",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -140,11 +140,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ThermodynamicQuantity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#VolumetricThermalExpansion",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Capacitance",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#CoefficientOfHeatTransfer",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ElectromagneticQuantity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -152,19 +156,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#DielectricConstant",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricCharge",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricChargeDensity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricCurrent",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ScalarPotential",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -172,15 +164,35 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricDipoleMoment",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricFieldStrength",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricCurrent",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricCharge",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricFluxDensity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricChargeDensity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricDipoleMoment",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#DielectricConstant",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Permittivity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -192,19 +204,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#MagneticDipoleMoment",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ElectromagneticQuantity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#MagneticFieldStrength",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#MagneticFlux",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Permeability",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -212,15 +212,19 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Permeability",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#MagneticFieldStrength",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Permittivity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#MagneticDipoleMoment",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ScalarPotential",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#MagneticFlux",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Capacitance",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -232,11 +236,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#Conductance",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#Conductivity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#Conductivity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#ThermalConductivity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#PedersenConductivity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -248,23 +256,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#HydraulicConductivity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#Impedance",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#PedersenConductivity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#Resistance",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#Resistivity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#Conductance",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -272,7 +264,19 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#ThermalConductivity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#Resistance",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#Impedance",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#Resistivity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propConductivity.owl#HydraulicConductivity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -280,19 +284,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#Confluence",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#Diffluence",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#Diffusivity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#Transmissivity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#DiffusivityQuantity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#Diffusivity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -308,15 +308,19 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#Transmissivity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#VelocityPotential",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#LatentHeat",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#Diffluence",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#Confluence",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#RadiationMediumInteractionQuantity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -324,7 +328,19 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#RadiationMediumInteractionQuantity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#LatentHeat",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#Luminosity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ElectromagneticRadiationQuantity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#KineticEnergy",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -336,51 +352,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#KineticEnergy",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#Luminosity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#MatricPotential",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ElectromagneticRadiationQuantity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#AbsorbedSolarRadiation",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Brightness",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#BulkHeatFlux",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Insolation",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Irradiance",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Luminance",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#LuminousIntensity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Opacity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -388,11 +360,39 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#SpectralRadiance",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Luminance",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Brightness",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#LuminousIntensity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Insolation",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#SolarRadiation",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#SpectralRadiance",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#AbsorbedSolarRadiation",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Irradiance",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#BulkHeatFlux",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -400,15 +400,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Absorptance",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Absorptivity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#AirSpaceRatio",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Opacity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -416,31 +408,23 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#AvailableWaterCapacity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#BondAlbedo",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#DifferentialWaterCapacity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Transparency",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#EffectivePorosity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Emissivity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Porosity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Absorptance",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Reflectance",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Absorptivity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -456,11 +440,31 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Transparency",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Porosity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#AirSpaceRatio",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#EffectivePorosity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Emissivity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#WaterHoldingCapacity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#AvailableWaterCapacity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#DifferentialWaterCapacity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -472,7 +476,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Ductibility",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#StrengthProperty",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -480,15 +484,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Texture",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Elasticity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Flexure",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Hardness",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -496,27 +496,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#OpticalMass",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Plasticity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Roughness",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Ductibility",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Softness",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Solidity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#StrengthProperty",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Flexure",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -524,19 +512,23 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Texture",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Solidity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#ElectromagneticSpectrum",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Roughness",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#FlareClass",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Hardness",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#SpectralBand",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#Softness",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propMass.owl#OpticalMass",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -544,7 +536,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#BulkModulus",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#ElectromagneticSpectrum",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#SpectralBand",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#FlareClass",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -552,19 +552,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#CompressiveStrength",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#ShearModulus",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Stiffness",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Strength",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Distance",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -572,11 +560,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#TensileStrength",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#BulkModulus",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Viscosity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#ShearModulus",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -584,7 +572,27 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Distance",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Viscosity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Strength",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#CompressiveStrength",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#TensileStrength",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Stiffness",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#VectorPotential",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -596,43 +604,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#VectorPotential",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#AngularAcceleration",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#AngularMomentum",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#AngularVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#CoriolisParameter",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#Enstrophy",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#ErtelPotentialVorticity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#Gyrofrequency",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Momentum",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#MomentOfInertia",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#PotentialVorticity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -644,7 +624,27 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Momentum",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#Enstrophy",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#PotentialVorticity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#ErtelPotentialVorticity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#AngularVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#AngularAcceleration",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#Gyrofrequency",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -652,7 +652,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#DebyeLength",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#CoriolisParameter",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Range",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -660,15 +664,19 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#DispersionCoeffienct",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#MeanFreePath",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Dispersivity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Wavelength",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#ExtinctionCoefficient",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Wavelength_nm",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Wavelength_cm",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -676,15 +684,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#GrainSize",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#PulseLength",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Gyroradius",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#DebyeLength",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#MeanFreePath",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#RossbyRadiusOfDeformation",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -696,23 +704,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#PulseLength",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Gyroradius",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Range",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#RossbyRadiusOfDeformation",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#ScatteringCoefficient",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#SpatialFrequency",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#GrainSize",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -720,27 +716,27 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Dispersivity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#DispersionCoeffienct",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#SpatialFrequency",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#ScatteringCoefficient",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#ExtinctionCoefficient",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#WaveNumber",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Wavelength",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Wavelength_cm",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Wavelength_nm",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Altitude",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#BarometricAltitude",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -748,55 +744,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Crest",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#DampingDepth",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Depth",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Drawdown",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#DynamicTopography",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Elevation",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#FlightLevel",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Freeboard",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#GeopotentialHeight",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#MixingHeight",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#ScaleHeight",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#SeaState",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#SecchiDepth",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Altitude",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -804,11 +752,35 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#SkinDepth",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#BarometricAltitude",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#TopographicProminence",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#GeopotentialHeight",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#ScaleHeight",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#MixingHeight",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Crest",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Elevation",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Freeboard",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#FlightLevel",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -816,31 +788,39 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#TopographicProminence",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#DynamicTopography",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#SeaState",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Depth",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#DampingDepth",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Drawdown",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#SkinDepth",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#SecchiDepth",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceMultidimensional.owl#RadarCrossSection",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#Evapotranspiration",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#Thickness",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#AverageAnnualPrecipitation",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#WaterContent",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#AverageDrySeasonPrecipitation",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#AverageMonthlyPrecipitation",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -848,27 +828,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#FluidHead",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#Thickness",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#GaugeHeight",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#PressureThickness",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#HalfPotentialEvapotranspiration",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#HydraulicHead",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#LakeStage",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#WaterHeight",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#SnowWaterEquivalent",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -876,11 +844,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#OpticalDepth",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#PotentialEvapotranspiration",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#WaterContent",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -900,15 +864,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#PressureThickness",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#SnowCover",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#SnowWaterEquivalent",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -916,7 +872,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#StageHeight",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#FluidHead",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#HydraulicHead",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -924,11 +884,55 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#TotalHead",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#GaugeHeight",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#WaterHeight",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#LakeStage",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#StageHeight",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#StreamStage",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#TotalHead",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#Evapotranspiration",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#PotentialEvapotranspiration",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#HalfPotentialEvapotranspiration",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#OpticalDepth",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#AverageMonthlyPrecipitation",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#AverageAnnualPrecipitation",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl#AverageDrySeasonPrecipitation",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -936,71 +940,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Airspeed",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#AlfvenVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#DopplerVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Drift",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#EscapeVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#GroundSpeed",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#GroupVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Inertia",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#IonVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#MagnetiCurvatureDrift",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Velocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#NeutralVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Omega",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#PhaseVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#ProperMotion",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#RadialVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#SeepageVelocity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1008,15 +948,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#TangentialAcceleration",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#TerminalVelocity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#ThermalVelocity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Velocity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1024,11 +960,75 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Omega",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#DopplerVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#RadialVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Drift",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#MagnetiCurvatureDrift",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#AlfvenVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#IonVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#NeutralVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#ThermalVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#TangentialAcceleration",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#WindShear",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#AntennaTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#GroupVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#PhaseVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#SeepageVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#EscapeVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Airspeed",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#GroundSpeed",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#ProperMotion",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1036,11 +1036,35 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#BrightnessTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeltingPoint",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#ColdestMonthTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TriplePoint",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#KineticTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#StaticTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TotalTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#VirtualTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#AntennaTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#BrightnessTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1060,15 +1084,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#ElectronTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#EquivalentPotentialTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#EquivalentTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#PseudoEquivalentTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WetBulbTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1076,27 +1100,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#IonTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WindChillIndex",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#KineticTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeanAnnualTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeanMonthlyTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeltingPoint",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#NeutralTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#EquivalentPotentialTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1108,31 +1116,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#PseudoEquivalentTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#StaticTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TotalTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TriplePoint",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#VirtualPotentialTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#VirtualTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WarmestMonthTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1140,11 +1124,27 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WetBulbTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#ElectronTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WindChillIndex",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#IonTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#NeutralTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeanAnnualTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeanMonthlyTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#ColdestMonthTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1152,19 +1152,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WarmestMonthTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/reprTimeSeason.owl#WarmestMonth",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#AutoConvectiveLapseRate",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#LapseRate",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#TemperatureHeightDerivative",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1172,11 +1164,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#LapseRate",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#EnvironmentalLapseRate",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#TemperatureDepthDerivative",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#TemperatureHeightDerivative",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1184,15 +1180,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#TemperatureDepthDerivative",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#AutoConvectiveLapseRate",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTime.owl#Time",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTimeFrequency.owl#Bandwidth",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTimeFrequency.owl#BruntVaisalaFrequency",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1204,35 +1200,27 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTimeFrequency.owl#Bandwidth",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTimeFrequency.owl#BruntVaisalaFrequency",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#ArmoredRelictInclusion",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#RockConstituent",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#StructuralConfiguration",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#ArmouredRelictCrystal",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Chadacryst",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#ClastSupportingOrthomatrix",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Matrix",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Inclusion",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Clot",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#StructuralConfiguration",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1244,15 +1232,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#CrystallineFramework",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Dropstone",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Epimatrix",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1260,19 +1240,19 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#GranularFramework",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Groundmass",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Inclusion",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#RockConstituent",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#InterstitialConstituent",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Epimatrix",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Matrix",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1288,11 +1268,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Megacryst",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Pseudomatrix",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Oikocryst",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Protomatrix",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1300,11 +1280,51 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Overgrowth",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#SmallConcretion",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Vein",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#ClastSupportingOrthomatrix",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#SedimentaryRockCement",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#InterstitialConstituent",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Megacryst",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#ParticulateConstituent",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#ArmouredRelictCrystal",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Chadacryst",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#CrystallineFramework",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#GranularFramework",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Oikocryst",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1320,27 +1340,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Overgrowth",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Porphyroclast",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Protomatrix",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Pseudomatrix",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#SedimentaryRockCement",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#SmallConcretion",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl#Vein",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1356,23 +1360,23 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#LatitudeBand",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#LatitudeLine",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#Austral",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#LatitudeBand",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#Borealis",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#SouthLatitudeBand",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#NorthLatitudeBand",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#SouthLatitudeLine",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1384,15 +1388,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#SouthLatitudeBand",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#SouthLatitudeLine",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#SouthernHemisphere",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#Borealis",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmRegion.owl#Austral",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1416,11 +1420,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/stateSpectralBand.owl#Bolometric",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/stateSpectralBand.owl#BroadSpectrum",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/stateSpectralBand.owl#BroadSpectrum",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/stateSpectralBand.owl#Bolometric",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
@@ -1436,19 +1440,19 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#PhysicalProperty",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#BiologicalProperty",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Bioavailability",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propIndex.owl#CropMoistureIndex",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propIndex.owl#HealthIndex",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propIndex.owl#HealthIndex",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propIndex.owl#VitalStatistics",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology"
   },
   {
@@ -1464,15 +1468,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propIndex.owl#VitalStatistics",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propIndex.owl#CropMoistureIndex",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#BiologicalQuantity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#BiologicalProperty",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology"
   },
   {
@@ -1488,23 +1488,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#CoefficientOfHeatTransfer",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#CoefficientOfThermalExpansion",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#HeatCapacity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#LinearThermalExpansion",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#MolarHeatCapacity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#ThermodynamicProperty",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
@@ -1512,7 +1496,27 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ThermodynamicQuantity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#HeatCapacity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#MolarHeatCapacity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#VolumetricHeatCapacity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#LinearThermalExpansion",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#CoefficientOfThermalExpansion",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
@@ -1520,7 +1524,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ThermodynamicQuantity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCapacity.owl#CoefficientOfHeatTransfer",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
@@ -1532,11 +1536,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#LatentHeat",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#SensibleHeat",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#SensibleHeat",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#LatentHeat",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
@@ -1548,19 +1552,39 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#AntennaTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#BoilingPoint",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#BrightnessTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeltingPoint",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#ColdestMonthTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TriplePoint",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#KineticTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#StaticTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TotalTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#VirtualTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#AntennaTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#BrightnessTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
@@ -1580,15 +1604,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#ElectronTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#EquivalentPotentialTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#EquivalentTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#PseudoEquivalentTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WetBulbTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
@@ -1596,27 +1620,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#IonTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WindChillIndex",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#KineticTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeanAnnualTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeanMonthlyTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeltingPoint",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#NeutralTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#EquivalentPotentialTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
@@ -1628,31 +1636,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#PseudoEquivalentTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#StaticTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TotalTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TriplePoint",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#VirtualPotentialTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#VirtualTemperature",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WarmestMonthTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
@@ -1660,23 +1644,31 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WetBulbTemperature",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#ElectronTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WindChillIndex",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#IonTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#AutoConvectiveLapseRate",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#NeutralTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#LapseRate",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeanAnnualTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#TemperatureHeightDerivative",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#MeanMonthlyTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#ColdestMonthTemperature",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#WarmestMonthTemperature",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
@@ -1684,11 +1676,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#LapseRate",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#EnvironmentalLapseRate",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#TemperatureDepthDerivative",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#TemperatureHeightDerivative",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
@@ -1696,12 +1692,20 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#TemperatureDepthDerivative",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl#AutoConvectiveLapseRate",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+  },
+  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl#Geothermal",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#ThermodynamicProperty",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#HydrogeologicalProperty",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Hydrology"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#TotalSoilWaterPotential",
@@ -1716,11 +1720,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Hydrology"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#HydrogeologicalProperty",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Hydrology"
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#WindSpeed",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#WindSpeed",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#MotionProperty",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
@@ -1732,31 +1736,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#AngularAcceleration",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#AngularMomentum",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#AngularVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#Enstrophy",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#ErtelPotentialVorticity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Momentum",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#MomentOfInertia",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#PotentialVorticity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
@@ -1768,7 +1756,23 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Momentum",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#Enstrophy",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#PotentialVorticity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#ErtelPotentialVorticity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#AngularVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#AngularAcceleration",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
@@ -1780,71 +1784,7 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Airspeed",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#AlfvenVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#DopplerVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Drift",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#EscapeVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#GroundSpeed",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#GroupVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Inertia",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#IonVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#MagnetiCurvatureDrift",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Velocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#NeutralVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Omega",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#PhaseVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#ProperMotion",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#RadialVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#SeepageVelocity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
@@ -1852,15 +1792,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#TangentialAcceleration",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#TerminalVelocity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#ThermalVelocity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Velocity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
@@ -1868,7 +1804,71 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#MotionProperty",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Omega",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#DopplerVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#RadialVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Drift",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#MagnetiCurvatureDrift",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#AlfvenVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#IonVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#NeutralVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#ThermalVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#TangentialAcceleration",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#GroupVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#PhaseVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#SeepageVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#EscapeVelocity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Airspeed",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#GroundSpeed",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#ProperMotion",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
   },
   {
@@ -1876,11 +1876,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propBinary.owl#Polarity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#ChemicalProperty",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#CationExchangeCapacity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propBinary.owl#Polarity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
@@ -1888,7 +1888,11 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propChemical.owl#Abundance",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#CationExchangeCapacity",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propChemical.owl#Purity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
@@ -1912,11 +1916,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propChemical.owl#IonComposition",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ChemicalQuantity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propChemical.owl#Purity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propChemical.owl#pH",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propChemical.owl#TotalAlkalinity",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
@@ -1928,23 +1936,19 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propChemical.owl#TotalAlkalinity",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propChemical.owl#IonComposition",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propChemical.owl#pH",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#ChemicalQuantity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#BindingEnergy",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propChemical.owl#Abundance",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#ChemicalEnergy",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#ThermochemicalEnergy",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
@@ -1960,15 +1964,15 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#ThermochemicalEnergy",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#ChemicalProperty",
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#BindingEnergy",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#HydrogeologicalProperty",
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geology"
+  },
+  {
+    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#GeologicalProperty",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geology"
   },
   {
@@ -1981,10 +1985,6 @@
   },
   {
     "quantKind": "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#SeepageVelocity",
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geology"
-  },
-  {
-    "quantKind": "http://sweet.jpl.nasa.gov/2.3/prop.owl#GeologicalProperty",
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geology"
   }
 ]

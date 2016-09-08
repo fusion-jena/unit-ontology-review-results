@@ -7,14 +7,16 @@
   "system": [],
   "unit": [
    {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere",
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon",
+    "lang": "en",
     "labels": [
-     "Charrière",
-     "french"
+     "gon",
+     "grade"
     ]
    },
    {
     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1",
+    "lang": "en",
     "labels": [
      "Gunter's chain",
      "Surveyor's chain"
@@ -22,93 +24,106 @@
    },
    {
     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain",
+    "lang": "en",
     "labels": [
-     "Engineer's chain",
-     "Ramden's chain"
+     "Ramden's chain",
+     "Engineer's chain"
     ]
    },
    {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/cicero",
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight",
+    "lang": "en",
     "labels": [
-     "Didot's pica",
-     "cicero"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/didot",
-    "labels": [
-     "Didot's point",
-     "didot"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/ligne",
-    "labels": [
-     "French line",
-     "ligne"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/pied",
-    "labels": [
-     "French foot",
-     "pied"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/pouce",
-    "labels": [
-     "French inch",
-     "pouce"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2",
-    "labels": [
-     "dram",
-     "drachm"
+     "short hundredweight",
+     "U.S. hundredweight"
     ]
    },
    {
     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight",
+    "lang": "en",
     "labels": [
      "British hundredweight",
      "long hunderdweight"
     ]
    },
    {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton",
-    "labels": [
-     "British ton",
-     "long ton"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight",
-    "labels": [
-     "U.S. hundredweight",
-     "short hundredweight"
-    ]
-   },
-   {
     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton",
+    "lang": "en",
     "labels": [
-     "U.S. ton",
-     "short ton"
+     "short ton",
+     "U.S. ton"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton",
+    "lang": "en",
+    "labels": [
+     "long ton",
+     "British ton"
     ]
    },
    {
     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/stone",
+    "lang": "en",
     "labels": [
-     "British stone",
-     "stone"
+     "stone",
+     "British stone"
     ]
    },
    {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon",
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2",
+    "lang": "en",
     "labels": [
-     "gon",
-     "grade"
+     "dram",
+     "drachm"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/pied",
+    "lang": "en",
+    "labels": [
+     "pied",
+     "French foot"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/pouce",
+    "lang": "en",
+    "labels": [
+     "pouce",
+     "French inch"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/ligne",
+    "lang": "en",
+    "labels": [
+     "ligne",
+     "French line"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/didot",
+    "lang": "en",
+    "labels": [
+     "didot",
+     "Didot's point"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/cicero",
+    "lang": "en",
+    "labels": [
+     "cicero",
+     "Didot's pica"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere",
+    "lang": "en",
+    "labels": [
+     "Charrière",
+     "french"
     ]
    }
   ]
@@ -125,59 +140,8 @@
   "appField": [],
   "dimension": [],
   "prefix": [],
-  "quantKind": [
-   {
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers",
-    "labels": [
-     "color area fraction",
-     "total number flowers"
-    ]
-   },
-   {
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Vase_life",
-    "labels": [
-     "vaasleven",
-     "vase life"
-    ]
-   },
-   {
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Bud_stadium",
-    "labels": [
-     "bud stadium",
-     "knopstadium"
-    ]
-   }
-  ],
-  "system": [
-   {
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Apothecaries_system_of_weights",
-    "labels": [
-     "Apothecaries' system of weights",
-     "Apothecaries-systeem"
-    ]
-   },
-   {
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Avoirdupois_system_of_units",
-    "labels": [
-     "Avoirdupois system of units",
-     "Avoirdupois-systeem"
-    ]
-   },
-   {
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Gaussian_system_of_units",
-    "labels": [
-     "Gaussian system of units",
-     "Gaussische eenhedenstelsel"
-    ]
-   },
-   {
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/Imperial_System",
-    "labels": [
-     "Imperial System",
-     "imperiaal stelsel"
-    ]
-   }
-  ],
+  "quantKind": [],
+  "system": [],
   "unit": []
  },
  "QU": {

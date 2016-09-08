@@ -1,96 +1,5 @@
 [
   {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#MYA",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year",
-    "convFactor": "1000"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#millenium",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year",
-    "convFactor": "1000"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#arcminute",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radian",
-    "convFactor": "2.909E-4"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#arcsecond",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radian",
-    "convFactor": "4.848E-6"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#centimeter",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter",
-    "convFactor": "1.E-2"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#century",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
-    "convFactor": "3.1556926E09"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#day",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
-    "convFactor": "86400"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#decade",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
-    "convFactor": "315569260"
-  },
-  {
-    "convOffset": "-57.6",
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeF",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeC",
-    "convFactor": "1.8"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degrees",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radian",
-    "convFactor": "57.2957795"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#gigahertz",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hertz",
-    "convFactor": "1.E9"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hour",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
-    "convFactor": "3600"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilometer",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter",
-    "convFactor": "1000."
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilohertz",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hertz",
-    "convFactor": "1000."
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilometerPerHour",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterPerSecond",
-    "convFactor": "0.27777777"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#megahertz",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hertz",
-    "convFactor": "1.E6"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#micrometer",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter",
-    "convFactor": "1.E-6"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#millimeter",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter",
-    "convFactor": "1.E-3"
-  },
-  {
     "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#million_km2",
     "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterSquared",
     "convFactor": "1e-12"
@@ -106,19 +15,14 @@
     "convFactor": "60"
   },
   {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#month",
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hour",
     "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
-    "convFactor": "2629744"
+    "convFactor": "3600"
   },
   {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#nanometer",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter",
-    "convFactor": "1.E-9"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMil",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ratio",
-    "convFactor": "0.001"
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#day",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
+    "convFactor": "86400"
   },
   {
     "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#permil",
@@ -126,19 +30,14 @@
     "convFactor": "0.001"
   },
   {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMil",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ratio",
+    "convFactor": "0.001"
+  },
+  {
     "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#percent",
     "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ratio",
     "convFactor": "0.01"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppb",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ratio",
-    "convFactor": "0.000000001"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppbv",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#volumeRatio",
-    "convFactor": "0.000000001"
   },
   {
     "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppm",
@@ -151,6 +50,81 @@
     "convFactor": "0.000001"
   },
   {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degrees",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radian",
+    "convFactor": "57.2957795"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#millenium",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year",
+    "convFactor": "1000"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#MYA",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year",
+    "convFactor": "1000"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#millimeter",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter",
+    "convFactor": "1.E-3"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#micrometer",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter",
+    "convFactor": "1.E-6"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#nanometer",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter",
+    "convFactor": "1.E-9"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilometer",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter",
+    "convFactor": "1000."
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilohertz",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hertz",
+    "convFactor": "1000."
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#centimeter",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter",
+    "convFactor": "1.E-2"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#megahertz",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hertz",
+    "convFactor": "1.E6"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#gigahertz",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hertz",
+    "convFactor": "1.E9"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#terahertz",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hertz",
+    "convFactor": "1.E12"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilometerPerHour",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterPerSecond",
+    "convFactor": "0.27777777"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppb",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ratio",
+    "convFactor": "0.000000001"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppbv",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#volumeRatio",
+    "convFactor": "0.000000001"
+  },
+  {
     "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ppt",
     "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ratio",
     "convFactor": "0.000000000001"
@@ -161,19 +135,19 @@
     "convFactor": "0.000000000001"
   },
   {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#season",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
-    "convFactor": "7889232"
-  },
-  {
-    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#terahertz",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hertz",
-    "convFactor": "1.E12"
-  },
-  {
     "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#week",
     "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
     "convFactor": "604800"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#month",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
+    "convFactor": "2629744"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#season",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
+    "convFactor": "7889232"
   },
   {
     "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year",
@@ -181,8 +155,34 @@
     "convFactor": "31556926"
   },
   {
-    "convOffset": "273.0",
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#decade",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
+    "convFactor": "315569260"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#century",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
+    "convFactor": "3.1556926E09"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#arcsecond",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radian",
+    "convFactor": "4.848E-6"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#arcminute",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radian",
+    "convFactor": "2.909E-4"
+  },
+  {
+    "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeF",
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeC",
+    "convFactor": "1.8",
+    "convOffset": "-57.6"
+  },
+  {
     "unit1": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeC",
-    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kelvin"
+    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kelvin",
+    "convOffset": "273.0"
   }
 ]

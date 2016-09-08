@@ -1,5 +1,845 @@
 [
   {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Breadth",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diameter",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Height",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radius",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thickness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wavelength",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Period",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Area",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Frequency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wavenumber",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Solid_angle",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acceleration",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gravitational_acceleration",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_speed",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_acceleration",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_wavenumber",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_wave_vector",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Damping_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Element_of_path",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Growth_rate",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Logarithmic_decrement",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Position_vector",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relativistic_coordinate",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relativistic_coordinates",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relaxation_time",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Space_coordinate",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Space_coordinates",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity_component",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wave_vector",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_volume",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Force",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Weight",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pressure",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_stress",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_stress",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Kinetic_energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Potential_energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Work",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Torque",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Power",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_viscosity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Kinematic_viscosity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Momentum",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Moment_of_inertia",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Surface_tension",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Action_integral",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_impulse",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_momentum",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bulk_modulus",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Characteristic_function_of_Hamilton",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Compliance_tensor",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Elasticity_tensor",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Friction_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hamiltonian_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Impulse",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lagrangian_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lame_coefficients_for_an_isotropic_medium",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_strain",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Modulus_of_elasticity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Poisson_ratio",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Principal_function_of_Hamilton",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reduced_mass",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_modulus",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_strain",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Strain_tensor",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stress_tensor",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume_strain",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_strain",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Storage_modulus",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_storage_modulus",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Loss_modulus",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_loss_modulus",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Generalised_coordinate",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Generalised_momentum",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Interaction_energy_between_particles_i_and_j",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Average_speed",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Average_velocity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Boltzmann_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Canonical_partition_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Characteristic_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diffusion_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Einstein_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Grand_canonical_partition_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mean_free_path",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Microcanonical_partition_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Most_probable_speed",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density_of_particles",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_of_particles",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_momentum_vector",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_momentum_vector_component",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_position_vector",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_position_vector_component",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_velocity_vector",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_velocity_vector_component",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rotational_characteristic_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Symmetry_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusion_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusion_factor",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusion_ratio",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity_distribution_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Vibrational_characteristic_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume_in_γ_phase_space",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Celsius_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Enthalpy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Heat",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Internal_energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Work",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Heat_flow_rate",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Entropy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Heat_capacity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_heat_capacity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_conductivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Compressibility",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cubic_expansion_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_of_heat_flow_rate",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gibbs_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Helmholtz_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Isentropic_exponent",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Joule-Thomson_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_expansion_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Massieu_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planck_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pressure_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ratio_of_specific_heat_capacities",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_pressure_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_current",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Current_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_field_strength",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_charge",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_potential",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electromotive_force",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Potential_difference",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Capacitance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electrical_resistance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electrical_conductance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_flux",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_flux_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_field",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_charge_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Permittivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Permeability_of_free_space",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_dipole_moment",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Admittance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Coupling_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dielectric_polarization",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_conductivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_displacement",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_flux",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_susceptibility",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electromagnetic_energy_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Impedance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Loss_angle",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_dipole_moment",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_potential_difference",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_susceptibility",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_vector_potential",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetization",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetomotive_force",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mutual_inductance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Polarizability",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Poynting_vector",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reactance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_permeability",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_permittivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Resistivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Self-inductance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Surface_charge_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Susceptance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_intensity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_flux",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_flux",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Illuminance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Irradiance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_intensity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absorptance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Emissivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_absorption_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_attenuation_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_efficacy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_efficiency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_exitance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Maximum_spectral_luminous_efficacy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_light",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_energy_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_exitance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_flux_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reflectance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_concentration_of_luminous_intensity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_concentration_of_radiant_energy_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_concentration_of_radiant_intensity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_luminous_efficacy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_luminous_efficiency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Transmittance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acoustic_absorption_coefficient",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/acoustics"
   },
@@ -56,464 +896,88 @@
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/acoustics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Annihilation_operators",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_latitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Anticommutator_of_A_and_B",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_longitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_density_of_electrons",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_bolometric_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Commutator_of_A_and_B",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Complex_conjugate_of_psi",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Creation_operators",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Albedo",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Current_density_of_electrons",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Altitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dirac_bra_vector",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amplitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dirac_ket_vector",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_size",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dirac_matrices",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Annual_aberration",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Expectation_value_of_A",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_diameter",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hermitian_conjugate_of_operator_A",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_distance_modulus",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Matrix_element",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Momentum_operator_in_coordinate_representation",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Azimuth",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pauli_matrices",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Probability_current_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_maximum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Probability_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Unit_matrix",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_minimum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wave_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bolometric_correction",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Atomic_mass",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bolometric_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bond_albedo",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Brightness_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Co-rotation_radius",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cold_gas_mass_fraction",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Colour_index",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Colour_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cousins_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cut-off_wavelength",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dark_noise",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Declination",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Detective_quantum_efficiency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Detectivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diameter-plane_angle",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Distance_modulus",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diurnal_aberration",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_range",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Eccentricity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ecliptic_latitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ecliptic_longitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ellipticity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch_at_maximum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_wavelength",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_B",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_U",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_V",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Galactic_cylindrical_polar_angle_coordinate",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Galactic_latitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Galactic_longitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Geometrical_albedo",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hour_angle",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/I_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Initial_mass_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Integrated_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Intrinsic_colour_index",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionisation_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Jeans_mass",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Light_time",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Limiting_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminosity_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_maximum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_minimum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Metallicity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Noise_Equivalent_Power",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_albedo",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normalised_detectivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peak_wavelength",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_amplitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_maximum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_minimum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planetary_aberration",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_efficiency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/R_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radius-plane_angle",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Red_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening_B-V",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening_U-B",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Responsivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Right_ascension",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Scale_height",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Scale_length",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Secular_aberration",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_response",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stellar_aberration",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Supergalactic_latitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Supergalactic_longitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thuan_and_Gunn_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Time_constant",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/True_distance_modulus",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Tycho_broadband_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_amplitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_maximum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_minimum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Visual_albedo",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_maximum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_minimum_brightness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Zenith_distance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/_1040_nm_Lockwood_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/beta_narrow_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/beta_wide_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/g_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/y_magnitude",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reaction_energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
   },
   {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Activity",
@@ -521,10 +985,6 @@
   },
   {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Atomic_attenuation_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Atomic_mass",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
   },
   {
@@ -548,11 +1008,11 @@
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/G-factor",
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gyromagnetic_ratio",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gyromagnetic_ratio",
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/G-factor",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
   },
   {
@@ -648,10 +1108,6 @@
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reaction_energy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
-  },
-  {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Recombination_coefficient",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
   },
@@ -680,682 +1136,6 @@
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_activity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Affinity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_concentration",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_fraction",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_ratio",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Area_fraction",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_number_of_an_ion",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Chemical_potential",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Equilibrium_constant",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extent_of_reaction",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Molality",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Molar_mass",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Osmotic_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Osmotic_pressure",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reduced_activity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_activity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_atomic_mass",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_molar_mass",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stoichiometric_number_of_substance_B",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume_fraction",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Area",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_current",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_potential",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Force",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Frequency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Power",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cosmological_constant",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Critical_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Curvature_constant",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Deceleration_parameter",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_baryonic_matter",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_matter",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_radiation",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_vacuum",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hubble_constant",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hubble_constant_at_present_epoch",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Scale_factor",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_density_parameter",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Alfven_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cowling_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Euler_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/First_Cowling_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fourier_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fourier_number_for_mass_transfer",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Froude_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Grashof_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Grashof_number_for_mass_transfer",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hartmann_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Knudsen_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lewis_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mach_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_Reynolds_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Nusselt_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Nusselt_number_for_mass_transfer",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peclet_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peclet_number_for_mass_transfer",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Prandtl_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rayleigh_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reynolds_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Schmidt_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stanton_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stanton_number_for_mass_transfer",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Strouhal_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Weber_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Admittance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Capacitance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Coupling_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Current_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dielectric_polarization",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_charge",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_charge_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_conductivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_current",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_dipole_moment",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_displacement",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_field",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_flux",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_potential",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_susceptibility",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electrical_conductance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electrical_resistance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electromagnetic_energy_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electromotive_force",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Impedance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Loss_angle",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_dipole_moment",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_field_strength",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_flux",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_flux_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_potential_difference",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_susceptibility",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_vector_potential",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetization",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetomotive_force",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mutual_inductance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Permeability_of_free_space",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Permittivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Polarizability",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Potential_difference",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Poynting_vector",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reactance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_permeability",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_permittivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Resistivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Self-inductance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Surface_charge_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Susceptance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Action_integral",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_impulse",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_momentum",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bulk_modulus",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Characteristic_function_of_Hamilton",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Compliance_tensor",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_viscosity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Elasticity_tensor",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Force",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Friction_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Generalised_coordinate",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Generalised_momentum",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hamiltonian_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Impulse",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Kinematic_viscosity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Kinetic_energy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lagrangian_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lame_coefficients_for_an_isotropic_medium",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_strain",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Loss_modulus",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Modulus_of_elasticity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Moment_of_inertia",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Momentum",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_strain",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_stress",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Poisson_ratio",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Potential_energy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Power",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pressure",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Principal_function_of_Hamilton",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reduced_mass",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_loss_modulus",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_modulus",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_storage_modulus",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_strain",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_stress",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_volume",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Storage_modulus",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Strain_tensor",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stress_tensor",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Surface_tension",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Torque",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume_strain",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Weight",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Work",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Coefficients_in_the_expression_for_the_vibrational_term-for_diatomic_molecules",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
   },
@@ -1380,14 +1160,6 @@
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_J_in_the_direction_of_an_external_field",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_X_in_the_direction_of_an_external_field",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
-  },
-  {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_angular_momentum_along_the_symmetry_axis-excluding_nuclear_spin",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
   },
@@ -1397,6 +1169,14 @@
   },
   {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_electronic_spin_along_the_symmetry_axis",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_J_in_the_direction_of_an_external_field",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_number_of_component_of_X_in_the_direction_of_an_external_field",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
   },
   {
@@ -1444,384 +1224,20 @@
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Alfven_speed",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Donor_ionization_energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ambipolar_diffusion_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy_gap",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Binary_rate_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fermi_energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Characteristic_diffusion_length",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_number_of_an_ion",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_of_particle",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Collision_frequency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cross_section",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye_length",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Degree_of_ionization",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Degree_of_ionization_for_charge_number_z_greater_than_or_equal_to_1",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dissociation_energy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Drift_velocity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron-ion_recombination_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_affinity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_cyclotron_circular_frequency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_diffusion_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_number_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_plasma_circular_frequency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy_of_particle",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Impact_parameter",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ion-ion_recombination_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ion_cyclotron_circular_frequency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ion_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionization_efficiency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionization_energy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionization_frequency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_diffusivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_pressure",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_pressure_ratio",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mean_free_path",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mean_time_interval_between_collisions",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mobility",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Neutral_particle_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density_of_ions_of_charge_number_z",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/One-body_rate_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Plasma_pressure",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Positive_or_negative_ion_diffusion_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rate_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reduced_mass",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relaxation_time",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Secondary_electron_emission_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ternary_rate_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Townsend_electron_ionization_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Townsend_ion_ionization_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Annihilation_operators",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Anticommutator_of_A_and_B",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_density_of_electrons",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Commutator_of_A_and_B",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Complex_conjugate_of_psi",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Creation_operators",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Current_density_of_electrons",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dirac_bra_vector",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dirac_ket_vector",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dirac_matrices",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Expectation_value_of_A",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hermitian_conjugate_of_operator_A",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Matrix_element",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Momentum_operator_in_coordinate_representation",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pauli_matrices",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Probability_current_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Probability_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Unit_matrix",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wave_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absorptance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Emissivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Illuminance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Irradiance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_absorption_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_attenuation_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_efficacy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_efficiency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_exitance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_flux",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_intensity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Maximum_spectral_luminous_efficacy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_light",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_energy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_energy_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_exitance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_flux",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_flux_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radiant_intensity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reflectance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_concentration_of_luminous_intensity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_concentration_of_radiant_energy_density",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_concentration_of_radiant_intensity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_luminous_efficacy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_luminous_efficiency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Transmittance",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/shipping"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/shipping"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Superconductor_energy_gap",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acceptor_number_density",
@@ -1864,15 +1280,15 @@
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye-Waller_factor",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
-  },
-  {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye_angular_frequency",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye_angular_wavenumber",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye-Waller_factor",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
@@ -1897,10 +1313,6 @@
   },
   {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Displacement_vector_of_an_ion",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Donor_ionization_energy",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
@@ -1932,10 +1344,6 @@
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy_gap",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
-  },
-  {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Equilibrium_position_vector_of_an_ion",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
@@ -1949,10 +1357,6 @@
   },
   {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fermi_angular_wave_vector",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
-  },
-  {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fermi_energy",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
@@ -2124,10 +1528,6 @@
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Superconductor_energy_gap",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
-  },
-  {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_conductivity_tensor",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
@@ -2144,359 +1544,959 @@
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Acceleration",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_concentration",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_acceleration",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_fraction",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_speed",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_wave_vector",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Molality",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_wavenumber",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Molar_mass",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume_fraction",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Area",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_activity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Affinity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Breadth",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_substance_ratio",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Damping_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_number_of_an_ion",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diameter",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Chemical_potential",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Element_of_path",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Equilibrium_constant",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extent_of_reaction",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Frequency",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Osmotic_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gravitational_acceleration",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Osmotic_pressure",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Growth_rate",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reduced_activity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Height",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_activity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Logarithmic_decrement",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_atomic_mass",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Period",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_molar_mass",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Position_vector",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stoichiometric_number_of_substance_B",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radius",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Area_fraction",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relativistic_coordinate",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Collision_frequency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relativistic_coordinates",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dissociation_energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relaxation_time",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy_of_particle",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Solid_angle",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionization_energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Space_coordinate",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Alfven_speed",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Space_coordinates",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ambipolar_diffusion_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thickness",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Binary_rate_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Characteristic_diffusion_length",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity_component",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_number_of_an_ion",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Charge_of_particle",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wave_vector",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cross_section",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wavelength",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye_length",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Wavenumber",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Degree_of_ionization",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Average_speed",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Degree_of_ionization_for_charge_number_z_greater_than_or_equal_to_1",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Average_velocity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Drift_velocity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Boltzmann_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_affinity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Canonical_partition_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_number_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Characteristic_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_cyclotron_circular_frequency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Debye_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_diffusion_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diffusion_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron-ion_recombination_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Einstein_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_plasma_circular_frequency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Grand_canonical_partition_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Interaction_energy_between_particles_i_and_j",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Impact_parameter",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionization_efficiency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionization_frequency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ion_cyclotron_circular_frequency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ion-ion_recombination_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ion_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_diffusivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_pressure",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_pressure_ratio",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mean_free_path",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Microcanonical_partition_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mean_time_interval_between_collisions",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Most_probable_speed",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mobility",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density_of_particles",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Neutral_particle_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_of_particles",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_density_of_ions_of_charge_number_z",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_momentum_vector",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/One-body_rate_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_momentum_vector_component",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Plasma_pressure",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_position_vector",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Positive_or_negative_ion_diffusion_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_position_vector_component",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rate_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_velocity_vector",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reduced_mass",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Particle_velocity_vector_component",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relaxation_time",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rotational_characteristic_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Secondary_electron_emission_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Symmetry_number",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ternary_rate_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusion_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Townsend_electron_ionization_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusion_factor",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Townsend_ion_ionization_coefficient",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusion_ratio",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Alfven_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Velocity_distribution_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cowling_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Vibrational_characteristic_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Euler_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume_in_γ_phase_space",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/First_Cowling_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Celsius_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fourier_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Compressibility",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Fourier_number_for_mass_transfer",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cubic_expansion_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Froude_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_of_heat_flow_rate",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Grashof_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Enthalpy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Grashof_number_for_mass_transfer",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Entropy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hartmann_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Gibbs_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Knudsen_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Heat",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Lewis_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Heat_capacity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mach_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Heat_flow_rate",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnetic_Reynolds_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Helmholtz_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Nusselt_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Internal_energy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Nusselt_number_for_mass_transfer",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Isentropic_exponent",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peclet_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Joule-Thomson_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peclet_number_for_mass_transfer",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Linear_expansion_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Prandtl_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Massieu_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Rayleigh_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planck_function",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reynolds_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Pressure_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Schmidt_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ratio_of_specific_heat_capacities",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stanton_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Relative_pressure_coefficient",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stanton_number_for_mass_transfer",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Specific_heat_capacity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Strouhal_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_conductivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Weber_number",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermal_diffusivity",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/shipping"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/shipping"
   },
   {
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Work",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_current",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Area",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Frequency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Volume",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Speed",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Force",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Power",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electric_potential",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Mass_fraction",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hubble_constant",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hubble_constant_at_present_epoch",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Critical_density",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cosmological_constant",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Curvature_constant",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_matter",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_baryonic_matter",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_radiation",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Density_parameter_for_vacuum",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_density_parameter",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Scale_factor",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Deceleration_parameter",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Electron_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Azimuth",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Declination",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ecliptic_latitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ecliptic_longitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Galactic_latitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Galactic_longitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Hour_angle",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Right_ascension",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Supergalactic_latitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Supergalactic_longitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Zenith_distance",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Altitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cut-off_wavelength",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Peak_wavelength",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Time_constant",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Noise_equivalent_power",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dark_noise",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Detectivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_range",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Quantum_efficiency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Detective_quantum_efficiency",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planetary_aberration",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stellar_aberration",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Annual_aberration",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diurnal_aberration",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Secular_aberration",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_longitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_latitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Responsivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Jeans_mass",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_maximum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_minimum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Diameter-plane_angle",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Radius-plane_angle",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_size",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Light_time",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Initial_mass_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Luminosity_function",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Co-rotation_radius",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Scale_length",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Brightness_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Colour_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ionisation_temperature",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Amplitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bolometric_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_bolometric_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bolometric_correction",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Colour_index",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Intrinsic_colour_index",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Distance_modulus",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Integrated_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Limiting_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cold_gas_mass_fraction",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Albedo",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_albedo",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Visual_albedo",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Geometrical_albedo",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Bond_albedo",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Ellipticity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Eccentricity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Metallicity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normalised_detectivity",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Scale_height",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening_B-V",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Reddening_U-B",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Spectral_response",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_diameter",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Galactic_cylindrical_polar_angle_coordinate",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/_1040_nm_Lockwood_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/y_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/I_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/R_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/g_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Tycho_broadband_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Red_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_distance_modulus",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/True_distance_modulus",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_wavelength",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_V",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_B",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_U",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch_at_maximum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_maximum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_minimum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_amplitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_maximum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_minimum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_amplitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_maximum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_minimum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_maximum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_minimum_brightness",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Cousins_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Thuan_and_Gunn_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/beta_narrow_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/beta_wide_magnitude",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
   }
 ]

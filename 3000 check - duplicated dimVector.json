@@ -1,27 +1,88 @@
 [
  [
-  "http://www.wurvoc.org/vocabularies/om-1.8/angular_speed-dimension",
-  "http://www.wurvoc.org/vocabularies/om-1.8/frequency-dimension"
+  "http://www.wurvoc.org/vocabularies/om-1.8/length-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/length-dimension"
  ],
  [
-  "http://www.wurvoc.org/vocabularies/om-1.8/energy_density-dimension",
-  "http://www.wurvoc.org/vocabularies/om-1.8/pressure-dimension"
+  "http://www.wurvoc.org/vocabularies/om-1.8/area-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/area-dimension"
  ],
  [
-  "http://www.wurvoc.org/vocabularies/om-1.8/illuminance-dimension",
-  "http://www.wurvoc.org/vocabularies/om-1.8/luminance-dimension"
+  "http://www.wurvoc.org/vocabularies/om-1.8/volume-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/volume-dimension"
  ],
  [
-  "http://www.wurvoc.org/vocabularies/om-1.8/luminous_flux-dimension",
-  "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension"
+  "http://www.wurvoc.org/vocabularies/om-1.8/mass-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/mass-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/time-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/time-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamic_temperature-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamic_temperature-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/amount_of_substance-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/amount_of_substance-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/luminous_flux-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/frequency-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/angular_speed-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/wavenumber-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/wavenumber-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/acceleration-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/acceleration-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/density-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/density-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/luminance-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/illuminance-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/speed-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/speed-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/force-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/force-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/pressure-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/energy_density-dimension"
  ],
  [
   "http://www.wurvoc.org/vocabularies/om-1.8/power_density-dimension",
   "http://www.wurvoc.org/vocabularies/om-1.8/radiance-dimension"
  ],
  [
+  "http://www.wurvoc.org/vocabularies/om-1.8/molar_energy-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/molar_energy-dimension"
+ ],
+ [
+  "http://www.wurvoc.org/vocabularies/om-1.8/surface_tension-dimension",
+  "http://www.wurvoc.org/vocabularies/om-1.8/surface_tension-dimension"
+ ],
+ [
   "http://qudt.org/vocab/quantity#Area",
   "http://qudt.org/vocab/quantity#AreaAngle"
+ ],
+ [
+  "http://qudt.org/vocab/quantity#LinearAcceleration",
+  "http://qudt.org/vocab/quantity#ThrustToMassRatio"
  ],
  [
   "http://qudt.org/vocab/quantity#ElectricCurrent",
@@ -29,43 +90,39 @@
   "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle"
  ],
  [
+  "http://qudt.org/vocab/quantity#Radiance",
+  "http://qudt.org/vocab/quantity#PowerPerArea"
+ ],
+ [
+  "http://qudt.org/vocab/quantity#LuminousFlux",
+  "http://qudt.org/vocab/quantity#LuminousIntensity"
+ ],
+ [
+  "http://qudt.org/vocab/quantity#PowerArea",
+  "http://qudt.org/vocab/quantity#PowerAreaPerSolidAngle"
+ ],
+ [
+  "http://qudt.org/vocab/quantity#AngularVelocity",
+  "http://qudt.org/vocab/quantity#Frequency"
+ ],
+ [
+  "http://qudt.org/vocab/quantity#RadiantIntensity",
+  "http://qudt.org/vocab/quantity#Power"
+ ],
+ [
   "http://qudt.org/vocab/quantity#ElectricField",
   "http://qudt.org/vocab/quantity#ForcePerElectricCharge"
  ],
  [
-  "http://qudt.org/vocab/quantity#EnergyAndWork",
-  "http://qudt.org/vocab/quantity#Torque"
- ],
- [
-  "http://qudt.org/vocab/quantity#Power",
-  "http://qudt.org/vocab/quantity#RadiantIntensity"
- ],
- [
-  "http://qudt.org/vocab/quantity#LinearAcceleration",
-  "http://qudt.org/vocab/quantity#ThrustToMassRatio"
- ],
- [
-  "http://qudt.org/vocab/quantity#EnergyPerArea",
-  "http://qudt.org/vocab/quantity#ForcePerLength"
- ],
- [
-  "http://qudt.org/vocab/quantity#PowerPerArea",
-  "http://qudt.org/vocab/quantity#Radiance"
- ],
- [
-  "http://qudt.org/vocab/quantity#Frequency",
-  "http://qudt.org/vocab/quantity#AngularVelocity"
- ],
- [
-  "http://qudt.org/vocab/quantity#LuminousIntensity",
-  "http://qudt.org/vocab/quantity#LuminousFlux"
+  "http://qudt.org/vocab/quantity#Torque",
+  "http://qudt.org/vocab/quantity#EnergyAndWork"
  ],
  [
   "http://qudt.org/vocab/quantity#Luminance",
   "http://qudt.org/vocab/quantity#LuminousFluxPerArea"
  ],
  [
-  "http://qudt.org/vocab/quantity#PowerArea",
-  "http://qudt.org/vocab/quantity#PowerAreaPerSolidAngle"
+  "http://qudt.org/vocab/quantity#EnergyPerArea",
+  "http://qudt.org/vocab/quantity#ForcePerLength"
  ]
 ]

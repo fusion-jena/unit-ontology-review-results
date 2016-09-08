@@ -1,84 +1,111 @@
 [
   {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Anatomy"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#KnowledgeDomain"
-  },
-  {
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#AtmosphericScience"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biochemistry"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biogeochemistry"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Climatology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Ecology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Economics"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Epidemiology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Genetics"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geochemistry"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geodesy"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geophysics"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Hydrology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#LandscapeEcology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Limnology"
   },
   {
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#PlanetaryScience"
   },
   {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Lithology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mechanics"
-  },
-  {
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Meteorology"
   },
   {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mineralogy"
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Climatology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleoclimatology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Phenology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Anatomy"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biochemistry"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Science"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Genetics"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physiology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleontology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Ecology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#LandscapeEcology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Biogeochemistry"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geochemistry"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Chemistry"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geophysics"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Lithology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrography"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Stratigraphy"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Seismology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Tectonics"
   },
   {
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Neotectonics"
   },
   {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#NutritionScience"
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#PlateTectonics"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#BehavioralScience"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#KnowledgeDomain"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Economics"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Sociology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Psychology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Hydrology"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Limnology"
   },
   {
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Oceanography"
@@ -87,61 +114,34 @@
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Oceanology"
   },
   {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleoclimatology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Paleontology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrography"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Petrology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Phenology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Photochemistry"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physics"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Physiology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#PlateTectonics"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Psychology"
-  },
-  {
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Rheology"
   },
   {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Seismology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Sociology"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Stratigraphy"
-  },
-  {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Tectonics"
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mechanics"
   },
   {
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Thermodynamics"
   },
   {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Dynamics"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#NutritionScience"
+  },
+  {
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Toxicology"
   },
   {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Science"
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Epidemiology"
   },
   {
-    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#BehavioralScience"
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Photochemistry"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Mineralogy"
+  },
+  {
+    "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#Geodesy"
   },
   {
     "appField": "http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl#HumanDimension"

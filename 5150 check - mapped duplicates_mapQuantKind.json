@@ -1,10 +1,10 @@
 [
  {
-  "onto": "SWEET",
-  "label": "level",
+  "onto": "OM",
+  "label": "temperature",
   "objs": [
-   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Level",
-   "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level"
+   "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature"
   ]
  },
  {
@@ -19,9 +19,9 @@
   "onto": "QU",
   "label": "pressure",
   "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#stressOrPressure",
    "http://purl.oclc.org/NET/ssnx/qu/quantity#pressure",
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#stress",
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#stressOrPressure"
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#stress"
   ]
  },
  {
@@ -41,11 +41,11 @@
   ]
  },
  {
-  "onto": "OM",
-  "label": "temperature",
+  "onto": "QU",
+  "label": "volume",
   "objs": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
-   "http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature"
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#volume",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeOrBulkStrain"
   ]
  },
  {
@@ -60,9 +60,9 @@
   "onto": "QU",
   "label": "velocity",
   "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#velocityOrSpeed",
    "http://purl.oclc.org/NET/ssnx/qu/quantity#velocity",
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#speed",
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#velocityOrSpeed"
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#speed"
   ]
  },
  {
@@ -77,8 +77,8 @@
   "onto": "SWEET",
   "label": "velocity",
   "objs": [
-   "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Velocity",
-   "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Speed"
+   "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Speed",
+   "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Velocity"
   ]
  },
  {
@@ -90,27 +90,11 @@
   ]
  },
  {
-  "onto": "QU",
-  "label": "volume",
+  "onto": "SWEET",
+  "label": "level",
   "objs": [
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#volume",
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeOrBulkStrain"
-  ]
- },
- {
-  "onto": "OM",
-  "label": "B magnitude",
-  "objs": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
-   "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude"
-  ]
- },
- {
-  "onto": "OM",
-  "label": "color area fraction",
-  "objs": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/Color_area_fraction",
-   "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers"
+   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Level",
+   "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level"
   ]
  },
  {
@@ -119,6 +103,22 @@
   "objs": [
    "http://qudt.org/vocab/quantity#EnergyKinetic",
    "http://qudt.org/vocab/quantity#KineticEnergy"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "permeability",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Permeability",
+   "http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl#Permeability"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "B magnitude",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
+   "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude"
   ]
  },
  {
@@ -135,14 +135,6 @@
   "objs": [
    "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude",
    "http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude"
-  ]
- },
- {
-  "onto": "SWEET",
-  "label": "permeability",
-  "objs": [
-   "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Permeability",
-   "http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl#Permeability"
   ]
  },
  {
@@ -187,18 +179,18 @@
  },
  {
   "onto": "SWEET",
-  "label": "temperature range",
-  "objs": [
-   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#TemperatureRange",
-   "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TemperatureRange"
-  ]
- },
- {
-  "onto": "SWEET",
   "label": "visibility",
   "objs": [
    "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Visibility",
    "http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Visibility"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "temperature range",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#TemperatureRange",
+   "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TemperatureRange"
   ]
  },
  {

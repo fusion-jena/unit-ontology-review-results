@@ -1,31 +1,14 @@
 [
   {
+    "labelLang": "en",
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#AlgaeLifeStage",
     "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
     "label": "Algae Life Stage"
   },
   {
-    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#FishLifeStage",
-    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
-    "label": "Fish Life Stage"
-  },
-  {
-    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MammalLifeStage",
-    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
-    "label": "Mammal Life Stage"
-  },
-  {
-    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#PlantLifeStage",
-    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
-    "label": "Plant Life Stage"
-  },
-  {
-    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralIrradiance",
-    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Irradiance"
-  },
-  {
-    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralRadiance",
-    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Radiance"
+    "labelLang": "en",
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
+    "label": "Life Stage"
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Amount"
@@ -88,6 +71,12 @@
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Energy"
   },
   {
+    "labelLang": "en",
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#FishLifeStage",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
+    "label": "Fish Life Stage"
+  },
+  {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Force"
   },
   {
@@ -106,10 +95,6 @@
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length"
   },
   {
-    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
-    "label": "Life Stage"
-  },
-  {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Luminance"
   },
   {
@@ -123,6 +108,12 @@
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MagneticFluxDensity"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#MammalLifeStage",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
+    "label": "Mammal Life Stage"
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Mass"
@@ -147,6 +138,12 @@
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#PhotonFluxDensity"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#PlantLifeStage",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#LifeStage",
+    "label": "Plant Life Stage"
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Power"
@@ -177,6 +174,14 @@
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpecificVolume"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralIrradiance",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Irradiance"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralRadiance",
+    "parent": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Radiance"
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Speed"

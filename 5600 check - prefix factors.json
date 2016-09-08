@@ -4,32 +4,62 @@
   "values": [
    {
     "__type": "SemPrefix",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/exbi",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/pebi",
     "ontology": "OM",
-    "labels": [
-     "exbi"
-    ],
-    "dispLabel": "exbi",
-    "factor": 1152921504606847000,
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     }
+    },
+    "dispLabel": "pebi",
+    "factor": 1125899906842624,
     "raw": {
-     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/exbi",
-     "label": "exbi",
-     "factor": 1152921504606847000
+     "labelLang": "en",
+     "label": "pebi",
+     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/pebi",
+     "factor": 1125899906842624
     }
    },
    {
     "__type": "SemPrefix",
-    "uri": "http://qudt.org/vocab/unit#Exbi",
+    "uri": "http://qudt.org/vocab/unit#Pebi",
     "ontology": "QUDT",
-    "labels": [
-     "exbi"
-    ],
-    "dispLabel": "Exbi",
-    "factor": 152921504606846980,
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     }
+    },
+    "dispLabel": "Pebi",
+    "factor": 125899906842624,
     "raw": {
-     "prefix": "http://qudt.org/vocab/unit#Exbi",
-     "label": "Exbi",
-     "factor": "152921504606846976"
+     "labelLang": "",
+     "label": "Pebi",
+     "prefix": "http://qudt.org/vocab/unit#Pebi",
+     "factor": "125899906842624"
     }
    }
   ]
@@ -39,32 +69,62 @@
   "values": [
    {
     "__type": "SemPrefix",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/pebi",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/exbi",
     "ontology": "OM",
-    "labels": [
-     "pebi"
-    ],
-    "dispLabel": "pebi",
-    "factor": 1125899906842624,
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "exbi"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "exbi"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "exbi"
+      ]
+     }
+    },
+    "dispLabel": "exbi",
+    "factor": 1152921504606847000,
     "raw": {
-     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/pebi",
-     "label": "pebi",
-     "factor": 1125899906842624
+     "labelLang": "en",
+     "label": "exbi",
+     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/exbi",
+     "factor": 1152921504606847000
     }
    },
    {
     "__type": "SemPrefix",
-    "uri": "http://qudt.org/vocab/unit#Pebi",
+    "uri": "http://qudt.org/vocab/unit#Exbi",
     "ontology": "QUDT",
-    "labels": [
-     "pebi"
-    ],
-    "dispLabel": "Pebi",
-    "factor": 125899906842624,
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "exbi"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "exbi"
+      ]
+     }
+    },
+    "dispLabel": "Exbi",
+    "factor": 152921504606846980,
     "raw": {
-     "prefix": "http://qudt.org/vocab/unit#Pebi",
-     "label": "Pebi",
-     "factor": "125899906842624"
+     "labelLang": "",
+     "label": "Exbi",
+     "prefix": "http://qudt.org/vocab/unit#Exbi",
+     "factor": "152921504606846976"
     }
    }
   ]

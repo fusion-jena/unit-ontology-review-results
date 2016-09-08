@@ -1,122 +1,146 @@
 [
   {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/atto",
-    "label": "atto",
-    "factor": "1e-18"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/centi",
-    "label": "centi",
-    "factor": "1e-2"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deci",
-    "label": "deci",
-    "factor": "1e-1"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deka",
-    "label": "deka",
-    "factor": "1e1"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/exa",
-    "label": "exa",
-    "factor": "1e18"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/femto",
-    "label": "femto",
-    "factor": "1e-15"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/gibi",
-    "label": "gibi",
-    "factor": "1073741824"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/giga",
-    "label": "giga",
-    "factor": "1e9"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/hecto",
-    "label": "hecto",
-    "factor": "1e2"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kibi",
-    "label": "kibi",
-    "factor": "1024"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kilo",
-    "label": "kilo",
-    "factor": "1e3"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mebi",
-    "label": "mebi",
-    "factor": "1048576"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mega",
-    "label": "mega",
-    "factor": "1e6"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/micro",
-    "label": "micro",
-    "factor": "1e-6"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/milli",
-    "label": "milli",
-    "factor": "1e-3"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/nano",
-    "label": "nano",
-    "factor": "1e-9"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/peta",
-    "label": "peta",
-    "factor": "1e15"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/pico",
-    "label": "pico",
-    "factor": "1e-12"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tebi",
-    "label": "tebi",
-    "factor": "1099511627776"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tera",
-    "label": "tera",
-    "factor": "1e12"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yocto",
-    "label": "yocto",
-    "factor": "1e-24"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yotta",
     "label": "yotta",
-    "factor": "1e24"
+    "factor": "1e24",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yotta"
   },
   {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zepto",
-    "label": "zepto",
-    "factor": "1e-21"
-  },
-  {
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zetta",
     "label": "zetta",
-    "factor": "1e21"
+    "factor": "1e21",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zetta"
+  },
+  {
+    "label": "exa",
+    "factor": "1e18",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/exa"
+  },
+  {
+    "label": "peta",
+    "factor": "1e15",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/peta"
+  },
+  {
+    "label": "tera",
+    "factor": "1e12",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tera"
+  },
+  {
+    "label": "giga",
+    "factor": "1e9",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/giga"
+  },
+  {
+    "label": "mega",
+    "factor": "1e6",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mega"
+  },
+  {
+    "label": "kilo",
+    "factor": "1e3",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kilo"
+  },
+  {
+    "label": "hecto",
+    "factor": "1e2",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/hecto"
+  },
+  {
+    "label": "deka",
+    "factor": "1e1",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deka"
+  },
+  {
+    "label": "deci",
+    "factor": "1e-1",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deci"
+  },
+  {
+    "label": "centi",
+    "factor": "1e-2",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/centi"
+  },
+  {
+    "label": "milli",
+    "factor": "1e-3",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/milli"
+  },
+  {
+    "label": "micro",
+    "factor": "1e-6",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/micro"
+  },
+  {
+    "label": "nano",
+    "factor": "1e-9",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/nano"
+  },
+  {
+    "label": "pico",
+    "factor": "1e-12",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/pico"
+  },
+  {
+    "label": "femto",
+    "factor": "1e-15",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/femto"
+  },
+  {
+    "label": "atto",
+    "factor": "1e-18",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/atto"
+  },
+  {
+    "label": "zepto",
+    "factor": "1e-21",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zepto"
+  },
+  {
+    "label": "yocto",
+    "factor": "1e-24",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yocto"
+  },
+  {
+    "label": "kibi",
+    "factor": "1024",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kibi"
+  },
+  {
+    "label": "mebi",
+    "factor": "1048576",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mebi"
+  },
+  {
+    "label": "gibi",
+    "factor": "1073741824",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/gibi"
+  },
+  {
+    "label": "tebi",
+    "factor": "1099511627776",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tebi"
   }
 ]

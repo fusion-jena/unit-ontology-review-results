@@ -1,74 +1,182 @@
 [
   {
-    "label": "acoustics",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/acoustics"
-  },
-  {
-    "label": "astronomy and astrophysics",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
-  },
-  {
-    "label": "atomic and nuclear physics",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
-  },
-  {
-    "label": "chemical physics",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
-  },
-  {
-    "label": "common application area",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
-  },
-  {
-    "label": "cosmology",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
-  },
-  {
-    "label": "dimensionless parameters",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
-  },
-  {
-    "label": "electricity and magnetism",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
-  },
-  {
-    "label": "mechanics",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
-  },
-  {
-    "label": "molecular spectroscopy",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
-  },
-  {
-    "label": "plasma physics",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
-  },
-  {
-    "label": "quantum mechanics",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
-  },
-  {
-    "label": "radiation and light",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
-  },
-  {
-    "label": "shipping",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/shipping"
-  },
-  {
-    "label": "solid state physics",
-    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
-  },
-  {
+    "labelLang": "en",
     "label": "space and time",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
   },
   {
+    "labelLang": "nl",
+    "label": "ruimte en tijd",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/space_and_time"
+  },
+  {
+    "labelLang": "en",
+    "label": "mechanics",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "labelLang": "nl",
+    "label": "mechanica",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/mechanics"
+  },
+  {
+    "labelLang": "en",
     "label": "statistical physics",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
   },
   {
+    "labelLang": "nl",
+    "label": "statistische natuurkunde",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/statistical_physics"
+  },
+  {
+    "labelLang": "en",
     "label": "thermodynamics",
     "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "labelLang": "nl",
+    "label": "thermodynamica",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamics"
+  },
+  {
+    "labelLang": "en",
+    "label": "electricity and magnetism",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "labelLang": "nl",
+    "label": "electriciteit en magnetisme",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/electricity_and_magnetism"
+  },
+  {
+    "labelLang": "en",
+    "label": "radiation and light",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "labelLang": "nl",
+    "label": "straling en licht",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/radiation_and_light"
+  },
+  {
+    "labelLang": "en",
+    "label": "acoustics",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/acoustics"
+  },
+  {
+    "labelLang": "nl",
+    "label": "akoestiek",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/acoustics"
+  },
+  {
+    "labelLang": "en",
+    "label": "quantum mechanics",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
+  },
+  {
+    "labelLang": "nl",
+    "label": "kwantummechanica",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/quantum_mechanics"
+  },
+  {
+    "labelLang": "en",
+    "label": "atomic and nuclear physics",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
+  },
+  {
+    "labelLang": "nl",
+    "label": "atoom- en kernfysica",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/atomic_and_nuclear_physics"
+  },
+  {
+    "labelLang": "en",
+    "label": "molecular spectroscopy",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
+  },
+  {
+    "labelLang": "nl",
+    "label": "molecuulspectroscopie",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/molecular_spectroscopy"
+  },
+  {
+    "labelLang": "en",
+    "label": "solid state physics",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
+  },
+  {
+    "labelLang": "nl",
+    "label": "vastestoffysica",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/solid_state_physics"
+  },
+  {
+    "labelLang": "en",
+    "label": "chemical physics",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
+  },
+  {
+    "labelLang": "nl",
+    "label": "fysische chemie",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/chemical_physics"
+  },
+  {
+    "labelLang": "en",
+    "label": "plasma physics",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+  },
+  {
+    "labelLang": "nl",
+    "label": "plasmafysica",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/plasma_physics"
+  },
+  {
+    "labelLang": "en",
+    "label": "dimensionless parameters",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
+  },
+  {
+    "labelLang": "nl",
+    "label": "dimensieloze parameters",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/dimensionless_parameters"
+  },
+  {
+    "labelLang": "en",
+    "label": "shipping",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/shipping"
+  },
+  {
+    "labelLang": "nl",
+    "label": "shipping",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/shipping"
+  },
+  {
+    "labelLang": "en",
+    "label": "common application area",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "labelLang": "nl",
+    "label": "algemeen toepassingsgebied",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/common_application_area"
+  },
+  {
+    "labelLang": "nl",
+    "label": "kosmologie",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "labelLang": "en",
+    "label": "cosmology",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/cosmology"
+  },
+  {
+    "labelLang": "en",
+    "label": "astronomy and astrophysics",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
+  },
+  {
+    "labelLang": "nl",
+    "label": "astronomie en astrofysica",
+    "appField": "http://www.wurvoc.org/vocabularies/om-1.8/astronomy_and_astrophysics"
   }
 ]
