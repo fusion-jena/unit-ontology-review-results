@@ -1,16 +1,14 @@
 {
  "MUO": {
   "prefix": {
-   "label": 24,
+   "label@en": 24,
    "factor": 24,
-   "labelLang": 24,
    "prefix": 24,
    "_total": 24
   },
   "quantKind": {
-   "labelLang": 78,
    "quantKind": 78,
-   "label": 78,
+   "label@en": 78,
    "_total": 78
   },
   "quantKindUnit": {
@@ -19,11 +17,10 @@
    "_total": 267
   },
   "unit": {
-   "unit": 282,
-   "label": 282,
-   "symbol": 282,
-   "labelLang": 282,
-   "_total": 282
+   "unit": 267,
+   "label@en": 267,
+   "symbol": 267,
+   "_total": 267
   }
  },
  "OBOE": {
@@ -35,10 +32,9 @@
    "_total": 64
   },
   "quantKind": {
-   "labelLang": 5,
    "quantKind": 67,
    "parent": 6,
-   "label": 5,
+   "label@en": 5,
    "_total": 67
   },
   "quantKindUnit": {
@@ -49,15 +45,16 @@
   "unit": {
    "unit": 138,
    "definition": 18,
+   "label": 0,
    "_total": 138
   }
  },
  "OM": {
   "appField": {
-   "labelLang": 36,
-   "label": 36,
-   "appField": 36,
-   "_total": 36
+   "label@en": 18,
+   "appField": 18,
+   "label@nl": 18,
+   "_total": 18
   },
   "appFieldQuantKind": {
    "quantKind": 625,
@@ -77,17 +74,17 @@
    "_total": 828
   },
   "dimension": {
-   "dimLum": 83,
-   "dimTime": 83,
-   "dimension": 83,
-   "dimLength": 83,
-   "dimMass": 83,
-   "dimElec": 83,
-   "label": 83,
-   "dimThermo": 83,
-   "labelLang": 83,
-   "dimAmount": 83,
-   "_total": 83
+   "dimLum": 68,
+   "dimTime": 68,
+   "dimension": 68,
+   "dimLength": 68,
+   "dimMass": 68,
+   "dimElec": 68,
+   "label@en": 68,
+   "dimThermo": 68,
+   "dimAmount": 68,
+   "label@nl": 15,
+   "_total": 68
   },
   "dimensionUnit": {
    "dimension": 1144,
@@ -95,10 +92,11 @@
    "_total": 1144
   },
   "prefix": {
-   "labelLang": 71,
-   "label": 71,
+   "label@en": 28,
    "prefix": 71,
    "factor": 71,
+   "label@nl": 28,
+   "label@zh": 15,
    "_total": 71
   },
   "prefixUnit": {
@@ -108,11 +106,12 @@
    "_total": 989
   },
   "quantKind": {
-   "labelLang": 1336,
-   "quantKind": 1336,
-   "label": 1336,
-   "parent": 681,
-   "_total": 1336
+   "quantKind": 879,
+   "label@en": 879,
+   "label@nl": 256,
+   "label@zh": 24,
+   "parent": 373,
+   "_total": 879
   },
   "quantKindUnit": {
    "quantKind": 5157,
@@ -125,10 +124,10 @@
    "_total": 5
   },
   "system": {
-   "labelLang": 26,
-   "system": 26,
-   "label": 26,
-   "_total": 26
+   "system": 13,
+   "label@en": 13,
+   "label@nl": 13,
+   "_total": 13
   },
   "systemUnit": {
    "system": 819,
@@ -136,17 +135,19 @@
    "_total": 819
   },
   "unit": {
-   "unit": 2691,
-   "label": 2691,
-   "definition": 1400,
-   "symbol": 2570,
-   "labelLang": 2691,
-   "_total": 2691
+   "unit": 1369,
+   "label@en": 1369,
+   "definition": 722,
+   "symbol": 1276,
+   "label@nl": 1216,
+   "label@zh": 104,
+   "_total": 1369
   }
  },
  "QU": {
   "appField": {
    "appField": 12,
+   "label": 0,
    "_total": 12
   },
   "appFieldQuantKind": {
@@ -164,7 +165,6 @@
   "prefix": {
    "label": 20,
    "factor": 20,
-   "labelLang": 20,
    "prefix": 20,
    "_total": 20
   },
@@ -175,10 +175,9 @@
    "_total": 163
   },
   "quantKind": {
-   "labelLang": 1197,
-   "quantKind": 1197,
-   "label": 1197,
-   "_total": 1197
+   "quantKind": 598,
+   "label": 598,
+   "_total": 598
   },
   "quantKindUnit": {
    "quantKind": 129,
@@ -189,7 +188,6 @@
    "unit": 801,
    "label": 801,
    "symbol": 799,
-   "labelLang": 801,
    "_total": 801
   }
  },
@@ -210,7 +208,6 @@
    "dimElec": 130,
    "label": 130,
    "dimThermo": 130,
-   "labelLang": 130,
    "dimAmount": 130,
    "_total": 130
   },
@@ -220,14 +217,12 @@
    "_total": 491
   },
   "prefix": {
-   "labelLang": 28,
    "label": 28,
    "prefix": 28,
    "factor": 28,
    "_total": 28
   },
   "quantKind": {
-   "labelLang": 235,
    "quantKind": 235,
    "parent": 81,
    "label": 235,
@@ -244,7 +239,6 @@
    "_total": 364
   },
   "system": {
-   "labelLang": 11,
    "system": 11,
    "label": 11,
    "_total": 11
@@ -258,7 +252,6 @@
    "unit": 768,
    "label": 768,
    "symbol": 557,
-   "labelLang": 768,
    "definition": 218,
    "_total": 768
   }
@@ -266,6 +259,7 @@
  "SWEET": {
   "appField": {
    "appField": 49,
+   "label": 0,
    "_total": 49
   },
   "appFieldQuantKind": {
@@ -283,6 +277,7 @@
   "prefix": {
    "factor": 12,
    "prefix": 12,
+   "label": 0,
    "_total": 12
   },
   "prefixUnit": {
@@ -292,11 +287,10 @@
    "_total": 9
   },
   "quantKind": {
-   "quantKind": 942,
-   "parent": 937,
-   "labelLang": 10,
-   "label": 10,
-   "_total": 942
+   "quantKind": 847,
+   "parent": 842,
+   "label": 8,
+   "_total": 847
   },
   "quantKindUnit": {
    "quantKind": 1028,
@@ -311,22 +305,21 @@
   "unit": {
    "symbol": 20,
    "unit": 140,
+   "label": 0,
    "_total": 140
   }
  },
  "UO": {
   "prefix": {
-   "labelLang": 20,
    "label": 20,
    "prefix": 20,
    "_total": 20
   },
   "quantKind": {
-   "labelLang": 319,
-   "quantKind": 319,
-   "parent": 319,
-   "label": 319,
-   "_total": 319
+   "quantKind": 316,
+   "parent": 316,
+   "label": 316,
+   "_total": 316
   },
   "quantKindUnit": {
    "quantKind": 918,
@@ -337,7 +330,6 @@
    "unit": 221,
    "label": 221,
    "definition": 221,
-   "labelLang": 221,
    "_total": 221
   }
  }
