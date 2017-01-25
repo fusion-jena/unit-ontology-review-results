@@ -5,6 +5,2798 @@
    "values": [
     {
      "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/amount-of-substance/mole",
+     "ontology": "MUO",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      }
+     },
+     "dispLabel": "mole",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Mole",
+     "ontology": "OBOE",
+     "labels": {
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      }
+     },
+     "dispLabel": "mole",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/mole",
+     "ontology": "OM",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      }
+     },
+     "dispLabel": "mole",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/ssnx/qu/unit#mole",
+     "ontology": "QU",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      }
+     },
+     "dispLabel": "mole",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://qudt.org/vocab/unit#Mole",
+     "ontology": "QUDT",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      }
+     },
+     "dispLabel": "Mole",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mole",
+     "ontology": "SWEET",
+     "labels": {
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      }
+     },
+     "dispLabel": "mole",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.obolibrary.org/obo/UO_0000013",
+     "ontology": "UO",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "uo 0000013",
+        "uo0000013"
+       ]
+      }
+     },
+     "dispLabel": "mole",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/time/year",
+     "ontology": "MUO",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      }
+     },
+     "dispLabel": "year",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/year",
+     "ontology": "OM",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "jaar"
+       ]
+      }
+     },
+     "dispLabel": "year",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/ssnx/qu/unit#year",
+     "ontology": "QU",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      }
+     },
+     "dispLabel": "year",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year",
+     "ontology": "SWEET",
+     "labels": {
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      }
+     },
+     "dispLabel": "year",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.obolibrary.org/obo/UO_0000036",
+     "ontology": "UO",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "uo 0000036",
+        "uo0000036"
+       ]
+      }
+     },
+     "dispLabel": "year",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q754897",
+     "ontology": "WD",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "geological epoch",
+        "geologicalepoch"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "q754897"
+       ]
+      },
+      "fa": {
+       "__type": "Set",
+       "values": [
+        "دور"
+       ]
+      },
+      "gl": {
+       "__type": "Set",
+       "values": [
+        "época xeolóxica",
+        "épocaxeolóxica"
+       ]
+      },
+      "hi": {
+       "__type": "Set",
+       "values": [
+        "युग भौमिकी",
+        "युगभौमिकी"
+       ]
+      },
+      "ht": {
+       "__type": "Set",
+       "values": [
+        "epòk"
+       ]
+      },
+      "hu": {
+       "__type": "Set",
+       "values": [
+        "kor"
+       ]
+      },
+      "it": {
+       "__type": "Set",
+       "values": [
+        "epoca geologica",
+        "epocageologica"
+       ]
+      },
+      "ka": {
+       "__type": "Set",
+       "values": [
+        "ეპოქა"
+       ]
+      },
+      "mk": {
+       "__type": "Set",
+       "values": [
+        "геолошка епоха",
+        "геолошкаепоха"
+       ]
+      },
+      "nb": {
+       "__type": "Set",
+       "values": [
+        "epoke"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "tijdvak"
+       ]
+      },
+      "pl": {
+       "__type": "Set",
+       "values": [
+        "epoka geologiczna",
+        "epokageologiczna"
+       ]
+      },
+      "de": {
+       "__type": "Set",
+       "values": [
+        "epoche"
+       ]
+      },
+      "es": {
+       "__type": "Set",
+       "values": [
+        "época"
+       ]
+      },
+      "fi": {
+       "__type": "Set",
+       "values": [
+        "epookki"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "epok"
+       ]
+      },
+      "ko": {
+       "__type": "Set",
+       "values": [
+        "세"
+       ]
+      },
+      "fr": {
+       "__type": "Set",
+       "values": [
+        "époque géologique",
+        "époquegéologique"
+       ]
+      },
+      "id": {
+       "__type": "Set",
+       "values": [
+        "kala"
+       ]
+      },
+      "af": {
+       "__type": "Set",
+       "values": [
+        "epog geologie",
+        "epoggeologie"
+       ]
+      },
+      "be": {
+       "__type": "Set",
+       "values": [
+        "геалагічная эпоха",
+        "геалагічнаяэпоха"
+       ]
+      },
+      "ca": {
+       "__type": "Set",
+       "values": [
+        "època geològica",
+        "èpocageològica"
+       ]
+      },
+      "cy": {
+       "__type": "Set",
+       "values": [
+        "epoc"
+       ]
+      },
+      "da": {
+       "__type": "Set",
+       "values": [
+        "epoke"
+       ]
+      },
+      "el": {
+       "__type": "Set",
+       "values": [
+        "γεωλογική εποχή",
+        "γεωλογικήεποχή"
+       ]
+      },
+      "pt": {
+       "__type": "Set",
+       "values": [
+        "época geológica",
+        "épocageológica"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "геологическая эпоха",
+        "геологическаяэпоха"
+       ]
+      },
+      "sah": {
+       "__type": "Set",
+       "values": [
+        "геология эпохата",
+        "геологияэпохата"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "геолошка епоха",
+        "геолошкаепоха"
+       ]
+      },
+      "sr-ec": {
+       "__type": "Set",
+       "values": [
+        "геолошка епоха",
+        "геолошкаепоха"
+       ]
+      },
+      "sr-el": {
+       "__type": "Set",
+       "values": [
+        "geološka epoha",
+        "geološkaepoha"
+       ]
+      },
+      "uk": {
+       "__type": "Set",
+       "values": [
+        "геологічна епоха",
+        "геологічнаепоха"
+       ]
+      },
+      "vi": {
+       "__type": "Set",
+       "values": [
+        "thế địa chất",
+        "thếđịachất"
+       ]
+      },
+      "yue": {
+       "__type": "Set",
+       "values": [
+        "世"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "世 地质学",
+        "世地质学"
+       ]
+      },
+      "nn": {
+       "__type": "Set",
+       "values": [
+        "geologisk epoke",
+        "geologiskepoke"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "فترة جيولوجية",
+        "فترةجيولوجية"
+       ]
+      },
+      "lv": {
+       "__type": "Set",
+       "values": [
+        "ģeoloģiskā epoha",
+        "ģeoloģiskāepoha"
+       ]
+      }
+     },
+     "dispLabel": "geological epoch",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q24564698",
+     "ontology": "WD",
+     "labels": {
+      "hu": {
+       "__type": "Set",
+       "values": [
+        "éves kor",
+        "éveskor"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "q24564698"
+       ]
+      },
+      "zh-hant": {
+       "__type": "Set",
+       "values": [
+        "歲"
+       ]
+      },
+      "zh-hk": {
+       "__type": "Set",
+       "values": [
+        "歲"
+       ]
+      },
+      "zh-mo": {
+       "__type": "Set",
+       "values": [
+        "歲"
+       ]
+      },
+      "zh-tw": {
+       "__type": "Set",
+       "values": [
+        "歲"
+       ]
+      },
+      "zh-cn": {
+       "__type": "Set",
+       "values": [
+        "岁"
+       ]
+      },
+      "zh-hans": {
+       "__type": "Set",
+       "values": [
+        "岁"
+       ]
+      },
+      "zh-my": {
+       "__type": "Set",
+       "values": [
+        "岁"
+       ]
+      },
+      "zh-sg": {
+       "__type": "Set",
+       "values": [
+        "岁"
+       ]
+      },
+      "ca": {
+       "__type": "Set",
+       "values": [
+        "anys"
+       ]
+      },
+      "bg": {
+       "__type": "Set",
+       "values": [
+        "години"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "jaar"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "år"
+       ]
+      },
+      "ko": {
+       "__type": "Set",
+       "values": [
+        "세"
+       ]
+      },
+      "fr": {
+       "__type": "Set",
+       "values": [
+        "an"
+       ]
+      },
+      "ja": {
+       "__type": "Set",
+       "values": [
+        "歳"
+       ]
+      },
+      "en": {
+       "__type": "Set",
+       "values": [
+        "years old",
+        "yearsold"
+       ]
+      },
+      "de": {
+       "__type": "Set",
+       "values": [
+        "jahre"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "лет"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "година старости",
+        "годинастарости"
+       ]
+      },
+      "pl": {
+       "__type": "Set",
+       "values": [
+        "lata życia",
+        "latażycia"
+       ]
+      },
+      "mk": {
+       "__type": "Set",
+       "values": [
+        "години"
+       ]
+      },
+      "lv": {
+       "__type": "Set",
+       "values": [
+        "gadi"
+       ]
+      },
+      "it": {
+       "__type": "Set",
+       "values": [
+        "anni"
+       ]
+      },
+      "es": {
+       "__type": "Set",
+       "values": [
+        "años de edad",
+        "añosdeedad"
+       ]
+      },
+      "bn": {
+       "__type": "Set",
+       "values": [
+        "বছর বয়স",
+        "বছরবয়স"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "岁"
+       ]
+      },
+      "ku-latn": {
+       "__type": "Set",
+       "values": [
+        "salî"
+       ]
+      },
+      "be": {
+       "__type": "Set",
+       "values": [
+        "гадоў"
+       ]
+      },
+      "cy": {
+       "__type": "Set",
+       "values": [
+        "blwydd oed",
+        "blwyddoed"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "سنة"
+       ]
+      },
+      "da": {
+       "__type": "Set",
+       "values": [
+        "år"
+       ]
+      },
+      "he": {
+       "__type": "Set",
+       "values": [
+        "שנה"
+       ]
+      }
+     },
+     "dispLabel": "years old",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q1092296",
+     "ontology": "WD",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "q1092296"
+       ]
+      },
+      "es": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "eu": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "fr": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "hu": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "id": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "it": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "jv": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "ms": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "pt": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "pt-br": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "анум"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "ca": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "cs": {
+       "__type": "Set",
+       "values": [
+        "rok"
+       ]
+      },
+      "da": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      },
+      "de": {
+       "__type": "Set",
+       "values": [
+        "annum"
+       ]
+      }
+     },
+     "dispLabel": "annum",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q577",
+     "ontology": "WD",
+     "labels": {
+      "es": {
+       "__type": "Set",
+       "values": [
+        "año"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "q577"
+       ]
+      },
+      "fa": {
+       "__type": "Set",
+       "values": [
+        "سال"
+       ]
+      },
+      "fi": {
+       "__type": "Set",
+       "values": [
+        "vuosi"
+       ]
+      },
+      "fr": {
+       "__type": "Set",
+       "values": [
+        "année"
+       ]
+      },
+      "fy": {
+       "__type": "Set",
+       "values": [
+        "jier"
+       ]
+      },
+      "gl": {
+       "__type": "Set",
+       "values": [
+        "ano"
+       ]
+      },
+      "he": {
+       "__type": "Set",
+       "values": [
+        "שנה"
+       ]
+      },
+      "hr": {
+       "__type": "Set",
+       "values": [
+        "godina"
+       ]
+      },
+      "hsb": {
+       "__type": "Set",
+       "values": [
+        "lěto"
+       ]
+      },
+      "ht": {
+       "__type": "Set",
+       "values": [
+        "lane"
+       ]
+      },
+      "hu": {
+       "__type": "Set",
+       "values": [
+        "év"
+       ]
+      },
+      "ia": {
+       "__type": "Set",
+       "values": [
+        "anno"
+       ]
+      },
+      "id": {
+       "__type": "Set",
+       "values": [
+        "tahun"
+       ]
+      },
+      "ilo": {
+       "__type": "Set",
+       "values": [
+        "tawen"
+       ]
+      },
+      "is": {
+       "__type": "Set",
+       "values": [
+        "ár"
+       ]
+      },
+      "it": {
+       "__type": "Set",
+       "values": [
+        "anno"
+       ]
+      },
+      "ja": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "ka": {
+       "__type": "Set",
+       "values": [
+        "წელი"
+       ]
+      },
+      "ku": {
+       "__type": "Set",
+       "values": [
+        "sal"
+       ]
+      },
+      "la": {
+       "__type": "Set",
+       "values": [
+        "annus"
+       ]
+      },
+      "lv": {
+       "__type": "Set",
+       "values": [
+        "gads"
+       ]
+      },
+      "mhr": {
+       "__type": "Set",
+       "values": [
+        "идалык"
+       ]
+      },
+      "mk": {
+       "__type": "Set",
+       "values": [
+        "година"
+       ]
+      },
+      "ms": {
+       "__type": "Set",
+       "values": [
+        "tahun"
+       ]
+      },
+      "nan": {
+       "__type": "Set",
+       "values": [
+        "nî"
+       ]
+      },
+      "nb": {
+       "__type": "Set",
+       "values": [
+        "år"
+       ]
+      },
+      "nds": {
+       "__type": "Set",
+       "values": [
+        "johr"
+       ]
+      },
+      "ne": {
+       "__type": "Set",
+       "values": [
+        "वर्ष"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "jaar"
+       ]
+      },
+      "nn": {
+       "__type": "Set",
+       "values": [
+        "år"
+       ]
+      },
+      "or": {
+       "__type": "Set",
+       "values": [
+        "ବର୍ଷ"
+       ]
+      },
+      "pl": {
+       "__type": "Set",
+       "values": [
+        "rok"
+       ]
+      },
+      "pt": {
+       "__type": "Set",
+       "values": [
+        "ano"
+       ]
+      },
+      "sh": {
+       "__type": "Set",
+       "values": [
+        "godina"
+       ]
+      },
+      "srn": {
+       "__type": "Set",
+       "values": [
+        "yari"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "år"
+       ]
+      },
+      "tr": {
+       "__type": "Set",
+       "values": [
+        "yıl"
+       ]
+      },
+      "ur": {
+       "__type": "Set",
+       "values": [
+        "سال"
+       ]
+      },
+      "war": {
+       "__type": "Set",
+       "values": [
+        "tuig"
+       ]
+      },
+      "yue": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "hi": {
+       "__type": "Set",
+       "values": [
+        "वर्ष"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "год"
+       ]
+      },
+      "ta": {
+       "__type": "Set",
+       "values": [
+        "ஆண்டு"
+       ]
+      },
+      "lb": {
+       "__type": "Set",
+       "values": [
+        "joer"
+       ]
+      },
+      "lez": {
+       "__type": "Set",
+       "values": [
+        "йис"
+       ]
+      },
+      "lmo": {
+       "__type": "Set",
+       "values": [
+        "ann"
+       ]
+      },
+      "lo": {
+       "__type": "Set",
+       "values": [
+        "ປີ"
+       ]
+      },
+      "lt": {
+       "__type": "Set",
+       "values": [
+        "metai"
+       ]
+      },
+      "map-bms": {
+       "__type": "Set",
+       "values": [
+        "taun"
+       ]
+      },
+      "mi": {
+       "__type": "Set",
+       "values": [
+        "tau"
+       ]
+      },
+      "min": {
+       "__type": "Set",
+       "values": [
+        "taun"
+       ]
+      },
+      "ml": {
+       "__type": "Set",
+       "values": [
+        "വർഷം"
+       ]
+      },
+      "mn": {
+       "__type": "Set",
+       "values": [
+        "жил"
+       ]
+      },
+      "mr": {
+       "__type": "Set",
+       "values": [
+        "वर्ष"
+       ]
+      },
+      "mrj": {
+       "__type": "Set",
+       "values": [
+        "и"
+       ]
+      },
+      "myv": {
+       "__type": "Set",
+       "values": [
+        "ие"
+       ]
+      },
+      "new": {
+       "__type": "Set",
+       "values": [
+        "दँ"
+       ]
+      },
+      "nrm": {
+       "__type": "Set",
+       "values": [
+        "aun"
+       ]
+      },
+      "nso": {
+       "__type": "Set",
+       "values": [
+        "ngwaga"
+       ]
+      },
+      "oc": {
+       "__type": "Set",
+       "values": [
+        "annada"
+       ]
+      },
+      "os": {
+       "__type": "Set",
+       "values": [
+        "аз"
+       ]
+      },
+      "pa": {
+       "__type": "Set",
+       "values": [
+        "ਸਾਲ"
+       ]
+      },
+      "pnb": {
+       "__type": "Set",
+       "values": [
+        "ورہ"
+       ]
+      },
+      "ps": {
+       "__type": "Set",
+       "values": [
+        "کال"
+       ]
+      },
+      "pt-br": {
+       "__type": "Set",
+       "values": [
+        "ano s",
+        "anos"
+       ]
+      },
+      "qu": {
+       "__type": "Set",
+       "values": [
+        "wata"
+       ]
+      },
+      "rmy": {
+       "__type": "Set",
+       "values": [
+        "bersh"
+       ]
+      },
+      "ro": {
+       "__type": "Set",
+       "values": [
+        "an"
+       ]
+      },
+      "rue": {
+       "__type": "Set",
+       "values": [
+        "рік"
+       ]
+      },
+      "rup": {
+       "__type": "Set",
+       "values": [
+        "anu"
+       ]
+      },
+      "rw": {
+       "__type": "Set",
+       "values": [
+        "umwaka"
+       ]
+      },
+      "sa": {
+       "__type": "Set",
+       "values": [
+        "वर्षः"
+       ]
+      },
+      "sah": {
+       "__type": "Set",
+       "values": [
+        "сыл"
+       ]
+      },
+      "sc": {
+       "__type": "Set",
+       "values": [
+        "annu"
+       ]
+      },
+      "scn": {
+       "__type": "Set",
+       "values": [
+        "annu"
+       ]
+      },
+      "af": {
+       "__type": "Set",
+       "values": [
+        "jaar"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "سنة"
+       ]
+      },
+      "bn": {
+       "__type": "Set",
+       "values": [
+        "বছর"
+       ]
+      },
+      "ca": {
+       "__type": "Set",
+       "values": [
+        "any"
+       ]
+      },
+      "cs": {
+       "__type": "Set",
+       "values": [
+        "rok"
+       ]
+      },
+      "da": {
+       "__type": "Set",
+       "values": [
+        "år"
+       ]
+      },
+      "de": {
+       "__type": "Set",
+       "values": [
+        "jahr"
+       ]
+      },
+      "dsb": {
+       "__type": "Set",
+       "values": [
+        "lěto"
+       ]
+      },
+      "el": {
+       "__type": "Set",
+       "values": [
+        "έτος"
+       ]
+      },
+      "en": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      },
+      "en-gb": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      },
+      "eo": {
+       "__type": "Set",
+       "values": [
+        "jaro"
+       ]
+      },
+      "ak": {
+       "__type": "Set",
+       "values": [
+        "afi"
+       ]
+      },
+      "am": {
+       "__type": "Set",
+       "values": [
+        "አመት"
+       ]
+      },
+      "an": {
+       "__type": "Set",
+       "values": [
+        "anyo"
+       ]
+      },
+      "ang": {
+       "__type": "Set",
+       "values": [
+        "gēar"
+       ]
+      },
+      "arc": {
+       "__type": "Set",
+       "values": [
+        "ܫܢܬܐ"
+       ]
+      },
+      "arz": {
+       "__type": "Set",
+       "values": [
+        "سنه"
+       ]
+      },
+      "as": {
+       "__type": "Set",
+       "values": [
+        "বছৰ"
+       ]
+      },
+      "ast": {
+       "__type": "Set",
+       "values": [
+        "añu"
+       ]
+      },
+      "av": {
+       "__type": "Set",
+       "values": [
+        "сон"
+       ]
+      },
+      "ay": {
+       "__type": "Set",
+       "values": [
+        "mara"
+       ]
+      },
+      "az": {
+       "__type": "Set",
+       "values": [
+        "i̇l"
+       ]
+      },
+      "azb": {
+       "__type": "Set",
+       "values": [
+        "ایل"
+       ]
+      },
+      "ba": {
+       "__type": "Set",
+       "values": [
+        "йыл"
+       ]
+      },
+      "bar": {
+       "__type": "Set",
+       "values": [
+        "joar"
+       ]
+      },
+      "be": {
+       "__type": "Set",
+       "values": [
+        "год"
+       ]
+      },
+      "be-tarask": {
+       "__type": "Set",
+       "values": [
+        "год"
+       ]
+      },
+      "bg": {
+       "__type": "Set",
+       "values": [
+        "година"
+       ]
+      },
+      "bho": {
+       "__type": "Set",
+       "values": [
+        "साल"
+       ]
+      },
+      "bo": {
+       "__type": "Set",
+       "values": [
+        "ལོ་"
+       ]
+      },
+      "br": {
+       "__type": "Set",
+       "values": [
+        "bloaz"
+       ]
+      },
+      "bs": {
+       "__type": "Set",
+       "values": [
+        "godina"
+       ]
+      },
+      "bxr": {
+       "__type": "Set",
+       "values": [
+        "жэл"
+       ]
+      },
+      "cdo": {
+       "__type": "Set",
+       "values": [
+        "nièng"
+       ]
+      },
+      "ce": {
+       "__type": "Set",
+       "values": [
+        "шо"
+       ]
+      },
+      "ceb": {
+       "__type": "Set",
+       "values": [
+        "tuig"
+       ]
+      },
+      "ch": {
+       "__type": "Set",
+       "values": [
+        "såkkan"
+       ]
+      },
+      "csb": {
+       "__type": "Set",
+       "values": [
+        "rok"
+       ]
+      },
+      "cv": {
+       "__type": "Set",
+       "values": [
+        "çулталăк"
+       ]
+      },
+      "cy": {
+       "__type": "Set",
+       "values": [
+        "blwyddyn"
+       ]
+      },
+      "de-ch": {
+       "__type": "Set",
+       "values": [
+        "jahr"
+       ]
+      },
+      "eml": {
+       "__type": "Set",
+       "values": [
+        "an"
+       ]
+      },
+      "en-ca": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      },
+      "et": {
+       "__type": "Set",
+       "values": [
+        "aasta"
+       ]
+      },
+      "eu": {
+       "__type": "Set",
+       "values": [
+        "urte"
+       ]
+      },
+      "fur": {
+       "__type": "Set",
+       "values": [
+        "an"
+       ]
+      },
+      "ga": {
+       "__type": "Set",
+       "values": [
+        "bliain"
+       ]
+      },
+      "gan": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "gd": {
+       "__type": "Set",
+       "values": [
+        "bliadhna"
+       ]
+      },
+      "gn": {
+       "__type": "Set",
+       "values": [
+        "ary"
+       ]
+      },
+      "gsw": {
+       "__type": "Set",
+       "values": [
+        "johr"
+       ]
+      },
+      "gv": {
+       "__type": "Set",
+       "values": [
+        "blein"
+       ]
+      },
+      "haw": {
+       "__type": "Set",
+       "values": [
+        "makahiki"
+       ]
+      },
+      "hif": {
+       "__type": "Set",
+       "values": [
+        "saal"
+       ]
+      },
+      "hy": {
+       "__type": "Set",
+       "values": [
+        "տարի"
+       ]
+      },
+      "ik": {
+       "__type": "Set",
+       "values": [
+        "ukiuq"
+       ]
+      },
+      "io": {
+       "__type": "Set",
+       "values": [
+        "yaro"
+       ]
+      },
+      "iu": {
+       "__type": "Set",
+       "values": [
+        "ᐅᑭᐅᖅ"
+       ]
+      },
+      "jbo": {
+       "__type": "Set",
+       "values": [
+        "nanca"
+       ]
+      },
+      "jv": {
+       "__type": "Set",
+       "values": [
+        "taun"
+       ]
+      },
+      "kk": {
+       "__type": "Set",
+       "values": [
+        "жыл"
+       ]
+      },
+      "kn": {
+       "__type": "Set",
+       "values": [
+        "ವರ್ಷ"
+       ]
+      },
+      "ko": {
+       "__type": "Set",
+       "values": [
+        "년"
+       ]
+      },
+      "krc": {
+       "__type": "Set",
+       "values": [
+        "джыл"
+       ]
+      },
+      "kw": {
+       "__type": "Set",
+       "values": [
+        "bledhen"
+       ]
+      },
+      "lad": {
+       "__type": "Set",
+       "values": [
+        "año"
+       ]
+      },
+      "uk": {
+       "__type": "Set",
+       "values": [
+        "рік"
+       ]
+      },
+      "vi": {
+       "__type": "Set",
+       "values": [
+        "năm"
+       ]
+      },
+      "yi": {
+       "__type": "Set",
+       "values": [
+        "יאר"
+       ]
+      },
+      "fo": {
+       "__type": "Set",
+       "values": [
+        "ár"
+       ]
+      },
+      "gu": {
+       "__type": "Set",
+       "values": [
+        "વર્ષ"
+       ]
+      },
+      "nds-nl": {
+       "__type": "Set",
+       "values": [
+        "jaor"
+       ]
+      },
+      "nap": {
+       "__type": "Set",
+       "values": [
+        "anno"
+       ]
+      },
+      "ckb": {
+       "__type": "Set",
+       "values": [
+        "ساڵ"
+       ]
+      },
+      "sk": {
+       "__type": "Set",
+       "values": [
+        "rok"
+       ]
+      },
+      "nah": {
+       "__type": "Set",
+       "values": [
+        "xihuitl"
+       ]
+      },
+      "my": {
+       "__type": "Set",
+       "values": [
+        "သက္ကရာဇ်"
+       ]
+      },
+      "li": {
+       "__type": "Set",
+       "values": [
+        "jaor"
+       ]
+      },
+      "frr": {
+       "__type": "Set",
+       "values": [
+        "juar"
+       ]
+      },
+      "olo": {
+       "__type": "Set",
+       "values": [
+        "vuozi"
+       ]
+      },
+      "su": {
+       "__type": "Set",
+       "values": [
+        "taun"
+       ]
+      },
+      "sw": {
+       "__type": "Set",
+       "values": [
+        "mwaka"
+       ]
+      },
+      "szl": {
+       "__type": "Set",
+       "values": [
+        "rok"
+       ]
+      },
+      "te": {
+       "__type": "Set",
+       "values": [
+        "సంవత్సరము"
+       ]
+      },
+      "tg": {
+       "__type": "Set",
+       "values": [
+        "сол"
+       ]
+      },
+      "th": {
+       "__type": "Set",
+       "values": [
+        "ปี"
+       ]
+      },
+      "tl": {
+       "__type": "Set",
+       "values": [
+        "taon"
+       ]
+      },
+      "tokipona": {
+       "__type": "Set",
+       "values": [
+        "tenpo sike",
+        "tenposike"
+       ]
+      },
+      "tpi": {
+       "__type": "Set",
+       "values": [
+        "yia"
+       ]
+      },
+      "tt": {
+       "__type": "Set",
+       "values": [
+        "ел"
+       ]
+      },
+      "uz": {
+       "__type": "Set",
+       "values": [
+        "yil"
+       ]
+      },
+      "vec": {
+       "__type": "Set",
+       "values": [
+        "an"
+       ]
+      },
+      "vro": {
+       "__type": "Set",
+       "values": [
+        "aastak"
+       ]
+      },
+      "wa": {
+       "__type": "Set",
+       "values": [
+        "anêye"
+       ]
+      },
+      "wo": {
+       "__type": "Set",
+       "values": [
+        "at"
+       ]
+      },
+      "yo": {
+       "__type": "Set",
+       "values": [
+        "ọdún"
+       ]
+      },
+      "za": {
+       "__type": "Set",
+       "values": [
+        "bi"
+       ]
+      },
+      "zea": {
+       "__type": "Set",
+       "values": [
+        "jaer"
+       ]
+      },
+      "zh-cn": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "zh-hans": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "zh-hant": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "zh-hk": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "pam": {
+       "__type": "Set",
+       "values": [
+        "banwa"
+       ]
+      },
+      "aeb-arab": {
+       "__type": "Set",
+       "values": [
+        "عام"
+       ]
+      },
+      "hak": {
+       "__type": "Set",
+       "values": [
+        "ngièn"
+       ]
+      },
+      "zh-mo": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "zh-my": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "zh-sg": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "zh-tw": {
+       "__type": "Set",
+       "values": [
+        "年"
+       ]
+      },
+      "jam": {
+       "__type": "Set",
+       "values": [
+        "ier"
+       ]
+      },
+      "sco": {
+       "__type": "Set",
+       "values": [
+        "year"
+       ]
+      },
+      "sd": {
+       "__type": "Set",
+       "values": [
+        "سال"
+       ]
+      },
+      "se": {
+       "__type": "Set",
+       "values": [
+        "jahki"
+       ]
+      },
+      "sgs": {
+       "__type": "Set",
+       "values": [
+        "metā"
+       ]
+      },
+      "si": {
+       "__type": "Set",
+       "values": [
+        "වර්ෂය"
+       ]
+      },
+      "sl": {
+       "__type": "Set",
+       "values": [
+        "leto"
+       ]
+      },
+      "sn": {
+       "__type": "Set",
+       "values": [
+        "gore"
+       ]
+      },
+      "so": {
+       "__type": "Set",
+       "values": [
+        "sanad"
+       ]
+      },
+      "sq": {
+       "__type": "Set",
+       "values": [
+        "viti"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "година"
+       ]
+      },
+      "sr-ec": {
+       "__type": "Set",
+       "values": [
+        "година"
+       ]
+      },
+      "sr-el": {
+       "__type": "Set",
+       "values": [
+        "godina"
+       ]
+      }
+     },
+     "dispLabel": "year",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q41509",
+     "ontology": "WD",
+     "labels": {
+      "cs": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "q41509"
+       ]
+      },
+      "da": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "de": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "eu": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "mt": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "nb": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "nn": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "ur": {
+       "__type": "Set",
+       "values": [
+        "سال"
+       ]
+      },
+      "es": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "bg": {
+       "__type": "Set",
+       "values": [
+        "мол"
+       ]
+      },
+      "eo": {
+       "__type": "Set",
+       "values": [
+        "molo"
+       ]
+      },
+      "et": {
+       "__type": "Set",
+       "values": [
+        "mool"
+       ]
+      },
+      "fi": {
+       "__type": "Set",
+       "values": [
+        "mooli"
+       ]
+      },
+      "fr": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "frr": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "ga": {
+       "__type": "Set",
+       "values": [
+        "mól"
+       ]
+      },
+      "hi": {
+       "__type": "Set",
+       "values": [
+        "मोल"
+       ]
+      },
+      "ht": {
+       "__type": "Set",
+       "values": [
+        "mòl"
+       ]
+      },
+      "hu": {
+       "__type": "Set",
+       "values": [
+        "mól"
+       ]
+      },
+      "id": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "is": {
+       "__type": "Set",
+       "values": [
+        "mól"
+       ]
+      },
+      "it": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "jbo": {
+       "__type": "Set",
+       "values": [
+        "molro"
+       ]
+      },
+      "ka": {
+       "__type": "Set",
+       "values": [
+        "მოლი"
+       ]
+      },
+      "ku": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "ky": {
+       "__type": "Set",
+       "values": [
+        "моль"
+       ]
+      },
+      "la": {
+       "__type": "Set",
+       "values": [
+        "moles"
+       ]
+      },
+      "lv": {
+       "__type": "Set",
+       "values": [
+        "mols"
+       ]
+      },
+      "lzh": {
+       "__type": "Set",
+       "values": [
+        "摩爾"
+       ]
+      },
+      "ml": {
+       "__type": "Set",
+       "values": [
+        "മോൾ യൂണിറ്റ്",
+        "മോൾയൂണിറ്റ്"
+       ]
+      },
+      "mn": {
+       "__type": "Set",
+       "values": [
+        "моль"
+       ]
+      },
+      "mr": {
+       "__type": "Set",
+       "values": [
+        "मोल"
+       ]
+      },
+      "ms": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "nan": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "pa": {
+       "__type": "Set",
+       "values": [
+        "ਮੋਲ"
+       ]
+      },
+      "pl": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "pms": {
+       "__type": "Set",
+       "values": [
+        "mòle"
+       ]
+      },
+      "pnb": {
+       "__type": "Set",
+       "values": [
+        "مول"
+       ]
+      },
+      "pt": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "pt-br": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "моль"
+       ]
+      },
+      "sco": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "sk": {
+       "__type": "Set",
+       "values": [
+        "mól"
+       ]
+      },
+      "so": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "sq": {
+       "__type": "Set",
+       "values": [
+        "dy të shtunat e suzanës",
+        "dytështunatesuzanës"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "мол"
+       ]
+      },
+      "ta": {
+       "__type": "Set",
+       "values": [
+        "மோல்"
+       ]
+      },
+      "th": {
+       "__type": "Set",
+       "values": [
+        "โมล"
+       ]
+      },
+      "tt": {
+       "__type": "Set",
+       "values": [
+        "моль"
+       ]
+      },
+      "uk": {
+       "__type": "Set",
+       "values": [
+        "моль"
+       ]
+      },
+      "yue": {
+       "__type": "Set",
+       "values": [
+        "摩爾"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "摩尔"
+       ]
+      },
+      "zh-hans": {
+       "__type": "Set",
+       "values": [
+        "摩尔"
+       ]
+      },
+      "br": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "ca": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "lt": {
+       "__type": "Set",
+       "values": [
+        "molis"
+       ]
+      },
+      "bs": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "gl": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "he": {
+       "__type": "Set",
+       "values": [
+        "מול"
+       ]
+      },
+      "hr": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "nds": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "sh": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "ja": {
+       "__type": "Set",
+       "values": [
+        "モル"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "مول"
+       ]
+      },
+      "ast": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "az": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "be": {
+       "__type": "Set",
+       "values": [
+        "моль"
+       ]
+      },
+      "be-tarask": {
+       "__type": "Set",
+       "values": [
+        "моль"
+       ]
+      },
+      "bo": {
+       "__type": "Set",
+       "values": [
+        "མོལ​།"
+       ]
+      },
+      "ckb": {
+       "__type": "Set",
+       "values": [
+        "ـۆڵ"
+       ]
+      },
+      "cv": {
+       "__type": "Set",
+       "values": [
+        "моль"
+       ]
+      },
+      "cy": {
+       "__type": "Set",
+       "values": [
+        "môl"
+       ]
+      },
+      "el": {
+       "__type": "Set",
+       "values": [
+        "γραμμομόριο"
+       ]
+      },
+      "fa": {
+       "__type": "Set",
+       "values": [
+        "مول"
+       ]
+      },
+      "ko": {
+       "__type": "Set",
+       "values": [
+        "몰"
+       ]
+      },
+      "mk": {
+       "__type": "Set",
+       "values": [
+        "мол"
+       ]
+      },
+      "ro": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "sl": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "tr": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "vi": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "war": {
+       "__type": "Set",
+       "values": [
+        "mol"
+       ]
+      },
+      "hy": {
+       "__type": "Set",
+       "values": [
+        "մոլ"
+       ]
+      },
+      "en": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "oc": {
+       "__type": "Set",
+       "values": [
+        "mòl"
+       ]
+      },
+      "lb": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      },
+      "lij": {
+       "__type": "Set",
+       "values": [
+        "mole"
+       ]
+      }
+     },
+     "dispLabel": "mole",
+     "isPrefixed": false,
+     "raw": null
+    }
+   ]
+  },
+  "dims": [
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/amount_of_substance-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "amount of substance",
+         "amountofsubstance"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "amount of substance-",
+         "amountofsubstance-"
+        ]
+       },
+       "nl": {
+        "__type": "Set",
+        "values": [
+         "stofhoeveelheiddimensie"
+        ]
+       }
+      },
+      "dispLabel": "amount of substance dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#AmountOfSubstance",
+      "ontology": "QUDT",
+      "dimVector": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ],
+      "labels": {
+       "": {
+        "__type": "Set",
+        "values": [
+         "amount of substance",
+         "amountofsubstance"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "amount of substance",
+         "amountofsubstance"
+        ]
+       }
+      },
+      "dispLabel": "Amount of Substance",
+      "raw": null
+     }
+    ]
+   },
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/time-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "time"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "time-"
+        ]
+       },
+       "nl": {
+        "__type": "Set",
+        "values": [
+         "dimensie van tijd",
+         "dimensievantijd"
+        ]
+       }
+      },
+      "dispLabel": "time dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#Time",
+      "ontology": "QUDT",
+      "dimVector": [
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "": {
+        "__type": "Set",
+        "values": [
+         "time"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "time"
+        ]
+       }
+      },
+      "dispLabel": "Time",
+      "raw": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": {
+   "__type": "SynSet",
+   "values": [
+    {
+     "__type": "SemUnit",
      "uri": "http://purl.oclc.org/NET/muo/ucum/unit/inductance/Henry",
      "ontology": "MUO",
      "labels": {
@@ -205,8 +2997,7 @@
       "en": {
        "__type": "Set",
        "values": [
-        "henry",
-        "q163354"
+        "henry"
        ]
       },
       "eo": {
@@ -569,9 +3360,7 @@
         "__type": "Set",
         "values": [
          "inductance or permeance electromagnetic",
-         "inductanceorpermeanceelectromagnetic",
-         "inductance or permeance-electromagnetic-",
-         "inductanceorpermeance-electromagnetic-"
+         "inductanceorpermeanceelectromagnetic"
         ]
        },
        "_uri": {
@@ -636,9 +3425,7 @@
       "en": {
        "__type": "Set",
        "values": [
-        "international",
-        "-unit international",
-        "-unitinternational"
+        "international"
        ]
       },
       "_uri": {
@@ -743,8 +3530,7 @@
       "en": {
        "__type": "Set",
        "values": [
-        "international",
-        "q835916"
+        "international"
        ]
       },
       "en-ca": {
@@ -1032,8 +3818,7 @@
        "en": {
         "__type": "Set",
         "values": [
-         "mass",
-         "mass-"
+         "mass"
         ]
        },
        "_uri": {
@@ -1105,9 +3890,7 @@
         "__type": "Set",
         "values": [
          "amount of substance",
-         "amountofsubstance",
-         "amount of substance-",
-         "amountofsubstance-"
+         "amountofsubstance"
         ]
        },
        "_uri": {
@@ -1157,6 +3940,1592 @@
        }
       },
       "dispLabel": "Amount of Substance",
+      "raw": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": {
+   "__type": "SynSet",
+   "values": [
+    {
+     "__type": "SemUnit",
+     "uri": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared",
+     "ontology": "OBOE",
+     "labels": {
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "meter squared",
+        "metersquared"
+       ]
+      }
+     },
+     "dispLabel": "meter squared",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/square_metre",
+     "ontology": "OM",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "meter squared",
+        "metersquared"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "meter squared",
+        "metersquared"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "vierkante meter",
+        "vierkantemeter"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "平方米"
+       ]
+      }
+     },
+     "dispLabel": "square metre",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+     "ontology": "QU",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "meter squared",
+        "metersquared"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "meter squared",
+        "metersquared"
+       ]
+      }
+     },
+     "dispLabel": "square metre",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://qudt.org/vocab/unit#SquareMeter",
+     "ontology": "QUDT",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "meter squared",
+        "metersquared"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "meter squared",
+        "metersquared"
+       ]
+      }
+     },
+     "dispLabel": "Square Meter",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterSquared",
+     "ontology": "SWEET",
+     "labels": {
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "meter squared",
+        "metersquared"
+       ]
+      }
+     },
+     "dispLabel": "meter squared",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.obolibrary.org/obo/UO_0000080",
+     "ontology": "UO",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "meter squared",
+        "metersquared"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "uo 0000080",
+        "uo0000080"
+       ]
+      }
+     },
+     "dispLabel": "square meter",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q25343",
+     "ontology": "WD",
+     "labels": {
+      "bg": {
+       "__type": "Set",
+       "values": [
+        "квадратен метър",
+        "квадратенметър"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "q25343"
+       ]
+      },
+      "et": {
+       "__type": "Set",
+       "values": [
+        "ruutmeeter"
+       ]
+      },
+      "fi": {
+       "__type": "Set",
+       "values": [
+        "neliömetri"
+       ]
+      },
+      "nb": {
+       "__type": "Set",
+       "values": [
+        "kvadratmeter"
+       ]
+      },
+      "nn": {
+       "__type": "Set",
+       "values": [
+        "kvadratmeter"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "kvadratmeter"
+       ]
+      },
+      "eu": {
+       "__type": "Set",
+       "values": [
+        "metro koadro",
+        "metrokoadro"
+       ]
+      },
+      "da": {
+       "__type": "Set",
+       "values": [
+        "kvadratmeter"
+       ]
+      },
+      "cy": {
+       "__type": "Set",
+       "values": [
+        "metr sgwâr",
+        "metrsgwâr"
+       ]
+      },
+      "zh-tw": {
+       "__type": "Set",
+       "values": [
+        "平方公尺"
+       ]
+      },
+      "zh-cn": {
+       "__type": "Set",
+       "values": [
+        "平方米"
+       ]
+      },
+      "zh-hans": {
+       "__type": "Set",
+       "values": [
+        "平方米"
+       ]
+      },
+      "zh-hant": {
+       "__type": "Set",
+       "values": [
+        "平方米"
+       ]
+      },
+      "zh-hk": {
+       "__type": "Set",
+       "values": [
+        "平方米"
+       ]
+      },
+      "zh-mo": {
+       "__type": "Set",
+       "values": [
+        "平方米"
+       ]
+      },
+      "zh-my": {
+       "__type": "Set",
+       "values": [
+        "平方米"
+       ]
+      },
+      "zh-sg": {
+       "__type": "Set",
+       "values": [
+        "平方米"
+       ]
+      },
+      "ca": {
+       "__type": "Set",
+       "values": [
+        "meter quadrat",
+        "meterquadrat"
+       ]
+      },
+      "de": {
+       "__type": "Set",
+       "values": [
+        "quadratmeter"
+       ]
+      },
+      "el": {
+       "__type": "Set",
+       "values": [
+        "τετραγωνικό μέτρο",
+        "τετραγωνικόμέτρο"
+       ]
+      },
+      "en": {
+       "__type": "Set",
+       "values": [
+        "meter squared",
+        "metersquared"
+       ]
+      },
+      "eo": {
+       "__type": "Set",
+       "values": [
+        "kvadrata metro",
+        "kvadratametro"
+       ]
+      },
+      "es": {
+       "__type": "Set",
+       "values": [
+        "metro cuadrado",
+        "metrocuadrado"
+       ]
+      },
+      "ext": {
+       "__type": "Set",
+       "values": [
+        "metru quairau",
+        "metruquairau"
+       ]
+      },
+      "fa": {
+       "__type": "Set",
+       "values": [
+        "متر مربع",
+        "مترمربع"
+       ]
+      },
+      "fr": {
+       "__type": "Set",
+       "values": [
+        "mètre carré",
+        "mètrecarré"
+       ]
+      },
+      "frr": {
+       "__type": "Set",
+       "values": [
+        "kwadraatmeeter"
+       ]
+      },
+      "gl": {
+       "__type": "Set",
+       "values": [
+        "metro cadrado",
+        "metrocadrado"
+       ]
+      },
+      "gsw": {
+       "__type": "Set",
+       "values": [
+        "quadratmeter"
+       ]
+      },
+      "hak": {
+       "__type": "Set",
+       "values": [
+        "phiàng-fông kûng-tshak",
+        "phiàng-fôngkûng-tshak"
+       ]
+      },
+      "he": {
+       "__type": "Set",
+       "values": [
+        "מטר רבוע",
+        "מטררבוע"
+       ]
+      },
+      "hr": {
+       "__type": "Set",
+       "values": [
+        "četvorni metar",
+        "četvornimetar"
+       ]
+      },
+      "hu": {
+       "__type": "Set",
+       "values": [
+        "négyzetméter"
+       ]
+      },
+      "ia": {
+       "__type": "Set",
+       "values": [
+        "metro quadrate",
+        "metroquadrate"
+       ]
+      },
+      "id": {
+       "__type": "Set",
+       "values": [
+        "meter persegi",
+        "meterpersegi"
+       ]
+      },
+      "is": {
+       "__type": "Set",
+       "values": [
+        "fermetri"
+       ]
+      },
+      "it": {
+       "__type": "Set",
+       "values": [
+        "metro quadrato",
+        "metroquadrato"
+       ]
+      },
+      "ja": {
+       "__type": "Set",
+       "values": [
+        "平方メートル"
+       ]
+      },
+      "ka": {
+       "__type": "Set",
+       "values": [
+        "კვადრატული მეტრი",
+        "კვადრატულიმეტრი"
+       ]
+      },
+      "kk": {
+       "__type": "Set",
+       "values": [
+        "шаршы метр",
+        "шаршыметр"
+       ]
+      },
+      "km": {
+       "__type": "Set",
+       "values": [
+        "ម៉ែត្រការ៉េ"
+       ]
+      },
+      "ko": {
+       "__type": "Set",
+       "values": [
+        "제곱미터"
+       ]
+      },
+      "ksh": {
+       "__type": "Set",
+       "values": [
+        "kwadraatmeter"
+       ]
+      },
+      "ku": {
+       "__type": "Set",
+       "values": [
+        "meter çargoşe",
+        "meterçargoşe"
+       ]
+      },
+      "la": {
+       "__type": "Set",
+       "values": [
+        "metrum quadratum",
+        "metrumquadratum"
+       ]
+      },
+      "lb": {
+       "__type": "Set",
+       "values": [
+        "quadratmeter"
+       ]
+      },
+      "li": {
+       "__type": "Set",
+       "values": [
+        "veerkante maeter",
+        "veerkantemaeter"
+       ]
+      },
+      "lt": {
+       "__type": "Set",
+       "values": [
+        "kvadratinis metras",
+        "kvadratinismetras"
+       ]
+      },
+      "lv": {
+       "__type": "Set",
+       "values": [
+        "kvadrātmetrs"
+       ]
+      },
+      "mk": {
+       "__type": "Set",
+       "values": [
+        "квадратен метар",
+        "квадратенметар"
+       ]
+      },
+      "ml": {
+       "__type": "Set",
+       "values": [
+        "ചതുരശ്ര മീറ്റർ",
+        "ചതുരശ്രമീറ്റർ"
+       ]
+      },
+      "mr": {
+       "__type": "Set",
+       "values": [
+        "वर्ग मीटर",
+        "वर्गमीटर"
+       ]
+      },
+      "ms": {
+       "__type": "Set",
+       "values": [
+        "meter persegi",
+        "meterpersegi"
+       ]
+      },
+      "mt": {
+       "__type": "Set",
+       "values": [
+        "metru kwadru",
+        "metrukwadru"
+       ]
+      },
+      "nan": {
+       "__type": "Set",
+       "values": [
+        "pêng-hong-kong-chhioh"
+       ]
+      },
+      "nds": {
+       "__type": "Set",
+       "values": [
+        "quadratmeter"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "vierkante meter",
+        "vierkantemeter"
+       ]
+      },
+      "oc": {
+       "__type": "Set",
+       "values": [
+        "mètre carrat",
+        "mètrecarrat"
+       ]
+      },
+      "pl": {
+       "__type": "Set",
+       "values": [
+        "metr kwadratowy",
+        "metrkwadratowy"
+       ]
+      },
+      "pt": {
+       "__type": "Set",
+       "values": [
+        "metro quadrado",
+        "metroquadrado"
+       ]
+      },
+      "pt-br": {
+       "__type": "Set",
+       "values": [
+        "metro s quadrado s",
+        "metrosquadrados"
+       ]
+      },
+      "ro": {
+       "__type": "Set",
+       "values": [
+        "metru pătrat",
+        "metrupătrat"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "квадратный метр",
+        "квадратныйметр"
+       ]
+      },
+      "scn": {
+       "__type": "Set",
+       "values": [
+        "metru quatratu",
+        "metruquatratu"
+       ]
+      },
+      "sh": {
+       "__type": "Set",
+       "values": [
+        "kvadratni metar",
+        "kvadratnimetar"
+       ]
+      },
+      "sk": {
+       "__type": "Set",
+       "values": [
+        "štvorcový meter",
+        "štvorcovýmeter"
+       ]
+      },
+      "sl": {
+       "__type": "Set",
+       "values": [
+        "kvadratni meter",
+        "kvadratnimeter"
+       ]
+      },
+      "so": {
+       "__type": "Set",
+       "values": [
+        "mitir labajibbaaran",
+        "mitirlabajibbaaran"
+       ]
+      },
+      "sq": {
+       "__type": "Set",
+       "values": [
+        "metri katror",
+        "metrikatror"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "квадратни метар",
+        "квадратниметар"
+       ]
+      },
+      "su": {
+       "__type": "Set",
+       "values": [
+        "méter pasagi",
+        "méterpasagi"
+       ]
+      },
+      "sw": {
+       "__type": "Set",
+       "values": [
+        "mita ya mraba",
+        "mitayamraba"
+       ]
+      },
+      "ta": {
+       "__type": "Set",
+       "values": [
+        "சதுர மீட்டர்",
+        "சதுரமீட்டர்"
+       ]
+      },
+      "th": {
+       "__type": "Set",
+       "values": [
+        "ตารางเมตร"
+       ]
+      },
+      "tr": {
+       "__type": "Set",
+       "values": [
+        "metrekare"
+       ]
+      },
+      "uk": {
+       "__type": "Set",
+       "values": [
+        "квадратний метр",
+        "квадратнийметр"
+       ]
+      },
+      "ur": {
+       "__type": "Set",
+       "values": [
+        "مربع میٹر",
+        "مربعمیٹر"
+       ]
+      },
+      "uz": {
+       "__type": "Set",
+       "values": [
+        "kvadrat metr",
+        "kvadratmetr"
+       ]
+      },
+      "vi": {
+       "__type": "Set",
+       "values": [
+        "mét vuông",
+        "métvuông"
+       ]
+      },
+      "yo": {
+       "__type": "Set",
+       "values": [
+        "ìlọ́poméjì mítà",
+        "ìlọ́poméjìmítà"
+       ]
+      },
+      "yue": {
+       "__type": "Set",
+       "values": [
+        "平方米"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "平方米"
+       ]
+      },
+      "hi": {
+       "__type": "Set",
+       "values": [
+        "घन मीटर",
+        "घनमीटर"
+       ]
+      },
+      "af": {
+       "__type": "Set",
+       "values": [
+        "vierkante meter",
+        "vierkantemeter"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "متر مربع",
+        "مترمربع"
+       ]
+      },
+      "ast": {
+       "__type": "Set",
+       "values": [
+        "metru cuadráu",
+        "metrucuadráu"
+       ]
+      },
+      "az": {
+       "__type": "Set",
+       "values": [
+        "kvadrat metr",
+        "kvadratmetr"
+       ]
+      },
+      "bar": {
+       "__type": "Set",
+       "values": [
+        "quadratmeta"
+       ]
+      },
+      "be": {
+       "__type": "Set",
+       "values": [
+        "квадратны метр",
+        "квадратныметр"
+       ]
+      },
+      "be-tarask": {
+       "__type": "Set",
+       "values": [
+        "квадратны мэтар",
+        "квадратнымэтар"
+       ]
+      },
+      "bn": {
+       "__type": "Set",
+       "values": [
+        "বর্গমিটার"
+       ]
+      },
+      "br": {
+       "__type": "Set",
+       "values": [
+        "metr karrez",
+        "metrkarrez"
+       ]
+      },
+      "bs": {
+       "__type": "Set",
+       "values": [
+        "kvadratni metar",
+        "kvadratnimetar"
+       ]
+      },
+      "ckb": {
+       "__type": "Set",
+       "values": [
+        "مەتری چوارگۆشە",
+        "مەتریچوارگۆشە"
+       ]
+      },
+      "cs": {
+       "__type": "Set",
+       "values": [
+        "metr čtvereční",
+        "metrčtvereční"
+       ]
+      }
+     },
+     "dispLabel": "square metre",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterCubed",
+     "ontology": "OBOE",
+     "labels": {
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "meter cubed",
+        "metercubed"
+       ]
+      }
+     },
+     "dispLabel": "meter cubed",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "ontology": "OM",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "meter cubed",
+        "metercubed"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "meter cubed",
+        "metercubed"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "kubieke meter",
+        "kubiekemeter"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "立方米"
+       ]
+      }
+     },
+     "dispLabel": "cubic metre",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "ontology": "QU",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "meter cubed",
+        "metercubed"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "meter cubed",
+        "metercubed"
+       ]
+      }
+     },
+     "dispLabel": "cubic metre",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://qudt.org/vocab/unit#CubicMeter",
+     "ontology": "QUDT",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "meter cubed",
+        "metercubed"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "meter cubed",
+        "metercubed"
+       ]
+      }
+     },
+     "dispLabel": "Cubic Meter",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterCubed",
+     "ontology": "SWEET",
+     "labels": {
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "meter cubed",
+        "metercubed"
+       ]
+      }
+     },
+     "dispLabel": "meter cubed",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.obolibrary.org/obo/UO_0000096",
+     "ontology": "UO",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "meter cubed",
+        "metercubed"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "uo 0000096",
+        "uo0000096"
+       ]
+      }
+     },
+     "dispLabel": "cubic meter",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q25517",
+     "ontology": "WD",
+     "labels": {
+      "ro": {
+       "__type": "Set",
+       "values": [
+        "metru cub",
+        "metrucub"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "q25517"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "кубический метр",
+        "кубическийметр"
+       ]
+      },
+      "scn": {
+       "__type": "Set",
+       "values": [
+        "metru cubbu",
+        "metrucubbu"
+       ]
+      },
+      "sh": {
+       "__type": "Set",
+       "values": [
+        "metar kubni",
+        "metarkubni"
+       ]
+      },
+      "sk": {
+       "__type": "Set",
+       "values": [
+        "kubický meter",
+        "kubickýmeter"
+       ]
+      },
+      "sl": {
+       "__type": "Set",
+       "values": [
+        "kubični meter",
+        "kubičnimeter"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "кубни метар",
+        "кубниметар"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "kubikmeter"
+       ]
+      },
+      "xmf": {
+       "__type": "Set",
+       "values": [
+        "კუბური მეტრა",
+        "კუბურიმეტრა"
+       ]
+      },
+      "bg": {
+       "__type": "Set",
+       "values": [
+        "кубичен метър",
+        "кубиченметър"
+       ]
+      },
+      "af": {
+       "__type": "Set",
+       "values": [
+        "kubieke meter",
+        "kubiekemeter"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "متر مكعب",
+        "مترمكعب"
+       ]
+      },
+      "ast": {
+       "__type": "Set",
+       "values": [
+        "metru cúbicu",
+        "metrucúbicu"
+       ]
+      },
+      "az": {
+       "__type": "Set",
+       "values": [
+        "kub metr",
+        "kubmetr"
+       ]
+      },
+      "azb": {
+       "__type": "Set",
+       "values": [
+        "کؤب متیر",
+        "کؤبمتیر"
+       ]
+      },
+      "bar": {
+       "__type": "Set",
+       "values": [
+        "kubikmeta"
+       ]
+      },
+      "be": {
+       "__type": "Set",
+       "values": [
+        "кубічны метр",
+        "кубічныметр"
+       ]
+      },
+      "be-tarask": {
+       "__type": "Set",
+       "values": [
+        "кубічны мэтар",
+        "кубічнымэтар"
+       ]
+      },
+      "br": {
+       "__type": "Set",
+       "values": [
+        "metr kub",
+        "metrkub"
+       ]
+      },
+      "bs": {
+       "__type": "Set",
+       "values": [
+        "kubni metar",
+        "kubnimetar"
+       ]
+      },
+      "ca": {
+       "__type": "Set",
+       "values": [
+        "meter cúbic",
+        "metercúbic"
+       ]
+      },
+      "cs": {
+       "__type": "Set",
+       "values": [
+        "metr krychlový",
+        "metrkrychlový"
+       ]
+      },
+      "da": {
+       "__type": "Set",
+       "values": [
+        "kubikmeter"
+       ]
+      },
+      "de": {
+       "__type": "Set",
+       "values": [
+        "kubikmeter"
+       ]
+      },
+      "el": {
+       "__type": "Set",
+       "values": [
+        "κυβικό μέτρο",
+        "κυβικόμέτρο"
+       ]
+      },
+      "en": {
+       "__type": "Set",
+       "values": [
+        "meter cubed",
+        "metercubed"
+       ]
+      },
+      "eo": {
+       "__type": "Set",
+       "values": [
+        "kubmetro"
+       ]
+      },
+      "es": {
+       "__type": "Set",
+       "values": [
+        "metro cúbico",
+        "metrocúbico"
+       ]
+      },
+      "et": {
+       "__type": "Set",
+       "values": [
+        "kuupmeeter"
+       ]
+      },
+      "eu": {
+       "__type": "Set",
+       "values": [
+        "metro kubiko",
+        "metrokubiko"
+       ]
+      },
+      "fa": {
+       "__type": "Set",
+       "values": [
+        "متر مکعب",
+        "مترمکعب"
+       ]
+      },
+      "fr": {
+       "__type": "Set",
+       "values": [
+        "mètre cube",
+        "mètrecube"
+       ]
+      },
+      "frr": {
+       "__type": "Set",
+       "values": [
+        "kubikmeeter"
+       ]
+      },
+      "gl": {
+       "__type": "Set",
+       "values": [
+        "metro cúbico",
+        "metrocúbico"
+       ]
+      },
+      "hak": {
+       "__type": "Set",
+       "values": [
+        "li̍p-fông kûng-tshak",
+        "li̍p-fôngkûng-tshak"
+       ]
+      },
+      "he": {
+       "__type": "Set",
+       "values": [
+        "מטר מעוקב",
+        "מטרמעוקב"
+       ]
+      },
+      "hi": {
+       "__type": "Set",
+       "values": [
+        "घन मीटर",
+        "घनमीटर"
+       ]
+      },
+      "hr": {
+       "__type": "Set",
+       "values": [
+        "kubični metar",
+        "kubičnimetar"
+       ]
+      },
+      "hy": {
+       "__type": "Set",
+       "values": [
+        "խորանարդ մետր",
+        "խորանարդմետր"
+       ]
+      },
+      "io": {
+       "__type": "Set",
+       "values": [
+        "metrokubo"
+       ]
+      },
+      "is": {
+       "__type": "Set",
+       "values": [
+        "rúmmetri"
+       ]
+      },
+      "it": {
+       "__type": "Set",
+       "values": [
+        "metro cubo",
+        "metrocubo"
+       ]
+      },
+      "ja": {
+       "__type": "Set",
+       "values": [
+        "立方メートル"
+       ]
+      },
+      "ka": {
+       "__type": "Set",
+       "values": [
+        "კუბური მეტრი",
+        "კუბურიმეტრი"
+       ]
+      },
+      "ko": {
+       "__type": "Set",
+       "values": [
+        "세제곱미터"
+       ]
+      },
+      "ku": {
+       "__type": "Set",
+       "values": [
+        "mitirê kabik",
+        "mitirêkabik"
+       ]
+      },
+      "la": {
+       "__type": "Set",
+       "values": [
+        "metrum cubicum",
+        "metrumcubicum"
+       ]
+      },
+      "lb": {
+       "__type": "Set",
+       "values": [
+        "kubikmeter"
+       ]
+      },
+      "lv": {
+       "__type": "Set",
+       "values": [
+        "kubikmetrs"
+       ]
+      },
+      "mr": {
+       "__type": "Set",
+       "values": [
+        "घन मीटर",
+        "घनमीटर"
+       ]
+      },
+      "nb": {
+       "__type": "Set",
+       "values": [
+        "kubikkmeter"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "kubieke meter",
+        "kubiekemeter"
+       ]
+      },
+      "nn": {
+       "__type": "Set",
+       "values": [
+        "kubikkmeter"
+       ]
+      },
+      "pl": {
+       "__type": "Set",
+       "values": [
+        "metr sześcienny",
+        "metrsześcienny"
+       ]
+      },
+      "pt": {
+       "__type": "Set",
+       "values": [
+        "metro cúbico",
+        "metrocúbico"
+       ]
+      },
+      "sw": {
+       "__type": "Set",
+       "values": [
+        "mita ya ujazo",
+        "mitayaujazo"
+       ]
+      },
+      "th": {
+       "__type": "Set",
+       "values": [
+        "ลูกบาศก์เมตร"
+       ]
+      },
+      "tr": {
+       "__type": "Set",
+       "values": [
+        "metreküp"
+       ]
+      },
+      "uk": {
+       "__type": "Set",
+       "values": [
+        "кубічний метр",
+        "кубічнийметр"
+       ]
+      },
+      "uz": {
+       "__type": "Set",
+       "values": [
+        "kubik metr",
+        "kubikmetr"
+       ]
+      },
+      "vi": {
+       "__type": "Set",
+       "values": [
+        "mét khối",
+        "métkhối"
+       ]
+      },
+      "yue": {
+       "__type": "Set",
+       "values": [
+        "立方米"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "立方米"
+       ]
+      },
+      "zh-cn": {
+       "__type": "Set",
+       "values": [
+        "立方米"
+       ]
+      },
+      "zh-hans": {
+       "__type": "Set",
+       "values": [
+        "立方米"
+       ]
+      },
+      "zh-hant": {
+       "__type": "Set",
+       "values": [
+        "立方公尺"
+       ]
+      },
+      "zh-hk": {
+       "__type": "Set",
+       "values": [
+        "立方米"
+       ]
+      },
+      "zh-tw": {
+       "__type": "Set",
+       "values": [
+        "立方公尺"
+       ]
+      },
+      "mt": {
+       "__type": "Set",
+       "values": [
+        "metru kubu",
+        "metrukubu"
+       ]
+      },
+      "hu": {
+       "__type": "Set",
+       "values": [
+        "köbméter"
+       ]
+      },
+      "id": {
+       "__type": "Set",
+       "values": [
+        "meter kubik",
+        "meterkubik"
+       ]
+      },
+      "fi": {
+       "__type": "Set",
+       "values": [
+        "kuutiometri"
+       ]
+      },
+      "mk": {
+       "__type": "Set",
+       "values": [
+        "кубен метар",
+        "кубенметар"
+       ]
+      }
+     },
+     "dispLabel": "cubic metre",
+     "isPrefixed": false,
+     "raw": null
+    }
+   ]
+  },
+  "dims": [
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/area-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       2,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "area"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "area-"
+        ]
+       },
+       "nl": {
+        "__type": "Set",
+        "values": [
+         "oppervlaktedimensie"
+        ]
+       }
+      },
+      "dispLabel": "area dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#Area",
+      "ontology": "QUDT",
+      "dimVector": [
+       2,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "": {
+        "__type": "Set",
+        "values": [
+         "area"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "area"
+        ]
+       }
+      },
+      "dispLabel": "Area",
+      "raw": null
+     }
+    ]
+   },
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/volume-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       3,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "volume"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "volume-"
+        ]
+       },
+       "nl": {
+        "__type": "Set",
+        "values": [
+         "volumedimensie"
+        ]
+       }
+      },
+      "dispLabel": "volume dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#Volume",
+      "ontology": "QUDT",
+      "dimVector": [
+       3,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "": {
+        "__type": "Set",
+        "values": [
+         "volume"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "volume"
+        ]
+       }
+      },
+      "dispLabel": "Volume",
       "raw": null
      }
     ]
@@ -1346,8 +5715,7 @@
        "__type": "Set",
        "values": [
         "newton meter",
-        "newtonmeter",
-        "q215571"
+        "newtonmeter"
        ]
       },
       "es": {
@@ -1560,8 +5928,7 @@
        "en": {
         "__type": "Set",
         "values": [
-         "energy",
-         "energy-"
+         "energy"
         ]
        },
        "_uri": {
@@ -1743,8 +6110,7 @@
       "en": {
        "__type": "Set",
        "values": [
-        "microhenry",
-        "q2679083"
+        "microhenry"
        ]
       },
       "fr": {
@@ -1801,9 +6167,7 @@
         "__type": "Set",
         "values": [
          "inductance or permeance electromagnetic",
-         "inductanceorpermeanceelectromagnetic",
-         "inductance or permeance-electromagnetic-",
-         "inductanceorpermeance-electromagnetic-"
+         "inductanceorpermeanceelectromagnetic"
         ]
        },
        "_uri": {
@@ -1954,8 +6318,7 @@
       "en": {
        "__type": "Set",
        "values": [
-        "millihenry",
-        "q2924137"
+        "millihenry"
        ]
       },
       "fr": {
@@ -2012,9 +6375,7 @@
         "__type": "Set",
         "values": [
          "inductance or permeance electromagnetic",
-         "inductanceorpermeanceelectromagnetic",
-         "inductance or permeance-electromagnetic-",
-         "inductanceorpermeance-electromagnetic-"
+         "inductanceorpermeanceelectromagnetic"
         ]
        },
        "_uri": {
@@ -2141,8 +6502,7 @@
       "en": {
        "__type": "Set",
        "values": [
-        "abhenry",
-        "q4667368"
+        "abhenry"
        ]
       },
       "nl": {
@@ -2198,9 +6558,7 @@
         "__type": "Set",
         "values": [
          "inductance or permeance electromagnetic",
-         "inductanceorpermeanceelectromagnetic",
-         "inductance or permeance-electromagnetic-",
-         "inductanceorpermeance-electromagnetic-"
+         "inductanceorpermeanceelectromagnetic"
         ]
        },
        "_uri": {
@@ -2380,9 +6738,7 @@
         "__type": "Set",
         "values": [
          "specific entropy or specific heat capacity",
-         "specificentropyorspecificheatcapacity",
-         "specific entropy or specific heat capacity-",
-         "specificentropyorspecificheatcapacity-"
+         "specificentropyorspecificheatcapacity"
         ]
        },
        "_uri": {
@@ -2450,9 +6806,7 @@
        "__type": "Set",
        "values": [
         "joule second",
-        "joulesecond",
-        "joule second- time",
-        "joulesecond-time"
+        "joulesecond"
        ]
       },
       "_uri": {
@@ -2563,9 +6917,7 @@
         "__type": "Set",
         "values": [
          "action or angular momentum",
-         "actionorangularmomentum",
-         "action or angular momentum-",
-         "actionorangularmomentum-"
+         "actionorangularmomentum"
         ]
        },
        "_uri": {
@@ -2633,9 +6985,7 @@
        "__type": "Set",
        "values": [
         "erg second",
-        "ergsecond",
-        "erg second- time",
-        "ergsecond-time"
+        "ergsecond"
        ]
       },
       "_uri": {
@@ -2705,9 +7055,7 @@
         "__type": "Set",
         "values": [
          "action or angular momentum",
-         "actionorangularmomentum",
-         "action or angular momentum-",
-         "actionorangularmomentum-"
+         "actionorangularmomentum"
         ]
        },
        "_uri": {
@@ -2868,9 +7216,7 @@
         "__type": "Set",
         "values": [
          "inductance or permeance electromagnetic",
-         "inductanceorpermeanceelectromagnetic",
-         "inductance or permeance-electromagnetic-",
-         "inductanceorpermeance-electromagnetic-"
+         "inductanceorpermeanceelectromagnetic"
         ]
        },
        "_uri": {

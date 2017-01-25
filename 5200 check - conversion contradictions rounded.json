@@ -202,27 +202,366 @@
  ],
  [
   {
-   "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pound",
-   "convOffset": 0,
-   "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilogram",
-   "convFactor": "0.4536",
+   "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Centigram",
+   "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Tonne",
+   "convFactor": "1e-8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Centigram",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilogram",
+     "convFactor": "0.00001",
+     "onto": "OBOE"
+    },
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Tonne",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilogram",
+     "convFactor": 1000,
+     "onto": "OBOE"
+    }
+   ],
    "onto": "OBOE",
    "reverse": true
   },
   {
-   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pound",
-   "convOffset": "0.0",
-   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
-   "convFactor": "0.45359237",
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/centigram",
+   "convFactor": "1e+8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/centigram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convFactor": 0.01,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centigram",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#tonneMetricTon",
+   "convFactor": "1e-8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centigram",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1e-5",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonneMetricTon",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1e3",
+     "onto": "QU"
+    }
+   ],
    "onto": "QU",
    "reverse": true
   },
   {
-   "unit1": "http://www.wikidata.org/entity/Q100995",
-   "convFactor": "0.45359237",
-   "unit2": "http://www.wikidata.org/entity/Q11570",
+   "unit1": "http://www.wikidata.org/entity/Q2691798",
+   "unit2": "http://www.wikidata.org/entity/Q667419",
+   "convFactor": "9.84251968503937007874015748031496062992125984251968503937007874e-9",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q2691798",
+     "convFactor": "0.00001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q667419",
+     "convFactor": "1016",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
    "onto": "WD",
    "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q2691798",
+   "unit2": "http://www.wikidata.org/entity/Q191118",
+   "convFactor": "1e-8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q2691798",
+     "convFactor": "0.00001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q191118",
+     "convFactor": "1000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Tonne",
+   "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Decigram",
+   "convFactor": "1e+7",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Tonne",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilogram",
+     "convFactor": 1000,
+     "onto": "OBOE"
+    },
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Decigram",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilogram",
+     "convFactor": "0.0001",
+     "onto": "OBOE"
+    }
+   ],
+   "onto": "OBOE",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decigram",
+   "convFactor": "1e+7",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decigram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convFactor": 0.1,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decigram",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#tonneMetricTon",
+   "convFactor": "1e-7",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decigram",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1e-4",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#tonneMetricTon",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1e3",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q1772386",
+   "unit2": "http://www.wikidata.org/entity/Q667419",
+   "convFactor": "9.84251968503937007874015748031496062992125984251968503937007874e-8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q1772386",
+     "convFactor": "0.0001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q667419",
+     "convFactor": "1016",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q1772386",
+   "unit2": "http://www.wikidata.org/entity/Q191118",
+   "convFactor": "1e-7",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q1772386",
+     "convFactor": "0.0001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q191118",
+     "convFactor": "1000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pound",
+   "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Milligram",
+   "convFactor": "4.536e-7",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pound",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilogram",
+     "convFactor": "0.4536",
+     "onto": "OBOE"
+    },
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Milligram",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilogram",
+     "convFactor": 1000000,
+     "onto": "OBOE"
+    }
+   ],
+   "onto": "OBOE",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligram",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pound",
+   "convFactor": "2.204622621848775807229738013450270338542070273360197835779292319e-6",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#milligram",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1e-6",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pound",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "0.45359237",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q100995",
+   "unit2": "http://www.wikidata.org/entity/Q3241121",
+   "convFactor": "4.5359237e+5",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q100995",
+     "convFactor": "0.45359237",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q3241121",
+     "convFactor": "0.000001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q3241121",
+   "unit2": "http://www.wikidata.org/entity/Q10317923",
+   "convFactor": "3.095975232198142414860681114551083591331269349845201238390092879e-6",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q3241121",
+     "convFactor": "0.000001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q41803",
+     "convFactor": "0.001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q10317923",
+     "convFactor": "323",
+     "unit2": "http://www.wikidata.org/entity/Q41803",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
   }
  ],
  [
@@ -350,6 +689,66 @@
    "unit2": "http://www.wikidata.org/entity/Q11570",
    "onto": "WD",
    "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/megatonne",
+   "convFactor": "1e-9",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/megatonne",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+     "convFactor": 1000000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilotonne",
+   "convFactor": "1e-6",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilotonne",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+     "convFactor": 1000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilotonne",
+   "convOffset": "0.0",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+   "convFactor": "1e6",
+   "onto": "QU",
+   "reverse": true
   }
  ],
  [
@@ -595,6 +994,97 @@
     }
    ],
    "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/grain",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/megatonne",
+   "convFactor": "6.479891e-14",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/grain",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "6.479891e-5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/megatonne",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+     "convFactor": 1000000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/grain",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilotonne",
+   "convFactor": "6.479891e-11",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/grain",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "6.479891e-5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilotonne",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
+     "convFactor": 1000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#grain",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilotonne",
+   "convFactor": "6.479891e-11",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#grain",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "64.79891e-6",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilotonne",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1e6",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
    "reverse": false
   }
  ],
@@ -1037,6 +1527,23 @@
  ],
  [
   {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/ton-register",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+   "convFactor": "2.831658",
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q752079",
+   "convFactor": "2.83",
+   "unit2": "http://www.wikidata.org/entity/Q25517",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
    "convOffset": 0,
    "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
@@ -1110,6 +1617,56 @@
    "convFactor": "5.68261e-4",
    "onto": "QU",
    "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/ton-register",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cord",
+   "convFactor": "0.78124272324665421088817499301983470527148704558572139594477227",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/ton-register",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "2.831658",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/cord",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "3.624556",
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q752079",
+   "unit2": "http://www.wikidata.org/entity/Q920297",
+   "convFactor": "0.78125",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q752079",
+     "convFactor": "100",
+     "unit2": "http://www.wikidata.org/entity/Q1545979",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q920297",
+     "convFactor": "128",
+     "unit2": "http://www.wikidata.org/entity/Q1545979",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
   }
  ],
  [
@@ -2550,8 +3107,8 @@
  [
   {
    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
-   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
-   "convFactor": "0.9999972366148504317865654857328309870383813945948544707940736584",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/barye",
+   "convFactor": "1333.22",
    "convOffset": "0",
    "computed": true,
    "involved": [
@@ -2569,46 +3126,48 @@
      "convFactor": "1.33322e5",
      "onto": "OM"
     },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/barye",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.0e-1",
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/barye",
+   "convFactor": "1333.22368421053",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
     {
      "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
      "convOffset": 0,
      "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
      "convFactor": "1.33322368421053e2",
      "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/barye",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.0e-1",
+     "onto": "OM"
     }
    ],
    "onto": "OM",
-   "reverse": true
-  },
-  {
-   "unit1": "http://www.wikidata.org/entity/Q6859652",
-   "unit2": "http://www.wikidata.org/entity/Q185648",
-   "convFactor": "1",
-   "convOffset": "0",
-   "computed": true,
-   "involved": [
-    {
-     "unit1": "http://www.wikidata.org/entity/Q6859652",
-     "convFactor": "133.322387415",
-     "unit2": "http://www.wikidata.org/entity/Q44395",
-     "onto": "WD"
-    },
-    {
-     "unit1": "http://www.wikidata.org/entity/Q185648",
-     "convFactor": "133.322387415",
-     "unit2": "http://www.wikidata.org/entity/Q44395",
-     "onto": "WD"
-    }
-   ],
-   "onto": "WD",
    "reverse": true
   }
  ],
  [
   {
    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
-   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/megapascal",
-   "convFactor": "1.33322e-4",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decibar",
+   "convFactor": "0.0133322",
    "convOffset": "0",
    "computed": true,
    "involved": [
@@ -2627,10 +3186,17 @@
      "onto": "OM"
     },
     {
-     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/megapascal",
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/bar",
      "convOffset": 0,
      "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
-     "convFactor": 1000000,
+     "convFactor": "1.0e5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decibar",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/bar",
+     "convFactor": 0.1,
      "onto": "OM"
     }
    ],
@@ -2638,34 +3204,43 @@
    "reverse": true
   },
   {
-   "unit1": "http://www.wikidata.org/entity/Q6859652",
-   "unit2": "http://www.wikidata.org/entity/Q21062777",
-   "convFactor": "1.33322387415e-4",
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decibar",
+   "convFactor": "0.0133322368421053",
    "convOffset": "0",
    "computed": true,
    "involved": [
     {
-     "unit1": "http://www.wikidata.org/entity/Q6859652",
-     "convFactor": "133.322387415",
-     "unit2": "http://www.wikidata.org/entity/Q44395",
-     "onto": "WD"
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322368421053e2",
+     "onto": "OM"
     },
     {
-     "unit1": "http://www.wikidata.org/entity/Q21062777",
-     "convFactor": "1000000",
-     "unit2": "http://www.wikidata.org/entity/Q44395",
-     "onto": "WD"
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/bar",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.0e5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decibar",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/bar",
+     "convFactor": 0.1,
+     "onto": "OM"
     }
    ],
-   "onto": "WD",
+   "onto": "OM",
    "reverse": true
   }
  ],
  [
   {
    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
-   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilopascal",
-   "convFactor": "0.133322",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/microbar",
+   "convFactor": "1333.22",
    "convOffset": "0",
    "computed": true,
    "involved": [
@@ -2684,98 +3259,23 @@
      "onto": "OM"
     },
     {
-     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilopascal",
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/bar",
      "convOffset": 0,
      "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
-     "convFactor": 1000,
+     "convFactor": "1.0e5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/microbar",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/bar",
+     "convFactor": 0.000001,
      "onto": "OM"
     }
    ],
    "onto": "OM",
    "reverse": true
   },
-  {
-   "unit1": "http://www.wikidata.org/entity/Q6859652",
-   "unit2": "http://www.wikidata.org/entity/Q21064807",
-   "convFactor": "0.133322387415",
-   "convOffset": "0",
-   "computed": true,
-   "involved": [
-    {
-     "unit1": "http://www.wikidata.org/entity/Q6859652",
-     "convFactor": "133.322387415",
-     "unit2": "http://www.wikidata.org/entity/Q44395",
-     "onto": "WD"
-    },
-    {
-     "unit1": "http://www.wikidata.org/entity/Q21064807",
-     "convFactor": "1000",
-     "unit2": "http://www.wikidata.org/entity/Q44395",
-     "onto": "WD"
-    }
-   ],
-   "onto": "WD",
-   "reverse": true
-  }
- ],
- [
-  {
-   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
-   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/hectopascal",
-   "convFactor": "1.33322",
-   "convOffset": "0",
-   "computed": true,
-   "involved": [
-    {
-     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
-     "convOffset": 0,
-     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
-     "convFactor": 0.001,
-     "onto": "OM"
-    },
-    {
-     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
-     "convOffset": 0,
-     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
-     "convFactor": "1.33322e5",
-     "onto": "OM"
-    },
-    {
-     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/hectopascal",
-     "convOffset": 0,
-     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
-     "convFactor": 100,
-     "onto": "OM"
-    }
-   ],
-   "onto": "OM",
-   "reverse": true
-  },
-  {
-   "unit1": "http://www.wikidata.org/entity/Q6859652",
-   "unit2": "http://www.wikidata.org/entity/Q5139563",
-   "convFactor": "1.33322387415",
-   "convOffset": "0",
-   "computed": true,
-   "involved": [
-    {
-     "unit1": "http://www.wikidata.org/entity/Q6859652",
-     "convFactor": "133.322387415",
-     "unit2": "http://www.wikidata.org/entity/Q44395",
-     "onto": "WD"
-    },
-    {
-     "unit1": "http://www.wikidata.org/entity/Q5139563",
-     "convFactor": "100",
-     "unit2": "http://www.wikidata.org/entity/Q44395",
-     "onto": "WD"
-    }
-   ],
-   "onto": "WD",
-   "reverse": true
-  }
- ],
- [
   {
    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
    "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/microbar",
@@ -2836,6 +3336,278 @@
  ],
  [
   {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/megapascal",
+   "convFactor": "1.33322e-4",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convFactor": 0.001,
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322e5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/megapascal",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": 1000000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/megapascal",
+   "convFactor": "1.33322368421053e-4",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322368421053e2",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/megapascal",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": 1000000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#torr",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#megapascal",
+   "convFactor": "1.333224e-4",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#torr",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+     "convFactor": "133.3224",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megapascal",
+     "convFactor": "1e6",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q6859652",
+   "unit2": "http://www.wikidata.org/entity/Q21062777",
+   "convFactor": "1.33322387415e-4",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q6859652",
+     "convFactor": "133.322387415",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q21062777",
+     "convFactor": "1000000",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q21062777",
+   "unit2": "http://www.wikidata.org/entity/Q185648",
+   "convFactor": "7500.615758456563339512712250660681735137378540319623183519481832",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q21062777",
+     "convFactor": "1000000",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q185648",
+     "convFactor": "133.322387415",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decapascal",
+   "convFactor": "13.3322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convFactor": 0.001,
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322e5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decapascal",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": 10,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decapascal",
+   "convFactor": "13.3322368421053",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322368421053e2",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decapascal",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": 10,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#torr",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#decapascal",
+   "convFactor": "13.33224",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#torr",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+     "convFactor": "133.3224",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decapascal",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+     "convFactor": "1e1",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decipascal",
+   "convFactor": "1333.22",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convFactor": 0.001,
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322e5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decipascal",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": 0.1,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decipascal",
+   "convFactor": "1333.22368421053",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322368421053e2",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decipascal",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": 0.1,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  }
+ ],
+ [
+  {
    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/calorie-thermochemical",
    "convOffset": 0,
    "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/joule",
@@ -2854,23 +3626,6 @@
   {
    "unit1": "http://www.wikidata.org/entity/Q130964",
    "convFactor": "4.19",
-   "unit2": "http://www.wikidata.org/entity/Q25269",
-   "onto": "WD",
-   "reverse": true
-  }
- ],
- [
-  {
-   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-thermochemical",
-   "convOffset": 0,
-   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/joule",
-   "convFactor": "1.054350e3",
-   "onto": "OM",
-   "reverse": true
-  },
-  {
-   "unit1": "http://www.wikidata.org/entity/Q211580",
-   "convFactor": "1054.35026444",
    "unit2": "http://www.wikidata.org/entity/Q25269",
    "onto": "WD",
    "reverse": true
@@ -3072,23 +3827,29 @@
    "unit2": "http://www.wikidata.org/entity/Q5151",
    "onto": "WD",
    "reverse": false
-  }
- ],
- [
-  {
-   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounce",
-   "convOffset": "0.0",
-   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
-   "convFactor": "2.834952e-2",
-   "onto": "QU",
-   "reverse": true
   },
   {
-   "unit1": "http://www.wikidata.org/entity/Q48013",
-   "convFactor": "0.028349523125",
-   "unit2": "http://www.wikidata.org/entity/Q11570",
+   "unit1": "http://www.wikidata.org/entity/Q24564698",
+   "unit2": "http://www.wikidata.org/entity/Q5151",
+   "convFactor": "12",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q24564698",
+     "convFactor": "1",
+     "unit2": "http://www.wikidata.org/entity/Q577",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q577",
+     "convFactor": "12",
+     "unit2": "http://www.wikidata.org/entity/Q5151",
+     "onto": "WD"
+    }
+   ],
    "onto": "WD",
-   "reverse": true
+   "reverse": false
   }
  ],
  [
@@ -3128,6 +3889,380 @@
    "unit1": "http://www.wikidata.org/entity/Q1165588",
    "convFactor": "5.0292",
    "unit2": "http://www.wikidata.org/entity/Q11573",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q3332822",
+   "convFactor": "4184000000000000",
+   "unit2": "http://www.wikidata.org/entity/Q25269",
+   "onto": "WD",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q4992853",
+   "convFactor": "4184000000000",
+   "unit2": "http://www.wikidata.org/entity/Q25269",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q27864215",
+   "convFactor": "0.000001",
+   "unit2": "http://www.wikidata.org/entity/Q12874593",
+   "onto": "WD",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q27864215",
+   "unit2": "http://www.wikidata.org/entity/Q182098",
+   "convFactor": "1e-9",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q27864215",
+     "convFactor": "0.000001",
+     "unit2": "http://www.wikidata.org/entity/Q12874593",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q12874593",
+     "convFactor": "3600",
+     "unit2": "http://www.wikidata.org/entity/Q25269",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q182098",
+     "convFactor": "3600000",
+     "unit2": "http://www.wikidata.org/entity/Q25269",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q2221356",
+   "convFactor": "0.001",
+   "unit2": "http://www.wikidata.org/entity/Q12874593",
+   "onto": "WD",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q2221356",
+   "unit2": "http://www.wikidata.org/entity/Q182098",
+   "convFactor": "1e-6",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q2221356",
+     "convFactor": "0.001",
+     "unit2": "http://www.wikidata.org/entity/Q12874593",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q12874593",
+     "convFactor": "3600",
+     "unit2": "http://www.wikidata.org/entity/Q25269",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q182098",
+     "convFactor": "3600000",
+     "unit2": "http://www.wikidata.org/entity/Q25269",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q27861987",
+   "convFactor": "0.000001",
+   "unit2": "http://www.wikidata.org/entity/Q909315",
+   "onto": "WD",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q27861986",
+   "convFactor": "0.001",
+   "unit2": "http://www.wikidata.org/entity/Q909315",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q48013",
+   "unit2": "http://www.wikidata.org/entity/Q1400868",
+   "convFactor": "2.8349523125e-6",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q48013",
+     "convFactor": "0.028349523125",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q1400868",
+     "convFactor": "10000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q25840166",
+   "unit2": "http://www.wikidata.org/entity/Q1400868",
+   "convFactor": "2.691e-6",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q25840166",
+     "convFactor": "26.91",
+     "unit2": "http://www.wikidata.org/entity/Q41803",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q41803",
+     "convFactor": "0.001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q1400868",
+     "convFactor": "10000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q48013",
+   "unit2": "http://www.wikidata.org/entity/Q26268027",
+   "convFactor": "7.08738078125e-7",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q48013",
+     "convFactor": "0.028349523125",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q191118",
+     "convFactor": "1000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q26268027",
+     "convFactor": "40",
+     "unit2": "http://www.wikidata.org/entity/Q191118",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q25840166",
+   "unit2": "http://www.wikidata.org/entity/Q26268027",
+   "convFactor": "6.7275e-7",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q25840166",
+     "convFactor": "26.91",
+     "unit2": "http://www.wikidata.org/entity/Q41803",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q41803",
+     "convFactor": "0.001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q191118",
+     "convFactor": "1000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q26268027",
+     "convFactor": "40",
+     "unit2": "http://www.wikidata.org/entity/Q191118",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q100995",
+   "unit2": "http://www.wikidata.org/entity/Q2799294",
+   "convFactor": "4.5359237e-7",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q100995",
+     "convFactor": "0.45359237",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q2799294",
+     "convFactor": "1000000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q2799294",
+   "unit2": "http://www.wikidata.org/entity/Q10317923",
+   "convFactor": "3.095975232198142414860681114551083591331269349845201238390092879e+6",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q2799294",
+     "convFactor": "1000000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q41803",
+     "convFactor": "0.001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q10317923",
+     "convFactor": "323",
+     "unit2": "http://www.wikidata.org/entity/Q41803",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q100995",
+   "unit2": "http://www.wikidata.org/entity/Q1770733",
+   "convFactor": "4.5359237e-10",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q100995",
+     "convFactor": "0.45359237",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q1770733",
+     "convFactor": "1000000000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q10317923",
+   "unit2": "http://www.wikidata.org/entity/Q1770733",
+   "convFactor": "3.23e-10",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q10317923",
+     "convFactor": "323",
+     "unit2": "http://www.wikidata.org/entity/Q41803",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q41803",
+     "convFactor": "0.001",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q1770733",
+     "convFactor": "1000000000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q667419",
+   "unit2": "http://www.wikidata.org/entity/Q26268027",
+   "convFactor": "0.0254",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q667419",
+     "convFactor": "1016",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q191118",
+     "convFactor": "1000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q26268027",
+     "convFactor": "40",
+     "unit2": "http://www.wikidata.org/entity/Q191118",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q26268027",
+   "convFactor": "40",
+   "unit2": "http://www.wikidata.org/entity/Q191118",
    "onto": "WD",
    "reverse": true
   }

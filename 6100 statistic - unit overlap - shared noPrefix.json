@@ -278,6 +278,18 @@
    "http://purl.oclc.org/NET/muo/ucum/unit/energy/nutrition-label-Calories"
   ],
   [
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit-at-39_F"
+  ],
+  [
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit-at-59_F"
+  ],
+  [
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit-at-60_F"
+  ],
+  [
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/international-table-British-thermal-unit"
+  ],
+  [
    "http://purl.oclc.org/NET/muo/ucum/unit/pressure/meter-of-water-column"
   ],
   [
@@ -395,7 +407,13 @@
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#FootGoldCoast"
   ],
   [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Gallon"
+  ],
+  [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#LinkClarke"
+  ],
+  [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Mile"
   ],
   [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NominalDay"
@@ -414,6 +432,15 @@
   ],
   [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#NominalYear"
+  ],
+  [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pint"
+  ],
+  [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Quart"
+  ],
+  [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Ton"
   ],
   [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#YardIndian"
@@ -473,19 +500,31 @@
    "http://www.wurvoc.org/vocabularies/om-1.8/second-plane_angle_squared"
   ],
   [
+   "http://www.wurvoc.org/vocabularies/om-1.8/second-time_squared"
+  ],
+  [
    "http://www.wurvoc.org/vocabularies/om-1.8/molair"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/mole_per_mole"
   ],
   [
-   "http://www.wurvoc.org/vocabularies/om-1.8/mile-statute_per_hour"
-  ],
-  [
    "http://www.wurvoc.org/vocabularies/om-1.8/metre_per_day"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury"
+  ],
+  [
+   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-39_F"
+  ],
+  [
+   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-59_F"
+  ],
+  [
+   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-60_F"
+  ],
+  [
+   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-International_Table"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/ton_of_TNT"
@@ -767,9 +806,6 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#hertzMetre"
   ],
   [
-   "http://purl.oclc.org/NET/ssnx/qu/unit#standardCubicFoot"
-  ],
-  [
    "http://purl.oclc.org/NET/ssnx/qu/unit#pintUs"
   ],
   [
@@ -855,6 +891,12 @@
   ],
   [
    "http://purl.oclc.org/NET/ssnx/qu/unit#ounceAvoirdupoisForceInch"
+  ],
+  [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTable"
+  ],
+  [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitMean"
   ],
   [
    "http://purl.oclc.org/NET/ssnx/qu/unit#footOfMercury"
@@ -1271,9 +1313,6 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#ohmPerMile"
   ],
   [
-   "http://purl.oclc.org/NET/ssnx/qu/unit#var"
-  ],
-  [
    "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMetreToTheFourthPower"
   ],
   [
@@ -1391,9 +1430,6 @@
    "http://qudt.org/vocab/unit#HertzPerVolt"
   ],
   [
-   "http://qudt.org/vocab/unit#Loti"
-  ],
-  [
    "http://qudt.org/vocab/unit#Absiemen"
   ],
   [
@@ -1412,25 +1448,13 @@
    "http://qudt.org/vocab/unit#PerMeterKelvin"
   ],
   [
-   "http://qudt.org/vocab/unit#Denar"
-  ],
-  [
    "http://qudt.org/vocab/unit#PoundForceFoot"
   ],
   [
    "http://qudt.org/vocab/unit#TonAssay"
   ],
   [
-   "http://qudt.org/vocab/unit#Ouguiya"
-  ],
-  [
-   "http://qudt.org/vocab/unit#ZimbabweDollar"
-  ],
-  [
    "http://qudt.org/vocab/unit#BtuFoot"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Baht"
   ],
   [
    "http://qudt.org/vocab/unit#BtuPerPoundMole"
@@ -1454,16 +1478,10 @@
    "http://qudt.org/vocab/unit#BelarussianRuble"
   ],
   [
-   "http://qudt.org/vocab/unit#Tenge"
-  ],
-  [
    "http://qudt.org/vocab/unit#PoundForcePerSquareInchSecond"
   ],
   [
    "http://qudt.org/vocab/unit#CalorieNutritional"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Metical"
   ],
   [
    "http://qudt.org/vocab/unit#CordobaOro"
@@ -1472,13 +1490,7 @@
    "http://qudt.org/vocab/unit#Mach"
   ],
   [
-   "http://qudt.org/vocab/unit#FijiDollar"
-  ],
-  [
    "http://qudt.org/vocab/unit#PoundDegreeRankine"
-  ],
-  [
-   "http://qudt.org/vocab/unit#SriLankaRupee"
   ],
   [
    "http://qudt.org/vocab/unit#PoundDegreeFahrenheit"
@@ -1488,9 +1500,6 @@
   ],
   [
    "http://qudt.org/vocab/unit#CostaRicanColon"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Lilangeni"
   ],
   [
    "http://qudt.org/vocab/unit#RevolutionPerSecondSquared"
@@ -1512,9 +1521,6 @@
   ],
   [
    "http://qudt.org/vocab/unit#CubicCoulombMeterPerSquareJoule"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Pataca"
   ],
   [
    "http://qudt.org/vocab/unit#JouleMeterPerMole"
@@ -1547,28 +1553,16 @@
    "http://qudt.org/vocab/unit#EuropeanMonetaryUnit"
   ],
   [
-   "http://qudt.org/vocab/unit#Quetzal"
-  ],
-  [
    "http://qudt.org/vocab/unit#BtuPerPound"
   ],
   [
    "http://qudt.org/vocab/unit#EuropeanUnitOfAccount9"
   ],
   [
-   "http://qudt.org/vocab/unit#Tugrik"
-  ],
-  [
    "http://qudt.org/vocab/unit#DegreePerSecondSquared"
   ],
   [
-   "http://qudt.org/vocab/unit#Manat"
-  ],
-  [
    "http://qudt.org/vocab/unit#PlanckArea"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Lempira"
   ],
   [
    "http://qudt.org/vocab/unit#AmpereTurnPerInch"
@@ -1578,6 +1572,9 @@
   ],
   [
    "http://qudt.org/vocab/unit#HourSquareFoot"
+  ],
+  [
+   "http://qudt.org/vocab/unit#BritishThermalUnitInternationalTable"
   ],
   [
    "http://qudt.org/vocab/unit#FootPoundForcePerSquareMeter"
@@ -1590,9 +1587,6 @@
   ],
   [
    "http://qudt.org/vocab/unit#StatcoulombPerMole"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Nakfa"
   ],
   [
    "http://qudt.org/vocab/unit#MilePerMinute"
@@ -1617,9 +1611,6 @@
   ],
   [
    "http://qudt.org/vocab/unit#RelativePermittivity"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Afghani"
   ],
   [
    "http://qudt.org/vocab/unit#NewIsraeliShekel"
@@ -1649,12 +1640,6 @@
    "http://qudt.org/vocab/unit#PlanckVolt"
   ],
   [
-   "http://qudt.org/vocab/unit#ArgentinePeso"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Ngultrum"
-  ],
-  [
    "http://qudt.org/vocab/unit#Gold-OunceTroy"
   ],
   [
@@ -1664,25 +1649,16 @@
    "http://qudt.org/vocab/unit#WIREuro"
   ],
   [
-   "http://qudt.org/vocab/unit#Paanga"
-  ],
-  [
    "http://qudt.org/vocab/unit#RomanianNeLeu"
   ],
   [
    "http://qudt.org/vocab/unit#SecondSquareFoot"
   ],
   [
-   "http://qudt.org/vocab/unit#Kwanza"
-  ],
-  [
    "http://qudt.org/vocab/unit#PoundMass"
   ],
   [
    "http://qudt.org/vocab/unit#GuyanaDollar"
-  ],
-  [
-   "http://qudt.org/vocab/unit#SamoanTala"
   ],
   [
    "http://qudt.org/vocab/unit#BtuPerDegreeFahrenheit"
@@ -1709,22 +1685,13 @@
    "http://qudt.org/vocab/unit#BtuPerHourSquareFoot"
   ],
   [
-   "http://qudt.org/vocab/unit#HaitiGourde"
-  ],
-  [
    "http://qudt.org/vocab/unit#FramePerSecond"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Kroon"
   ],
   [
    "http://qudt.org/vocab/unit#BtuInchPerSquareFootSecondDegreeFahrenheit"
   ],
   [
    "http://qudt.org/vocab/unit#NauticalMilePerMinute"
-  ],
-  [
-   "http://qudt.org/vocab/unit#ColombianPeso"
   ],
   [
    "http://qudt.org/vocab/unit#GramDegreeCelsius"
@@ -1751,9 +1718,6 @@
    "http://qudt.org/vocab/unit#DegreePerMinute"
   ],
   [
-   "http://qudt.org/vocab/unit#Vatu"
-  ],
-  [
    "http://qudt.org/vocab/unit#RelativePermeability"
   ],
   [
@@ -1766,22 +1730,16 @@
    "http://qudt.org/vocab/unit#KipPerSquareInch"
   ],
   [
-   "http://qudt.org/vocab/unit#Somoni"
-  ],
-  [
    "http://qudt.org/vocab/unit#UnidadesDeFormento"
   ],
   [
-   "http://qudt.org/vocab/unit#Cedi"
+   "http://qudt.org/vocab/unit#BritishThermalUnitThermochemical"
   ],
   [
    "http://qudt.org/vocab/unit#NumberPerYear"
   ],
   [
    "http://qudt.org/vocab/unit#SlugPerFoot"
-  ],
-  [
-   "http://qudt.org/vocab/unit#NuevoSol"
   ],
   [
    "http://qudt.org/vocab/unit#ConvertibleMark"
@@ -1796,9 +1754,6 @@
    "http://qudt.org/vocab/unit#BangladeshiTaka"
   ],
   [
-   "http://qudt.org/vocab/unit#Rupiah"
-  ],
-  [
    "http://qudt.org/vocab/unit#AmperePerDegree"
   ],
   [
@@ -1809,9 +1764,6 @@
   ],
   [
    "http://qudt.org/vocab/unit#GrainPerGallon"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Naira"
   ],
   [
    "http://qudt.org/vocab/unit#JoulePerSquareTesla"
@@ -1836,9 +1788,6 @@
   ],
   [
    "http://qudt.org/vocab/unit#VoltPerSquareMeter"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Balboa"
   ],
   [
    "http://qudt.org/vocab/unit#BtuPerSecond"
@@ -1866,9 +1815,6 @@
   ],
   [
    "http://qudt.org/vocab/unit#SurinamDollar"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Lari"
   ],
   [
    "http://qudt.org/vocab/unit#PoundForceInch"
@@ -1901,9 +1847,6 @@
    "http://qudt.org/vocab/unit#OuncePerCubicInch"
   ],
   [
-   "http://qudt.org/vocab/unit#RevolutionPerMinute"
-  ],
-  [
    "http://qudt.org/vocab/unit#LiquidOunceUS"
   ],
   [
@@ -1922,9 +1865,6 @@
    "http://qudt.org/vocab/unit#OunceForceInch"
   ],
   [
-   "http://qudt.org/vocab/unit#Rufiyaa"
-  ],
-  [
    "http://qudt.org/vocab/unit#NetherlandsAntillianGuilder"
   ],
   [
@@ -1935,15 +1875,6 @@
   ],
   [
    "http://qudt.org/vocab/unit#DegreeFahrenheitHourPerBtu"
-  ],
-  [
-   "http://qudt.org/vocab/unit#LatvianLats"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Kina"
-  ],
-  [
-   "http://qudt.org/vocab/unit#FrancCongolais"
   ],
   [
    "http://qudt.org/vocab/unit#PerTeslaSecond"
@@ -1961,28 +1892,13 @@
    "http://qudt.org/vocab/unit#SquareFootSecondDegreeFahrenheit"
   ],
   [
-   "http://qudt.org/vocab/unit#Dobra"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Guarani"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Pula"
-  ],
-  [
    "http://qudt.org/vocab/unit#MoleDegreeCelsius"
   ],
   [
    "http://qudt.org/vocab/unit#FractionalArea"
   ],
   [
-   "http://qudt.org/vocab/unit#Zloty"
-  ],
-  [
    "http://qudt.org/vocab/unit#CubicMeterPerSecondSquared"
-  ],
-  [
-   "http://qudt.org/vocab/unit#MalawiKwacha"
   ],
   [
    "http://qudt.org/vocab/unit#DegreePerHour"
@@ -2015,9 +1931,6 @@
    "http://qudt.org/vocab/unit#PoundPerMinute"
   ],
   [
-   "http://qudt.org/vocab/unit#Forint"
-  ],
-  [
    "http://qudt.org/vocab/unit#OunceImperial"
   ],
   [
@@ -2025,9 +1938,6 @@
   ],
   [
    "http://qudt.org/vocab/unit#SquareCoulombMeterPerJoule"
-  ],
-  [
-   "http://qudt.org/vocab/unit#YuanRenminbi"
   ],
   [
    "http://qudt.org/vocab/unit#BtuPerPoundMoleDegreeFahrenheit"
@@ -2054,9 +1964,6 @@
    "http://qudt.org/vocab/unit#AmperePerJoule"
   ],
   [
-   "http://qudt.org/vocab/unit#Leone"
-  ],
-  [
    "http://qudt.org/vocab/unit#InternationalUnitPerLiter"
   ],
   [
@@ -2076,9 +1983,6 @@
   ],
   [
    "http://qudt.org/vocab/unit#EuropeanUnitOfAccount17"
-  ],
-  [
-   "http://qudt.org/vocab/unit#Dalasi"
   ],
   [
    "http://qudt.org/vocab/unit#PoundMoleDegreeFahrenheit"
@@ -2172,6 +2076,9 @@
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perSecondCubed"
   ],
   [
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#secondSquared"
+  ],
+  [
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perCandela"
   ],
   [
@@ -2186,6 +2093,9 @@
   [
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#permil",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMil"
+  ],
+  [
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#season"
   ],
   [
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#millenium"
@@ -2369,16 +2279,10 @@
    "http://www.wikidata.org/entity/Q118881"
   ],
   [
-   "http://www.wikidata.org/entity/Q123213"
-  ],
-  [
    "http://www.wikidata.org/entity/Q124003"
   ],
   [
    "http://www.wikidata.org/entity/Q127441"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q129983"
   ],
   [
    "http://www.wikidata.org/entity/Q131309"
@@ -2393,10 +2297,12 @@
    "http://www.wikidata.org/entity/Q131723"
   ],
   [
-   "http://www.wikidata.org/entity/Q133011"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q157011"
+   "http://www.wikidata.org/entity/Q157011",
+   "http://www.wikidata.org/entity/Q1089123",
+   "http://www.wikidata.org/entity/Q1702856",
+   "http://www.wikidata.org/entity/Q4281830",
+   "http://www.wikidata.org/entity/Q21087179",
+   "http://www.wikidata.org/entity/Q4133026"
   ],
   [
    "http://www.wikidata.org/entity/Q155009"
@@ -2408,7 +2314,9 @@
    "http://www.wikidata.org/entity/Q160680"
   ],
   [
-   "http://www.wikidata.org/entity/Q137958"
+   "http://www.wikidata.org/entity/Q137958",
+   "http://www.wikidata.org/entity/Q669909",
+   "http://www.wikidata.org/entity/Q1942514"
   ],
   [
    "http://www.wikidata.org/entity/Q144357"
@@ -2438,31 +2346,20 @@
    "http://www.wikidata.org/entity/Q167922"
   ],
   [
-   "http://www.wikidata.org/entity/Q171503"
-  ],
-  [
    "http://www.wikidata.org/entity/Q170417"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q172872"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q173751"
   ],
   [
    "http://www.wikidata.org/entity/Q173170"
   ],
   [
-   "http://www.wikidata.org/entity/Q177875"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q177882"
-  ],
-  [
    "http://www.wikidata.org/entity/Q177974"
   ],
   [
-   "http://www.wikidata.org/entity/Q178843"
+   "http://www.wikidata.org/entity/Q178413",
+   "http://www.wikidata.org/entity/Q5519125",
+   "http://www.wikidata.org/entity/Q23925410",
+   "http://www.wikidata.org/entity/Q23925413",
+   "http://www.wikidata.org/entity/Q23925527"
   ],
   [
    "http://www.wikidata.org/entity/Q178721"
@@ -2471,31 +2368,13 @@
    "http://www.wikidata.org/entity/Q179620"
   ],
   [
-   "http://www.wikidata.org/entity/Q182803"
-  ],
-  [
    "http://www.wikidata.org/entity/Q183354"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q183530"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q183435"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q184172"
   ],
   [
    "http://www.wikidata.org/entity/Q185759"
   ],
   [
-   "http://www.wikidata.org/entity/Q186794"
-  ],
-  [
    "http://www.wikidata.org/entity/Q186374"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q188289"
   ],
   [
    "http://www.wikidata.org/entity/Q188416"
@@ -2517,16 +2396,12 @@
    "http://www.wikidata.org/entity/Q191068"
   ],
   [
-   "http://www.wikidata.org/entity/Q191830"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q191511"
+   "http://www.wikidata.org/entity/Q191511",
+   "http://www.wikidata.org/entity/Q847739",
+   "http://www.wikidata.org/entity/Q861690"
   ],
   [
    "http://www.wikidata.org/entity/Q191676"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q193712"
   ],
   [
    "http://www.wikidata.org/entity/Q193933"
@@ -2541,45 +2416,15 @@
    "http://www.wikidata.org/entity/Q194453"
   ],
   [
-   "http://www.wikidata.org/entity/Q199578",
-   "http://www.wikidata.org/entity/Q244696",
-   "http://www.wikidata.org/entity/Q244819"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q199471"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q199886"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q200055"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q200337"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q200753"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q200759"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q201799"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q204656"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q203955"
+   "http://www.wikidata.org/entity/Q200055",
+   "http://www.wikidata.org/entity/Q1742337"
   ],
   [
    "http://www.wikidata.org/entity/Q204992"
   ],
   [
-   "http://www.wikidata.org/entity/Q206037"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q204759"
+   "http://www.wikidata.org/entity/Q204759",
+   "http://www.wikidata.org/entity/Q19910723"
   ],
   [
    "http://www.wikidata.org/entity/Q202036"
@@ -2588,28 +2433,13 @@
    "http://www.wikidata.org/entity/Q206386"
   ],
   [
-   "http://www.wikidata.org/entity/Q206600"
-  ],
-  [
    "http://www.wikidata.org/entity/Q207312"
   ],
   [
    "http://www.wikidata.org/entity/Q207194"
   ],
   [
-   "http://www.wikidata.org/entity/Q207024"
-  ],
-  [
    "http://www.wikidata.org/entity/Q207488"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q207396"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q207514"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q207523"
   ],
   [
    "http://www.wikidata.org/entity/Q207669"
@@ -2621,43 +2451,20 @@
    "http://www.wikidata.org/entity/Q208730"
   ],
   [
-   "http://www.wikidata.org/entity/Q209272"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q202885"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q208039"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q209426"
-  ],
-  [
    "http://www.wikidata.org/entity/Q203492"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q203567"
   ],
   [
    "http://www.wikidata.org/entity/Q203354"
   ],
   [
-   "http://www.wikidata.org/entity/Q210472"
-  ],
-  [
    "http://www.wikidata.org/entity/Q210478"
   ],
   [
-   "http://www.wikidata.org/entity/Q203607"
+   "http://www.wikidata.org/entity/Q208133",
+   "http://www.wikidata.org/entity/Q1266877"
   ],
   [
-   "http://www.wikidata.org/entity/Q208133"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q211694"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q211256"
+   "http://www.wikidata.org/entity/Q211580"
   ],
   [
    "http://www.wikidata.org/entity/Q217208"
@@ -2667,9 +2474,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q203757"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q203794"
   ],
   [
    "http://www.wikidata.org/entity/Q212120"
@@ -2709,10 +2513,15 @@
   ],
   [
    "http://www.wikidata.org/entity/Q213142",
-   "http://www.wikidata.org/entity/Q736526"
+   "http://www.wikidata.org/entity/Q736526",
+   "http://www.wikidata.org/entity/Q2235847"
   ],
   [
    "http://www.wikidata.org/entity/Q213005"
+  ],
+  [
+   "http://www.wikidata.org/entity/Q253276",
+   "http://www.wikidata.org/entity/Q2296171"
   ],
   [
    "http://www.wikidata.org/entity/Q232270"
@@ -2727,7 +2536,12 @@
    "http://www.wikidata.org/entity/Q213327"
   ],
   [
-   "http://www.wikidata.org/entity/Q214377"
+   "http://www.wikidata.org/entity/Q214377",
+   "http://www.wikidata.org/entity/Q378201",
+   "http://www.wikidata.org/entity/Q6502030",
+   "http://www.wikidata.org/entity/Q16878358",
+   "http://www.wikidata.org/entity/Q17124932",
+   "http://www.wikidata.org/entity/Q18695775"
   ],
   [
    "http://www.wikidata.org/entity/Q214111"
@@ -2781,7 +2595,10 @@
    "http://www.wikidata.org/entity/Q328425"
   ],
   [
-   "http://www.wikidata.org/entity/Q335897"
+   "http://www.wikidata.org/entity/Q335897",
+   "http://www.wikidata.org/entity/Q2295694",
+   "http://www.wikidata.org/entity/Q17322994",
+   "http://www.wikidata.org/entity/Q26268024"
   ],
   [
    "http://www.wikidata.org/entity/Q337954"
@@ -2799,16 +2616,10 @@
    "http://www.wikidata.org/entity/Q340885"
   ],
   [
-   "http://www.wikidata.org/entity/Q240292"
-  ],
-  [
    "http://www.wikidata.org/entity/Q359151"
   ],
   [
    "http://www.wikidata.org/entity/Q359587"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q350023"
   ],
   [
    "http://www.wikidata.org/entity/Q352512"
@@ -2850,10 +2661,8 @@
    "http://www.wikidata.org/entity/Q276688"
   ],
   [
-   "http://www.wikidata.org/entity/Q281629"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q241214"
+   "http://www.wikidata.org/entity/Q281629",
+   "http://www.wikidata.org/entity/Q14333713"
   ],
   [
    "http://www.wikidata.org/entity/Q296936"
@@ -2868,22 +2677,14 @@
    "http://www.wikidata.org/entity/Q300985"
   ],
   [
-   "http://www.wikidata.org/entity/Q487888"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q486637"
-  ],
-  [
    "http://www.wikidata.org/entity/Q376895"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q378201"
   ],
   [
    "http://www.wikidata.org/entity/Q487060"
   ],
   [
-   "http://www.wikidata.org/entity/Q242915"
+   "http://www.wikidata.org/entity/Q242915",
+   "http://www.wikidata.org/entity/Q829043"
   ],
   [
    "http://www.wikidata.org/entity/Q384102"
@@ -2904,7 +2705,8 @@
    "http://www.wikidata.org/entity/Q488013"
   ],
   [
-   "http://www.wikidata.org/entity/Q304479"
+   "http://www.wikidata.org/entity/Q304479",
+   "http://www.wikidata.org/entity/Q22282192"
   ],
   [
    "http://www.wikidata.org/entity/Q306306"
@@ -2940,7 +2742,8 @@
    "http://www.wikidata.org/entity/Q391554"
   ],
   [
-   "http://www.wikidata.org/entity/Q392928"
+   "http://www.wikidata.org/entity/Q392928",
+   "http://www.wikidata.org/entity/Q6428674"
   ],
   [
    "http://www.wikidata.org/entity/Q390809"
@@ -3009,16 +2812,7 @@
    "http://www.wikidata.org/entity/Q424754"
   ],
   [
-   "http://www.wikidata.org/entity/Q420266"
-  ],
-  [
    "http://www.wikidata.org/entity/Q417551"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q630369"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q626299"
   ],
   [
    "http://www.wikidata.org/entity/Q638746"
@@ -3045,7 +2839,8 @@
    "http://www.wikidata.org/entity/Q246868"
   ],
   [
-   "http://www.wikidata.org/entity/Q251545"
+   "http://www.wikidata.org/entity/Q251545",
+   "http://www.wikidata.org/entity/Q10839915"
   ],
   [
    "http://www.wikidata.org/entity/Q539959"
@@ -3063,7 +2858,8 @@
    "http://www.wikidata.org/entity/Q542236"
   ],
   [
-   "http://www.wikidata.org/entity/Q654875"
+   "http://www.wikidata.org/entity/Q654875",
+   "http://www.wikidata.org/entity/Q1810373"
   ],
   [
    "http://www.wikidata.org/entity/Q651336"
@@ -3078,7 +2874,9 @@
    "http://www.wikidata.org/entity/Q653183"
   ],
   [
-   "http://www.wikidata.org/entity/Q660818"
+   "http://www.wikidata.org/entity/Q660818",
+   "http://www.wikidata.org/entity/Q1425493",
+   "http://www.wikidata.org/entity/Q13530508"
   ],
   [
    "http://www.wikidata.org/entity/Q657540"
@@ -3120,7 +2918,8 @@
    "http://www.wikidata.org/entity/Q560355"
   ],
   [
-   "http://www.wikidata.org/entity/Q558904"
+   "http://www.wikidata.org/entity/Q558904",
+   "http://www.wikidata.org/entity/Q1918077"
   ],
   [
    "http://www.wikidata.org/entity/Q552826"
@@ -3159,13 +2958,11 @@
    "http://www.wikidata.org/entity/Q480022"
   ],
   [
-   "http://www.wikidata.org/entity/Q473909"
+   "http://www.wikidata.org/entity/Q473909",
+   "http://www.wikidata.org/entity/Q473911"
   ],
   [
    "http://www.wikidata.org/entity/Q474533"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q473911"
   ],
   [
    "http://www.wikidata.org/entity/Q473913"
@@ -3186,16 +2983,24 @@
    "http://www.wikidata.org/entity/Q743823"
   ],
   [
-   "http://www.wikidata.org/entity/Q745316"
+   "http://www.wikidata.org/entity/Q745316",
+   "http://www.wikidata.org/entity/Q603071",
+   "http://www.wikidata.org/entity/Q1367371",
+   "http://www.wikidata.org/entity/Q4591"
   ],
   [
-   "http://www.wikidata.org/entity/Q572664"
+   "http://www.wikidata.org/entity/Q572664",
+   "http://www.wikidata.org/entity/Q1546443",
+   "http://www.wikidata.org/entity/Q25835384"
   ],
   [
-   "http://www.wikidata.org/entity/Q586598"
+   "http://www.wikidata.org/entity/Q586598",
+   "http://www.wikidata.org/entity/Q1643308",
+   "http://www.wikidata.org/entity/Q2681972"
   ],
   [
-   "http://www.wikidata.org/entity/Q581432"
+   "http://www.wikidata.org/entity/Q581432",
+   "http://www.wikidata.org/entity/Q2405892"
   ],
   [
    "http://www.wikidata.org/entity/Q572213"
@@ -3207,9 +3012,6 @@
    "http://www.wikidata.org/entity/Q572219"
   ],
   [
-   "http://www.wikidata.org/entity/Q669909"
-  ],
-  [
    "http://www.wikidata.org/entity/Q669931"
   ],
   [
@@ -3219,25 +3021,18 @@
    "http://www.wikidata.org/entity/Q661169"
   ],
   [
-   "http://www.wikidata.org/entity/Q667419"
-  ],
-  [
    "http://www.wikidata.org/entity/Q671292"
   ],
   [
-   "http://www.wikidata.org/entity/Q842981"
+   "http://www.wikidata.org/entity/Q842981",
+   "http://www.wikidata.org/entity/Q855048",
+   "http://www.wikidata.org/entity/Q14914907"
   ],
   [
    "http://www.wikidata.org/entity/Q672615"
   ],
   [
-   "http://www.wikidata.org/entity/Q752079"
-  ],
-  [
    "http://www.wikidata.org/entity/Q747909"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q754897"
   ],
   [
    "http://www.wikidata.org/entity/Q751310"
@@ -3273,9 +3068,6 @@
    "http://www.wikidata.org/entity/Q691543"
   ],
   [
-   "http://www.wikidata.org/entity/Q483725"
-  ],
-  [
    "http://www.wikidata.org/entity/Q781545"
   ],
   [
@@ -3285,7 +3077,8 @@
    "http://www.wikidata.org/entity/Q783373"
   ],
   [
-   "http://www.wikidata.org/entity/Q783191"
+   "http://www.wikidata.org/entity/Q783191",
+   "http://www.wikidata.org/entity/Q15851629"
   ],
   [
    "http://www.wikidata.org/entity/Q780456"
@@ -3309,9 +3102,6 @@
    "http://www.wikidata.org/entity/Q599170"
   ],
   [
-   "http://www.wikidata.org/entity/Q847739"
-  ],
-  [
    "http://www.wikidata.org/entity/Q848960"
   ],
   [
@@ -3330,9 +3120,6 @@
    "http://www.wikidata.org/entity/Q700835"
   ],
   [
-   "http://www.wikidata.org/entity/Q603071"
-  ],
-  [
    "http://www.wikidata.org/entity/Q607248"
   ],
   [
@@ -3349,12 +3136,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q786499"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q855048"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q851872"
   ],
   [
    "http://www.wikidata.org/entity/Q855244"
@@ -3483,9 +3264,6 @@
    "http://www.wikidata.org/entity/Q817113"
   ],
   [
-   "http://www.wikidata.org/entity/Q829043"
-  ],
-  [
    "http://www.wikidata.org/entity/Q811127"
   ],
   [
@@ -3516,9 +3294,6 @@
    "http://www.wikidata.org/entity/Q828705"
   ],
   [
-   "http://www.wikidata.org/entity/Q861690"
-  ],
-  [
    "http://www.wikidata.org/entity/Q868106"
   ],
   [
@@ -3540,7 +3315,8 @@
    "http://www.wikidata.org/entity/Q722411"
   ],
   [
-   "http://www.wikidata.org/entity/Q989675"
+   "http://www.wikidata.org/entity/Q989675",
+   "http://www.wikidata.org/entity/Q1397511"
   ],
   [
    "http://www.wikidata.org/entity/Q829397"
@@ -3549,13 +3325,7 @@
    "http://www.wikidata.org/entity/Q831578"
   ],
   [
-   "http://www.wikidata.org/entity/Q829073"
-  ],
-  [
    "http://www.wikidata.org/entity/Q877963"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q876237"
   ],
   [
    "http://www.wikidata.org/entity/Q890618"
@@ -3571,9 +3341,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q1135840"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1133606"
   ],
   [
    "http://www.wikidata.org/entity/Q1133947"
@@ -3651,7 +3418,8 @@
    "http://www.wikidata.org/entity/Q998814"
   ],
   [
-   "http://www.wikidata.org/entity/Q876244"
+   "http://www.wikidata.org/entity/Q876244",
+   "http://www.wikidata.org/entity/Q3057942"
   ],
   [
    "http://www.wikidata.org/entity/Q879128"
@@ -3855,7 +3623,8 @@
    "http://www.wikidata.org/entity/Q1146879"
   ],
   [
-   "http://www.wikidata.org/entity/Q1148329"
+   "http://www.wikidata.org/entity/Q1148329",
+   "http://www.wikidata.org/entity/Q911562"
   ],
   [
    "http://www.wikidata.org/entity/Q1144374"
@@ -3951,7 +3720,8 @@
    "http://www.wikidata.org/entity/Q1044890"
   ],
   [
-   "http://www.wikidata.org/entity/Q1045124"
+   "http://www.wikidata.org/entity/Q1045124",
+   "http://www.wikidata.org/entity/Q15793646"
   ],
   [
    "http://www.wikidata.org/entity/Q1048266"
@@ -3996,9 +3766,6 @@
    "http://www.wikidata.org/entity/Q1343553"
   ],
   [
-   "http://www.wikidata.org/entity/Q904031"
-  ],
-  [
    "http://www.wikidata.org/entity/Q903313"
   ],
   [
@@ -4033,9 +3800,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q1165700"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1165799"
   ],
   [
    "http://www.wikidata.org/entity/Q1164368"
@@ -4107,10 +3871,6 @@
    "http://www.wikidata.org/entity/Q1050670"
   ],
   [
-   "http://www.wikidata.org/entity/Q1052833",
-   "http://www.wikidata.org/entity/Q1645564"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1051746"
   ],
   [
@@ -4126,13 +3886,16 @@
    "http://www.wikidata.org/entity/Q1346428"
   ],
   [
-   "http://www.wikidata.org/entity/Q1354303"
+   "http://www.wikidata.org/entity/Q1354303",
+   "http://www.wikidata.org/entity/Q18334345"
   ],
   [
    "http://www.wikidata.org/entity/Q1355329"
   ],
   [
-   "http://www.wikidata.org/entity/Q1357453"
+   "http://www.wikidata.org/entity/Q1357453",
+   "http://www.wikidata.org/entity/Q4514998",
+   "http://www.wikidata.org/entity/Q3582"
   ],
   [
    "http://www.wikidata.org/entity/Q1354239"
@@ -4151,9 +3914,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q1373696"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1367371"
   ],
   [
    "http://www.wikidata.org/entity/Q1373252"
@@ -4186,7 +3946,8 @@
    "http://www.wikidata.org/entity/Q1371848"
   ],
   [
-   "http://www.wikidata.org/entity/Q1172583"
+   "http://www.wikidata.org/entity/Q1172583",
+   "http://www.wikidata.org/entity/Q17310364"
   ],
   [
    "http://www.wikidata.org/entity/Q1173645"
@@ -4210,9 +3971,6 @@
    "http://www.wikidata.org/entity/Q1167009"
   ],
   [
-   "http://www.wikidata.org/entity/Q1168800"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1193446"
   ],
   [
@@ -4228,13 +3986,11 @@
    "http://www.wikidata.org/entity/Q1172956"
   ],
   [
-   "http://www.wikidata.org/entity/Q911562"
-  ],
-  [
    "http://www.wikidata.org/entity/Q911730"
   ],
   [
-   "http://www.wikidata.org/entity/Q917019"
+   "http://www.wikidata.org/entity/Q917019",
+   "http://www.wikidata.org/entity/Q935614"
   ],
   [
    "http://www.wikidata.org/entity/Q1377741"
@@ -4246,7 +4002,8 @@
    "http://www.wikidata.org/entity/Q1395506"
   ],
   [
-   "http://www.wikidata.org/entity/Q1377960"
+   "http://www.wikidata.org/entity/Q1377960",
+   "http://www.wikidata.org/entity/Q16831316"
   ],
   [
    "http://www.wikidata.org/entity/Q1381180"
@@ -4297,7 +4054,7 @@
    "http://www.wikidata.org/entity/Q1377465"
   ],
   [
-   "http://www.wikidata.org/entity/Q1053453"
+   "http://www.wikidata.org/entity/Q1058120"
   ],
   [
    "http://www.wikidata.org/entity/Q1053631"
@@ -4330,13 +4087,17 @@
    "http://www.wikidata.org/entity/Q1550199"
   ],
   [
-   "http://www.wikidata.org/entity/Q1552740"
+   "http://www.wikidata.org/entity/Q1552740",
+   "http://www.wikidata.org/entity/Q3278265",
+   "http://www.wikidata.org/entity/Q16930882"
   ],
   [
    "http://www.wikidata.org/entity/Q1552732"
   ],
   [
-   "http://www.wikidata.org/entity/Q1547498"
+   "http://www.wikidata.org/entity/Q1547498",
+   "http://www.wikidata.org/entity/Q1547440",
+   "http://www.wikidata.org/entity/Q3116971"
   ],
   [
    "http://www.wikidata.org/entity/Q1547856"
@@ -4402,7 +4163,8 @@
    "http://www.wikidata.org/entity/Q1196837"
   ],
   [
-   "http://www.wikidata.org/entity/Q1399533"
+   "http://www.wikidata.org/entity/Q1399533",
+   "http://www.wikidata.org/entity/Q25907674"
   ],
   [
    "http://www.wikidata.org/entity/Q1398539"
@@ -4411,16 +4173,14 @@
    "http://www.wikidata.org/entity/Q1402449"
   ],
   [
-   "http://www.wikidata.org/entity/Q1404428"
+   "http://www.wikidata.org/entity/Q1404428",
+   "http://www.wikidata.org/entity/Q2720762"
   ],
   [
    "http://www.wikidata.org/entity/Q1402037"
   ],
   [
    "http://www.wikidata.org/entity/Q1403484"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1397511"
   ],
   [
    "http://www.wikidata.org/entity/Q1398853"
@@ -4471,7 +4231,8 @@
    "http://www.wikidata.org/entity/Q1577757"
   ],
   [
-   "http://www.wikidata.org/entity/Q1591924"
+   "http://www.wikidata.org/entity/Q1591924",
+   "http://www.wikidata.org/entity/Q3676321"
   ],
   [
    "http://www.wikidata.org/entity/Q1571749"
@@ -4603,9 +4364,6 @@
    "http://www.wikidata.org/entity/Q1424516"
   ],
   [
-   "http://www.wikidata.org/entity/Q1425493"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1428954"
   ],
   [
@@ -4660,17 +4418,10 @@
    "http://www.wikidata.org/entity/Q927068"
   ],
   [
-   "http://www.wikidata.org/entity/Q928186"
-  ],
-  [
    "http://www.wikidata.org/entity/Q923539"
   ],
   [
    "http://www.wikidata.org/entity/Q1078168"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1089123",
-   "http://www.wikidata.org/entity/Q4281830"
   ],
   [
    "http://www.wikidata.org/entity/Q1083662"
@@ -4808,13 +4559,11 @@
    "http://www.wikidata.org/entity/Q1639280"
   ],
   [
-   "http://www.wikidata.org/entity/Q1640286"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1640501"
   ],
   [
-   "http://www.wikidata.org/entity/Q1618271"
+   "http://www.wikidata.org/entity/Q1618271",
+   "http://www.wikidata.org/entity/Q18626266"
   ],
   [
    "http://www.wikidata.org/entity/Q1607372"
@@ -4832,16 +4581,14 @@
    "http://www.wikidata.org/entity/Q1625736"
   ],
   [
-   "http://www.wikidata.org/entity/Q931805"
+   "http://www.wikidata.org/entity/Q931805",
+   "http://www.wikidata.org/entity/Q2963205"
   ],
   [
    "http://www.wikidata.org/entity/Q935678"
   ],
   [
    "http://www.wikidata.org/entity/Q931192"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q935614"
   ],
   [
    "http://www.wikidata.org/entity/Q930179"
@@ -4907,9 +4654,6 @@
    "http://www.wikidata.org/entity/Q1435140"
   ],
   [
-   "http://www.wikidata.org/entity/Q1441459"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1444640"
   ],
   [
@@ -4922,9 +4666,6 @@
    "http://www.wikidata.org/entity/Q1460061"
   ],
   [
-   "http://www.wikidata.org/entity/Q1092296"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1091841"
   ],
   [
@@ -4934,10 +4675,6 @@
    "http://www.wikidata.org/entity/Q1645825"
   ],
   [
-   "http://www.wikidata.org/entity/Q1643308",
-   "http://www.wikidata.org/entity/Q2681972"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1647239"
   ],
   [
@@ -4945,9 +4682,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q1642593"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1255620"
   ],
   [
    "http://www.wikidata.org/entity/Q1250769"
@@ -4974,13 +4708,11 @@
    "http://www.wikidata.org/entity/Q1261420"
   ],
   [
-   "http://www.wikidata.org/entity/Q1266877"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1249084"
   ],
   [
-   "http://www.wikidata.org/entity/Q1254363"
+   "http://www.wikidata.org/entity/Q1254363",
+   "http://www.wikidata.org/entity/Q15806533"
   ],
   [
    "http://www.wikidata.org/entity/Q1255235"
@@ -5022,9 +4754,6 @@
    "http://www.wikidata.org/entity/Q1670532"
   ],
   [
-   "http://www.wikidata.org/entity/Q1678551"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1676832"
   ],
   [
@@ -5032,9 +4761,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q1692725"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1702856"
   ],
   [
    "http://www.wikidata.org/entity/Q1707686"
@@ -5130,9 +4856,6 @@
    "http://www.wikidata.org/entity/Q1647337"
   ],
   [
-   "http://www.wikidata.org/entity/Q1471447"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1469288"
   ],
   [
@@ -5169,16 +4892,10 @@
    "http://www.wikidata.org/entity/Q2006523"
   ],
   [
-   "http://www.wikidata.org/entity/Q2042279"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2046693"
   ],
   [
    "http://www.wikidata.org/entity/Q2018709"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q2032019"
   ],
   [
    "http://www.wikidata.org/entity/Q2045606"
@@ -5202,10 +4919,8 @@
    "http://www.wikidata.org/entity/Q2015163"
   ],
   [
-   "http://www.wikidata.org/entity/Q2023433"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q2031672"
+   "http://www.wikidata.org/entity/Q2031672",
+   "http://www.wikidata.org/entity/Q4580949"
   ],
   [
    "http://www.wikidata.org/entity/Q2029799"
@@ -5313,16 +5028,10 @@
    "http://www.wikidata.org/entity/Q1732674"
   ],
   [
-   "http://www.wikidata.org/entity/Q1742381"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1742419"
   ],
   [
    "http://www.wikidata.org/entity/Q1750846"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1742337"
   ],
   [
    "http://www.wikidata.org/entity/Q1750732"
@@ -5374,9 +5083,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q1492156"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1493191"
   ],
   [
    "http://www.wikidata.org/entity/Q1478114"
@@ -5774,7 +5480,8 @@
    "http://www.wikidata.org/entity/Q1504172"
   ],
   [
-   "http://www.wikidata.org/entity/Q1512405"
+   "http://www.wikidata.org/entity/Q1512405",
+   "http://www.wikidata.org/entity/Q1943739"
   ],
   [
    "http://www.wikidata.org/entity/Q1501086"
@@ -5876,9 +5583,6 @@
    "http://www.wikidata.org/entity/Q2937732"
   ],
   [
-   "http://www.wikidata.org/entity/Q2963205"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2936398"
   ],
   [
@@ -5897,7 +5601,8 @@
    "http://www.wikidata.org/entity/Q2874645"
   ],
   [
-   "http://www.wikidata.org/entity/Q2800364"
+   "http://www.wikidata.org/entity/Q2800364",
+   "http://www.wikidata.org/entity/Q4346074"
   ],
   [
    "http://www.wikidata.org/entity/Q2976558"
@@ -5996,9 +5701,6 @@
    "http://www.wikidata.org/entity/Q2338813"
   ],
   [
-   "http://www.wikidata.org/entity/Q2342457"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2345999"
   ],
   [
@@ -6059,7 +5761,8 @@
    "http://www.wikidata.org/entity/Q1535787"
   ],
   [
-   "http://www.wikidata.org/entity/Q1537379"
+   "http://www.wikidata.org/entity/Q1537379",
+   "http://www.wikidata.org/entity/Q2125770"
   ],
   [
    "http://www.wikidata.org/entity/Q1527603"
@@ -6152,9 +5855,6 @@
    "http://www.wikidata.org/entity/Q2115190"
   ],
   [
-   "http://www.wikidata.org/entity/Q2118596"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2121867"
   ],
   [
@@ -6203,9 +5903,6 @@
    "http://www.wikidata.org/entity/Q2112169"
   ],
   [
-   "http://www.wikidata.org/entity/Q2125770"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2119528"
   ],
   [
@@ -6218,7 +5915,8 @@
    "http://www.wikidata.org/entity/Q2122334"
   ],
   [
-   "http://www.wikidata.org/entity/Q2122343"
+   "http://www.wikidata.org/entity/Q2122343",
+   "http://www.wikidata.org/entity/Q15841351"
   ],
   [
    "http://www.wikidata.org/entity/Q2122375"
@@ -6308,9 +6006,6 @@
    "http://www.wikidata.org/entity/Q2406106"
   ],
   [
-   "http://www.wikidata.org/entity/Q2405892"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2407759"
   ],
   [
@@ -6326,10 +6021,8 @@
    "http://www.wikidata.org/entity/Q2407803"
   ],
   [
-   "http://www.wikidata.org/entity/Q2350546"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q2356087"
+   "http://www.wikidata.org/entity/Q2350546",
+   "http://www.wikidata.org/entity/Q18631245"
   ],
   [
    "http://www.wikidata.org/entity/Q2359799"
@@ -6362,16 +6055,14 @@
    "http://www.wikidata.org/entity/Q2993680"
   ],
   [
-   "http://www.wikidata.org/entity/Q3057942"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2977803"
   ],
   [
    "http://www.wikidata.org/entity/Q2983011"
   ],
   [
-   "http://www.wikidata.org/entity/Q2995888"
+   "http://www.wikidata.org/entity/Q2995888",
+   "http://www.wikidata.org/entity/Q18630585"
   ],
   [
    "http://www.wikidata.org/entity/Q3064816"
@@ -6434,9 +6125,6 @@
    "http://www.wikidata.org/entity/Q1870730"
   ],
   [
-   "http://www.wikidata.org/entity/Q1810373"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1805331"
   ],
   [
@@ -6491,10 +6179,6 @@
    "http://www.wikidata.org/entity/Q1547176"
   ],
   [
-   "http://www.wikidata.org/entity/Q1546443",
-   "http://www.wikidata.org/entity/Q25835384"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2416457"
   ],
   [
@@ -6504,7 +6188,8 @@
    "http://www.wikidata.org/entity/Q2414453"
   ],
   [
-   "http://www.wikidata.org/entity/Q2415057"
+   "http://www.wikidata.org/entity/Q2415057",
+   "http://www.wikidata.org/entity/Q22583232"
   ],
   [
    "http://www.wikidata.org/entity/Q2421540"
@@ -6555,13 +6240,7 @@
    "http://www.wikidata.org/entity/Q1546559"
   ],
   [
-   "http://www.wikidata.org/entity/Q1547440"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1547070"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q2442132"
   ],
   [
    "http://www.wikidata.org/entity/Q2409193"
@@ -6571,9 +6250,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q3100809"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q3116971"
   ],
   [
    "http://www.wikidata.org/entity/Q3128712"
@@ -6618,7 +6294,8 @@
    "http://www.wikidata.org/entity/Q2179483"
   ],
   [
-   "http://www.wikidata.org/entity/Q2192310"
+   "http://www.wikidata.org/entity/Q2192310",
+   "http://www.wikidata.org/entity/Q11123"
   ],
   [
    "http://www.wikidata.org/entity/Q2153478"
@@ -6684,7 +6361,8 @@
    "http://www.wikidata.org/entity/Q1905557"
   ],
   [
-   "http://www.wikidata.org/entity/Q1887833"
+   "http://www.wikidata.org/entity/Q1887833",
+   "http://www.wikidata.org/entity/Q15833463"
   ],
   [
    "http://www.wikidata.org/entity/Q1929326"
@@ -6726,13 +6404,7 @@
    "http://www.wikidata.org/entity/Q1901286"
   ],
   [
-   "http://www.wikidata.org/entity/Q1918077"
-  ],
-  [
    "http://www.wikidata.org/entity/Q1918802"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1879642"
   ],
   [
    "http://www.wikidata.org/entity/Q2449935"
@@ -6754,9 +6426,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q2473529"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q2468640"
   ],
   [
    "http://www.wikidata.org/entity/Q2450815"
@@ -6855,7 +6524,8 @@
    "http://www.wikidata.org/entity/Q2201731"
   ],
   [
-   "http://www.wikidata.org/entity/Q2212048"
+   "http://www.wikidata.org/entity/Q2212048",
+   "http://www.wikidata.org/entity/Q19308363"
   ],
   [
    "http://www.wikidata.org/entity/Q2220610"
@@ -6900,9 +6570,6 @@
    "http://www.wikidata.org/entity/Q2252280"
   ],
   [
-   "http://www.wikidata.org/entity/Q2235847"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2210774"
   ],
   [
@@ -6945,16 +6612,10 @@
    "http://www.wikidata.org/entity/Q3236732"
   ],
   [
-   "http://www.wikidata.org/entity/Q3278265"
-  ],
-  [
    "http://www.wikidata.org/entity/Q3199750"
   ],
   [
    "http://www.wikidata.org/entity/Q1934728"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1934733"
   ],
   [
    "http://www.wikidata.org/entity/Q1934986"
@@ -6973,9 +6634,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q1943235"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1943739"
   ],
   [
    "http://www.wikidata.org/entity/Q1944160"
@@ -6997,9 +6655,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q1958200"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q1942514"
   ],
   [
    "http://www.wikidata.org/entity/Q1952089"
@@ -7111,9 +6766,6 @@
    "http://www.wikidata.org/entity/Q4329200"
   ],
   [
-   "http://www.wikidata.org/entity/Q4346074"
-  ],
-  [
    "http://www.wikidata.org/entity/Q4358205"
   ],
   [
@@ -7141,7 +6793,8 @@
    "http://www.wikidata.org/entity/Q2484475"
   ],
   [
-   "http://www.wikidata.org/entity/Q2516030"
+   "http://www.wikidata.org/entity/Q2516030",
+   "http://www.wikidata.org/entity/Q2614981"
   ],
   [
    "http://www.wikidata.org/entity/Q2505102"
@@ -7393,12 +7046,6 @@
    "http://www.wikidata.org/entity/Q2530420"
   ],
   [
-   "http://www.wikidata.org/entity/Q2276380"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q2296171"
-  ],
-  [
    "http://www.wikidata.org/entity/Q4466084"
   ],
   [
@@ -7528,12 +7175,6 @@
    "http://www.wikidata.org/entity/Q4538442"
   ],
   [
-   "http://www.wikidata.org/entity/Q4580949"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4748130"
-  ],
-  [
    "http://www.wikidata.org/entity/Q4830131"
   ],
   [
@@ -7597,7 +7238,8 @@
    "http://www.wikidata.org/entity/Q3523906"
   ],
   [
-   "http://www.wikidata.org/entity/Q3446398"
+   "http://www.wikidata.org/entity/Q3446398",
+   "http://www.wikidata.org/entity/Q14624240"
   ],
   [
    "http://www.wikidata.org/entity/Q3565837"
@@ -7619,9 +7261,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q2291943"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q2295694"
   ],
   [
    "http://www.wikidata.org/entity/Q2297735"
@@ -7654,9 +7293,6 @@
    "http://www.wikidata.org/entity/Q2297168"
   ],
   [
-   "http://www.wikidata.org/entity/Q4514998"
-  ],
-  [
    "http://www.wikidata.org/entity/Q3499947"
   ],
   [
@@ -7664,6 +7300,9 @@
   ],
   [
    "http://www.wikidata.org/entity/Q3395194"
+  ],
+  [
+   "http://www.wikidata.org/entity/Q3400492"
   ],
   [
    "http://www.wikidata.org/entity/Q3430025"
@@ -7685,9 +7324,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q3412320"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q11034997"
   ],
   [
    "http://www.wikidata.org/entity/Q11137119"
@@ -7742,9 +7378,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q2586156"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q2614981"
   ],
   [
    "http://www.wikidata.org/entity/Q2601873"
@@ -7876,9 +7509,6 @@
    "http://www.wikidata.org/entity/Q11243905"
   ],
   [
-   "http://www.wikidata.org/entity/Q2561163"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2559685"
   ],
   [
@@ -7984,7 +7614,8 @@
    "http://www.wikidata.org/entity/Q5139324"
   ],
   [
-   "http://www.wikidata.org/entity/Q11925390"
+   "http://www.wikidata.org/entity/Q11925390",
+   "http://www.wikidata.org/entity/Q9002764"
   ],
   [
    "http://www.wikidata.org/entity/Q11927192"
@@ -8008,17 +7639,14 @@
    "http://www.wikidata.org/entity/Q11941352"
   ],
   [
-   "http://www.wikidata.org/entity/Q11410513"
+   "http://www.wikidata.org/entity/Q11410513",
+   "http://www.wikidata.org/entity/Q18413337"
   ],
   [
    "http://www.wikidata.org/entity/Q11664412"
   ],
   [
    "http://www.wikidata.org/entity/Q11916271"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q11348804",
-   "http://www.wikidata.org/entity/Q10317923"
   ],
   [
    "http://www.wikidata.org/entity/Q11356846"
@@ -8105,9 +7733,6 @@
    "http://www.wikidata.org/entity/Q3751680"
   ],
   [
-   "http://www.wikidata.org/entity/Q3676321"
-  ],
-  [
    "http://www.wikidata.org/entity/Q3682407"
   ],
   [
@@ -8123,7 +7748,8 @@
    "http://www.wikidata.org/entity/Q3751676"
   ],
   [
-   "http://www.wikidata.org/entity/Q3774493"
+   "http://www.wikidata.org/entity/Q3774493",
+   "http://www.wikidata.org/entity/Q3902737"
   ],
   [
    "http://www.wikidata.org/entity/Q3654600"
@@ -8348,9 +7974,7 @@
    "http://www.wikidata.org/entity/Q12339940"
   ],
   [
-   "http://www.wikidata.org/entity/Q12311491"
-  ],
-  [
+   "http://www.wikidata.org/entity/Q12311491",
    "http://www.wikidata.org/entity/Q12311495"
   ],
   [
@@ -8444,13 +8068,7 @@
    "http://www.wikidata.org/entity/Q2670280"
   ],
   [
-   "http://www.wikidata.org/entity/Q2720762"
-  ],
-  [
    "http://www.wikidata.org/entity/Q2713155"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q2724871"
   ],
   [
    "http://www.wikidata.org/entity/Q2698054"
@@ -8487,9 +8105,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q3778763"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q3809228"
   ],
   [
    "http://www.wikidata.org/entity/Q3833307"
@@ -8603,7 +8218,8 @@
    "http://www.wikidata.org/entity/Q15847756"
   ],
   [
-   "http://www.wikidata.org/entity/Q15849257"
+   "http://www.wikidata.org/entity/Q15849257",
+   "http://www.wikidata.org/entity/Q18413251"
   ],
   [
    "http://www.wikidata.org/entity/Q15841354"
@@ -8759,16 +8375,14 @@
    "http://www.wikidata.org/entity/Q15844173"
   ],
   [
-   "http://www.wikidata.org/entity/Q15849450"
-  ],
-  [
    "http://www.wikidata.org/entity/Q15848165"
   ],
   [
    "http://www.wikidata.org/entity/Q15841830"
   ],
   [
-   "http://www.wikidata.org/entity/Q15848772"
+   "http://www.wikidata.org/entity/Q15848772",
+   "http://www.wikidata.org/entity/Q18334241"
   ],
   [
    "http://www.wikidata.org/entity/Q15843335"
@@ -8828,12 +8442,6 @@
    "http://www.wikidata.org/entity/Q3951942"
   ],
   [
-   "http://www.wikidata.org/entity/Q3902737"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q6428674"
-  ],
-  [
    "http://www.wikidata.org/entity/Q6145487"
   ],
   [
@@ -8843,7 +8451,8 @@
    "http://www.wikidata.org/entity/Q5942184"
   ],
   [
-   "http://www.wikidata.org/entity/Q5831606"
+   "http://www.wikidata.org/entity/Q5831606",
+   "http://www.wikidata.org/entity/Q15808055"
   ],
   [
    "http://www.wikidata.org/entity/Q5835793"
@@ -9026,9 +8635,6 @@
    "http://www.wikidata.org/entity/Q15967508"
   ],
   [
-   "http://www.wikidata.org/entity/Q15851629"
-  ],
-  [
    "http://www.wikidata.org/entity/Q16054551"
   ],
   [
@@ -9173,9 +8779,6 @@
    "http://www.wikidata.org/entity/Q21045327"
   ],
   [
-   "http://www.wikidata.org/entity/Q21087179"
-  ],
-  [
    "http://www.wikidata.org/entity/Q21079247"
   ],
   [
@@ -9191,9 +8794,6 @@
    "http://www.wikidata.org/entity/Q13402968"
   ],
   [
-   "http://www.wikidata.org/entity/Q14333713"
-  ],
-  [
    "http://www.wikidata.org/entity/Q14515278"
   ],
   [
@@ -9204,9 +8804,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q14397063"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q13530508"
   ],
   [
    "http://www.wikidata.org/entity/Q4008482"
@@ -9257,9 +8854,6 @@
    "http://www.wikidata.org/entity/Q16783523"
   ],
   [
-   "http://www.wikidata.org/entity/Q16319144"
-  ],
-  [
    "http://www.wikidata.org/entity/Q16830368"
   ],
   [
@@ -9270,9 +8864,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q16295364"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q16830567"
   ],
   [
    "http://www.wikidata.org/entity/Q16320489"
@@ -9290,10 +8881,8 @@
    "http://www.wikidata.org/entity/Q4043030"
   ],
   [
-   "http://www.wikidata.org/entity/Q6579586"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q6502030"
+   "http://www.wikidata.org/entity/Q6579586",
+   "http://www.wikidata.org/entity/Q36384"
   ],
   [
    "http://www.wikidata.org/entity/Q6799778"
@@ -9320,7 +8909,8 @@
    "http://www.wikidata.org/entity/Q16216397"
   ],
   [
-   "http://www.wikidata.org/entity/Q16218806"
+   "http://www.wikidata.org/entity/Q16218806",
+   "http://www.wikidata.org/entity/Q16320373"
   ],
   [
    "http://www.wikidata.org/entity/Q16219112"
@@ -9336,9 +8926,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q16300289"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q16320373"
   ],
   [
    "http://www.wikidata.org/entity/Q16321007"
@@ -9449,9 +9036,6 @@
    "http://www.wikidata.org/entity/Q16269238"
   ],
   [
-   "http://www.wikidata.org/entity/Q21597762"
-  ],
-  [
    "http://www.wikidata.org/entity/Q21741343"
   ],
   [
@@ -9459,9 +9043,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q21282180"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q21281991"
   ],
   [
    "http://www.wikidata.org/entity/Q21395834"
@@ -9506,13 +9087,7 @@
    "http://www.wikidata.org/entity/Q15078648"
   ],
   [
-   "http://www.wikidata.org/entity/Q14624240"
-  ],
-  [
    "http://www.wikidata.org/entity/Q14689009"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q14914907"
   ],
   [
    "http://www.wikidata.org/entity/Q14917520"
@@ -9609,9 +9184,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q4055449"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4133026"
   ],
   [
    "http://www.wikidata.org/entity/Q4077322"
@@ -9713,9 +9285,6 @@
    "http://www.wikidata.org/entity/Q16831533"
   ],
   [
-   "http://www.wikidata.org/entity/Q16878358"
-  ],
-  [
    "http://www.wikidata.org/entity/Q16832641"
   ],
   [
@@ -9737,16 +9306,10 @@
    "http://www.wikidata.org/entity/Q16930837"
   ],
   [
-   "http://www.wikidata.org/entity/Q16930882"
-  ],
-  [
    "http://www.wikidata.org/entity/Q17123618"
   ],
   [
    "http://www.wikidata.org/entity/Q17122889"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q16837804"
   ],
   [
    "http://www.wikidata.org/entity/Q16830783"
@@ -9861,9 +9424,6 @@
    "http://www.wikidata.org/entity/Q23931245"
   ],
   [
-   "http://www.wikidata.org/entity/Q16831316"
-  ],
-  [
    "http://www.wikidata.org/entity/Q17123655"
   ],
   [
@@ -9898,9 +9458,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q22583224"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q22282192"
   ],
   [
    "http://www.wikidata.org/entity/Q22583223"
@@ -10002,9 +9559,6 @@
    "http://www.wikidata.org/entity/Q22583190"
   ],
   [
-   "http://www.wikidata.org/entity/Q22583232"
-  ],
-  [
    "http://www.wikidata.org/entity/Q23199031"
   ],
   [
@@ -10089,9 +9643,6 @@
    "http://www.wikidata.org/entity/Q22583187"
   ],
   [
-   "http://www.wikidata.org/entity/Q22583225"
-  ],
-  [
    "http://www.wikidata.org/entity/Q22583210"
   ],
   [
@@ -10114,9 +9665,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q7574000"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q7565877"
   ],
   [
    "http://www.wikidata.org/entity/Q15179199"
@@ -10194,9 +9742,6 @@
    "http://www.wikidata.org/entity/Q7604389"
   ],
   [
-   "http://www.wikidata.org/entity/Q17310364"
-  ],
-  [
    "http://www.wikidata.org/entity/Q17578153"
   ],
   [
@@ -10215,16 +9760,10 @@
    "http://www.wikidata.org/entity/Q17322706"
   ],
   [
-   "http://www.wikidata.org/entity/Q17325659"
-  ],
-  [
    "http://www.wikidata.org/entity/Q17322818"
   ],
   [
    "http://www.wikidata.org/entity/Q17124178"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q17124932"
   ],
   [
    "http://www.wikidata.org/entity/Q17126830"
@@ -10274,9 +9813,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q17301921"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q17310338"
   ],
   [
    "http://www.wikidata.org/entity/Q17310590"
@@ -10450,9 +9986,6 @@
    "http://www.wikidata.org/entity/Q17127923"
   ],
   [
-   "http://www.wikidata.org/entity/Q17322994"
-  ],
-  [
    "http://www.wikidata.org/entity/Q17127748"
   ],
   [
@@ -10469,9 +10002,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q17127819"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q24564698"
   ],
   [
    "http://www.wikidata.org/entity/Q23210633"
@@ -10672,9 +10202,6 @@
    "http://www.wikidata.org/entity/Q15790964"
   ],
   [
-   "http://www.wikidata.org/entity/Q15793646"
-  ],
-  [
    "http://www.wikidata.org/entity/Q15785373"
   ],
   [
@@ -10800,7 +10327,8 @@
   [
    "http://www.wikidata.org/entity/Q10261896",
    "http://www.wikidata.org/entity/Q8351983",
-   "http://www.wikidata.org/entity/Q10261894"
+   "http://www.wikidata.org/entity/Q10261894",
+   "http://www.wikidata.org/entity/Q32361"
   ],
   [
    "http://www.wikidata.org/entity/Q7807840"
@@ -10831,9 +10359,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q7629136"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q9002764"
   ],
   [
    "http://www.wikidata.org/entity/Q8024928"
@@ -10914,16 +10439,7 @@
    "http://www.wikidata.org/entity/Q18411013"
   ],
   [
-   "http://www.wikidata.org/entity/Q18334345"
-  ],
-  [
    "http://www.wikidata.org/entity/Q18029060"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q18334241"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q18413337"
   ],
   [
    "http://www.wikidata.org/entity/Q18435459"
@@ -11061,9 +10577,6 @@
    "http://www.wikidata.org/entity/Q18019163"
   ],
   [
-   "http://www.wikidata.org/entity/Q18413251"
-  ],
-  [
    "http://www.wikidata.org/entity/Q18018952"
   ],
   [
@@ -11137,9 +10650,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q25835436"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q25840166"
   ],
   [
    "http://www.wikidata.org/entity/Q25906460"
@@ -11280,9 +10790,6 @@
    "http://www.wikidata.org/entity/Q15807671"
   ],
   [
-   "http://www.wikidata.org/entity/Q15808055"
-  ],
-  [
    "http://www.wikidata.org/entity/Q15808637"
   ],
   [
@@ -11347,9 +10854,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q15824257"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q15806533"
   ],
   [
    "http://www.wikidata.org/entity/Q15807507"
@@ -11511,9 +11015,6 @@
    "http://www.wikidata.org/entity/Q10786319"
   ],
   [
-   "http://www.wikidata.org/entity/Q10839915"
-  ],
-  [
    "http://www.wikidata.org/entity/Q10824902"
   ],
   [
@@ -11646,12 +11147,6 @@
    "http://www.wikidata.org/entity/Q18630448"
   ],
   [
-   "http://www.wikidata.org/entity/Q18695775"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q18626266"
-  ],
-  [
    "http://www.wikidata.org/entity/Q18628797"
   ],
   [
@@ -11692,9 +11187,6 @@
   ],
   [
    "http://www.wikidata.org/entity/Q19259735"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q18630585"
   ],
   [
    "http://www.wikidata.org/entity/Q19274587"
@@ -11850,13 +11342,7 @@
    "http://www.wikidata.org/entity/Q18620508"
   ],
   [
-   "http://www.wikidata.org/entity/Q18631245"
-  ],
-  [
    "http://www.wikidata.org/entity/Q19279716"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q25907674"
   ],
   [
    "http://www.wikidata.org/entity/Q25909383"
@@ -12072,16 +11558,10 @@
    "http://www.wikidata.org/entity/Q15825082"
   ],
   [
-   "http://www.wikidata.org/entity/Q15833463"
-  ],
-  [
    "http://www.wikidata.org/entity/Q15838059"
   ],
   [
    "http://www.wikidata.org/entity/Q15839594"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q15841351"
   ],
   [
    "http://www.wikidata.org/entity/Q15840897"
@@ -12201,9 +11681,6 @@
    "http://www.wikidata.org/entity/Q15841235"
   ],
   [
-   "http://www.wikidata.org/entity/Q19910723"
-  ],
-  [
    "http://www.wikidata.org/entity/Q19298927"
   ],
   [
@@ -12318,9 +11795,6 @@
    "http://www.wikidata.org/entity/Q19903301"
   ],
   [
-   "http://www.wikidata.org/entity/Q19308363"
-  ],
-  [
    "http://www.wikidata.org/entity/Q19287760"
   ],
   [
@@ -12381,22 +11855,11 @@
    "http://www.wikidata.org/entity/Q19912423"
   ],
   [
-   "http://www.wikidata.org/entity/Q19717286"
-  ],
-  [
    "http://www.wikidata.org/entity/Q19713298"
   ],
   [
-   "http://www.wikidata.org/entity/Q4595"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4594"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4592"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q26221041"
+   "http://www.wikidata.org/entity/Q26221041",
+   "http://www.wikidata.org/entity/Q27949624"
   ],
   [
    "http://www.wikidata.org/entity/Q26244070"
@@ -12441,12 +11904,6 @@
    "http://www.wikidata.org/entity/Q26267938"
   ],
   [
-   "http://www.wikidata.org/entity/Q4598"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4596"
-  ],
-  [
    "http://www.wikidata.org/entity/Q20183917"
   ],
   [
@@ -12459,9 +11916,6 @@
    "http://www.wikidata.org/entity/Q20508519"
   ],
   [
-   "http://www.wikidata.org/entity/Q20578045"
-  ],
-  [
    "http://www.wikidata.org/entity/Q19971645"
   ],
   [
@@ -12471,13 +11925,11 @@
    "http://www.wikidata.org/entity/Q20827224"
   ],
   [
-   "http://www.wikidata.org/entity/Q20827394"
+   "http://www.wikidata.org/entity/Q20827394",
+   "http://www.wikidata.org/entity/Q20827393"
   ],
   [
    "http://www.wikidata.org/entity/Q20827395"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q20827393"
   ],
   [
    "http://www.wikidata.org/entity/Q20827189"
@@ -12624,12 +12076,6 @@
    "http://www.wikidata.org/entity/Q27926203"
   ],
   [
-   "http://www.wikidata.org/entity/Q27949624"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q26268024"
-  ],
-  [
    "http://www.wikidata.org/entity/Q27998984"
   ],
   [
@@ -12753,9 +12199,6 @@
    "http://www.wikidata.org/entity/Q21002847"
   ],
   [
-   "http://www.wikidata.org/entity/Q20828499"
-  ],
-  [
    "http://www.wikidata.org/entity/Q20850794"
   ],
   [
@@ -12795,43 +12238,10 @@
    "http://www.wikidata.org/entity/Q20828808"
   ],
   [
-   "http://www.wikidata.org/entity/Q4608"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4587"
-  ],
-  [
    "http://www.wikidata.org/entity/Q4406"
   ],
   [
-   "http://www.wikidata.org/entity/Q3582"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4719"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4613"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4591"
-  ],
-  [
    "http://www.wikidata.org/entity/Q15788"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q14083"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4734"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4588"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4741"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q4823"
   ],
   [
    "http://www.wikidata.org/entity/Q16068"
@@ -12861,15 +12271,6 @@
    "http://www.wikidata.org/entity/Q28522"
   ],
   [
-   "http://www.wikidata.org/entity/Q41588"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q35881"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q32361"
-  ],
-  [
    "http://www.wikidata.org/entity/Q42764"
   ],
   [
@@ -12885,19 +12286,10 @@
    "http://www.wikidata.org/entity/Q35921"
   ],
   [
-   "http://www.wikidata.org/entity/Q36384"
-  ],
-  [
    "http://www.wikidata.org/entity/Q43940"
   ],
   [
-   "http://www.wikidata.org/entity/Q39099"
-  ],
-  [
    "http://www.wikidata.org/entity/Q44904"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q47190"
   ],
   [
    "http://www.wikidata.org/entity/Q39274"
@@ -12920,10 +12312,6 @@
   [
    "http://purl.oclc.org/NET/muo/ucum/unit/acceleration/standard-acceleration-of-free-fall",
    "http://purl.oclc.org/NET/ssnx/qu/unit#standardAccelerationOfFreeFall"
-  ],
-  [
-   "http://purl.oclc.org/NET/muo/ucum/unit/length/light-year",
-   "http://www.wikidata.org/entity/Q531"
   ],
   [
    "http://purl.oclc.org/NET/muo/ucum/unit/length/inch-1",
@@ -13006,16 +12394,9 @@
    "http://www.wurvoc.org/vocabularies/om-1.8/calorie-20_C"
   ],
   [
-   "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit-at-39_F",
-   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-39_F"
-  ],
-  [
-   "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit-at-59_F",
-   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-59_F"
-  ],
-  [
-   "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit-at-60_F",
-   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-60_F"
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit",
+   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-thermochemical",
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/thermochemical-British-thermal-unit"
   ],
   [
    "http://purl.oclc.org/NET/muo/ucum/unit/refraction-of-a-lens/diopter",
@@ -13046,18 +12427,6 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerSquareInchAbsolute"
   ],
   [
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Gallon",
-   "http://www.wikidata.org/entity/Q178413",
-   "http://www.wikidata.org/entity/Q5519125",
-   "http://www.wikidata.org/entity/Q23925410",
-   "http://www.wikidata.org/entity/Q23925413",
-   "http://www.wikidata.org/entity/Q23925527"
-  ],
-  [
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Grad",
-   "http://qudt.org/vocab/unit#Grad"
-  ],
-  [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#GramPerGram",
    "http://www.wurvoc.org/vocabularies/om-1.8/gram_per_gram"
   ],
@@ -13066,24 +12435,8 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#litrePerSecond"
   ],
   [
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Mile",
-   "http://www.wikidata.org/entity/Q253276"
-  ],
-  [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Number",
    "http://qudt.org/vocab/unit#Number"
-  ],
-  [
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pint",
-   "http://www.wikidata.org/entity/Q11123"
-  ],
-  [
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Quart",
-   "http://www.wikidata.org/entity/Q1058120"
-  ],
-  [
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Ton",
-   "http://www.wikidata.org/entity/Q11247037"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/fermi",
@@ -13150,10 +12503,6 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#fluidOunceUs"
   ],
   [
-   "http://www.wurvoc.org/vocabularies/om-1.8/ton-register",
-   "http://qudt.org/vocab/unit#RegisterTon"
-  ],
-  [
    "http://www.wurvoc.org/vocabularies/om-1.8/one",
    "http://purl.oclc.org/NET/ssnx/qu/unit#one"
   ],
@@ -13174,12 +12523,12 @@
    "http://qudt.org/vocab/unit#MeterKelvin"
   ],
   [
-   "http://www.wurvoc.org/vocabularies/om-1.8/second-time_squared",
-   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#secondSquared"
-  ],
-  [
    "http://www.wurvoc.org/vocabularies/om-1.8/second-time_to_the_power_-2",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perSecondSquared"
+  ],
+  [
+   "http://www.wurvoc.org/vocabularies/om-1.8/mile-statute_per_hour",
+   "http://www.wikidata.org/entity/Q211256"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/newton_per_square_metre",
@@ -13192,6 +12541,10 @@
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/calorie-mean",
    "http://purl.oclc.org/NET/muo/ucum/unit/energy/mean-calorie"
+  ],
+  [
+   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-mean",
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/mean-British-thermal-unit"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/foot_poundal",
@@ -13228,10 +12581,6 @@
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/unit_pole",
    "http://qudt.org/vocab/unit#UnitPole"
-  ],
-  [
-   "http://www.wurvoc.org/vocabularies/om-1.8/gamma",
-   "http://qudt.org/vocab/unit#Gamma"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/mole_per_second-time",
@@ -13303,10 +12652,6 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#wattPerSteradianSquareMetre"
   ],
   [
-   "http://www.wurvoc.org/vocabularies/om-1.8/United_States_dollar",
-   "http://www.wikidata.org/entity/Q4917"
-  ],
-  [
    "http://www.wurvoc.org/vocabularies/om-1.8/reciprocal_kelvin",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perKelvin"
   ],
@@ -13335,6 +12680,10 @@
    "http://qudt.org/vocab/unit#DegreePerSecond"
   ],
   [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#standardCubicFoot",
+   "http://www.wikidata.org/entity/Q350023"
+  ],
+  [
    "http://purl.oclc.org/NET/ssnx/qu/unit#peck",
    "http://www.wikidata.org/entity/Q351646"
   ],
@@ -13360,6 +12709,11 @@
   ],
   [
    "http://purl.oclc.org/NET/ssnx/qu/unit#ounce",
+   "http://www.wikidata.org/entity/Q420266",
+   "http://www.wikidata.org/entity/Q1052833",
+   "http://www.wikidata.org/entity/Q1645564",
+   "http://www.wikidata.org/entity/Q25840166",
+   "http://www.wikidata.org/entity/Q19717286",
    "http://www.wikidata.org/entity/Q48013"
   ],
   [
@@ -13413,10 +12767,6 @@
   [
    "http://purl.oclc.org/NET/ssnx/qu/unit#wattSecond",
    "http://www.wikidata.org/entity/Q7974920"
-  ],
-  [
-   "http://purl.oclc.org/NET/ssnx/qu/unit#poundForcePerSquareInch",
-   "http://qudt.org/vocab/unit#PoundForcePerSquareInch"
   ],
   [
    "http://purl.oclc.org/NET/ssnx/qu/unit#footOfWater",
@@ -13539,12 +12889,12 @@
    "http://qudt.org/vocab/unit#AmpereHour"
   ],
   [
-   "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
-   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ohmMeter"
-  ],
-  [
    "http://purl.oclc.org/NET/ssnx/qu/unit#voltAmpere",
    "http://www.wikidata.org/entity/Q550341"
+  ],
+  [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#var",
+   "http://www.wikidata.org/entity/Q630369"
   ],
   [
    "http://purl.oclc.org/NET/ssnx/qu/unit#lumenPerWatt",
@@ -13579,10 +12929,6 @@
    "http://www.wikidata.org/entity/Q1790908"
   ],
   [
-   "http://qudt.org/vocab/unit#CubanPeso",
-   "http://www.wikidata.org/entity/Q201505"
-  ],
-  [
    "http://qudt.org/vocab/unit#EgyptianPound",
    "http://www.wikidata.org/entity/Q199462"
   ],
@@ -13596,8 +12942,17 @@
    "http://www.wikidata.org/entity/Q206243"
   ],
   [
+   "http://qudt.org/vocab/unit#Loti",
+   "http://www.wikidata.org/entity/Q208039"
+  ],
+  [
    "http://qudt.org/vocab/unit#SerbianDinar",
-   "http://www.wikidata.org/entity/Q172524"
+   "http://www.wikidata.org/entity/Q172524",
+   "http://qudt.org/vocab/unit#Denar",
+   "http://www.wikidata.org/entity/Q177875",
+   "http://www.wikidata.org/entity/Q191830",
+   "http://qudt.org/vocab/unit#TunisianDinar",
+   "http://www.wikidata.org/entity/Q4602"
   ],
   [
    "http://qudt.org/vocab/unit#SlovakKoruna",
@@ -13609,7 +12964,17 @@
   ],
   [
    "http://qudt.org/vocab/unit#Som",
-   "http://www.wikidata.org/entity/Q2361916"
+   "http://www.wikidata.org/entity/Q487888",
+   "http://www.wikidata.org/entity/Q2361916",
+   "http://www.wikidata.org/entity/Q35881"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Ouguiya",
+   "http://www.wikidata.org/entity/Q207024"
+  ],
+  [
+   "http://qudt.org/vocab/unit#ZimbabweDollar",
+   "http://www.wikidata.org/entity/Q182803"
   ],
   [
    "http://qudt.org/vocab/unit#SaudiRiyal",
@@ -13624,6 +12989,10 @@
    "http://www.wikidata.org/entity/Q174467"
   ],
   [
+   "http://qudt.org/vocab/unit#Baht",
+   "http://www.wikidata.org/entity/Q177882"
+  ],
+  [
    "http://qudt.org/vocab/unit#JamaicanDollar",
    "http://www.wikidata.org/entity/Q209792"
   ],
@@ -13636,20 +13005,41 @@
    "http://www.wikidata.org/entity/Q24666811"
   ],
   [
+   "http://qudt.org/vocab/unit#Tenge",
+   "http://www.wikidata.org/entity/Q173751"
+  ],
+  [
    "http://qudt.org/vocab/unit#SolomonIslandsDollar",
    "http://www.wikidata.org/entity/Q4597"
   ],
   [
    "http://qudt.org/vocab/unit#Rod",
-   "http://www.wikidata.org/entity/Q1165588"
+   "http://www.wikidata.org/entity/Q1165588",
+   "http://www.wikidata.org/entity/Q2561163",
+   "http://www.wikidata.org/entity/Q7565877"
   ],
   [
    "http://qudt.org/vocab/unit#BulgarianLev",
    "http://www.wikidata.org/entity/Q172540"
   ],
   [
+   "http://qudt.org/vocab/unit#Metical",
+   "http://www.wikidata.org/entity/Q200753"
+  ],
+  [
+   "http://qudt.org/vocab/unit#SriLankaRupee",
+   "http://www.wikidata.org/entity/Q178843",
+   "http://www.wikidata.org/entity/Q188289",
+   "http://www.wikidata.org/entity/Q4595",
+   "http://www.wikidata.org/entity/Q4596"
+  ],
+  [
    "http://qudt.org/vocab/unit#SouthAfricanRand",
    "http://www.wikidata.org/entity/Q181907"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Lilangeni",
+   "http://www.wikidata.org/entity/Q4823"
   ],
   [
    "http://qudt.org/vocab/unit#Denier",
@@ -13661,6 +13051,7 @@
   ],
   [
    "http://qudt.org/vocab/unit#NewTurkishLira",
+   "http://www.wikidata.org/entity/Q172872",
    "http://www.wikidata.org/entity/Q14961002"
   ],
   [
@@ -13672,12 +13063,13 @@
    "http://www.wikidata.org/entity/Q193094"
   ],
   [
-   "http://qudt.org/vocab/unit#SaintHelenaPound",
-   "http://www.wikidata.org/entity/Q374453"
+   "http://qudt.org/vocab/unit#Pataca",
+   "http://www.wikidata.org/entity/Q241214",
+   "http://www.wikidata.org/entity/Q2032019"
   ],
   [
-   "http://qudt.org/vocab/unit#DominicanPeso",
-   "http://www.wikidata.org/entity/Q242922"
+   "http://qudt.org/vocab/unit#SaintHelenaPound",
+   "http://www.wikidata.org/entity/Q374453"
   ],
   [
    "http://qudt.org/vocab/unit#MoroccanDirham",
@@ -13688,12 +13080,29 @@
    "http://www.wikidata.org/entity/Q201871"
   ],
   [
+   "http://qudt.org/vocab/unit#Quetzal",
+   "http://www.wikidata.org/entity/Q207396"
+  ],
+  [
    "http://qudt.org/vocab/unit#NewTaiwanDollar",
    "http://www.wikidata.org/entity/Q208526"
   ],
   [
+   "http://qudt.org/vocab/unit#Tugrik",
+   "http://www.wikidata.org/entity/Q183435"
+  ],
+  [
    "http://qudt.org/vocab/unit#YemeniRial",
    "http://www.wikidata.org/entity/Q240512"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Manat",
+   "http://www.wikidata.org/entity/Q486637",
+   "http://www.wikidata.org/entity/Q483725"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Lempira",
+   "http://www.wikidata.org/entity/Q4719"
   ],
   [
    "http://qudt.org/vocab/unit#PlanckPressure",
@@ -13720,6 +13129,10 @@
    "http://www.wikidata.org/entity/Q204737"
   ],
   [
+   "http://qudt.org/vocab/unit#Nakfa",
+   "http://www.wikidata.org/entity/Q171503"
+  ],
+  [
    "http://qudt.org/vocab/unit#Lek",
    "http://www.wikidata.org/entity/Q125999"
   ],
@@ -13732,12 +13145,19 @@
    "http://www.wikidata.org/entity/Q319885"
   ],
   [
+   "http://qudt.org/vocab/unit#Afghani",
+   "http://www.wikidata.org/entity/Q199471"
+  ],
+  [
    "http://qudt.org/vocab/unit#PlanckEnergy",
    "http://www.wikidata.org/entity/Q913365"
   ],
   [
    "http://qudt.org/vocab/unit#TanzanianShilling",
-   "http://www.wikidata.org/entity/Q4589"
+   "http://www.wikidata.org/entity/Q4589",
+   "http://www.wikidata.org/entity/Q4598",
+   "http://qudt.org/vocab/unit#SomaliShilling",
+   "http://www.wikidata.org/entity/Q4603"
   ],
   [
    "http://qudt.org/vocab/unit#ArcMinute",
@@ -13748,8 +13168,24 @@
    "http://www.wikidata.org/entity/Q974493"
   ],
   [
+   "http://qudt.org/vocab/unit#Ngultrum",
+   "http://www.wikidata.org/entity/Q201799"
+  ],
+  [
    "http://qudt.org/vocab/unit#BurundianFranc",
    "http://www.wikidata.org/entity/Q238007"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Paanga",
+   "http://www.wikidata.org/entity/Q4613"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Kwanza",
+   "http://www.wikidata.org/entity/Q200337"
+  ],
+  [
+   "http://qudt.org/vocab/unit#SamoanTala",
+   "http://www.wikidata.org/entity/Q4588"
   ],
   [
    "http://qudt.org/vocab/unit#JordanianDinar",
@@ -13772,8 +13208,12 @@
    "http://www.wikidata.org/entity/Q240468"
   ],
   [
-   "http://qudt.org/vocab/unit#Nat",
-   "http://www.wikidata.org/entity/Q376660"
+   "http://qudt.org/vocab/unit#HaitiGourde",
+   "http://www.wikidata.org/entity/Q203955"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Kroon",
+   "http://www.wikidata.org/entity/Q129983"
   ],
   [
    "http://qudt.org/vocab/unit#BelizeDollar",
@@ -13781,47 +13221,51 @@
   ],
   [
    "http://qudt.org/vocab/unit#Hryvnia",
-   "http://www.wikidata.org/entity/Q81893"
+   "http://www.wikidata.org/entity/Q81893",
+   "http://www.wikidata.org/entity/Q2468640"
   ],
   [
    "http://qudt.org/vocab/unit#PlanckPower",
    "http://www.wikidata.org/entity/Q914151"
   ],
   [
-   "http://qudt.org/vocab/unit#PhilippinePeso",
-   "http://www.wikidata.org/entity/Q17193"
-  ],
-  [
-   "http://qudt.org/vocab/unit#TunisianDinar",
-   "http://www.wikidata.org/entity/Q4602"
-  ],
-  [
-   "http://qudt.org/vocab/unit#NorthKoreanWon",
-   "http://www.wikidata.org/entity/Q106720"
-  ],
-  [
    "http://qudt.org/vocab/unit#Tablespoon",
-   "http://www.wikidata.org/entity/Q2002583"
+   "http://www.wikidata.org/entity/Q2002583",
+   "http://www.wikidata.org/entity/Q1879642"
   ],
   [
    "http://qudt.org/vocab/unit#IranianRial",
    "http://www.wikidata.org/entity/Q188608"
   ],
   [
+   "http://qudt.org/vocab/unit#Vatu",
+   "http://www.wikidata.org/entity/Q207523"
+  ],
+  [
    "http://qudt.org/vocab/unit#MeterPerHour",
    "http://www.wikidata.org/entity/Q17093295"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Somoni",
+   "http://www.wikidata.org/entity/Q199886"
   ],
   [
    "http://qudt.org/vocab/unit#LithuanianLitas",
    "http://www.wikidata.org/entity/Q25627"
   ],
   [
-   "http://qudt.org/vocab/unit#SomaliShilling",
-   "http://www.wikidata.org/entity/Q4603"
-  ],
-  [
    "http://qudt.org/vocab/unit#BruneiDollar",
    "http://www.wikidata.org/entity/Q206319"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Cedi",
+   "http://www.wikidata.org/entity/Q183530"
+  ],
+  [
+   "http://qudt.org/vocab/unit#NuevoSol",
+   "http://www.wikidata.org/entity/Q204656",
+   "http://www.wikidata.org/entity/Q904031",
+   "http://www.wikidata.org/entity/Q16837804"
   ],
   [
    "http://qudt.org/vocab/unit#PlanckTime",
@@ -13829,7 +13273,12 @@
   ],
   [
    "http://qudt.org/vocab/unit#VietnameseDong",
-   "http://www.wikidata.org/entity/Q192090"
+   "http://www.wikidata.org/entity/Q192090",
+   "http://www.wikidata.org/entity/Q240292"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Rupiah",
+   "http://www.wikidata.org/entity/Q41588"
   ],
   [
    "http://qudt.org/vocab/unit#Tex",
@@ -13838,6 +13287,10 @@
   [
    "http://qudt.org/vocab/unit#LibyanDinar",
    "http://www.wikidata.org/entity/Q190699"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Naira",
+   "http://www.wikidata.org/entity/Q203567"
   ],
   [
    "http://qudt.org/vocab/unit#PlanckCharge",
@@ -13852,6 +13305,10 @@
    "http://www.wikidata.org/entity/Q163712"
   ],
   [
+   "http://qudt.org/vocab/unit#Balboa",
+   "http://www.wikidata.org/entity/Q210472"
+  ],
+  [
    "http://qudt.org/vocab/unit#PlanckLength",
    "http://www.wikidata.org/entity/Q207387"
   ],
@@ -13861,7 +13318,8 @@
   ],
   [
    "http://qudt.org/vocab/unit#ArmenianDram",
-   "http://www.wikidata.org/entity/Q130498"
+   "http://www.wikidata.org/entity/Q130498",
+   "http://www.wikidata.org/entity/Q1255620"
   ],
   [
    "http://qudt.org/vocab/unit#OmaniRial",
@@ -13872,21 +13330,31 @@
    "http://www.wikidata.org/entity/Q592634"
   ],
   [
+   "http://qudt.org/vocab/unit#Lari",
+   "http://www.wikidata.org/entity/Q4608"
+  ],
+  [
    "http://qudt.org/vocab/unit#BrazilianReal",
    "http://www.wikidata.org/entity/Q173117",
+   "http://www.wikidata.org/entity/Q1678551",
    "http://www.wikidata.org/entity/Q10366257"
   ],
   [
    "http://qudt.org/vocab/unit#Candlepower",
-   "http://www.wikidata.org/entity/Q902274"
+   "http://www.wikidata.org/entity/Q902274",
+   "http://www.wikidata.org/entity/Q21281991"
   ],
   [
    "http://qudt.org/vocab/unit#DanishKrone",
    "http://www.wikidata.org/entity/Q25417"
   ],
   [
-   "http://qudt.org/vocab/unit#ChileanPeso",
-   "http://www.wikidata.org/entity/Q200050"
+   "http://qudt.org/vocab/unit#RevolutionPerMinute",
+   "http://www.wikidata.org/entity/Q206037"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Rufiyaa",
+   "http://www.wikidata.org/entity/Q206600"
   ],
   [
    "http://qudt.org/vocab/unit#SudanesePound",
@@ -13897,12 +13365,38 @@
    "http://www.wikidata.org/entity/Q21467992"
   ],
   [
+   "http://qudt.org/vocab/unit#LatvianLats",
+   "http://www.wikidata.org/entity/Q133011"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Kina",
+   "http://www.wikidata.org/entity/Q200759"
+  ],
+  [
+   "http://qudt.org/vocab/unit#FrancCongolais",
+   "http://www.wikidata.org/entity/Q4594",
+   "http://www.wikidata.org/entity/Q4734",
+   "http://www.wikidata.org/entity/Q4741"
+  ],
+  [
    "http://qudt.org/vocab/unit#NamibianDollar",
    "http://www.wikidata.org/entity/Q202462"
   ],
   [
    "http://qudt.org/vocab/unit#GoldFranc",
    "http://www.wikidata.org/entity/Q1509365"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Dobra",
+   "http://www.wikidata.org/entity/Q193712"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Guarani",
+   "http://www.wikidata.org/entity/Q207514"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Pula",
+   "http://www.wikidata.org/entity/Q186794"
   ],
   [
    "http://qudt.org/vocab/unit#EastCaribbeanDollar",
@@ -13913,12 +13407,20 @@
    "http://www.wikidata.org/entity/Q239830"
   ],
   [
+   "http://qudt.org/vocab/unit#Zloty",
+   "http://www.wikidata.org/entity/Q123213"
+  ],
+  [
    "http://qudt.org/vocab/unit#JoulePerTesla",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joulePerTesla"
   ],
   [
    "http://qudt.org/vocab/unit#PascalPerSecond",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pascalPerSecond"
+  ],
+  [
+   "http://qudt.org/vocab/unit#MalawiKwacha",
+   "http://www.wikidata.org/entity/Q211694"
   ],
   [
    "http://qudt.org/vocab/unit#AlgerianDinar",
@@ -13929,11 +13431,25 @@
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterCubedPerKelvin"
   ],
   [
+   "http://qudt.org/vocab/unit#Forint",
+   "http://www.wikidata.org/entity/Q203607",
+   "http://www.wikidata.org/entity/Q47190"
+  ],
+  [
+   "http://qudt.org/vocab/unit#YuanRenminbi",
+   "http://www.wikidata.org/entity/Q39099"
+  ],
+  [
    "http://qudt.org/vocab/unit#ArcSecond",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#arcsecond"
   ],
   [
+   "http://qudt.org/vocab/unit#Leone",
+   "http://www.wikidata.org/entity/Q4587"
+  ],
+  [
    "http://qudt.org/vocab/unit#CroatianKuna",
+   "http://www.wikidata.org/entity/Q2342457",
    "http://www.wikidata.org/entity/Q26360"
   ],
   [
@@ -13942,11 +13458,16 @@
   ],
   [
    "http://qudt.org/vocab/unit#CFPFranc",
+   "http://www.wikidata.org/entity/Q184172",
    "http://www.wikidata.org/entity/Q214393"
   ],
   [
    "http://qudt.org/vocab/unit#UAEDirham",
    "http://www.wikidata.org/entity/Q200294"
+  ],
+  [
+   "http://qudt.org/vocab/unit#Dalasi",
+   "http://www.wikidata.org/entity/Q202885"
   ],
   [
    "http://qudt.org/vocab/unit#TrinidadAndTobagoDollar",
@@ -13961,20 +13482,12 @@
    "http://www.wikidata.org/entity/Q330044"
   ],
   [
-   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#season",
-   "http://www.wikidata.org/entity/Q3400492"
-  ],
-  [
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#FNU",
    "http://purl.obolibrary.org/obo/UO_0000318"
   ],
   [
    "http://purl.obolibrary.org/obo/UO_0000148",
    "http://www.wikidata.org/entity/Q1137258"
-  ],
-  [
-   "http://purl.obolibrary.org/obo/UO_0000223",
-   "http://www.wikidata.org/entity/Q12874593"
   ],
   [
    "http://purl.obolibrary.org/obo/UO_0000244",
@@ -14003,13 +13516,9 @@
    "http://www.wikidata.org/entity/Q267391"
   ],
   [
-   "http://purl.oclc.org/NET/muo/ucum/unit/electric-current/Biot",
-   "http://www.wurvoc.org/vocabularies/om-1.8/biot",
-   "http://qudt.org/vocab/unit#Biot"
-  ],
-  [
    "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-tension/Gilbert",
    "http://qudt.org/vocab/unit#Gilbert",
+   "http://www.wikidata.org/entity/Q1168800",
    "http://www.wikidata.org/entity/Q1413142"
   ],
   [
@@ -14046,6 +13555,7 @@
    "http://purl.oclc.org/NET/muo/ucum/unit/length/point",
    "http://qudt.org/vocab/unit#Point",
    "http://www.wikidata.org/entity/Q156389",
+   "http://www.wikidata.org/entity/Q2118596",
    "http://www.wikidata.org/entity/Q24038885"
   ],
   [
@@ -14066,7 +13576,8 @@
   [
    "http://purl.oclc.org/NET/muo/ucum/unit/power/horsepower",
    "http://qudt.org/vocab/unit#Horsepower",
-   "http://www.wikidata.org/entity/Q160857"
+   "http://www.wikidata.org/entity/Q160857",
+   "http://www.wikidata.org/entity/Q2276380"
   ],
   [
    "http://purl.oclc.org/NET/muo/ucum/unit/level/neper",
@@ -14086,17 +13597,13 @@
   [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MileSquared",
    "http://qudt.org/vocab/unit#SquareMile",
-   "http://www.wikidata.org/entity/Q232291"
+   "http://www.wikidata.org/entity/Q232291",
+   "http://www.wikidata.org/entity/Q3809228"
   ],
   [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MolePerLiter",
    "http://www.wurvoc.org/vocabularies/om-1.8/mole_per_litre",
    "http://purl.oclc.org/NET/ssnx/qu/unit#molePerLitre"
-  ],
-  [
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pound",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#pound",
-   "http://www.wikidata.org/entity/Q100995"
   ],
   [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#SiemensPerMeter",
@@ -14114,11 +13621,6 @@
    "http://www.wikidata.org/entity/Q552299"
   ],
   [
-   "http://www.wurvoc.org/vocabularies/om-1.8/light_year",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#lightYear",
-   "http://qudt.org/vocab/unit#LightYear"
-  ],
-  [
    "http://www.wurvoc.org/vocabularies/om-1.8/carat-mass",
    "http://qudt.org/vocab/unit#Carat",
    "http://www.wikidata.org/entity/Q261247",
@@ -14128,11 +13630,6 @@
    "http://www.wurvoc.org/vocabularies/om-1.8/shake",
    "http://qudt.org/vocab/unit#Shake",
    "http://www.wikidata.org/entity/Q7462601"
-  ],
-  [
-   "http://www.wurvoc.org/vocabularies/om-1.8/abampere",
-   "http://qudt.org/vocab/unit#Abampere",
-   "http://www.wikidata.org/entity/Q864818"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/circular_mil",
@@ -14182,6 +13679,11 @@
    "http://qudt.org/vocab/unit#LiquidQuartUS"
   ],
   [
+   "http://www.wurvoc.org/vocabularies/om-1.8/ton-register",
+   "http://qudt.org/vocab/unit#RegisterTon",
+   "http://www.wikidata.org/entity/Q752079"
+  ],
+  [
    "http://www.wurvoc.org/vocabularies/om-1.8/degree_squared",
    "http://qudt.org/vocab/unit#SquareDegree",
    "http://www.wikidata.org/entity/Q254532"
@@ -14195,11 +13697,6 @@
    "http://www.wurvoc.org/vocabularies/om-1.8/poundal",
    "http://qudt.org/vocab/unit#Poundal",
    "http://www.wikidata.org/entity/Q1972579"
-  ],
-  [
-   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-mean",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitMean",
-   "http://purl.oclc.org/NET/muo/ucum/unit/energy/mean-British-thermal-unit"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/quad",
@@ -14267,6 +13764,11 @@
    "http://www.wikidata.org/entity/Q25098783"
   ],
   [
+   "http://www.wurvoc.org/vocabularies/om-1.8/gamma",
+   "http://qudt.org/vocab/unit#Gamma",
+   "http://www.wikidata.org/entity/Q1493191"
+  ],
+  [
    "http://www.wurvoc.org/vocabularies/om-1.8/abhenry",
    "http://qudt.org/vocab/unit#Abhenry",
    "http://www.wikidata.org/entity/Q4667368"
@@ -14300,6 +13802,13 @@
    "http://www.wurvoc.org/vocabularies/om-1.8/euro",
    "http://qudt.org/vocab/unit#Euro",
    "http://www.wikidata.org/entity/Q4916"
+  ],
+  [
+   "http://www.wurvoc.org/vocabularies/om-1.8/United_States_dollar",
+   "http://www.wikidata.org/entity/Q4917",
+   "http://qudt.org/vocab/unit#FijiDollar",
+   "http://www.wikidata.org/entity/Q4592",
+   "http://www.wikidata.org/entity/Q14083"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/Japanese_yen",
@@ -14344,6 +13853,8 @@
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/South_Korean_won",
    "http://qudt.org/vocab/unit#SouthKoreanWon",
+   "http://qudt.org/vocab/unit#NorthKoreanWon",
+   "http://www.wikidata.org/entity/Q106720",
    "http://www.wikidata.org/entity/Q202040",
    "http://www.wikidata.org/entity/Q7567738"
   ],
@@ -14360,7 +13871,23 @@
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/Mexican_peso",
    "http://qudt.org/vocab/unit#MexicanPeso",
-   "http://www.wikidata.org/entity/Q4730"
+   "http://qudt.org/vocab/unit#CubanPeso",
+   "http://www.wikidata.org/entity/Q201505",
+   "http://qudt.org/vocab/unit#DominicanPeso",
+   "http://qudt.org/vocab/unit#ArgentinePeso",
+   "http://www.wikidata.org/entity/Q199578",
+   "http://qudt.org/vocab/unit#ChileanPeso",
+   "http://www.wikidata.org/entity/Q200050",
+   "http://www.wikidata.org/entity/Q209272",
+   "http://www.wikidata.org/entity/Q242922",
+   "http://www.wikidata.org/entity/Q244696",
+   "http://qudt.org/vocab/unit#ColombianPeso",
+   "http://www.wikidata.org/entity/Q244819",
+   "http://www.wikidata.org/entity/Q1640286",
+   "http://www.wikidata.org/entity/Q17325659",
+   "http://www.wikidata.org/entity/Q4730",
+   "http://qudt.org/vocab/unit#PhilippinePeso",
+   "http://www.wikidata.org/entity/Q17193"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/Indian_rupee",
@@ -14423,6 +13950,11 @@
    "http://www.wikidata.org/entity/Q748716"
   ],
   [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#poundForcePerSquareInch",
+   "http://qudt.org/vocab/unit#PoundForcePerSquareInch",
+   "http://www.wikidata.org/entity/Q626299"
+  ],
+  [
    "http://purl.oclc.org/NET/ssnx/qu/unit#poundPerHour",
    "http://qudt.org/vocab/unit#PoundPerHour",
    "http://www.wikidata.org/entity/Q7235648"
@@ -14431,6 +13963,11 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#clo",
    "http://qudt.org/vocab/unit#Clo",
    "http://www.wikidata.org/entity/Q10748296"
+  ],
+  [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#ohmMetre",
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ohmMeter",
+   "http://www.wikidata.org/entity/Q1441459"
   ],
   [
    "http://purl.oclc.org/NET/ssnx/qu/unit#lumenSecond",
@@ -14495,6 +14032,14 @@
    "http://qudt.org/vocab/unit#AtmosphereStandard"
   ],
   [
+   "http://purl.oclc.org/NET/muo/ucum/unit/electric-current/Biot",
+   "http://www.wurvoc.org/vocabularies/om-1.8/biot",
+   "http://qudt.org/vocab/unit#Biot",
+   "http://www.wurvoc.org/vocabularies/om-1.8/abampere",
+   "http://qudt.org/vocab/unit#Abampere",
+   "http://www.wikidata.org/entity/Q864818"
+  ],
+  [
    "http://purl.oclc.org/NET/muo/ucum/unit/flux-of-magnetic-induction/Maxwell",
    "http://www.wurvoc.org/vocabularies/om-1.8/maxwell",
    "http://qudt.org/vocab/unit#Maxwell",
@@ -14543,19 +14088,6 @@
    "http://qudt.org/vocab/unit#PintImperial"
   ],
   [
-   "http://purl.oclc.org/NET/muo/ucum/unit/energy/international-table-British-thermal-unit",
-   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-International_Table",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#britishThermalUnitInternationalTable",
-   "http://qudt.org/vocab/unit#BritishThermalUnitInternationalTable"
-  ],
-  [
-   "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit",
-   "http://www.wikidata.org/entity/Q211580",
-   "http://purl.oclc.org/NET/muo/ucum/unit/energy/thermochemical-British-thermal-unit",
-   "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-thermochemical",
-   "http://qudt.org/vocab/unit#BritishThermalUnitThermochemical"
-  ],
-  [
    "http://purl.oclc.org/NET/muo/ucum/unit/arbitrary/international-unit",
    "http://www.wurvoc.org/vocabularies/om-1.8/International_Unit",
    "http://qudt.org/vocab/unit#InternationalUnit",
@@ -14568,17 +14100,13 @@
    "http://www.wikidata.org/entity/Q14850704"
   ],
   [
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#acre",
-   "http://qudt.org/vocab/unit#Acre",
-   "http://www.wikidata.org/entity/Q81292"
-  ],
-  [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Fathom",
    "http://purl.oclc.org/NET/ssnx/qu/unit#fathom",
    "http://qudt.org/vocab/unit#Fathom",
+   "http://www.wikidata.org/entity/Q203794",
    "http://www.wikidata.org/entity/Q280164",
-   "http://www.wikidata.org/entity/Q6502423"
+   "http://www.wikidata.org/entity/Q6502423",
+   "http://www.wikidata.org/entity/Q20828499"
   ],
   [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Foot",
@@ -14596,7 +14124,8 @@
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Inch",
    "http://purl.oclc.org/NET/ssnx/qu/unit#inch",
    "http://qudt.org/vocab/unit#Inch",
-   "http://www.wikidata.org/entity/Q218593"
+   "http://www.wikidata.org/entity/Q218593",
+   "http://www.wikidata.org/entity/Q20578045"
   ],
   [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#InchCubed",
@@ -14654,12 +14183,6 @@
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#amperePerMeterSquared"
   ],
   [
-   "http://www.wurvoc.org/vocabularies/om-1.8/pound-force",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#poundForce",
-   "http://qudt.org/vocab/unit#PoundForce",
-   "http://www.wikidata.org/entity/Q1194225"
-  ],
-  [
    "http://www.wurvoc.org/vocabularies/om-1.8/coulomb_per_cubic_metre",
    "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerCubicMetre",
    "http://qudt.org/vocab/unit#CoulombPerCubicMeter",
@@ -14670,12 +14193,6 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#coulombPerSquareMetre",
    "http://qudt.org/vocab/unit#CoulombPerSquareMeter",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#coulombPerMeterSquared"
-  ],
-  [
-   "http://www.wurvoc.org/vocabularies/om-1.8/joule_per_mole",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMole",
-   "http://qudt.org/vocab/unit#JoulePerMole",
-   "http://www.wikidata.org/entity/Q13035094"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/joule_per_kelvin_mole",
@@ -14733,6 +14250,11 @@
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Tonne",
    "http://www.wurvoc.org/vocabularies/om-1.8/tonne",
    "http://www.wikidata.org/entity/Q191118",
+   "http://www.wikidata.org/entity/Q667419",
+   "http://www.wikidata.org/entity/Q2023433",
+   "http://www.wikidata.org/entity/Q2442132",
+   "http://www.wikidata.org/entity/Q11247037",
+   "http://www.wikidata.org/entity/Q22583225",
    "http://purl.oclc.org/NET/ssnx/qu/unit#tonneMetricTon"
   ],
   [
@@ -14741,6 +14263,13 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#parsec",
    "http://qudt.org/vocab/unit#Parsec",
    "http://www.wikidata.org/entity/Q12129"
+  ],
+  [
+   "http://purl.oclc.org/NET/muo/ucum/unit/length/light-year",
+   "http://www.wurvoc.org/vocabularies/om-1.8/light_year",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#lightYear",
+   "http://qudt.org/vocab/unit#LightYear",
+   "http://www.wikidata.org/entity/Q531"
   ],
   [
    "http://purl.oclc.org/NET/muo/ucum/unit/acceleration/Gal",
@@ -14818,6 +14347,7 @@
    "http://www.wurvoc.org/vocabularies/om-1.8/byte",
    "http://qudt.org/vocab/unit#Byte",
    "http://purl.obolibrary.org/obo/UO_0000233",
+   "http://www.wikidata.org/entity/Q851872",
    "http://www.wikidata.org/entity/Q8799"
   ],
   [
@@ -14826,6 +14356,17 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#gramPerLitre",
    "http://purl.obolibrary.org/obo/UO_0000175",
    "http://www.wikidata.org/entity/Q834105"
+  ],
+  [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Pound",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#pound",
+   "http://www.wikidata.org/entity/Q100995",
+   "http://www.wurvoc.org/vocabularies/om-1.8/pound-force",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#poundForce",
+   "http://qudt.org/vocab/unit#PoundForce",
+   "http://www.wikidata.org/entity/Q1194225",
+   "http://www.wikidata.org/entity/Q11348804",
+   "http://www.wikidata.org/entity/Q10317923"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/astronomical_unit",
@@ -14839,14 +14380,17 @@
    "http://qudt.org/vocab/unit#CandelaPerSquareMeter",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#candelaPerMeterSquared",
    "http://purl.obolibrary.org/obo/UO_0000085",
-   "http://www.wikidata.org/entity/Q281096"
+   "http://www.wikidata.org/entity/Q281096",
+   "http://qudt.org/vocab/unit#Nat",
+   "http://www.wikidata.org/entity/Q376660"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/ampere_per_metre",
    "http://purl.oclc.org/NET/ssnx/qu/unit#amperePerMetre",
    "http://qudt.org/vocab/unit#AmperePerMeter",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#amperePerMeter",
-   "http://www.wikidata.org/entity/Q2844478"
+   "http://www.wikidata.org/entity/Q2844478",
+   "http://www.wikidata.org/entity/Q4748130"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/newton_metre",
@@ -14928,9 +14472,9 @@
   [
    "http://qudt.org/vocab/unit#AtomicMassUnit",
    "http://qudt.org/vocab/unit#Dalton2",
-   "http://www.wikidata.org/entity/Q483261",
    "http://qudt.org/vocab/unit#Dalton",
    "http://purl.obolibrary.org/obo/UO_0000221",
+   "http://www.wikidata.org/entity/Q483261",
    "http://purl.oclc.org/NET/muo/ucum/unit/mass/unified-atomic-mass-unit",
    "http://www.wurvoc.org/vocabularies/om-1.8/unified_atomic_mass_unit",
    "http://qudt.org/vocab/unit#UnifiedAtomicMassUnit"
@@ -14966,6 +14510,7 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#ohm",
    "http://qudt.org/vocab/unit#Ohm",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ohm",
+   "http://www.wikidata.org/entity/Q1934733",
    "http://www.wikidata.org/entity/Q47083"
   ],
   [
@@ -14998,15 +14543,12 @@
    "http://www.wurvoc.org/vocabularies/om-1.8/are",
    "http://purl.oclc.org/NET/ssnx/qu/unit#are",
    "http://qudt.org/vocab/unit#Are",
-   "http://www.wikidata.org/entity/Q185078"
-  ],
-  [
-   "http://purl.oclc.org/NET/muo/ucum/unit/time/year",
-   "http://www.wurvoc.org/vocabularies/om-1.8/year",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#year",
-   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year",
-   "http://purl.obolibrary.org/obo/UO_0000036",
-   "http://www.wikidata.org/entity/Q577"
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#acre",
+   "http://qudt.org/vocab/unit#Acre",
+   "http://www.wikidata.org/entity/Q81292",
+   "http://www.wikidata.org/entity/Q185078",
+   "http://www.wikidata.org/entity/Q17310338"
   ],
   [
    "http://purl.oclc.org/NET/muo/ucum/unit/time/week",
@@ -15014,6 +14556,7 @@
    "http://purl.oclc.org/NET/ssnx/qu/unit#week",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#week",
    "http://purl.obolibrary.org/obo/UO_0000034",
+   "http://www.wikidata.org/entity/Q2724871",
    "http://www.wikidata.org/entity/Q23387"
   ],
   [
@@ -15030,6 +14573,7 @@
    "http://www.wurvoc.org/vocabularies/om-1.8/bar",
    "http://qudt.org/vocab/unit#Bar",
    "http://www.wikidata.org/entity/Q103510",
+   "http://www.wikidata.org/entity/Q16830567",
    "http://purl.oclc.org/NET/ssnx/qu/unit#barUnitOfPressure"
   ],
   [
@@ -15055,6 +14599,14 @@
    "http://qudt.org/vocab/unit#Curie",
    "http://purl.obolibrary.org/obo/UO_0000133",
    "http://www.wikidata.org/entity/Q229354"
+  ],
+  [
+   "http://purl.oclc.org/NET/muo/ucum/unit/ion-dose/Roentgen",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#roentgen",
+   "http://qudt.org/vocab/unit#Roentgen",
+   "http://purl.obolibrary.org/obo/UO_0000136",
+   "http://www.wurvoc.org/vocabularies/om-1.8/röntgen",
+   "http://www.wikidata.org/entity/Q321017"
   ],
   [
    "http://purl.oclc.org/NET/muo/ucum/unit/catalytic-activity/katal",
@@ -15119,14 +14671,6 @@
    "http://purl.obolibrary.org/obo/UO_0000265",
    "http://www.wikidata.org/entity/Q1463969",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#wattPerMeterPerKelvin"
-  ],
-  [
-   "http://www.wurvoc.org/vocabularies/om-1.8/röntgen",
-   "http://purl.oclc.org/NET/muo/ucum/unit/ion-dose/Roentgen",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#roentgen",
-   "http://qudt.org/vocab/unit#Roentgen",
-   "http://purl.obolibrary.org/obo/UO_0000136",
-   "http://www.wikidata.org/entity/Q321017"
   ],
   [
    "http://www.wurvoc.org/vocabularies/om-1.8/newton_per_metre",
@@ -15245,7 +14789,14 @@
    "http://qudt.org/vocab/unit#SquareMeter",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterSquared",
    "http://purl.obolibrary.org/obo/UO_0000080",
-   "http://www.wikidata.org/entity/Q25343"
+   "http://www.wikidata.org/entity/Q25343",
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterCubed",
+   "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+   "http://qudt.org/vocab/unit#CubicMeter",
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterCubed",
+   "http://purl.obolibrary.org/obo/UO_0000096",
+   "http://www.wikidata.org/entity/Q25517"
   ],
   [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Hertz",
@@ -15255,15 +14806,6 @@
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hertz",
    "http://purl.obolibrary.org/obo/UO_0000106",
    "http://www.wikidata.org/entity/Q39369"
-  ],
-  [
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterCubed",
-   "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
-   "http://qudt.org/vocab/unit#CubicMeter",
-   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterCubed",
-   "http://purl.obolibrary.org/obo/UO_0000096",
-   "http://www.wikidata.org/entity/Q25517"
   ],
   [
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterPerSecond",
@@ -15295,6 +14837,7 @@
    "http://qudt.org/vocab/unit#SecondTime",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second",
    "http://purl.obolibrary.org/obo/UO_0000010",
+   "http://www.wikidata.org/entity/Q829073",
    "http://www.wikidata.org/entity/Q11574"
   ],
   [
@@ -15335,6 +14878,15 @@
    "http://qudt.org/vocab/unit#Mole",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mole",
    "http://purl.obolibrary.org/obo/UO_0000013",
+   "http://purl.oclc.org/NET/muo/ucum/unit/time/year",
+   "http://www.wurvoc.org/vocabularies/om-1.8/year",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#year",
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year",
+   "http://purl.obolibrary.org/obo/UO_0000036",
+   "http://www.wikidata.org/entity/Q754897",
+   "http://www.wikidata.org/entity/Q24564698",
+   "http://www.wikidata.org/entity/Q1092296",
+   "http://www.wikidata.org/entity/Q577",
    "http://www.wikidata.org/entity/Q41509"
   ],
   [
@@ -15345,6 +14897,7 @@
    "http://qudt.org/vocab/unit#Newton",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#newton",
    "http://purl.obolibrary.org/obo/UO_0000108",
+   "http://www.wikidata.org/entity/Q1133606",
    "http://www.wikidata.org/entity/Q12438"
   ],
   [
@@ -15388,6 +14941,16 @@
    "http://www.wikidata.org/entity/Q169893"
   ],
   [
+   "http://purl.oclc.org/NET/muo/ucum/unit/temperature/degree-Celsius",
+   "http://www.wurvoc.org/vocabularies/om-1.8/degree_Celsius",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#degreeCelsius",
+   "http://qudt.org/vocab/unit#DegreeCelsius",
+   "http://purl.obolibrary.org/obo/UO_0000027",
+   "http://www.wikidata.org/entity/Q25267",
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Celsius",
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeC"
+  ],
+  [
    "http://purl.oclc.org/NET/muo/ucum/unit/luminous-flux/lumen",
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Lumen",
    "http://www.wurvoc.org/vocabularies/om-1.8/lumen",
@@ -15398,22 +14961,15 @@
    "http://www.wikidata.org/entity/Q484092"
   ],
   [
-   "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/degree",
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Degree",
-   "http://www.wurvoc.org/vocabularies/om-1.8/degree",
-   "http://purl.obolibrary.org/obo/UO_0000185",
-   "http://www.wikidata.org/entity/Q1359207",
-   "http://www.wikidata.org/entity/Q28390",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#degreeUnitOfAngle",
-   "http://qudt.org/vocab/unit#DegreeAngle",
-   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degrees"
-  ],
-  [
    "http://purl.oclc.org/NET/muo/ucum/unit/time/minute",
    "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Minute",
    "http://www.wurvoc.org/vocabularies/om-1.8/minute-time",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#minute",
    "http://purl.obolibrary.org/obo/UO_0000031",
+   "http://www.wikidata.org/entity/Q209426",
+   "http://www.wikidata.org/entity/Q1471447",
+   "http://www.wikidata.org/entity/Q1742381",
+   "http://www.wikidata.org/entity/Q21597762",
    "http://www.wikidata.org/entity/Q7727",
    "http://purl.oclc.org/NET/ssnx/qu/unit#minuteUnitOfTime",
    "http://qudt.org/vocab/unit#MinuteTime"
@@ -15436,17 +14992,9 @@
    "http://qudt.org/vocab/unit#Day",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#day",
    "http://purl.obolibrary.org/obo/UO_0000033",
+   "http://www.wikidata.org/entity/Q928186",
+   "http://www.wikidata.org/entity/Q11034997",
    "http://www.wikidata.org/entity/Q573"
-  ],
-  [
-   "http://www.wikidata.org/entity/Q25267",
-   "http://purl.oclc.org/NET/muo/ucum/unit/temperature/degree-Celsius",
-   "http://www.wurvoc.org/vocabularies/om-1.8/degree_Celsius",
-   "http://purl.oclc.org/NET/ssnx/qu/unit#degreeCelsius",
-   "http://qudt.org/vocab/unit#DegreeCelsius",
-   "http://purl.obolibrary.org/obo/UO_0000027",
-   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Celsius",
-   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeC"
   ]
  ]
 }

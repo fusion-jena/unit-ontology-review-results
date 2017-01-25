@@ -1,5 +1,21 @@
 [
  {
+  "onto": "WD",
+  "label": "length",
+  "objs": [
+   "http://www.wikidata.org/entity/Q36253",
+   "http://www.wikidata.org/entity/Q670036"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "plane angle",
+  "objs": [
+   "http://qudt.org/vocab/quantity#PlaneAngle",
+   "http://qudt.org/vocab/quantity#Angle"
+  ]
+ },
+ {
   "onto": "OM",
   "label": "temperature",
   "objs": [
@@ -16,11 +32,237 @@
   ]
  },
  {
-  "onto": "WD",
-  "label": "electric potential",
+  "onto": "MUO",
+  "label": "electric charge",
   "objs": [
+   "http://purl.oclc.org/NET/muo/ucum/physical-quality/electric-charge",
+   "http://purl.oclc.org/NET/muo/ucum/physical-quality/electric-potential"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "electric charge",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Electric_charge",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Electric_potential",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Stress"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "electric charge",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#electricCharge",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#electricPotential",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#stress",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#voltage"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "electric charge",
+  "objs": [
+   "http://qudt.org/vocab/quantity#ElectricCharge",
+   "http://qudt.org/vocab/quantity#ElectricPotential",
+   "http://qudt.org/vocab/quantity#Stress"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "electric charge",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricCharge",
+   "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricPotential",
+   "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Stress"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "electric charge",
+  "objs": [
+   "http://purl.obolibrary.org/obo/PATO_0002193",
+   "http://purl.obolibrary.org/obo/PATO_0001464"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "electric charge",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1111",
    "http://www.wikidata.org/entity/Q55451",
+   "http://www.wikidata.org/entity/Q206175",
+   "http://www.wikidata.org/entity/Q25428",
+   "http://www.wikidata.org/entity/Q73792",
+   "http://www.wikidata.org/entity/Q369743",
    "http://www.wikidata.org/entity/Q19727292"
+  ]
+ },
+ {
+  "onto": "MUO",
+  "label": "luminous intensity",
+  "objs": [
+   "http://purl.oclc.org/NET/muo/ucum/physical-quality/luminous-intensity",
+   "http://purl.oclc.org/NET/muo/ucum/physical-quality/brightness"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "luminous intensity",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Luminous_intensity",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Luminance",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_magnitude"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "luminous intensity",
+  "objs": [
+   "http://qudt.org/vocab/quantity#LuminousIntensity",
+   "http://qudt.org/vocab/quantity#Luminance"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "luminous intensity",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#LuminousIntensity",
+   "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Brightness",
+   "http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl#Luminance"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "luminous intensity",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2028919",
+   "http://www.wikidata.org/entity/Q355386",
+   "http://www.wikidata.org/entity/Q124313",
+   "http://www.wikidata.org/entity/Q105902",
+   "http://www.wikidata.org/entity/Q221656",
+   "http://www.wikidata.org/entity/Q500062",
+   "http://www.wikidata.org/entity/Q104831"
+  ]
+ },
+ {
+  "onto": "MUO",
+  "label": "force",
+  "objs": [
+   "http://purl.oclc.org/NET/muo/ucum/physical-quality/force",
+   "http://purl.oclc.org/NET/muo/ucum/physical-quality/energy",
+   "http://purl.oclc.org/NET/muo/ucum/physical-quality/power"
+  ]
+ },
+ {
+  "onto": "OBOE",
+  "label": "force",
+  "objs": [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Force",
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Energy",
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Power"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "force",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Force",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Energy",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Power"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "force",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#force",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#energy",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#power"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "force",
+  "objs": [
+   "http://qudt.org/vocab/quantity#Force",
+   "http://qudt.org/vocab/quantity#Power"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "force",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propQuantity.owl#Force",
+   "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#Energy",
+   "http://sweet.jpl.nasa.gov/2.3/propEnergy.owl#Power"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "force",
+  "objs": [
+   "http://purl.obolibrary.org/obo/PATO_0001035",
+   "http://purl.obolibrary.org/obo/PATO_0001021",
+   "http://purl.obolibrary.org/obo/PATO_0001024"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "force",
+  "objs": [
+   "http://www.wikidata.org/entity/Q11379",
+   "http://www.wikidata.org/entity/Q25342",
+   "http://www.wikidata.org/entity/Q11402",
+   "http://www.wikidata.org/entity/Q559265"
+  ]
+ },
+ {
+  "onto": "OBOE",
+  "label": "volume",
+  "objs": [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Volume",
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpecificVolume"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "volume",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Volume",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Specific_volume"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "volume",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#volume",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#specificVolume"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "volume",
+  "objs": [
+   "http://qudt.org/vocab/quantity#Volume",
+   "http://qudt.org/vocab/quantity#SpecificVolume"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "volume",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propSpaceMultidimensional.owl#Volume",
+   "http://sweet.jpl.nasa.gov/2.3/propMass.owl#SpecificVolume"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "volume",
+  "objs": [
+   "http://purl.obolibrary.org/obo/PATO_0000918",
+   "http://purl.obolibrary.org/obo/PATO_0001679"
   ]
  },
  {
@@ -28,7 +270,107 @@
   "label": "volume",
   "objs": [
    "http://www.wikidata.org/entity/Q39297",
+   "http://www.wikidata.org/entity/Q622324",
+   "http://www.wikidata.org/entity/Q683556",
    "http://www.wikidata.org/entity/Q4469374"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "area",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Area",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Electric_field"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "area",
+  "objs": [
+   "http://qudt.org/vocab/quantity#Area",
+   "http://qudt.org/vocab/quantity#ElectricField"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "area",
+  "objs": [
+   "http://www.wikidata.org/entity/Q11500",
+   "http://www.wikidata.org/entity/Q46221",
+   "http://www.wikidata.org/entity/Q185674"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "velocity",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Velocity",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Speed"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "velocity",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#velocity",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#speed"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "velocity",
+  "objs": [
+   "http://qudt.org/vocab/quantity#Velocity",
+   "http://qudt.org/vocab/quantity#Speed"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "velocity",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Velocity",
+   "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Speed"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "velocity",
+  "objs": [
+   "http://purl.obolibrary.org/obo/PATO_0002242",
+   "http://purl.obolibrary.org/obo/PATO_0000008"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "velocity",
+  "objs": [
+   "http://www.wikidata.org/entity/Q11465",
+   "http://www.wikidata.org/entity/Q3711325",
+   "http://www.wikidata.org/entity/Q986260"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "kinematic viscosity",
+  "objs": [
+   "http://qudt.org/vocab/quantity#KinematicViscosity",
+   "http://qudt.org/vocab/quantity#Viscosity"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "kinematic viscosity",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl#KinematicViscosity",
+   "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Viscosity"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "kinematic viscosity",
+  "objs": [
+   "http://www.wikidata.org/entity/Q128709",
+   "http://www.wikidata.org/entity/Q15106259"
   ]
  },
  {
@@ -40,11 +382,53 @@
   ]
  },
  {
-  "onto": "WD",
-  "label": "height",
+  "onto": "QU",
+  "label": "magnetic field strength",
   "objs": [
-   "http://www.wikidata.org/entity/Q208826",
-   "http://www.wikidata.org/entity/Q10623719"
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#magneticFieldStrength",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#electricFieldStrength"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "magnetic field strength",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#MagneticFieldStrength",
+   "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#ElectricFieldStrength"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "magnetic field strength",
+  "objs": [
+   "http://www.wikidata.org/entity/Q20989",
+   "http://www.wikidata.org/entity/Q28123"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "breadth",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Breadth",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Width"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "distance",
+  "objs": [
+   "http://www.wikidata.org/entity/Q126017",
+   "http://www.wikidata.org/entity/Q189962",
+   "http://www.wikidata.org/entity/Q2623005",
+   "http://www.wikidata.org/entity/Q3153623"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "density",
+  "objs": [
+   "http://www.wikidata.org/entity/Q22856",
+   "http://www.wikidata.org/entity/Q29539"
   ]
  },
  {
@@ -57,6 +441,38 @@
  },
  {
   "onto": "WD",
+  "label": "work",
+  "objs": [
+   "http://www.wikidata.org/entity/Q42213",
+   "http://www.wikidata.org/entity/Q900231"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "torque",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#torque",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#moment"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "torque",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propRotation.owl#Torque",
+   "http://sweet.jpl.nasa.gov/2.3/propFunction.owl#Moment"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "electrical conductance",
+  "objs": [
+   "http://www.wikidata.org/entity/Q4593291",
+   "http://www.wikidata.org/entity/Q309017"
+  ]
+ },
+ {
+  "onto": "WD",
   "label": "activity",
   "objs": [
    "http://www.wikidata.org/entity/Q423220",
@@ -64,11 +480,60 @@
   ]
  },
  {
+  "onto": "OM",
+  "label": "angular speed",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Angular_speed",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Angular_velocity"
+  ]
+ },
+ {
   "onto": "WD",
   "label": "entropy",
   "objs": [
    "http://www.wikidata.org/entity/Q45003",
+   "http://www.wikidata.org/entity/Q204570",
    "http://www.wikidata.org/entity/Q5380792"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "permittivity",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Permittivity",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Relative_permittivity"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "permittivity",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#permittivity",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#relativePermittivity"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "permittivity",
+  "objs": [
+   "http://www.wikidata.org/entity/Q4027242",
+   "http://www.wikidata.org/entity/Q211569"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "permeability",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Permeability",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Transmittance"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "permeability",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#permeability",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#transmittance"
   ]
  },
  {
@@ -76,15 +541,58 @@
   "label": "permeability",
   "objs": [
    "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Permeability",
-   "http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl#Permeability"
+   "http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl#Permeability",
+   "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Transmittance"
   ]
  },
  {
   "onto": "WD",
-  "label": "magnitude",
+  "label": "permeability",
   "objs": [
-   "http://www.wikidata.org/entity/Q2028919",
-   "http://www.wikidata.org/entity/Q500062"
+   "http://www.wikidata.org/entity/Q1427863",
+   "http://www.wikidata.org/entity/Q28352"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "volumetric flow rate",
+  "objs": [
+   "http://www.wikidata.org/entity/Q8737769",
+   "http://www.wikidata.org/entity/Q1134348",
+   "http://www.wikidata.org/entity/Q1366187"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "cross section",
+  "objs": [
+   "http://www.wikidata.org/entity/Q17128025",
+   "http://www.wikidata.org/entity/Q751259"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "modulus of elasticity",
+  "objs": [
+   "http://www.wikidata.org/entity/Q192005",
+   "http://www.wikidata.org/entity/Q2091584"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "relative density",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#relativeDensity",
+   "http://purl.oclc.org/NET/ssnx/qu/quantity#specificGravity"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "relative density",
+  "objs": [
+   "http://www.wikidata.org/entity/Q10972285",
+   "http://www.wikidata.org/entity/Q11027905",
+   "http://www.wikidata.org/entity/Q749542"
   ]
  },
  {
@@ -160,6 +668,14 @@
   ]
  },
  {
+  "onto": "WD",
+  "label": "hardness",
+  "objs": [
+   "http://www.wikidata.org/entity/Q3236003",
+   "http://www.wikidata.org/entity/Q192905"
+  ]
+ },
+ {
   "onto": "SWEET",
   "label": "visibility",
   "objs": [
@@ -176,11 +692,96 @@
   ]
  },
  {
+  "onto": "SWEET",
+  "label": "elevation",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Elevation",
+   "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Height",
+   "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Altitude"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "elevation",
+  "objs": [
+   "http://purl.obolibrary.org/obo/PATO_0001687",
+   "http://purl.obolibrary.org/obo/PATO_0000119"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "elevation",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/Height",
+   "http://www.wurvoc.org/vocabularies/om-1.8/Altitude"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "elevation",
+  "objs": [
+   "http://www.wikidata.org/entity/Q190200",
+   "http://www.wikidata.org/entity/Q208826",
+   "http://www.wikidata.org/entity/Q3338390",
+   "http://www.wikidata.org/entity/Q1022457",
+   "http://www.wikidata.org/entity/Q6452016",
+   "http://www.wikidata.org/entity/Q10623719"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "circumference",
+  "objs": [
+   "http://purl.obolibrary.org/obo/PATO_0001648",
+   "http://purl.obolibrary.org/obo/PATO_0001711"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "circumference",
+  "objs": [
+   "http://www.wikidata.org/entity/Q28474",
+   "http://www.wikidata.org/entity/Q843905"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "1",
+  "objs": [
+   "http://www.wikidata.org/entity/Q199",
+   "http://www.wikidata.org/entity/Q1541540",
+   "http://www.wikidata.org/entity/Q10397024",
+   "http://www.wikidata.org/entity/Q21037379"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "apsis",
+  "objs": [
+   "http://www.wikidata.org/entity/Q83481",
+   "http://www.wikidata.org/entity/Q1699691",
+   "http://www.wikidata.org/entity/Q1179441",
+   "http://www.wikidata.org/entity/Q1088950",
+   "http://www.wikidata.org/entity/Q3754473"
+  ]
+ },
+ {
   "onto": "WD",
   "label": "Orders of magnitude",
   "objs": [
    "http://www.wikidata.org/entity/Q855630",
+   "http://www.wikidata.org/entity/Q1344018",
+   "http://www.wikidata.org/entity/Q182460",
    "http://www.wikidata.org/entity/Q7100764"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "intensive physical property",
+  "objs": [
+   "http://www.wikidata.org/entity/Q3387041",
+   "http://www.wikidata.org/entity/Q911916",
+   "http://www.wikidata.org/entity/Q3386703"
   ]
  },
  {
@@ -193,10 +794,100 @@
  },
  {
   "onto": "WD",
+  "label": "Withers",
+  "objs": [
+   "http://www.wikidata.org/entity/Q493456",
+   "http://www.wikidata.org/entity/Q21032319"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "16:9",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1383069",
+   "http://www.wikidata.org/entity/Q1441762"
+  ]
+ },
+ {
+  "onto": "WD",
   "label": "equivalent dose",
   "objs": [
    "http://www.wikidata.org/entity/Q256106",
    "http://www.wikidata.org/entity/Q15855957"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "grade",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1139344",
+   "http://www.wikidata.org/entity/Q4112212"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "airspeed",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1197176",
+   "http://www.wikidata.org/entity/Q2468712",
+   "http://www.wikidata.org/entity/Q2356944"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Thermodynamic free energy",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1146448",
+   "http://www.wikidata.org/entity/Q334631",
+   "http://www.wikidata.org/entity/Q865821"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "past tense",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1994301",
+   "http://www.wikidata.org/entity/Q192630"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "bit rate",
+  "objs": [
+   "http://www.wikidata.org/entity/Q194158",
+   "http://www.wikidata.org/entity/Q495092"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "track gauge",
+  "objs": [
+   "http://www.wikidata.org/entity/Q214519",
+   "http://www.wikidata.org/entity/Q125770"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "apoapsis",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2858363",
+   "http://www.wikidata.org/entity/Q8159119"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "speed limit",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1077350",
+   "http://www.wikidata.org/entity/Q20973478"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "2.35:1",
+  "objs": [
+   "http://www.wikidata.org/entity/Q21062414",
+   "http://www.wikidata.org/entity/Q24668302"
   ]
  }
 ]

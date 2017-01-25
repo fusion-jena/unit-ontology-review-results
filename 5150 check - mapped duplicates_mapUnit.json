@@ -1,10 +1,85 @@
 [
  {
+  "onto": "WD",
+  "label": "second",
+  "objs": [
+   "http://www.wikidata.org/entity/Q829073",
+   "http://www.wikidata.org/entity/Q11574"
+  ]
+ },
+ {
   "onto": "MUO",
   "label": "the number ten for arbitrary powers",
   "objs": [
    "http://purl.oclc.org/NET/muo/ucum/unit/number/the-number-ten-for-arbitrary-powers-1",
    "http://purl.oclc.org/NET/muo/ucum/unit/number/the-number-ten-for-arbitrary-powers-2"
+  ]
+ },
+ {
+  "onto": "MUO",
+  "label": "mole",
+  "objs": [
+   "http://purl.oclc.org/NET/muo/ucum/unit/amount-of-substance/mole",
+   "http://purl.oclc.org/NET/muo/ucum/unit/time/year"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "mole",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/mole",
+   "http://www.wurvoc.org/vocabularies/om-1.8/year"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "mole",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#mole",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#year"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "mole",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mole",
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "mole",
+  "objs": [
+   "http://purl.obolibrary.org/obo/UO_0000013",
+   "http://purl.obolibrary.org/obo/UO_0000036"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "mole",
+  "objs": [
+   "http://www.wikidata.org/entity/Q754897",
+   "http://www.wikidata.org/entity/Q24564698",
+   "http://www.wikidata.org/entity/Q1092296",
+   "http://www.wikidata.org/entity/Q577",
+   "http://www.wikidata.org/entity/Q41509"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Newton",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1133606",
+   "http://www.wikidata.org/entity/Q12438"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Ohm",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1934733",
+   "http://www.wikidata.org/entity/Q47083"
   ]
  },
  {
@@ -16,10 +91,28 @@
   ]
  },
  {
+  "onto": "OBOE",
+  "label": "degree",
+  "objs": [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Degree",
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Grad"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "degree",
+  "objs": [
+   "http://qudt.org/vocab/unit#Grad",
+   "http://qudt.org/vocab/unit#DegreeAngle"
+  ]
+ },
+ {
   "onto": "WD",
   "label": "degree",
   "objs": [
+   "http://www.wikidata.org/entity/Q208528",
    "http://www.wikidata.org/entity/Q1359207",
+   "http://www.wikidata.org/entity/Q16319144",
    "http://www.wikidata.org/entity/Q28390"
   ]
  },
@@ -32,10 +125,116 @@
   ]
  },
  {
+  "onto": "OBOE",
+  "label": "are",
+  "objs": [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Are",
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "are",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#are",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#acre"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "are",
+  "objs": [
+   "http://qudt.org/vocab/unit#Are",
+   "http://qudt.org/vocab/unit#Acre"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "are",
+  "objs": [
+   "http://www.wikidata.org/entity/Q81292",
+   "http://www.wikidata.org/entity/Q185078",
+   "http://www.wikidata.org/entity/Q17310338"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "minute",
+  "objs": [
+   "http://www.wikidata.org/entity/Q209426",
+   "http://www.wikidata.org/entity/Q1471447",
+   "http://www.wikidata.org/entity/Q1742381",
+   "http://www.wikidata.org/entity/Q21597762",
+   "http://www.wikidata.org/entity/Q7727"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "day",
+  "objs": [
+   "http://www.wikidata.org/entity/Q928186",
+   "http://www.wikidata.org/entity/Q11034997",
+   "http://www.wikidata.org/entity/Q573"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "week",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2724871",
+   "http://www.wikidata.org/entity/Q23387"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "tonne",
+  "objs": [
+   "http://www.wikidata.org/entity/Q191118",
+   "http://www.wikidata.org/entity/Q667419",
+   "http://www.wikidata.org/entity/Q2023433",
+   "http://www.wikidata.org/entity/Q2442132",
+   "http://www.wikidata.org/entity/Q11247037",
+   "http://www.wikidata.org/entity/Q22583225"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "bar",
+  "objs": [
+   "http://www.wikidata.org/entity/Q103510",
+   "http://www.wikidata.org/entity/Q16830567"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "Biot",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/biot",
+   "http://www.wurvoc.org/vocabularies/om-1.8/abampere"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "Biot",
+  "objs": [
+   "http://qudt.org/vocab/unit#Biot",
+   "http://qudt.org/vocab/unit#Abampere"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Gilbert",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1168800",
+   "http://www.wikidata.org/entity/Q1413142"
+  ]
+ },
+ {
   "onto": "WD",
   "label": "point",
   "objs": [
    "http://www.wikidata.org/entity/Q156389",
+   "http://www.wikidata.org/entity/Q2118596",
    "http://www.wikidata.org/entity/Q24038885"
   ]
  },
@@ -57,21 +256,92 @@
  },
  {
   "onto": "WD",
-  "label": "fathom",
+  "label": "horsepower",
   "objs": [
-   "http://www.wikidata.org/entity/Q280164",
-   "http://www.wikidata.org/entity/Q6502423"
+   "http://www.wikidata.org/entity/Q160857",
+   "http://www.wikidata.org/entity/Q2276380"
   ]
  },
  {
   "onto": "WD",
-  "label": "gallon",
+  "label": "byte",
   "objs": [
-   "http://www.wikidata.org/entity/Q178413",
-   "http://www.wikidata.org/entity/Q5519125",
-   "http://www.wikidata.org/entity/Q23925410",
-   "http://www.wikidata.org/entity/Q23925413",
-   "http://www.wikidata.org/entity/Q23925527"
+   "http://www.wikidata.org/entity/Q851872",
+   "http://www.wikidata.org/entity/Q8799"
+  ]
+ },
+ {
+  "onto": "OBOE",
+  "label": "meter squared",
+  "objs": [
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared",
+   "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterCubed"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "meter squared",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/square_metre",
+   "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "meter squared",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#squareMetre",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "meter squared",
+  "objs": [
+   "http://qudt.org/vocab/unit#SquareMeter",
+   "http://qudt.org/vocab/unit#CubicMeter"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "meter squared",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterSquared",
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterCubed"
+  ]
+ },
+ {
+  "onto": "UO",
+  "label": "meter squared",
+  "objs": [
+   "http://purl.obolibrary.org/obo/UO_0000080",
+   "http://purl.obolibrary.org/obo/UO_0000096"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "meter squared",
+  "objs": [
+   "http://www.wikidata.org/entity/Q25343",
+   "http://www.wikidata.org/entity/Q25517"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "centimeter",
+  "objs": [
+   "http://www.wikidata.org/entity/Q174728",
+   "http://www.wikidata.org/entity/Q876237"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "fathom",
+  "objs": [
+   "http://www.wikidata.org/entity/Q203794",
+   "http://www.wikidata.org/entity/Q280164",
+   "http://www.wikidata.org/entity/Q6502423",
+   "http://www.wikidata.org/entity/Q20828499"
   ]
  },
  {
@@ -91,6 +361,14 @@
   ]
  },
  {
+  "onto": "WD",
+  "label": "inch",
+  "objs": [
+   "http://www.wikidata.org/entity/Q218593",
+   "http://www.wikidata.org/entity/Q20578045"
+  ]
+ },
+ {
   "onto": "OBOE",
   "label": "micrometer",
   "objs": [
@@ -107,11 +385,54 @@
   ]
  },
  {
+  "onto": "WD",
+  "label": "mile squared",
+  "objs": [
+   "http://www.wikidata.org/entity/Q232291",
+   "http://www.wikidata.org/entity/Q3809228"
+  ]
+ },
+ {
   "onto": "QU",
   "label": "number per meter squared",
   "objs": [
    "http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetre",
    "http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalSquareMetre"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "pound",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#pound",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#poundForce"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "pound",
+  "objs": [
+   "http://www.wikidata.org/entity/Q100995",
+   "http://www.wikidata.org/entity/Q1194225",
+   "http://www.wikidata.org/entity/Q11348804",
+   "http://www.wikidata.org/entity/Q10317923"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "kilotonne",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/kilotonne",
+   "http://www.wurvoc.org/vocabularies/om-1.8/megatonne"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "kilotonne",
+  "objs": [
+   "http://www.wikidata.org/entity/Q193227",
+   "http://www.wikidata.org/entity/Q3332822",
+   "http://www.wikidata.org/entity/Q4992853"
   ]
  },
  {
@@ -139,6 +460,104 @@
   ]
  },
  {
+  "onto": "WD",
+  "label": "milliradian",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1165799",
+   "http://www.wikidata.org/entity/Q1065153",
+   "http://www.wikidata.org/entity/Q2356087",
+   "http://www.wikidata.org/entity/Q15849450"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "candela per square metre",
+  "objs": [
+   "http://qudt.org/vocab/unit#CandelaPerSquareMeter",
+   "http://qudt.org/vocab/unit#Nat"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "candela per square metre",
+  "objs": [
+   "http://www.wikidata.org/entity/Q281096",
+   "http://www.wikidata.org/entity/Q376660"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "ampere per metre",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2844478",
+   "http://www.wikidata.org/entity/Q4748130"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "torr",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+   "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "torr",
+  "objs": [
+   "http://qudt.org/vocab/unit#Torr",
+   "http://qudt.org/vocab/unit#MillimeterOfMercury"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "torr",
+  "objs": [
+   "http://www.wikidata.org/entity/Q185648",
+   "http://www.wikidata.org/entity/Q6859652"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "kilowatt hour",
+  "objs": [
+   "http://www.wikidata.org/entity/Q182098",
+   "http://www.wikidata.org/entity/Q12874593"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "joule per mole",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#joulePerMole",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#kilojoulePerMole"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "joule per mole",
+  "objs": [
+   "http://www.wikidata.org/entity/Q752197",
+   "http://www.wikidata.org/entity/Q13035094"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "gibibyte",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/gibibyte",
+   "http://www.wurvoc.org/vocabularies/om-1.8/gigabyte"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "gibibyte",
+  "objs": [
+   "http://www.wikidata.org/entity/Q79738",
+   "http://www.wikidata.org/entity/Q79765"
+  ]
+ },
+ {
   "onto": "OM",
   "label": "gram per square metre",
   "objs": [
@@ -148,10 +567,86 @@
  },
  {
   "onto": "WD",
+  "label": "United States dollar",
+  "objs": [
+   "http://www.wikidata.org/entity/Q4917",
+   "http://www.wikidata.org/entity/Q4592",
+   "http://www.wikidata.org/entity/Q14083"
+  ]
+ },
+ {
+  "onto": "QUDT",
   "label": "South Korean won",
   "objs": [
+   "http://qudt.org/vocab/unit#SouthKoreanWon",
+   "http://qudt.org/vocab/unit#NorthKoreanWon"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "South Korean won",
+  "objs": [
+   "http://www.wikidata.org/entity/Q106720",
    "http://www.wikidata.org/entity/Q202040",
    "http://www.wikidata.org/entity/Q7567738"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "Mexican peso",
+  "objs": [
+   "http://qudt.org/vocab/unit#MexicanPeso",
+   "http://qudt.org/vocab/unit#CubanPeso",
+   "http://qudt.org/vocab/unit#DominicanPeso",
+   "http://qudt.org/vocab/unit#ArgentinePeso",
+   "http://qudt.org/vocab/unit#ChileanPeso",
+   "http://qudt.org/vocab/unit#ColombianPeso",
+   "http://qudt.org/vocab/unit#PhilippinePeso"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Mexican peso",
+  "objs": [
+   "http://www.wikidata.org/entity/Q201505",
+   "http://www.wikidata.org/entity/Q199578",
+   "http://www.wikidata.org/entity/Q200050",
+   "http://www.wikidata.org/entity/Q209272",
+   "http://www.wikidata.org/entity/Q242922",
+   "http://www.wikidata.org/entity/Q244696",
+   "http://www.wikidata.org/entity/Q244819",
+   "http://www.wikidata.org/entity/Q1640286",
+   "http://www.wikidata.org/entity/Q17325659",
+   "http://www.wikidata.org/entity/Q4730",
+   "http://www.wikidata.org/entity/Q17193"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "ounce",
+  "objs": [
+   "http://www.wikidata.org/entity/Q420266",
+   "http://www.wikidata.org/entity/Q1052833",
+   "http://www.wikidata.org/entity/Q1645564",
+   "http://www.wikidata.org/entity/Q25840166",
+   "http://www.wikidata.org/entity/Q19717286",
+   "http://www.wikidata.org/entity/Q48013"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "kilogram-force",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#kilogramForce",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#kilopond"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "kilogram-force",
+  "objs": [
+   "http://qudt.org/vocab/unit#KilogramForce",
+   "http://qudt.org/vocab/unit#KiloPond"
   ]
  },
  {
@@ -173,11 +668,199 @@
   ]
  },
  {
+  "onto": "QUDT",
+  "label": "Serbian Dinar",
+  "objs": [
+   "http://qudt.org/vocab/unit#SerbianDinar",
+   "http://qudt.org/vocab/unit#Denar",
+   "http://qudt.org/vocab/unit#TunisianDinar"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Serbian Dinar",
+  "objs": [
+   "http://www.wikidata.org/entity/Q172524",
+   "http://www.wikidata.org/entity/Q177875",
+   "http://www.wikidata.org/entity/Q191830",
+   "http://www.wikidata.org/entity/Q4602"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Som",
+  "objs": [
+   "http://www.wikidata.org/entity/Q487888",
+   "http://www.wikidata.org/entity/Q2361916",
+   "http://www.wikidata.org/entity/Q35881"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Rod",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1165588",
+   "http://www.wikidata.org/entity/Q2561163",
+   "http://www.wikidata.org/entity/Q7565877"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Sri Lanka Rupee",
+  "objs": [
+   "http://www.wikidata.org/entity/Q178843",
+   "http://www.wikidata.org/entity/Q188289",
+   "http://www.wikidata.org/entity/Q4595",
+   "http://www.wikidata.org/entity/Q4596"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Centimeter of Water",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1247300",
+   "http://www.wikidata.org/entity/Q2042279",
+   "http://www.wikidata.org/entity/Q13479685"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "New Turkish Lira",
+  "objs": [
+   "http://www.wikidata.org/entity/Q172872",
+   "http://www.wikidata.org/entity/Q14961002"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Pataca",
+  "objs": [
+   "http://www.wikidata.org/entity/Q241214",
+   "http://www.wikidata.org/entity/Q2032019"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Manat",
+  "objs": [
+   "http://www.wikidata.org/entity/Q486637",
+   "http://www.wikidata.org/entity/Q483725"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "Tanzanian Shilling",
+  "objs": [
+   "http://qudt.org/vocab/unit#TanzanianShilling",
+   "http://qudt.org/vocab/unit#SomaliShilling"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Tanzanian Shilling",
+  "objs": [
+   "http://www.wikidata.org/entity/Q4589",
+   "http://www.wikidata.org/entity/Q4598",
+   "http://www.wikidata.org/entity/Q4603"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Hryvnia",
+  "objs": [
+   "http://www.wikidata.org/entity/Q81893",
+   "http://www.wikidata.org/entity/Q2468640"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Tablespoon",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2002583",
+   "http://www.wikidata.org/entity/Q1879642"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Nuevo Sol",
+  "objs": [
+   "http://www.wikidata.org/entity/Q204656",
+   "http://www.wikidata.org/entity/Q904031",
+   "http://www.wikidata.org/entity/Q16837804"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Vietnamese ??ng",
+  "objs": [
+   "http://www.wikidata.org/entity/Q192090",
+   "http://www.wikidata.org/entity/Q240292"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Armenian Dram",
+  "objs": [
+   "http://www.wikidata.org/entity/Q130498",
+   "http://www.wikidata.org/entity/Q1255620"
+  ]
+ },
+ {
   "onto": "WD",
   "label": "Brazilian Real",
   "objs": [
    "http://www.wikidata.org/entity/Q173117",
+   "http://www.wikidata.org/entity/Q1678551",
    "http://www.wikidata.org/entity/Q10366257"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Candlepower",
+  "objs": [
+   "http://www.wikidata.org/entity/Q902274",
+   "http://www.wikidata.org/entity/Q21281991"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Megabit per Second",
+  "objs": [
+   "http://www.wikidata.org/entity/Q13753469",
+   "http://www.wikidata.org/entity/Q7350781"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Franc Congolais",
+  "objs": [
+   "http://www.wikidata.org/entity/Q4594",
+   "http://www.wikidata.org/entity/Q4734",
+   "http://www.wikidata.org/entity/Q4741"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Forint",
+  "objs": [
+   "http://www.wikidata.org/entity/Q203607",
+   "http://www.wikidata.org/entity/Q47190"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Croatian Kuna",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2342457",
+   "http://www.wikidata.org/entity/Q26360"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "CFP franc",
+  "objs": [
+   "http://www.wikidata.org/entity/Q184172",
+   "http://www.wikidata.org/entity/Q214393"
   ]
  },
  {
@@ -206,6 +889,38 @@
  },
  {
   "onto": "WD",
+  "label": "East German mark",
+  "objs": [
+   "http://www.wikidata.org/entity/Q157011",
+   "http://www.wikidata.org/entity/Q1089123",
+   "http://www.wikidata.org/entity/Q1702856",
+   "http://www.wikidata.org/entity/Q4281830",
+   "http://www.wikidata.org/entity/Q21087179",
+   "http://www.wikidata.org/entity/Q4133026"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Almud",
+  "objs": [
+   "http://www.wikidata.org/entity/Q137958",
+   "http://www.wikidata.org/entity/Q669909",
+   "http://www.wikidata.org/entity/Q1942514"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "gallon",
+  "objs": [
+   "http://www.wikidata.org/entity/Q178413",
+   "http://www.wikidata.org/entity/Q5519125",
+   "http://www.wikidata.org/entity/Q23925410",
+   "http://www.wikidata.org/entity/Q23925413",
+   "http://www.wikidata.org/entity/Q23925527"
+  ]
+ },
+ {
+  "onto": "WD",
   "label": "talent",
   "objs": [
    "http://www.wikidata.org/entity/Q190139",
@@ -214,11 +929,35 @@
  },
  {
   "onto": "WD",
-  "label": "peso",
+  "label": "CFA franc",
   "objs": [
-   "http://www.wikidata.org/entity/Q199578",
-   "http://www.wikidata.org/entity/Q244696",
-   "http://www.wikidata.org/entity/Q244819"
+   "http://www.wikidata.org/entity/Q191511",
+   "http://www.wikidata.org/entity/Q847739",
+   "http://www.wikidata.org/entity/Q861690"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Lao kip",
+  "objs": [
+   "http://www.wikidata.org/entity/Q200055",
+   "http://www.wikidata.org/entity/Q1742337"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "skewed sazhen",
+  "objs": [
+   "http://www.wikidata.org/entity/Q204759",
+   "http://www.wikidata.org/entity/Q19910723"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Slovenian tolar",
+  "objs": [
+   "http://www.wikidata.org/entity/Q208133",
+   "http://www.wikidata.org/entity/Q1266877"
   ]
  },
  {
@@ -226,31 +965,319 @@
   "label": "shilling",
   "objs": [
    "http://www.wikidata.org/entity/Q213142",
-   "http://www.wikidata.org/entity/Q736526"
+   "http://www.wikidata.org/entity/Q736526",
+   "http://www.wikidata.org/entity/Q2235847"
   ]
  },
  {
   "onto": "WD",
-  "label": "uncia",
+  "label": "mile",
   "objs": [
-   "http://www.wikidata.org/entity/Q1052833",
-   "http://www.wikidata.org/entity/Q1645564"
+   "http://www.wikidata.org/entity/Q253276",
+   "http://www.wikidata.org/entity/Q2296171"
   ]
  },
  {
   "onto": "WD",
-  "label": "mark",
+  "label": "ell",
   "objs": [
-   "http://www.wikidata.org/entity/Q1089123",
-   "http://www.wikidata.org/entity/Q4281830"
+   "http://www.wikidata.org/entity/Q214377",
+   "http://www.wikidata.org/entity/Q378201",
+   "http://www.wikidata.org/entity/Q6502030",
+   "http://www.wikidata.org/entity/Q16878358",
+   "http://www.wikidata.org/entity/Q17124932",
+   "http://www.wikidata.org/entity/Q18695775"
   ]
  },
  {
   "onto": "WD",
-  "label": "quarter",
+  "label": "last",
   "objs": [
+   "http://www.wikidata.org/entity/Q335897",
+   "http://www.wikidata.org/entity/Q2295694",
+   "http://www.wikidata.org/entity/Q17322994",
+   "http://www.wikidata.org/entity/Q26268024"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "ster",
+  "objs": [
+   "http://www.wikidata.org/entity/Q281629",
+   "http://www.wikidata.org/entity/Q14333713"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Costa Rican colón",
+  "objs": [
+   "http://www.wikidata.org/entity/Q242915",
+   "http://www.wikidata.org/entity/Q829043"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "turn",
+  "objs": [
+   "http://www.wikidata.org/entity/Q304479",
+   "http://www.wikidata.org/entity/Q22282192"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "geological period",
+  "objs": [
+   "http://www.wikidata.org/entity/Q392928",
+   "http://www.wikidata.org/entity/Q6428674"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "jugerum",
+  "objs": [
+   "http://www.wikidata.org/entity/Q251545",
+   "http://www.wikidata.org/entity/Q10839915"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Li",
+  "objs": [
+   "http://www.wikidata.org/entity/Q654875",
+   "http://www.wikidata.org/entity/Q1810373"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "league",
+  "objs": [
+   "http://www.wikidata.org/entity/Q660818",
+   "http://www.wikidata.org/entity/Q1425493",
+   "http://www.wikidata.org/entity/Q13530508"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "cent",
+  "objs": [
+   "http://www.wikidata.org/entity/Q724178",
+   "http://www.wikidata.org/entity/Q1053453"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Heller",
+  "objs": [
+   "http://www.wikidata.org/entity/Q558904",
+   "http://www.wikidata.org/entity/Q1918077"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "amole",
+  "objs": [
+   "http://www.wikidata.org/entity/Q473909",
+   "http://www.wikidata.org/entity/Q473911"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Escudo",
+  "objs": [
+   "http://www.wikidata.org/entity/Q745316",
+   "http://www.wikidata.org/entity/Q603071",
+   "http://www.wikidata.org/entity/Q1367371",
+   "http://www.wikidata.org/entity/Q4591"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "dirham",
+  "objs": [
+   "http://www.wikidata.org/entity/Q572664",
+   "http://www.wikidata.org/entity/Q1546443",
+   "http://www.wikidata.org/entity/Q25835384"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Trimester",
+  "objs": [
+   "http://www.wikidata.org/entity/Q586598",
    "http://www.wikidata.org/entity/Q1643308",
    "http://www.wikidata.org/entity/Q2681972"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "tercja kątowa",
+  "objs": [
+   "http://www.wikidata.org/entity/Q581432",
+   "http://www.wikidata.org/entity/Q2405892"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Therm",
+  "objs": [
+   "http://www.wikidata.org/entity/Q842981",
+   "http://www.wikidata.org/entity/Q855048",
+   "http://www.wikidata.org/entity/Q14914907"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "tcharka",
+  "objs": [
+   "http://www.wikidata.org/entity/Q783191",
+   "http://www.wikidata.org/entity/Q15851629"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "fass",
+  "objs": [
+   "http://www.wikidata.org/entity/Q989675",
+   "http://www.wikidata.org/entity/Q1397511"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "tael",
+  "objs": [
+   "http://www.wikidata.org/entity/Q876244",
+   "http://www.wikidata.org/entity/Q3057942"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "SUCRE",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1148329",
+   "http://www.wikidata.org/entity/Q911562"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "carro",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1045124",
+   "http://www.wikidata.org/entity/Q15793646"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "stück",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1354303",
+   "http://www.wikidata.org/entity/Q18334345"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "tjetvert",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1357453",
+   "http://www.wikidata.org/entity/Q4514998",
+   "http://www.wikidata.org/entity/Q3582"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "arshin",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1172583",
+   "http://www.wikidata.org/entity/Q17310364"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "rai stones",
+  "objs": [
+   "http://www.wikidata.org/entity/Q917019",
+   "http://www.wikidata.org/entity/Q935614"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "fahrt",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1377960",
+   "http://www.wikidata.org/entity/Q16831316"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "hand",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1552740",
+   "http://www.wikidata.org/entity/Q3278265",
+   "http://www.wikidata.org/entity/Q16930882"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "gross",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1547498",
+   "http://www.wikidata.org/entity/Q1547440",
+   "http://www.wikidata.org/entity/Q3116971"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "digit",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1399533",
+   "http://www.wikidata.org/entity/Q25907674"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "shekel",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1404428",
+   "http://www.wikidata.org/entity/Q2720762"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "κύαθος",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1591924",
+   "http://www.wikidata.org/entity/Q3676321"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "jod",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1618271",
+   "http://www.wikidata.org/entity/Q18626266"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Shaku",
+  "objs": [
+   "http://www.wikidata.org/entity/Q931805",
+   "http://www.wikidata.org/entity/Q2963205"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "drachma",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1254363",
+   "http://www.wikidata.org/entity/Q15806533"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "ort",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2031672",
+   "http://www.wikidata.org/entity/Q4580949"
   ]
  },
  {
@@ -271,10 +1298,82 @@
  },
  {
   "onto": "WD",
-  "label": "Greek drachma",
+  "label": "molt",
   "objs": [
-   "http://www.wikidata.org/entity/Q1546443",
-   "http://www.wikidata.org/entity/Q25835384"
+   "http://www.wikidata.org/entity/Q1512405",
+   "http://www.wikidata.org/entity/Q1943739"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "spint",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2800364",
+   "http://www.wikidata.org/entity/Q4346074"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "mud",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1537379",
+   "http://www.wikidata.org/entity/Q2125770"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "quarteron",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2122343",
+   "http://www.wikidata.org/entity/Q15841351"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "stock",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2350546",
+   "http://www.wikidata.org/entity/Q18631245"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "kopa",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2995888",
+   "http://www.wikidata.org/entity/Q18630585"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "snes",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2415057",
+   "http://www.wikidata.org/entity/Q22583232"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "pint",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2192310",
+   "http://www.wikidata.org/entity/Q11123"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "małdrat",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1887833",
+   "http://www.wikidata.org/entity/Q15833463"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "sahm",
+  "objs": [
+   "http://www.wikidata.org/entity/Q2212048",
+   "http://www.wikidata.org/entity/Q19308363"
   ]
  },
  {
@@ -287,10 +1386,90 @@
  },
  {
   "onto": "WD",
-  "label": "libra",
+  "label": "schepel",
   "objs": [
-   "http://www.wikidata.org/entity/Q11348804",
-   "http://www.wikidata.org/entity/Q10317923"
+   "http://www.wikidata.org/entity/Q2516030",
+   "http://www.wikidata.org/entity/Q2614981"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "tankard",
+  "objs": [
+   "http://www.wikidata.org/entity/Q3446398",
+   "http://www.wikidata.org/entity/Q14624240"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "hemina",
+  "objs": [
+   "http://www.wikidata.org/entity/Q11925390",
+   "http://www.wikidata.org/entity/Q9002764"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "tan",
+  "objs": [
+   "http://www.wikidata.org/entity/Q11410513",
+   "http://www.wikidata.org/entity/Q18413337"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "pes",
+  "objs": [
+   "http://www.wikidata.org/entity/Q3774493",
+   "http://www.wikidata.org/entity/Q3902737"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "fjerdingkar",
+  "objs": [
+   "http://www.wikidata.org/entity/Q12311491",
+   "http://www.wikidata.org/entity/Q12311495"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "stiege",
+  "objs": [
+   "http://www.wikidata.org/entity/Q15849257",
+   "http://www.wikidata.org/entity/Q18413251"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "stab",
+  "objs": [
+   "http://www.wikidata.org/entity/Q15848772",
+   "http://www.wikidata.org/entity/Q18334241"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "empan",
+  "objs": [
+   "http://www.wikidata.org/entity/Q5831606",
+   "http://www.wikidata.org/entity/Q15808055"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Equivalent weight",
+  "objs": [
+   "http://www.wikidata.org/entity/Q6579586",
+   "http://www.wikidata.org/entity/Q36384"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "moggia",
+  "objs": [
+   "http://www.wikidata.org/entity/Q16218806",
+   "http://www.wikidata.org/entity/Q16320373"
   ]
  },
  {
@@ -311,11 +1490,45 @@
  },
  {
   "onto": "WD",
+  "label": "million years",
+  "objs": [
+   "http://www.wikidata.org/entity/Q24004475",
+   "http://www.wikidata.org/entity/Q7854897",
+   "http://www.wikidata.org/entity/Q20764"
+  ]
+ },
+ {
+  "onto": "WD",
   "label": "cruzeiro",
   "objs": [
    "http://www.wikidata.org/entity/Q10261896",
    "http://www.wikidata.org/entity/Q8351983",
-   "http://www.wikidata.org/entity/Q10261894"
+   "http://www.wikidata.org/entity/Q10261894",
+   "http://www.wikidata.org/entity/Q32361"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "square sazhen",
+  "objs": [
+   "http://www.wikidata.org/entity/Q26221041",
+   "http://www.wikidata.org/entity/Q27949624"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "quartier",
+  "objs": [
+   "http://www.wikidata.org/entity/Q20827394",
+   "http://www.wikidata.org/entity/Q20827393"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "light-millisecond",
+  "objs": [
+   "http://www.wikidata.org/entity/Q27861986",
+   "http://www.wikidata.org/entity/Q27861987"
   ]
  }
 ]
