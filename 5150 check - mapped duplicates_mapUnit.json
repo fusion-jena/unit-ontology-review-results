@@ -16,11 +16,78 @@
   ]
  },
  {
+  "onto": "WD",
+  "label": "degree",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1359207",
+   "http://www.wikidata.org/entity/Q28390"
+  ]
+ },
+ {
   "onto": "MUO",
   "label": "liter",
   "objs": [
    "http://purl.oclc.org/NET/muo/ucum/unit/volume/liter-1",
    "http://purl.oclc.org/NET/muo/ucum/unit/volume/liter-2"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "point",
+  "objs": [
+   "http://www.wikidata.org/entity/Q156389",
+   "http://www.wikidata.org/entity/Q24038885"
+  ]
+ },
+ {
+  "onto": "MUO",
+  "label": "thermochemical calorie",
+  "objs": [
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/thermochemical-calorie",
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/calorie"
+  ]
+ },
+ {
+  "onto": "MUO",
+  "label": "British thermal unit",
+  "objs": [
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/British-thermal-unit",
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/thermochemical-British-thermal-unit"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "fathom",
+  "objs": [
+   "http://www.wikidata.org/entity/Q280164",
+   "http://www.wikidata.org/entity/Q6502423"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "gallon",
+  "objs": [
+   "http://www.wikidata.org/entity/Q178413",
+   "http://www.wikidata.org/entity/Q5519125",
+   "http://www.wikidata.org/entity/Q23925410",
+   "http://www.wikidata.org/entity/Q23925413",
+   "http://www.wikidata.org/entity/Q23925527"
+  ]
+ },
+ {
+  "onto": "OM",
+  "label": "hectare",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/hectare",
+   "http://www.wurvoc.org/vocabularies/om-1.8/square_hectometre"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "hectare",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#hectare",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#squareHectometre"
   ]
  },
  {
@@ -48,6 +115,30 @@
   ]
  },
  {
+  "onto": "WD",
+  "label": "carat (mass)",
+  "objs": [
+   "http://www.wikidata.org/entity/Q261247",
+   "http://www.wikidata.org/entity/Q1072404"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "dry pint (US)",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#dryPintUs",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#pintUsDry"
+  ]
+ },
+ {
+  "onto": "QU",
+  "label": "dry quart (US)",
+  "objs": [
+   "http://purl.oclc.org/NET/ssnx/qu/unit#dryQuartUs",
+   "http://purl.oclc.org/NET/ssnx/qu/unit#quartUsDry"
+  ]
+ },
+ {
   "onto": "OM",
   "label": "gram per square metre",
   "objs": [
@@ -56,11 +147,45 @@
   ]
  },
  {
+  "onto": "WD",
+  "label": "South Korean won",
+  "objs": [
+   "http://www.wikidata.org/entity/Q202040",
+   "http://www.wikidata.org/entity/Q7567738"
+  ]
+ },
+ {
   "onto": "QUDT",
   "label": "Atomic mass unit",
   "objs": [
    "http://qudt.org/vocab/unit#AtomicMassUnit",
-   "http://qudt.org/vocab/unit#Dalton2"
+   "http://qudt.org/vocab/unit#Dalton2",
+   "http://qudt.org/vocab/unit#Dalton",
+   "http://qudt.org/vocab/unit#UnifiedAtomicMassUnit"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Zambian Kwacha",
+  "objs": [
+   "http://www.wikidata.org/entity/Q73408",
+   "http://www.wikidata.org/entity/Q21596813"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Brazilian Real",
+  "objs": [
+   "http://www.wikidata.org/entity/Q173117",
+   "http://www.wikidata.org/entity/Q10366257"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "Metric Ton",
+  "objs": [
+   "http://qudt.org/vocab/unit#MetricTon",
+   "http://qudt.org/vocab/unit#TonMetric"
   ]
  },
  {
@@ -69,6 +194,128 @@
   "objs": [
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#permil",
    "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMil"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "ftu",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#FTU",
+   "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#FormazinTurbidityUnit"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "talent",
+  "objs": [
+   "http://www.wikidata.org/entity/Q190139",
+   "http://www.wikidata.org/entity/Q25839995"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "peso",
+  "objs": [
+   "http://www.wikidata.org/entity/Q199578",
+   "http://www.wikidata.org/entity/Q244696",
+   "http://www.wikidata.org/entity/Q244819"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "shilling",
+  "objs": [
+   "http://www.wikidata.org/entity/Q213142",
+   "http://www.wikidata.org/entity/Q736526"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "uncia",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1052833",
+   "http://www.wikidata.org/entity/Q1645564"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "mark",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1089123",
+   "http://www.wikidata.org/entity/Q4281830"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "quarter",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1643308",
+   "http://www.wikidata.org/entity/Q2681972"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Kantar",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1281888",
+   "http://www.wikidata.org/entity/Q3655672"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Łan",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1757518",
+   "http://www.wikidata.org/entity/Q17094697"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Greek drachma",
+  "objs": [
+   "http://www.wikidata.org/entity/Q1546443",
+   "http://www.wikidata.org/entity/Q25835384"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Palestine pound",
+  "objs": [
+   "http://www.wikidata.org/entity/Q4342566",
+   "http://www.wikidata.org/entity/Q3973271"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "libra",
+  "objs": [
+   "http://www.wikidata.org/entity/Q11348804",
+   "http://www.wikidata.org/entity/Q10317923"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "cuerda",
+  "objs": [
+   "http://www.wikidata.org/entity/Q17087835",
+   "http://www.wikidata.org/entity/Q23931245"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Dash",
+  "objs": [
+   "http://www.wikidata.org/entity/Q17155887",
+   "http://www.wikidata.org/entity/Q26869687"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "cruzeiro",
+  "objs": [
+   "http://www.wikidata.org/entity/Q10261896",
+   "http://www.wikidata.org/entity/Q8351983",
+   "http://www.wikidata.org/entity/Q10261894"
   ]
  }
 ]

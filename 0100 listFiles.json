@@ -85,6 +85,19 @@
   "exportHTML": []
  },
  {
+  "desc": "check, whether there are URIs that are present in multiple types",
+  "key": "1100",
+  "name": "multiple type assignments",
+  "file": "1100 check - multiple type assignments.js",
+  "loadedResults": [],
+  "loadedPredefined": [],
+  "loadedData": [],
+  "exportResult": [
+   "multiple type assignments"
+  ],
+  "exportHTML": []
+ },
+ {
   "desc": "check, whether all conversions included have either an offset or a factor\r\n\noutput:\r\n- \"completeness - conversionValues\" ... list of conversions per ontology with neither offset nor factor",
   "key": "1400",
   "name": "completeness - conversionValues",
@@ -255,6 +268,19 @@
   ],
   "exportResult": [
    "check - keyword usage"
+  ],
+  "exportHTML": []
+ },
+ {
+  "desc": "count languages used for labels per ontology\r\nused to select display label later on\r\n\r\noutput:\r\n- \"statistic - label languages overall\"",
+  "key": "1700",
+  "name": "statistic - label languages overall",
+  "file": "1700 statistic - label languages overall.js",
+  "loadedResults": [],
+  "loadedPredefined": [],
+  "loadedData": [],
+  "exportResult": [
+   "statistic - label languages overall"
   ],
   "exportHTML": []
  },
@@ -865,7 +891,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for coverage of baseTypes in the relations\r\n\nuses instance counts (not SynSet counts!) as reference\r\n\noutput:\r\n- \"check - individuals used in relations\" ... dsitribution of objects per relation\r\n- \"check - individuals used in relations missing\" ... list per ontology of objects missing in a relation",
+  "desc": "Create HTML output for coverage of baseTypes in the relations\nuses instance counts (not SynSet counts!) as reference\noutput:\n- \"check - individuals used in relations\" ... dsitribution of objects per relation\n- \"check - individuals used in relations missing\" ... list per ontology of objects missing in a relation",
   "key": "9060",
   "name": "check - individuals used in relations",
   "file": "9060 check - relation coverage.js",
@@ -896,7 +922,7 @@
   ]
  },
  {
-  "desc": "Create HTML outputs for mapped SynSets\r\n\ntransform labels; makes for easier spotting of missed mappings\r\ncan not be automated, because of \"gram per litre\" and \"litre per gram\"\r\n\n\noutput:\r\n- (various files) ... list of SynSets per type labels sorted alphabetically",
+  "desc": "Create HTML outputs for mapped SynSets\ntransform labels; makes for easier spotting of missed mappings\ncan not be automated, because of \"gram per litre\" and \"litre per gram\"\noutput:\n- (various files) ... list of SynSets per type labels sorted alphabetically",
   "key": "9101",
   "name": "check - mapping sorted words in labels",
   "file": "9101 check - mapping sorted words in labels.js",
@@ -909,7 +935,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for unit, which possibly lack a prefix annotation\r\nlack is determined by heuristic\r\n\noutput:\r\n- \"check - missed prefix relation\" ... list per ontology of units with possibly lacking prefix annotation",
+  "desc": "Create HTML output for unit, which possibly lack a prefix annotation\nlack is determined by heuristic\noutput:\n- \"check - missed prefix relation\" ... list per ontology of units with possibly lacking prefix annotation",
   "key": "9110",
   "name": "check - missed prefix relation",
   "file": "9110 check - missed prefix relation.js",
@@ -940,7 +966,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for duplicate mappings,\r\nthat is SynSets containing more than one individual from a single ontology\r\n\noutput:\r\n- \"check - mapped duplicates\" ... list of possible duplicates",
+  "desc": "Create HTML output for duplicate mappings,\nthat is SynSets containing more than one individual from a single ontology\noutput:\n- \"check - mapped duplicates\" ... list of possible duplicates",
   "key": "9150",
   "name": "check - mapped duplicates",
   "file": "9150 check - mapped duplicates.js",
@@ -969,7 +995,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for overlap in mapped units\r\n\noutput:\r\n- 'statistic - unit overlap noPrefix' ... table for unit overlap for unprefixed units\r\n- 'statistic - unit overlap total' ... table for unit overlap for all units",
+  "desc": "Create HTML output for overlap in mapped units\noutput:\n- 'statistic - unit overlap noPrefix' ... table for unit overlap for unprefixed units\n- 'statistic - unit overlap total' ... table for unit overlap for all units",
   "key": "9270",
   "name": "statistic - unit overlap",
   "file": "9270 statistic - unit overlap.js",
@@ -988,7 +1014,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for unit per dimension\r\n\noutput:\r\n- \"check - unit per dimension after mapping\" ... list per dimension Synset of linked units",
+  "desc": "Create HTML output for unit per dimension\noutput:\n- \"check - unit per dimension after mapping\" ... list per dimension Synset of linked units",
   "key": "9280",
   "name": "check - unit per dimension after mapping",
   "file": "9280 check - unit per dimension after mapping.js",
@@ -1007,7 +1033,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for mismatches in conversions\r\n\noutput:\r\n- \"check - conversion contradictions\" ... list of conversions with different factors/offsets by different ontologies\r\n- \"check - conversion contradictions rounded\" ... list of conversions with different factors/offsets by different ontologies after taking rounding into account",
+  "desc": "Create HTML output for mismatches in conversions\noutput:\n- \"check - conversion contradictions\" ... list of conversions with different factors/offsets by different ontologies\n- \"check - conversion contradictions rounded\" ... list of conversions with different factors/offsets by different ontologies after taking rounding into account",
   "key": "9350",
   "name": "check - conversion contradictions",
   "file": "9350 check - conversion contradictions.js",
@@ -1024,7 +1050,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for mismatches in dimension vectors\r\n\noutput:\r\n- \"check - dimensionVector\" ... list of dimensions with mismatches in their dimension vector",
+  "desc": "Create HTML output for mismatches in dimension vectors\noutput:\n- \"check - dimensionVector\" ... list of dimensions with mismatches in their dimension vector",
   "key": "9400",
   "name": "check - dimensionVector",
   "file": "9400 check - dimensionVector.js",
@@ -1040,7 +1066,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for cross validate unit mapping and dimension mapping\r\nusing the dimensionUnit association\r\n\noutput:\r\n- \"check - dimension per unit after mapping\" ... list of instances, where a unit SynSet is associated with more than one dimension SynSet",
+  "desc": "Create HTML output for cross validate unit mapping and dimension mapping\nusing the dimensionUnit association\noutput:\n- \"check - dimension per unit after mapping\" ... list of instances, where a unit SynSet is associated with more than one dimension SynSet",
   "key": "9500",
   "name": "check - dimension per unit after mapping",
   "file": "9500 check - dimension per unit after mapping.js",
@@ -1055,7 +1081,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for possibly imprecise units\r\n\nexample: gallon vs gallon US vs gallon UK\r\n\noutput:\r\n- \"check - vague designation\" ... list of units with possibly imprecise individuals",
+  "desc": "Create HTML output for possibly imprecise units\nexample: gallon vs gallon US vs gallon UK\noutput:\n- \"check - vague designation\" ... list of units with possibly imprecise individuals",
   "key": "9550",
   "name": "check - vague designation",
   "file": "9550 check - vague designation.js",
@@ -1070,7 +1096,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for mismatches in prefix factors\r\n\noutput:\r\n- \"check - prefix factors\" ... list of prefix SynSets with mismatches in factor",
+  "desc": "Create HTML output for mismatches in prefix factors\noutput:\n- \"check - prefix factors\" ... list of prefix SynSets with mismatches in factor",
   "key": "9600",
   "name": "check - prefix factors",
   "file": "9600 check - prefix factors.js",
@@ -1085,7 +1111,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for used exotic characters\r\n\nexample: using \"no-break space\" (#160) instead of plain spaces\r\n\noutput:\r\n- \"check - exotic characters\" ... list per character of labels using exotic characters",
+  "desc": "Create HTML output for used exotic characters\nexample: using \"no-break space\" (#160) instead of plain spaces\noutput:\n- \"check - exotic characters\" ... list per character of labels using exotic characters",
   "key": "9650",
   "name": "check - exotic characters",
   "file": "9650 check - exotic characters.js",
@@ -1100,7 +1126,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for used keywords like \"per\" or \"reciprocal\"\r\n\noutput:\r\n- \"check - keyword usage\" ... list per ontology of used keywords including the respective amount\r\n- \"check - keyword usage details\" ... list per ontology of used keywords including the respective units",
+  "desc": "Create HTML output for used keywords like \"per\" or \"reciprocal\"\noutput:\n- \"check - keyword usage\" ... list per ontology of used keywords including the respective amount\n- \"check - keyword usage details\" ... list per ontology of used keywords including the respective units",
   "key": "9670",
   "name": "check - keyword usage",
   "file": "9670 check - keyword usage.js",
@@ -1116,7 +1142,7 @@
   ]
  },
  {
-  "desc": "Create HTML output for units with multiple labels\r\n\noutput:\r\n- \"check - multiple labels\" ... list per ontology and type of objects with more than one label",
+  "desc": "Create HTML output for units with multiple labels\noutput:\n- \"check - multiple labels\" ... list per ontology and type of objects with more than one label",
   "key": "9700",
   "name": "check - multiple labels",
   "file": "9700 check - multiple labels.js",
@@ -1149,7 +1175,7 @@
   "desc": "Create HTML output for languages missing in labels per ontology and type\r\n\noutput:\r\n- \"check - missing languages in labels\" ... list of languages missing in labels per ontology and type",
   "key": "9751",
   "name": "check - missing languages in labels",
-  "file": "9751 check - missing lnaguages in labels.js",
+  "file": "9751 check - missing languages in labels.js",
   "loadedResults": [
    "check - missing languages in labels"
   ],

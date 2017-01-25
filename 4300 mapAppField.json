@@ -31,6 +31,22 @@
     },
     "dispLabel": "space and time",
     "raw": null
+   },
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#SpaceAndTimeScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "space and time scheme",
+       "spaceandtimescheme"
+      ]
+     }
+    },
+    "dispLabel": "space and time scheme",
+    "raw": null
    }
   ]
  },
@@ -77,6 +93,22 @@
      }
     },
     "dispLabel": "mechanics",
+    "raw": null
+   },
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#MechanicsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "mechanics scheme",
+       "mechanicsscheme"
+      ]
+     }
+    },
+    "dispLabel": "mechanics scheme",
     "raw": null
    }
   ]
@@ -195,6 +227,22 @@
     },
     "dispLabel": "electricity and magnetism",
     "raw": null
+   },
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#ElectricityAndMagnetismScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electricity and magnetism scheme",
+       "electricityandmagnetismscheme"
+      ]
+     }
+    },
+    "dispLabel": "electricity and magnetism scheme",
+    "raw": null
    }
   ]
  },
@@ -230,6 +278,22 @@
     },
     "dispLabel": "radiation and light",
     "raw": null
+   },
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#LightAndRelatedElectromagneticRadiationsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "light and related electromagnetic radiations scheme",
+       "lightandrelatedelectromagneticradiationsscheme"
+      ]
+     }
+    },
+    "dispLabel": "light and related electromagnetic radiations scheme",
+    "raw": null
    }
   ]
  },
@@ -261,6 +325,22 @@
      }
     },
     "dispLabel": "acoustics",
+    "raw": null
+   },
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#AcousticsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "acoustics scheme",
+       "acousticsscheme"
+      ]
+     }
+    },
+    "dispLabel": "acoustics scheme",
     "raw": null
    }
   ]
@@ -324,12 +404,28 @@
      "nl": {
       "__type": "Set",
       "values": [
-       "atoom en kernfysica",
-       "atoomenkernfysica"
+       "atoom- en kernfysica",
+       "atoom-enkernfysica"
       ]
      }
     },
     "dispLabel": "atomic and nuclear physics",
+    "raw": null
+   },
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#AtomicAndNuclearPhysicsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "atomic and nuclear physics scheme",
+       "atomicandnuclearphysicsscheme"
+      ]
+     }
+    },
+    "dispLabel": "atomic and nuclear physics scheme",
     "raw": null
    }
   ]
@@ -399,6 +495,22 @@
     },
     "dispLabel": "solid state physics",
     "raw": null
+   },
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#SolidStatePhysicsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "solid state physics scheme",
+       "solidstatephysicsscheme"
+      ]
+     }
+    },
+    "dispLabel": "solid state physics scheme",
+    "raw": null
    }
   ]
  },
@@ -433,6 +545,22 @@
      }
     },
     "dispLabel": "chemical physics",
+    "raw": null
+   },
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#PhysicalChemistryAndMolecularPhysicsScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "physical chemistry and molecular physics scheme",
+       "physicalchemistryandmolecularphysicsscheme"
+      ]
+     }
+    },
+    "dispLabel": "physical chemistry and molecular physics scheme",
     "raw": null
    }
   ]
@@ -502,6 +630,22 @@
      }
     },
     "dispLabel": "dimensionless parameters",
+    "raw": null
+   },
+   {
+    "__type": "SemObject",
+    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#CharacteristicNumbersDimensionlessParametersScheme",
+    "ontology": "QU",
+    "labels": {
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "characteristic numbers dimensionless parameters scheme",
+       "characteristicnumbersdimensionlessparametersscheme"
+      ]
+     }
+    },
+    "dispLabel": "characteristic numbers dimensionless parameters scheme",
     "raw": null
    }
   ]
@@ -645,90 +789,6 @@
   "values": [
    {
     "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#AcousticsScheme",
-    "ontology": "QU",
-    "labels": {
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "acoustics scheme",
-       "acousticsscheme"
-      ]
-     }
-    },
-    "dispLabel": "acoustics scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#AtomicAndNuclearPhysicsScheme",
-    "ontology": "QU",
-    "labels": {
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "atomic and nuclear physics scheme",
-       "atomicandnuclearphysicsscheme"
-      ]
-     }
-    },
-    "dispLabel": "atomic and nuclear physics scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#CharacteristicNumbersDimensionlessParametersScheme",
-    "ontology": "QU",
-    "labels": {
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "characteristic numbers dimensionless parameters scheme",
-       "characteristicnumbersdimensionlessparametersscheme"
-      ]
-     }
-    },
-    "dispLabel": "characteristic numbers dimensionless parameters scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#ElectricityAndMagnetismScheme",
-    "ontology": "QU",
-    "labels": {
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electricity and magnetism scheme",
-       "electricityandmagnetismscheme"
-      ]
-     }
-    },
-    "dispLabel": "electricity and magnetism scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
     "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#HeatScheme",
     "ontology": "QU",
     "labels": {
@@ -741,48 +801,6 @@
      }
     },
     "dispLabel": "heat scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#LightAndRelatedElectromagneticRadiationsScheme",
-    "ontology": "QU",
-    "labels": {
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "light and related electromagnetic radiations scheme",
-       "lightandrelatedelectromagneticradiationsscheme"
-      ]
-     }
-    },
-    "dispLabel": "light and related electromagnetic radiations scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#MechanicsScheme",
-    "ontology": "QU",
-    "labels": {
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "mechanics scheme",
-       "mechanicsscheme"
-      ]
-     }
-    },
-    "dispLabel": "mechanics scheme",
     "raw": null
    }
   ]
@@ -825,69 +843,6 @@
      }
     },
     "dispLabel": "periodic and related phenomena scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#PhysicalChemistryAndMolecularPhysicsScheme",
-    "ontology": "QU",
-    "labels": {
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "physical chemistry and molecular physics scheme",
-       "physicalchemistryandmolecularphysicsscheme"
-      ]
-     }
-    },
-    "dispLabel": "physical chemistry and molecular physics scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#SolidStatePhysicsScheme",
-    "ontology": "QU",
-    "labels": {
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "solid state physics scheme",
-       "solidstatephysicsscheme"
-      ]
-     }
-    },
-    "dispLabel": "solid state physics scheme",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemObject",
-    "uri": "http://purl.oclc.org/NET/ssnx/qu/dim#SpaceAndTimeScheme",
-    "ontology": "QU",
-    "labels": {
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "space and time scheme",
-       "spaceandtimescheme"
-      ]
-     }
-    },
-    "dispLabel": "space and time scheme",
     "raw": null
    }
   ]

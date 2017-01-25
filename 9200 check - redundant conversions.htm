@@ -113,7 +113,7 @@
       left: -1em;
       border-radius: 0.3em;
     }
-    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    /* colors from https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory10 */
     li:before    { background-color: #7f7f7f; }
     li[data-onto="MUO"]:before    { background-color: #1f77b4; }
     li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
@@ -122,6 +122,7 @@
     li[data-onto="QUDT"]:before   { background-color: #9467bd; }
     li[data-onto="SWEET"]:before  { background-color: #8c564b; }
     li[data-onto="UO"]:before     { background-color: #e377c2; }
+    li[data-onto="WD"]:before     { background-color: #bcbd22; }
     
     /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
     
@@ -148,6 +149,7 @@
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
@@ -162,10 +164,715 @@
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
-  <h2><ul><li data-onto="OBOE">OBOE</ul></h2><ul><li data-onto="OBOE">acre ( http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre )<br>&harr;<br>meter squared( http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared )<ul><li><span style="font-size: 150%;">&rarr;</span> : factor: 4046.85642 | offset: 0<li><span style="font-size: 150%;">&rarr;</span> : factor: 4046.8564 | offset: 0</ul></ul><h2><ul><li data-onto="OM">OM</ul></h2><ul><li data-onto="OM">kilogram ( http://www.wurvoc.org/vocabularies/om-1.8/kilogram )<br>&harr;<br>gram( http://www.wurvoc.org/vocabularies/om-1.8/gram )<ul><li><span style="font-size: 150%;">&rarr;</span> : factor: 1000 | offset: 0<li><span style="font-size: 150%;">&larr;</span> : factor: 1.0e-3 | offset: 0</ul></ul>
+  <h2><ul><li data-onto="OBOE">
+OBOE
+</ul></h2><ul>
+<li data-onto="OBOE">
+acre
+ ( 
+http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre
+ )
+<br>&harr;<br>
+meter squared
+( 
+http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+4046.85642
+ | 
+offset: 
+0
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+4046.8564
+ | 
+offset: 
+0
+</ul>
+</ul>
+<h2><ul><li data-onto="OM">
+OM
+</ul></h2><ul>
+<li data-onto="OM">
+kilogram
+ ( 
+http://www.wurvoc.org/vocabularies/om-1.8/kilogram
+ )
+<br>&harr;<br>
+gram
+( 
+http://www.wurvoc.org/vocabularies/om-1.8/gram
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+1000
+ | 
+offset: 
+0
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+1.0e-3
+ | 
+offset: 
+0
+</ul>
+</ul>
+<h2><ul><li data-onto="WD">
+WD
+</ul></h2><ul>
+<li data-onto="WD">
+square cubit
+ ( 
+http://www.wikidata.org/entity/Q25932175
+ )
+<br>&harr;<br>
+square metre
+( 
+http://www.wikidata.org/entity/Q25343
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.197
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.231
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+pound-foot
+ ( 
+http://www.wikidata.org/entity/Q16859309
+ )
+<br>&harr;<br>
+newton metre
+( 
+http://www.wikidata.org/entity/Q215571
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+1.355818
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.737562
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+lue
+ ( 
+http://www.wikidata.org/entity/Q13530508
+ )
+<br>&harr;<br>
+metre
+( 
+http://www.wikidata.org/entity/Q11573
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+3898
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+4444.4
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+5555.5
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+stadion
+ ( 
+http://www.wikidata.org/entity/Q1645966
+ )
+<br>&harr;<br>
+metre
+( 
+http://www.wikidata.org/entity/Q11573
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+186
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+177.3
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+181.3
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+184.3
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+184.8
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+192.28
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+hiro
+ ( 
+http://www.wikidata.org/entity/Q26267971
+ )
+<br>&harr;<br>
+metre
+( 
+http://www.wikidata.org/entity/Q11573
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+1.515
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+1.818
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+khomer
+ ( 
+http://www.wikidata.org/entity/Q25395697
+ )
+<br>&harr;<br>
+bat
+( 
+http://www.wikidata.org/entity/Q4079241
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+10
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.1
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+actus quadratus
+ ( 
+http://www.wikidata.org/entity/Q25915415
+ )
+<br>&harr;<br>
+jugerum
+( 
+http://www.wikidata.org/entity/Q251545
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.5
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+2
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+square versta
+ ( 
+http://www.wikidata.org/entity/Q21074767
+ )
+<br>&harr;<br>
+square sazhen
+( 
+http://www.wikidata.org/entity/Q26221041
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+250000
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.000004
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+cotyle
+ ( 
+http://www.wikidata.org/entity/Q25831005
+ )
+<br>&harr;<br>
+liter
+( 
+http://www.wikidata.org/entity/Q11582
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.26
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.272
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+square plethron
+ ( 
+http://www.wikidata.org/entity/Q25909383
+ )
+<br>&harr;<br>
+hectare
+( 
+http://www.wikidata.org/entity/Q35852
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.095
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.0875
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.1027
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+pous
+ ( 
+http://www.wikidata.org/entity/Q7235735
+ )
+<br>&harr;<br>
+centimetre
+( 
+http://www.wikidata.org/entity/Q174728
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+30.8
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+29.57
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+32.05
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+межова верста
+ ( 
+http://www.wikidata.org/entity/Q12122300
+ )
+<br>&harr;<br>
+verst
+( 
+http://www.wikidata.org/entity/Q207733
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+2
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.5
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+sazhen
+ ( 
+http://www.wikidata.org/entity/Q2018709
+ )
+<br>&harr;<br>
+verst
+( 
+http://www.wikidata.org/entity/Q207733
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.002
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+500
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+vershok
+ ( 
+http://www.wikidata.org/entity/Q2121867
+ )
+<br>&harr;<br>
+четверть
+( 
+http://www.wikidata.org/entity/Q4514998
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.25
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+4
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+pechys ephtymetrikos
+ ( 
+http://www.wikidata.org/entity/Q25915550
+ )
+<br>&harr;<br>
+centimetre
+( 
+http://www.wikidata.org/entity/Q174728
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+44.36
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+48.08
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+четверть
+ ( 
+http://www.wikidata.org/entity/Q4514998
+ )
+<br>&harr;<br>
+arshin
+( 
+http://www.wikidata.org/entity/Q1172583
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.25
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+4
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+arshin
+ ( 
+http://www.wikidata.org/entity/Q1172583
+ )
+<br>&harr;<br>
+vershok
+( 
+http://www.wikidata.org/entity/Q2121867
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+16
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.0625
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+grain
+ ( 
+http://www.wikidata.org/entity/Q693944
+ )
+<br>&harr;<br>
+scruple
+( 
+http://www.wikidata.org/entity/Q1573593
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.05
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+20
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+cases per person-year
+ ( 
+http://www.wikidata.org/entity/Q23893259
+ )
+<br>&harr;<br>
+cases per 100000 person-years
+( 
+http://www.wikidata.org/entity/Q23893296
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+100000
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.00001
+ | 
+offset: 
+
+</ul>
+</ul>
   <script>
   !function(){
     

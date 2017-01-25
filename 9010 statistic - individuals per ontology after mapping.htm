@@ -113,7 +113,7 @@
       left: -1em;
       border-radius: 0.3em;
     }
-    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    /* colors from https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory10 */
     li:before    { background-color: #7f7f7f; }
     li[data-onto="MUO"]:before    { background-color: #1f77b4; }
     li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
@@ -122,6 +122,7 @@
     li[data-onto="QUDT"]:before   { background-color: #9467bd; }
     li[data-onto="SWEET"]:before  { background-color: #8c564b; }
     li[data-onto="UO"]:before     { background-color: #e377c2; }
+    li[data-onto="WD"]:before     { background-color: #bcbd22; }
     
     /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
     
@@ -148,6 +149,7 @@
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
@@ -162,10 +164,244 @@
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
-  <table><tr><th>&nbsp;</th><th><ul><li data-onto="MUO">MUO</ul></th><th><ul><li data-onto="OBOE">OBOE</ul></th><th><ul><li data-onto="OM">OM</ul></th><th><ul><li data-onto="QU">QU</ul></th><th><ul><li data-onto="QUDT">QUDT</ul></th><th><ul><li data-onto="SWEET">SWEET</ul></th><th><ul><li data-onto="UO">UO</ul></th></tr><tr><th>mapAppField</th><td class="red">0</td><td class="red">0</td><td class="green">18</td><td class="green">12</td><td class="red">0</td><td class="green">49</td><td class="red">0</td></tr><tr><th>mapDimension</th><td class="red">0</td><td class="red">0</td><td class="green">68</td><td class="red">0</td><td class="green">130</td><td class="red">0</td><td class="red">0</td></tr><tr><th>mapPrefix</th><td class="green">24</td><td class="red">0</td><td class="green">28</td><td class="green">20</td><td class="green">28</td><td class="green">12</td><td class="green">20</td></tr><tr><th>mapQuantKind</th><td class="green">78</td><td class="green">67</td><td class="green">873</td><td class="green">593</td><td class="green">232</td><td class="green">836</td><td class="green">313</td></tr><tr><th>mapSystem</th><td class="red">0</td><td class="red">0</td><td class="green">13</td><td class="red">0</td><td class="green">11</td><td class="red">0</td><td class="red">0</td></tr><tr><th>mapUnit</th><td class="green">265</td><td class="green">137</td><td class="green">1367</td><td class="green">800</td><td class="green">766</td><td class="green">136</td><td class="green">221</td></tr><tr><th>mapUnit_noPrefix</th><td class="green">262</td><td class="green">71</td><td class="green">374</td><td class="green">432</td><td class="green">651</td><td class="green">110</td><td class="green">111</td></tr></table>
+  <table>
+<tr>
+<th>
+&nbsp;
+</th>
+<th><ul><li data-onto="MUO">
+MUO
+</ul></th>
+<th><ul><li data-onto="OBOE">
+OBOE
+</ul></th>
+<th><ul><li data-onto="OM">
+OM
+</ul></th>
+<th><ul><li data-onto="QU">
+QU
+</ul></th>
+<th><ul><li data-onto="QUDT">
+QUDT
+</ul></th>
+<th><ul><li data-onto="SWEET">
+SWEET
+</ul></th>
+<th><ul><li data-onto="UO">
+UO
+</ul></th>
+<th><ul><li data-onto="WD">
+WD
+</ul></th>
+</tr>
+<tr>
+<th>
+mapAppField
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+18
+</td>
+<td class="green">
+12
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+49
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+mapDimension
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+68
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+130
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+mapPrefix
+</th>
+<td class="green">
+24
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+28
+</td>
+<td class="green">
+20
+</td>
+<td class="green">
+28
+</td>
+<td class="green">
+12
+</td>
+<td class="green">
+20
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+mapQuantKind
+</th>
+<td class="green">
+78
+</td>
+<td class="green">
+67
+</td>
+<td class="green">
+875
+</td>
+<td class="green">
+598
+</td>
+<td class="green">
+234
+</td>
+<td class="green">
+838
+</td>
+<td class="green">
+315
+</td>
+<td class="green">
+547
+</td>
+</tr>
+<tr>
+<th>
+mapSystem
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+13
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+11
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+28
+</td>
+</tr>
+<tr>
+<th>
+mapUnit
+</th>
+<td class="green">
+263
+</td>
+<td class="green">
+137
+</td>
+<td class="green">
+1366
+</td>
+<td class="green">
+797
+</td>
+<td class="green">
+763
+</td>
+<td class="green">
+135
+</td>
+<td class="green">
+221
+</td>
+<td class="green">
+4076
+</td>
+</tr>
+<tr>
+<th>
+mapUnit_noPrefix
+</th>
+<td class="green">
+260
+</td>
+<td class="green">
+71
+</td>
+<td class="green">
+372
+</td>
+<td class="green">
+429
+</td>
+<td class="green">
+646
+</td>
+<td class="green">
+108
+</td>
+<td class="green">
+110
+</td>
+<td class="green">
+3823
+</td>
+</tr>
+</table>
   <script>
   !function(){
     

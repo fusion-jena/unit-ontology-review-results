@@ -113,7 +113,7 @@
       left: -1em;
       border-radius: 0.3em;
     }
-    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    /* colors from https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory10 */
     li:before    { background-color: #7f7f7f; }
     li[data-onto="MUO"]:before    { background-color: #1f77b4; }
     li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
@@ -122,6 +122,7 @@
     li[data-onto="QUDT"]:before   { background-color: #9467bd; }
     li[data-onto="SWEET"]:before  { background-color: #8c564b; }
     li[data-onto="UO"]:before     { background-color: #e377c2; }
+    li[data-onto="WD"]:before     { background-color: #bcbd22; }
     
     /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
     
@@ -148,6 +149,7 @@
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
@@ -162,10 +164,950 @@
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
-  <table><tr><th>&nbsp;</th><th><ul><li data-onto="MUO">MUO</ul></th><th><ul><li data-onto="OBOE">OBOE</ul></th><th><ul><li data-onto="OM">OM</ul></th><th><ul><li data-onto="QU">QU</ul></th><th><ul><li data-onto="QUDT">QUDT</ul></th><th><ul><li data-onto="SWEET">SWEET</ul></th><th><ul><li data-onto="UO">UO</ul></th></tr><tr><th>appField</th><td></td><td></td><td><div class="green">total: 18</div><div class="green">en: 18</div><div class="green">nl: 18</div></td><td><div class="green">total: 12</div><div class="red">missing: 12</div></td><td></td><td><div class="green">total: 49</div><div class="red">missing: 49</div></td><td></td></tr><tr><th>dimension</th><td></td><td></td><td><div class="green">total: 68</div><div class="green">en: 68</div><div class="red">nl: 15</div></td><td></td><td><div class="green">total: 130</div><div class="green">unknown: 130</div></td><td></td><td></td></tr><tr><th>prefix</th><td><div class="green">total: 24</div><div class="green">en: 24</div></td><td></td><td><div class="green">total: 28</div><div class="green">en: 28</div><div class="green">nl: 28</div><div class="red">zh: 15</div></td><td><div class="green">total: 20</div><div class="green">unknown: 20</div></td><td><div class="green">total: 28</div><div class="green">unknown: 28</div></td><td><div class="green">total: 12</div><div class="red">missing: 12</div></td><td><div class="green">total: 20</div><div class="green">unknown: 20</div></td></tr><tr><th>quantKind</th><td><div class="green">total: 78</div><div class="green">en: 78</div></td><td><div class="green">total: 67</div><div class="red">missing: 62</div><div class="red">en: 5</div></td><td><div class="green">total: 879</div><div class="green">en: 879</div><div class="red">nl: 256</div><div class="red">zh: 24</div></td><td><div class="green">total: 598</div><div class="green">unknown: 598</div></td><td><div class="green">total: 235</div><div class="green">unknown: 235</div></td><td><div class="green">total: 847</div><div class="red">missing: 839</div><div class="red">unknown: 8</div></td><td><div class="green">total: 316</div><div class="green">unknown: 316</div></td></tr><tr><th>system</th><td></td><td></td><td><div class="green">total: 13</div><div class="green">en: 13</div><div class="green">nl: 13</div></td><td></td><td><div class="green">total: 11</div><div class="green">unknown: 11</div></td><td></td><td></td></tr><tr><th>unit</th><td><div class="green">total: 267</div><div class="green">en: 267</div></td><td><div class="green">total: 138</div><div class="red">missing: 138</div></td><td><div class="green">total: 1369</div><div class="green">en: 1369</div><div class="red">nl: 1216</div><div class="red">zh: 104</div></td><td><div class="green">total: 801</div><div class="green">unknown: 801</div></td><td><div class="green">total: 768</div><div class="green">unknown: 768</div></td><td><div class="green">total: 140</div><div class="red">missing: 140</div></td><td><div class="green">total: 221</div><div class="green">unknown: 221</div></td></tr></table><div class="comment">                 <i>total</i> is the total number of individuals for that type and ontology                <br>                <i>missing</i> is the number of individuals without any label            </div>
+  <table>
+<tr>
+<th>
+&nbsp;
+</th>
+<th><ul><li data-onto="MUO">
+MUO
+</ul></th>
+<th><ul><li data-onto="OBOE">
+OBOE
+</ul></th>
+<th><ul><li data-onto="OM">
+OM
+</ul></th>
+<th><ul><li data-onto="QU">
+QU
+</ul></th>
+<th><ul><li data-onto="QUDT">
+QUDT
+</ul></th>
+<th><ul><li data-onto="SWEET">
+SWEET
+</ul></th>
+<th><ul><li data-onto="UO">
+UO
+</ul></th>
+<th><ul><li data-onto="WD">
+WD
+</ul></th>
+</tr>
+<tr>
+<th>
+appField
+</th>
+<td>
+
+</td>
+<td>
+
+</td>
+<td>
+<div class="green">total: 18</div>
+<div class="green">en: 18</div>
+<div class="green">nl: 18</div>
+</td>
+<td>
+<div class="red">missing: 12</div>
+<div class="green">total: 12</div>
+</td>
+<td>
+
+</td>
+<td>
+<div class="red">missing: 49</div>
+<div class="green">total: 49</div>
+</td>
+<td>
+
+</td>
+<td>
+
+</td>
+</tr>
+<tr>
+<th>
+dimension
+</th>
+<td>
+
+</td>
+<td>
+
+</td>
+<td>
+<div class="green">total: 68</div>
+<div class="green">en: 68</div>
+<div class="red">nl: 15</div>
+</td>
+<td>
+
+</td>
+<td>
+<div class="green">unknown: 130</div>
+<div class="green">total: 130</div>
+</td>
+<td>
+
+</td>
+<td>
+
+</td>
+<td>
+
+</td>
+</tr>
+<tr>
+<th>
+prefix
+</th>
+<td>
+<div class="green">total: 24</div>
+<div class="green">en: 24</div>
+</td>
+<td>
+
+</td>
+<td>
+<div class="green">total: 28</div>
+<div class="green">en: 28</div>
+<div class="green">nl: 28</div>
+<div class="red">zh: 15</div>
+</td>
+<td>
+<div class="green">unknown: 20</div>
+<div class="green">total: 20</div>
+</td>
+<td>
+<div class="green">unknown: 28</div>
+<div class="green">total: 28</div>
+</td>
+<td>
+<div class="red">missing: 12</div>
+<div class="green">total: 12</div>
+</td>
+<td>
+<div class="green">unknown: 20</div>
+<div class="green">total: 20</div>
+</td>
+<td>
+
+</td>
+</tr>
+<tr>
+<th>
+quantKind
+</th>
+<td>
+<div class="green">total: 78</div>
+<div class="green">en: 78</div>
+</td>
+<td>
+<div class="red">missing: 62</div>
+<div class="green">total: 67</div>
+<div class="red">en: 5</div>
+</td>
+<td>
+<div class="green">total: 879</div>
+<div class="green">en: 879</div>
+<div class="red">nl: 256</div>
+<div class="red">zh: 24</div>
+</td>
+<td>
+<div class="green">unknown: 598</div>
+<div class="green">total: 598</div>
+</td>
+<td>
+<div class="green">unknown: 235</div>
+<div class="green">total: 235</div>
+</td>
+<td>
+<div class="red">unknown: 8</div>
+<div class="red">missing: 839</div>
+<div class="green">total: 847</div>
+</td>
+<td>
+<div class="green">unknown: 316</div>
+<div class="green">total: 316</div>
+</td>
+<td>
+<div class="green">total: 558</div>
+<div class="red">ab: 1</div>
+<div class="red">ace: 1</div>
+<div class="red">aeb-arab: 1</div>
+<div class="red">aeb-latn: 1</div>
+<div class="red">af: 85</div>
+<div class="red">ak: 2</div>
+<div class="red">am: 20</div>
+<div class="red">an: 29</div>
+<div class="red">ang: 1</div>
+<div class="red">ar: 273</div>
+<div class="red">arc: 6</div>
+<div class="red">arz: 7</div>
+<div class="red">as: 15</div>
+<div class="red">ast: 66</div>
+<div class="red">av: 3</div>
+<div class="red">ay: 5</div>
+<div class="red">az: 72</div>
+<div class="red">azb: 14</div>
+<div class="red">ba: 15</div>
+<div class="red">bar: 36</div>
+<div class="red">bcl: 1</div>
+<div class="red">be: 174</div>
+<div class="red">be-tarask: 86</div>
+<div class="red">bg: 148</div>
+<div class="red">bho: 10</div>
+<div class="red">bi: 1</div>
+<div class="red">bn: 87</div>
+<div class="red">bo: 5</div>
+<div class="red">bpy: 1</div>
+<div class="red">br: 29</div>
+<div class="red">bs: 107</div>
+<div class="red">bug: 1</div>
+<div class="red">bxr: 11</div>
+<div class="red">ca: 308</div>
+<div class="red">cdo: 12</div>
+<div class="red">ce: 10</div>
+<div class="red">ceb: 6</div>
+<div class="red">ch: 1</div>
+<div class="red">chr: 5</div>
+<div class="red">chy: 1</div>
+<div class="red">ckb: 51</div>
+<div class="red">co: 1</div>
+<div class="red">cs: 242</div>
+<div class="red">csb: 1</div>
+<div class="red">cu: 4</div>
+<div class="red">cv: 11</div>
+<div class="red">cy: 46</div>
+<div class="red">da: 167</div>
+<div class="red">de: 395</div>
+<div class="red">de-ch: 45</div>
+<div class="red">diq: 6</div>
+<div class="red">dsb: 2</div>
+<div class="red">dv: 2</div>
+<div class="red">ee: 1</div>
+<div class="red">el: 167</div>
+<div class="red">eml: 4</div>
+<div class="red">en: 506</div>
+<div class="red">en-ca: 63</div>
+<div class="red">en-gb: 75</div>
+<div class="red">eo: 169</div>
+<div class="red">es: 334</div>
+<div class="red">et: 174</div>
+<div class="red">eu: 131</div>
+<div class="red">ext: 12</div>
+<div class="red">fa: 261</div>
+<div class="red">ff: 1</div>
+<div class="red">fi: 216</div>
+<div class="red">fj: 1</div>
+<div class="red">fo: 8</div>
+<div class="red">fr: 406</div>
+<div class="red">frr: 42</div>
+<div class="red">fur: 6</div>
+<div class="red">fy: 19</div>
+<div class="red">ga: 104</div>
+<div class="red">gan: 10</div>
+<div class="red">gd: 15</div>
+<div class="red">gl: 120</div>
+<div class="red">gn: 8</div>
+<div class="red">gsw: 38</div>
+<div class="red">gu: 13</div>
+<div class="red">gv: 14</div>
+<div class="red">ha: 1</div>
+<div class="red">hak: 11</div>
+<div class="red">haw: 2</div>
+<div class="red">he: 193</div>
+<div class="red">hi: 145</div>
+<div class="red">hif: 8</div>
+<div class="red">hr: 159</div>
+<div class="red">hsb: 3</div>
+<div class="red">ht: 63</div>
+<div class="red">hu: 197</div>
+<div class="red">hy: 142</div>
+<div class="red">ia: 37</div>
+<div class="red">id: 159</div>
+<div class="red">ie: 1</div>
+<div class="red">ig: 3</div>
+<div class="red">ik: 1</div>
+<div class="red">ilo: 12</div>
+<div class="red">io: 37</div>
+<div class="red">is: 75</div>
+<div class="red">it: 348</div>
+<div class="red">iu: 1</div>
+<div class="red">ja: 317</div>
+<div class="red">jam: 9</div>
+<div class="red">jbo: 8</div>
+<div class="red">jv: 18</div>
+<div class="red">ka: 80</div>
+<div class="red">kaa: 8</div>
+<div class="red">kbd: 4</div>
+<div class="red">ki: 1</div>
+<div class="red">kk: 123</div>
+<div class="red">kk-arab: 51</div>
+<div class="red">kk-cn: 32</div>
+<div class="red">kk-cyrl: 53</div>
+<div class="red">kk-kz: 32</div>
+<div class="red">kk-latn: 51</div>
+<div class="red">kk-tr: 32</div>
+<div class="red">kl: 1</div>
+<div class="red">km: 16</div>
+<div class="red">kn: 18</div>
+<div class="red">ko: 253</div>
+<div class="red">koi: 1</div>
+<div class="red">krc: 5</div>
+<div class="red">ksh: 1</div>
+<div class="red">ku: 30</div>
+<div class="red">ku-arab: 1</div>
+<div class="red">ku-latn: 6</div>
+<div class="red">kv: 1</div>
+<div class="red">kw: 4</div>
+<div class="red">ky: 19</div>
+<div class="red">la: 57</div>
+<div class="red">lb: 38</div>
+<div class="red">lbe: 2</div>
+<div class="red">lg: 1</div>
+<div class="red">li: 23</div>
+<div class="red">lij: 6</div>
+<div class="red">lmo: 16</div>
+<div class="red">ln: 8</div>
+<div class="red">lo: 5</div>
+<div class="red">lt: 127</div>
+<div class="red">ltg: 2</div>
+<div class="red">lv: 107</div>
+<div class="red">lzh: 18</div>
+<div class="red">mai: 5</div>
+<div class="red">map-bms: 1</div>
+<div class="red">mdf: 1</div>
+<div class="red">mg: 5</div>
+<div class="red">mhr: 6</div>
+<div class="red">mi: 1</div>
+<div class="red">min: 1</div>
+<div class="red">mk: 220</div>
+<div class="red">ml: 86</div>
+<div class="red">mn: 44</div>
+<div class="red">mo: 4</div>
+<div class="red">mr: 66</div>
+<div class="red">ms: 122</div>
+<div class="red">mt: 27</div>
+<div class="red">mwl: 3</div>
+<div class="red">my: 21</div>
+<div class="red">myv: 4</div>
+<div class="red">mzn: 8</div>
+<div class="red">nah: 3</div>
+<div class="red">nan: 46</div>
+<div class="red">nap: 6</div>
+<div class="red">nb: 210</div>
+<div class="red">nds: 45</div>
+<div class="red">nds-nl: 5</div>
+<div class="red">ne: 31</div>
+<div class="red">new: 20</div>
+<div class="red">nl: 344</div>
+<div class="red">nn: 191</div>
+<div class="red">nov: 5</div>
+<div class="red">nrm: 3</div>
+<div class="red">nso: 3</div>
+<div class="red">nv: 1</div>
+<div class="red">oc: 56</div>
+<div class="red">olo: 1</div>
+<div class="red">om: 4</div>
+<div class="red">or: 10</div>
+<div class="red">os: 4</div>
+<div class="red">pa: 48</div>
+<div class="red">pam: 1</div>
+<div class="red">pcd: 5</div>
+<div class="red">pdc: 1</div>
+<div class="red">pfl: 5</div>
+<div class="red">pl: 310</div>
+<div class="red">pms: 29</div>
+<div class="red">pnb: 24</div>
+<div class="red">ps: 10</div>
+<div class="red">pt: 280</div>
+<div class="red">pt-br: 98</div>
+<div class="red">qu: 28</div>
+<div class="red">rmy: 1</div>
+<div class="red">rn: 1</div>
+<div class="red">ro: 193</div>
+<div class="red">roa-tara: 6</div>
+<div class="red">ru: 395</div>
+<div class="red">rue: 14</div>
+<div class="red">rw: 1</div>
+<div class="red">sa: 7</div>
+<div class="red">sah: 10</div>
+<div class="red">sc: 3</div>
+<div class="red">scn: 39</div>
+<div class="red">sco: 91</div>
+<div class="red">sd: 2</div>
+<div class="red">se: 1</div>
+<div class="red">sg: 2</div>
+<div class="red">sgs: 11</div>
+<div class="red">sh: 145</div>
+<div class="red">si: 35</div>
+<div class="red">sk: 175</div>
+<div class="red">sl: 193</div>
+<div class="red">sm: 1</div>
+<div class="red">sma: 1</div>
+<div class="red">sn: 30</div>
+<div class="red">so: 22</div>
+<div class="red">sq: 56</div>
+<div class="red">sr: 229</div>
+<div class="red">sr-ec: 95</div>
+<div class="red">sr-el: 87</div>
+<div class="red">srn: 1</div>
+<div class="red">stq: 7</div>
+<div class="red">su: 30</div>
+<div class="red">sv: 225</div>
+<div class="red">sw: 29</div>
+<div class="red">szl: 10</div>
+<div class="red">ta: 124</div>
+<div class="red">te: 46</div>
+<div class="red">tg: 13</div>
+<div class="red">tg-latn: 2</div>
+<div class="red">th: 130</div>
+<div class="red">ti: 1</div>
+<div class="red">tk: 12</div>
+<div class="red">tl: 49</div>
+<div class="red">tr: 192</div>
+<div class="red">ts: 2</div>
+<div class="red">tt: 46</div>
+<div class="red">tum: 1</div>
+<div class="red">tyv: 4</div>
+<div class="red">udm: 1</div>
+<div class="red">ug: 4</div>
+<div class="red">uk: 281</div>
+<div class="red">ur: 71</div>
+<div class="red">uz: 53</div>
+<div class="red">ve: 1</div>
+<div class="red">vec: 18</div>
+<div class="red">vep: 2</div>
+<div class="red">vi: 153</div>
+<div class="red">vls: 8</div>
+<div class="red">vo: 2</div>
+<div class="red">vro: 10</div>
+<div class="red">wa: 4</div>
+<div class="red">war: 30</div>
+<div class="red">wo: 18</div>
+<div class="red">wuu: 8</div>
+<div class="red">xal: 6</div>
+<div class="red">xh: 5</div>
+<div class="red">xmf: 9</div>
+<div class="red">yi: 31</div>
+<div class="red">yo: 10</div>
+<div class="red">yue: 72</div>
+<div class="red">za: 1</div>
+<div class="red">zea: 2</div>
+<div class="red">zh: 321</div>
+<div class="red">zh-cn: 119</div>
+<div class="red">zh-hans: 171</div>
+<div class="red">zh-hant: 191</div>
+<div class="red">zh-hk: 164</div>
+<div class="red">zh-mo: 12</div>
+<div class="red">zh-my: 12</div>
+<div class="red">zh-sg: 84</div>
+<div class="red">zh-tw: 93</div>
+<div class="red">zu: 1</div>
+</td>
+</tr>
+<tr>
+<th>
+system
+</th>
+<td>
+
+</td>
+<td>
+
+</td>
+<td>
+<div class="green">total: 13</div>
+<div class="green">en: 13</div>
+<div class="green">nl: 13</div>
+</td>
+<td>
+
+</td>
+<td>
+<div class="green">unknown: 11</div>
+<div class="green">total: 11</div>
+</td>
+<td>
+
+</td>
+<td>
+
+</td>
+<td>
+<div class="green">total: 28</div>
+<div class="red">ab: 1</div>
+<div class="red">af: 1</div>
+<div class="red">an: 1</div>
+<div class="red">ar: 11</div>
+<div class="red">arz: 1</div>
+<div class="red">as: 1</div>
+<div class="red">ast: 6</div>
+<div class="red">az: 2</div>
+<div class="red">ba: 1</div>
+<div class="red">bar: 2</div>
+<div class="red">be: 6</div>
+<div class="red">be-tarask: 9</div>
+<div class="red">bg: 3</div>
+<div class="red">bn: 3</div>
+<div class="red">bpy: 1</div>
+<div class="red">br: 1</div>
+<div class="red">bs: 2</div>
+<div class="red">ca: 17</div>
+<div class="red">ckb: 1</div>
+<div class="red">cs: 7</div>
+<div class="red">cu: 1</div>
+<div class="red">cy: 1</div>
+<div class="red">da: 2</div>
+<div class="red">de: 23</div>
+<div class="red">de-ch: 3</div>
+<div class="red">el: 4</div>
+<div class="red">en: 26</div>
+<div class="red">en-ca: 3</div>
+<div class="red">en-gb: 3</div>
+<div class="red">eo: 4</div>
+<div class="red">es: 13</div>
+<div class="red">et: 4</div>
+<div class="red">eu: 2</div>
+<div class="red">fa: 5</div>
+<div class="red">fi: 9</div>
+<div class="red">fo: 1</div>
+<div class="red">fr: 12</div>
+<div class="red">frr: 3</div>
+<div class="red">fur: 1</div>
+<div class="red">fy: 1</div>
+<div class="red">ga: 1</div>
+<div class="red">gan: 1</div>
+<div class="red">gd: 1</div>
+<div class="red">gl: 3</div>
+<div class="red">gsw: 2</div>
+<div class="red">he: 6</div>
+<div class="red">hi: 6</div>
+<div class="red">hif: 1</div>
+<div class="red">hr: 6</div>
+<div class="red">hu: 5</div>
+<div class="red">hy: 2</div>
+<div class="red">ia: 1</div>
+<div class="red">id: 4</div>
+<div class="red">ilo: 1</div>
+<div class="red">io: 1</div>
+<div class="red">is: 2</div>
+<div class="red">it: 13</div>
+<div class="red">ja: 23</div>
+<div class="red">jam: 1</div>
+<div class="red">jbo: 1</div>
+<div class="red">jv: 1</div>
+<div class="red">ka: 3</div>
+<div class="red">kk: 2</div>
+<div class="red">kn: 1</div>
+<div class="red">ko: 10</div>
+<div class="red">krc: 1</div>
+<div class="red">ksh: 1</div>
+<div class="red">ku: 1</div>
+<div class="red">ky: 1</div>
+<div class="red">la: 3</div>
+<div class="red">lb: 1</div>
+<div class="red">li: 1</div>
+<div class="red">lt: 1</div>
+<div class="red">lv: 2</div>
+<div class="red">lzh: 1</div>
+<div class="red">mk: 9</div>
+<div class="red">ml: 3</div>
+<div class="red">mn: 1</div>
+<div class="red">mr: 2</div>
+<div class="red">ms: 2</div>
+<div class="red">my: 2</div>
+<div class="red">nan: 1</div>
+<div class="red">nb: 2</div>
+<div class="red">nds: 2</div>
+<div class="red">new: 2</div>
+<div class="red">nl: 9</div>
+<div class="red">nn: 8</div>
+<div class="red">nso: 1</div>
+<div class="red">oc: 1</div>
+<div class="red">pa: 2</div>
+<div class="red">pl: 15</div>
+<div class="red">pnb: 1</div>
+<div class="red">pt: 12</div>
+<div class="red">qu: 1</div>
+<div class="red">ro: 6</div>
+<div class="red">roa-tara: 1</div>
+<div class="red">ru: 23</div>
+<div class="red">sco: 1</div>
+<div class="red">sgs: 1</div>
+<div class="red">sh: 4</div>
+<div class="red">sk: 6</div>
+<div class="red">sl: 6</div>
+<div class="red">so: 1</div>
+<div class="red">sq: 1</div>
+<div class="red">sr: 5</div>
+<div class="red">sr-ec: 3</div>
+<div class="red">sr-el: 3</div>
+<div class="red">su: 1</div>
+<div class="red">sv: 8</div>
+<div class="red">sw: 1</div>
+<div class="red">ta: 1</div>
+<div class="red">te: 1</div>
+<div class="red">th: 3</div>
+<div class="red">tl: 1</div>
+<div class="red">tr: 5</div>
+<div class="red">tt: 2</div>
+<div class="red">uk: 13</div>
+<div class="red">ur: 2</div>
+<div class="red">uz: 2</div>
+<div class="red">vec: 1</div>
+<div class="red">vi: 7</div>
+<div class="red">vls: 1</div>
+<div class="red">war: 2</div>
+<div class="red">yi: 1</div>
+<div class="red">yo: 2</div>
+<div class="red">yue: 1</div>
+<div class="red">zh: 16</div>
+<div class="red">zh-cn: 4</div>
+<div class="red">zh-hans: 3</div>
+<div class="red">zh-hant: 7</div>
+<div class="red">zh-hk: 3</div>
+</td>
+</tr>
+<tr>
+<th>
+unit
+</th>
+<td>
+<div class="green">total: 267</div>
+<div class="green">en: 267</div>
+</td>
+<td>
+<div class="red">missing: 138</div>
+<div class="green">total: 138</div>
+</td>
+<td>
+<div class="green">total: 1369</div>
+<div class="green">en: 1369</div>
+<div class="red">nl: 1216</div>
+<div class="red">zh: 104</div>
+</td>
+<td>
+<div class="green">unknown: 801</div>
+<div class="green">total: 801</div>
+</td>
+<td>
+<div class="green">unknown: 768</div>
+<div class="green">total: 768</div>
+</td>
+<td>
+<div class="red">missing: 140</div>
+<div class="green">total: 140</div>
+</td>
+<td>
+<div class="green">unknown: 221</div>
+<div class="green">total: 221</div>
+</td>
+<td>
+<div class="green">total: 4103</div>
+<div class="red">ab: 3</div>
+<div class="red">aeb-arab: 4</div>
+<div class="red">af: 176</div>
+<div class="red">ak: 5</div>
+<div class="red">am: 16</div>
+<div class="red">an: 51</div>
+<div class="red">ang: 10</div>
+<div class="red">ar: 617</div>
+<div class="red">arc: 12</div>
+<div class="red">arz: 70</div>
+<div class="red">as: 15</div>
+<div class="red">ast: 213</div>
+<div class="red">av: 8</div>
+<div class="red">ay: 8</div>
+<div class="red">az: 173</div>
+<div class="red">azb: 22</div>
+<div class="red">ba: 37</div>
+<div class="red">bar: 51</div>
+<div class="red">bcl: 2</div>
+<div class="red">be: 349</div>
+<div class="red">be-tarask: 284</div>
+<div class="red">bg: 296</div>
+<div class="red">bho: 10</div>
+<div class="red">bjn: 1</div>
+<div class="red">bn: 124</div>
+<div class="red">bo: 46</div>
+<div class="red">bpy: 155</div>
+<div class="red">br: 111</div>
+<div class="red">brh: 2</div>
+<div class="red">bs: 210</div>
+<div class="red">bug: 1</div>
+<div class="red">bxr: 9</div>
+<div class="red">ca: 748</div>
+<div class="red">cbk-zam: 1</div>
+<div class="red">cdo: 17</div>
+<div class="red">ce: 7</div>
+<div class="red">ceb: 4</div>
+<div class="red">ch: 1</div>
+<div class="red">chr: 3</div>
+<div class="red">ckb: 36</div>
+<div class="red">co: 13</div>
+<div class="red">crh-latn: 9</div>
+<div class="red">cs: 666</div>
+<div class="red">csb: 6</div>
+<div class="red">cu: 7</div>
+<div class="red">cv: 65</div>
+<div class="red">cy: 92</div>
+<div class="red">da: 390</div>
+<div class="red">de: 3219</div>
+<div class="red">de-at: 6</div>
+<div class="red">de-ch: 109</div>
+<div class="red">diq: 17</div>
+<div class="red">dsb: 10</div>
+<div class="red">dv: 11</div>
+<div class="red">el: 427</div>
+<div class="red">eml: 20</div>
+<div class="red">en: 1674</div>
+<div class="red">en-ca: 196</div>
+<div class="red">en-gb: 250</div>
+<div class="red">eo: 410</div>
+<div class="red">es: 1065</div>
+<div class="red">et: 281</div>
+<div class="red">eu: 286</div>
+<div class="red">ext: 11</div>
+<div class="red">fa: 610</div>
+<div class="red">fi: 511</div>
+<div class="red">fo: 32</div>
+<div class="red">fr: 1046</div>
+<div class="red">frp: 12</div>
+<div class="red">frr: 68</div>
+<div class="red">fur: 28</div>
+<div class="red">fy: 67</div>
+<div class="red">ga: 89</div>
+<div class="red">gag: 4</div>
+<div class="red">gan: 41</div>
+<div class="red">gan-hans: 13</div>
+<div class="red">gan-hant: 13</div>
+<div class="red">gd: 28</div>
+<div class="red">gl: 273</div>
+<div class="red">glk: 1</div>
+<div class="red">gn: 18</div>
+<div class="red">grc: 3</div>
+<div class="red">gsw: 45</div>
+<div class="red">gu: 21</div>
+<div class="red">gv: 21</div>
+<div class="red">ha: 2</div>
+<div class="red">hak: 50</div>
+<div class="red">haw: 3</div>
+<div class="red">he: 359</div>
+<div class="red">hi: 222</div>
+<div class="red">hif: 19</div>
+<div class="red">hr: 399</div>
+<div class="red">hsb: 16</div>
+<div class="red">ht: 35</div>
+<div class="red">hu: 431</div>
+<div class="red">hy: 183</div>
+<div class="red">ia: 58</div>
+<div class="red">id: 353</div>
+<div class="red">ie: 5</div>
+<div class="red">ik: 2</div>
+<div class="red">ilo: 18</div>
+<div class="red">io: 52</div>
+<div class="red">is: 165</div>
+<div class="red">it: 1049</div>
+<div class="red">iu: 2</div>
+<div class="red">ja: 807</div>
+<div class="red">jam: 25</div>
+<div class="red">jbo: 227</div>
+<div class="red">jv: 40</div>
+<div class="red">ka: 206</div>
+<div class="red">kaa: 5</div>
+<div class="red">kab: 2</div>
+<div class="red">kbd: 5</div>
+<div class="red">kg: 6</div>
+<div class="red">kj: 1</div>
+<div class="red">kk: 118</div>
+<div class="red">kk-arab: 38</div>
+<div class="red">kk-cn: 28</div>
+<div class="red">kk-cyrl: 40</div>
+<div class="red">kk-kz: 28</div>
+<div class="red">kk-latn: 38</div>
+<div class="red">kk-tr: 28</div>
+<div class="red">kl: 3</div>
+<div class="red">km: 13</div>
+<div class="red">kn: 29</div>
+<div class="red">ko: 584</div>
+<div class="red">ko-kp: 1</div>
+<div class="red">koi: 1</div>
+<div class="red">krc: 22</div>
+<div class="red">ksh: 12</div>
+<div class="red">ku: 51</div>
+<div class="red">ku-arab: 9</div>
+<div class="red">ku-latn: 13</div>
+<div class="red">kv: 82</div>
+<div class="red">kw: 6</div>
+<div class="red">ky: 48</div>
+<div class="red">la: 124</div>
+<div class="red">lad: 11</div>
+<div class="red">lb: 79</div>
+<div class="red">lbe: 4</div>
+<div class="red">lez: 6</div>
+<div class="red">li: 56</div>
+<div class="red">lij: 12</div>
+<div class="red">lmo: 31</div>
+<div class="red">ln: 17</div>
+<div class="red">lo: 26</div>
+<div class="red">lrc: 1</div>
+<div class="red">lt: 404</div>
+<div class="red">ltg: 2</div>
+<div class="red">lv: 187</div>
+<div class="red">lzh: 16</div>
+<div class="red">mai: 6</div>
+<div class="red">map-bms: 3</div>
+<div class="red">mdf: 1</div>
+<div class="red">mg: 23</div>
+<div class="red">mhr: 9</div>
+<div class="red">mi: 8</div>
+<div class="red">min: 11</div>
+<div class="red">mk: 300</div>
+<div class="red">ml: 99</div>
+<div class="red">mn: 86</div>
+<div class="red">mo: 4</div>
+<div class="red">mr: 239</div>
+<div class="red">mrj: 4</div>
+<div class="red">ms: 240</div>
+<div class="red">mt: 251</div>
+<div class="red">mwl: 20</div>
+<div class="red">my: 35</div>
+<div class="red">myv: 12</div>
+<div class="red">mzn: 21</div>
+<div class="red">na: 1</div>
+<div class="red">nah: 13</div>
+<div class="red">nan: 50</div>
+<div class="red">nap: 9</div>
+<div class="red">nb: 606</div>
+<div class="red">nds: 90</div>
+<div class="red">nds-nl: 16</div>
+<div class="red">ne: 37</div>
+<div class="red">new: 36</div>
+<div class="red">nl: 1131</div>
+<div class="red">nn: 385</div>
+<div class="red">nov: 6</div>
+<div class="red">nrm: 22</div>
+<div class="red">nso: 22</div>
+<div class="red">ny: 3</div>
+<div class="red">oc: 207</div>
+<div class="red">olo: 3</div>
+<div class="red">om: 3</div>
+<div class="red">or: 18</div>
+<div class="red">os: 30</div>
+<div class="red">pa: 160</div>
+<div class="red">pam: 1</div>
+<div class="red">pap: 4</div>
+<div class="red">pcd: 7</div>
+<div class="red">pdc: 7</div>
+<div class="red">pih: 2</div>
+<div class="red">pl: 787</div>
+<div class="red">pms: 62</div>
+<div class="red">pnb: 64</div>
+<div class="red">ps: 16</div>
+<div class="red">pt: 662</div>
+<div class="red">pt-br: 250</div>
+<div class="red">qu: 19</div>
+<div class="red">rm: 11</div>
+<div class="red">rmy: 4</div>
+<div class="red">rn: 1</div>
+<div class="red">ro: 347</div>
+<div class="red">roa-tara: 11</div>
+<div class="red">ru: 1421</div>
+<div class="red">rue: 20</div>
+<div class="red">rup: 4</div>
+<div class="red">rw: 7</div>
+<div class="red">sa: 9</div>
+<div class="red">sah: 110</div>
+<div class="red">sc: 11</div>
+<div class="red">scn: 56</div>
+<div class="red">sco: 133</div>
+<div class="red">sd: 13</div>
+<div class="red">se: 14</div>
+<div class="red">sg: 1</div>
+<div class="red">sgs: 45</div>
+<div class="red">sh: 247</div>
+<div class="red">si: 21</div>
+<div class="red">sk: 315</div>
+<div class="red">sl: 292</div>
+<div class="red">sm: 7</div>
+<div class="red">sma: 1</div>
+<div class="red">sn: 8</div>
+<div class="red">so: 39</div>
+<div class="red">sq: 77</div>
+<div class="red">sr: 614</div>
+<div class="red">sr-ec: 310</div>
+<div class="red">sr-el: 259</div>
+<div class="red">srn: 2</div>
+<div class="red">ss: 1</div>
+<div class="red">st: 1</div>
+<div class="red">stq: 13</div>
+<div class="red">su: 29</div>
+<div class="red">sv: 661</div>
+<div class="red">sw: 72</div>
+<div class="red">szl: 18</div>
+<div class="red">ta: 201</div>
+<div class="red">tcy: 2</div>
+<div class="red">te: 56</div>
+<div class="red">tet: 2</div>
+<div class="red">tg: 178</div>
+<div class="red">tg-latn: 97</div>
+<div class="red">th: 239</div>
+<div class="red">tk: 31</div>
+<div class="red">tl: 55</div>
+<div class="red">tn: 1</div>
+<div class="red">to: 1</div>
+<div class="red">tokipona: 3</div>
+<div class="red">tpi: 7</div>
+<div class="red">tr: 427</div>
+<div class="red">tt: 82</div>
+<div class="red">tum: 2</div>
+<div class="red">ty: 1</div>
+<div class="red">tyv: 7</div>
+<div class="red">udm: 2</div>
+<div class="red">ug: 10</div>
+<div class="red">uk: 708</div>
+<div class="red">ur: 112</div>
+<div class="red">uz: 124</div>
+<div class="red">vec: 30</div>
+<div class="red">vep: 22</div>
+<div class="red">vi: 349</div>
+<div class="red">vls: 20</div>
+<div class="red">vo: 9</div>
+<div class="red">vro: 30</div>
+<div class="red">wa: 20</div>
+<div class="red">war: 84</div>
+<div class="red">wo: 11</div>
+<div class="red">wuu: 24</div>
+<div class="red">xal: 2</div>
+<div class="red">xh: 1</div>
+<div class="red">xmf: 100</div>
+<div class="red">yi: 42</div>
+<div class="red">yo: 187</div>
+<div class="red">yue: 222</div>
+<div class="red">za: 11</div>
+<div class="red">zea: 6</div>
+<div class="red">zh: 673</div>
+<div class="red">zh-cn: 295</div>
+<div class="red">zh-hans: 359</div>
+<div class="red">zh-hant: 394</div>
+<div class="red">zh-hk: 345</div>
+<div class="red">zh-mo: 30</div>
+<div class="red">zh-my: 29</div>
+<div class="red">zh-sg: 228</div>
+<div class="red">zh-tw: 238</div>
+<div class="red">zu: 8</div>
+</td>
+</tr>
+</table>
+<div class="comment">                 <i>total</i> is the total number of individuals for that type and ontology                <br>                <i>missing</i> is the number of individuals without any label            </div>
   <script>
   !function(){
     
