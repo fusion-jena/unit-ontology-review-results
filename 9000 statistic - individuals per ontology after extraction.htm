@@ -113,15 +113,17 @@
       left: -1em;
       border-radius: 0.3em;
     }
-    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    /* colors from https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory10 */
     li:before    { background-color: #7f7f7f; }
     li[data-onto="MUO"]:before    { background-color: #1f77b4; }
     li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
     li[data-onto="OM"]:before     { background-color: #2ca02c; }
+    li[data-onto="OM2"]:before    { background-color: #bcbd22; }
     li[data-onto="QU"]:before     { background-color: #d62728; }
     li[data-onto="QUDT"]:before   { background-color: #9467bd; }
     li[data-onto="SWEET"]:before  { background-color: #8c564b; }
     li[data-onto="UO"]:before     { background-color: #e377c2; }
+    li[data-onto="WD"]:before     { background-color: #17becf; }
     
     /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
     
@@ -144,10 +146,12 @@
         <li data-onto="MUO">MUO
         <li data-onto="OBOE">OBOE
         <li data-onto="OM">OM
+        <li data-onto="OM2">OM2
         <li data-onto="QU">QU
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
@@ -162,10 +166,652 @@
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
-  <table><tr><th>&nbsp;</th><th><ul><li data-onto="MUO">MUO</ul></th><th><ul><li data-onto="OBOE">OBOE</ul></th><th><ul><li data-onto="OM">OM</ul></th><th><ul><li data-onto="QU">QU</ul></th><th><ul><li data-onto="QUDT">QUDT</ul></th><th><ul><li data-onto="SWEET">SWEET</ul></th><th><ul><li data-onto="UO">UO</ul></th></tr><tr><th>appField</th><td class="red">0</td><td class="red">0</td><td class="green">18</td><td class="green">12</td><td class="red">0</td><td class="green">49</td><td class="red">0</td></tr><tr><th>appFieldQuantKind</th><td class="red">0</td><td class="red">0</td><td class="green">625</td><td class="green">653</td><td class="red">0</td><td class="green">497</td><td class="red">0</td></tr><tr><th>appFieldUnit</th><td class="red">0</td><td class="red">0</td><td class="green">410</td><td class="red">0</td><td class="red">0</td><td class="red">0</td><td class="red">0</td></tr><tr><th>conversion</th><td class="red">0</td><td class="green">64</td><td class="green">828</td><td class="green">674</td><td class="green">55</td><td class="green">37</td><td class="red">0</td></tr><tr><th>dimension</th><td class="red">0</td><td class="red">0</td><td class="green">68</td><td class="red">0</td><td class="green">130</td><td class="red">0</td><td class="red">0</td></tr><tr><th>dimensionUnit</th><td class="red">0</td><td class="red">0</td><td class="green">1144</td><td class="red">0</td><td class="green">491</td><td class="red">0</td><td class="red">0</td></tr><tr><th>prefix</th><td class="green">24</td><td class="red">0</td><td class="green">71</td><td class="green">20</td><td class="green">28</td><td class="green">12</td><td class="green">20</td></tr><tr><th>prefixUnit</th><td class="red">0</td><td class="red">0</td><td class="green">989</td><td class="green">163</td><td class="red">0</td><td class="green">9</td><td class="red">0</td></tr><tr><th>quantKind</th><td class="green">78</td><td class="green">67</td><td class="green">879</td><td class="green">598</td><td class="green">235</td><td class="green">847</td><td class="green">316</td></tr><tr><th>quantKindUnit</th><td class="green">267</td><td class="green">140</td><td class="green">5157</td><td class="green">129</td><td class="green">1093</td><td class="green">1028</td><td class="green">918</td></tr><tr><th>sameAs</th><td class="red">0</td><td class="red">0</td><td class="green">5</td><td class="red">0</td><td class="green">364</td><td class="green">704</td><td class="red">0</td></tr><tr><th>system</th><td class="red">0</td><td class="red">0</td><td class="green">13</td><td class="red">0</td><td class="green">11</td><td class="red">0</td><td class="red">0</td></tr><tr><th>systemUnit</th><td class="red">0</td><td class="red">0</td><td class="green">819</td><td class="red">0</td><td class="green">4124</td><td class="red">0</td><td class="red">0</td></tr><tr><th>unit</th><td class="green">267</td><td class="green">138</td><td class="green">1369</td><td class="green">801</td><td class="green">768</td><td class="green">140</td><td class="green">221</td></tr><tr><th>unit_noprefix_total</th><td class="green">264</td><td class="green">71</td><td class="green">375</td><td class="green">433</td><td class="green">653</td><td class="green">112</td><td class="green">111</td></tr><tr><th>unit_prefix_heuristic</th><td class="green">3</td><td class="green">65</td><td class="green">4</td><td class="green">204</td><td class="green">114</td><td class="green">17</td><td class="green">110</td></tr><tr><th>unit_prefix_ontology</th><td class="red">0</td><td class="red">0</td><td class="green">989</td><td class="green">163</td><td class="red">0</td><td class="green">9</td><td class="red">0</td></tr><tr><th>unit_prefix_total</th><td class="green">3</td><td class="green">67</td><td class="green">994</td><td class="green">368</td><td class="green">115</td><td class="green">28</td><td class="green">110</td></tr><tr><th>unit_prefix_unrecognized</th><td class="red">0</td><td class="green">2</td><td class="green">1</td><td class="green">1</td><td class="green">1</td><td class="green">2</td><td class="red">0</td></tr></table>
+  <table>
+<tr>
+<th>
+&nbsp;
+</th>
+<th><ul><li data-onto="MUO">
+MUO
+</ul></th>
+<th><ul><li data-onto="OBOE">
+OBOE
+</ul></th>
+<th><ul><li data-onto="OM">
+OM
+</ul></th>
+<th><ul><li data-onto="OM2">
+OM2
+</ul></th>
+<th><ul><li data-onto="QU">
+QU
+</ul></th>
+<th><ul><li data-onto="QUDT">
+QUDT
+</ul></th>
+<th><ul><li data-onto="SWEET">
+SWEET
+</ul></th>
+<th><ul><li data-onto="UO">
+UO
+</ul></th>
+<th><ul><li data-onto="WD">
+WD
+</ul></th>
+</tr>
+<tr>
+<th>
+appField
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+18
+</td>
+<td class="green">
+17
+</td>
+<td class="green">
+12
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+49
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+appFieldQuantKind
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+625
+</td>
+<td class="green">
+335
+</td>
+<td class="green">
+653
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+489
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+appFieldUnit
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+410
+</td>
+<td class="green">
+992
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+conversion
+</th>
+<td class="red">
+0
+</td>
+<td class="green">
+64
+</td>
+<td class="green">
+827
+</td>
+<td class="green">
+832
+</td>
+<td class="green">
+674
+</td>
+<td class="green">
+55
+</td>
+<td class="green">
+37
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+603
+</td>
+</tr>
+<tr>
+<th>
+dimension
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+68
+</td>
+<td class="green">
+76
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+130
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+dimensionUnit
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+1144
+</td>
+<td class="green">
+1157
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+491
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+prefix
+</th>
+<td class="green">
+24
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+28
+</td>
+<td class="green">
+28
+</td>
+<td class="green">
+20
+</td>
+<td class="green">
+28
+</td>
+<td class="green">
+12
+</td>
+<td class="green">
+20
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+prefixUnit
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+989
+</td>
+<td class="green">
+866
+</td>
+<td class="green">
+163
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+9
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+quantKind
+</th>
+<td class="green">
+78
+</td>
+<td class="green">
+67
+</td>
+<td class="green">
+879
+</td>
+<td class="green">
+549
+</td>
+<td class="green">
+598
+</td>
+<td class="green">
+235
+</td>
+<td class="green">
+847
+</td>
+<td class="green">
+324
+</td>
+<td class="green">
+1419
+</td>
+</tr>
+<tr>
+<th>
+quantKindUnit
+</th>
+<td class="green">
+267
+</td>
+<td class="green">
+140
+</td>
+<td class="green">
+5157
+</td>
+<td class="green">
+4027
+</td>
+<td class="green">
+129
+</td>
+<td class="green">
+1093
+</td>
+<td class="green">
+1028
+</td>
+<td class="green">
+944
+</td>
+<td class="green">
+4177
+</td>
+</tr>
+<tr>
+<th>
+sameAs
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+5
+</td>
+<td class="green">
+5
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+364
+</td>
+<td class="green">
+704
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+570
+</td>
+</tr>
+<tr>
+<th>
+system
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+13
+</td>
+<td class="green">
+8
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+11
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+35
+</td>
+</tr>
+<tr>
+<th>
+systemUnit
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+819
+</td>
+<td class="green">
+821
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+4124
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+166
+</td>
+</tr>
+<tr>
+<th>
+unit
+</th>
+<td class="green">
+267
+</td>
+<td class="green">
+138
+</td>
+<td class="green">
+1367
+</td>
+<td class="green">
+1384
+</td>
+<td class="green">
+801
+</td>
+<td class="green">
+768
+</td>
+<td class="green">
+140
+</td>
+<td class="green">
+221
+</td>
+<td class="green">
+4404
+</td>
+</tr>
+<tr>
+<th>
+unit_noprefix_total
+</th>
+<td class="green">
+264
+</td>
+<td class="green">
+71
+</td>
+<td class="green">
+371
+</td>
+<td class="green">
+388
+</td>
+<td class="green">
+433
+</td>
+<td class="green">
+652
+</td>
+<td class="green">
+111
+</td>
+<td class="green">
+111
+</td>
+<td class="green">
+4143
+</td>
+</tr>
+<tr>
+<th>
+unit_prefix_heuristic
+</th>
+<td class="green">
+3
+</td>
+<td class="green">
+65
+</td>
+<td class="green">
+4
+</td>
+<td class="green">
+126
+</td>
+<td class="green">
+204
+</td>
+<td class="green">
+114
+</td>
+<td class="green">
+17
+</td>
+<td class="green">
+110
+</td>
+<td class="green">
+260
+</td>
+</tr>
+<tr>
+<th>
+unit_prefix_ontology
+</th>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+989
+</td>
+<td class="green">
+866
+</td>
+<td class="green">
+163
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+9
+</td>
+<td class="red">
+0
+</td>
+<td class="red">
+0
+</td>
+</tr>
+<tr>
+<th>
+unit_prefix_total
+</th>
+<td class="green">
+3
+</td>
+<td class="green">
+67
+</td>
+<td class="green">
+996
+</td>
+<td class="green">
+996
+</td>
+<td class="green">
+368
+</td>
+<td class="green">
+116
+</td>
+<td class="green">
+29
+</td>
+<td class="green">
+110
+</td>
+<td class="green">
+261
+</td>
+</tr>
+<tr>
+<th>
+unit_prefix_unrecognized
+</th>
+<td class="red">
+0
+</td>
+<td class="green">
+2
+</td>
+<td class="green">
+3
+</td>
+<td class="green">
+4
+</td>
+<td class="green">
+1
+</td>
+<td class="green">
+2
+</td>
+<td class="green">
+3
+</td>
+<td class="red">
+0
+</td>
+<td class="green">
+1
+</td>
+</tr>
+</table>
   <script>
   !function(){
     

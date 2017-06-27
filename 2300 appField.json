@@ -251,8 +251,8 @@
    "nl": {
     "__type": "Set",
     "values": [
-     "atoom en kernfysica",
-     "atoomenkernfysica"
+     "atoom- en kernfysica",
+     "atoom-enkernfysica"
     ]
    }
   },
@@ -518,6 +518,484 @@
    }
   },
   "dispLabel": "astronomy and astrophysics",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/geometry",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "geometry"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "geometry"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "geometrie"
+    ]
+   }
+  },
+  "dispLabel": "geometry",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/mechanics",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "mechanics"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "mechanics"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "mechanica"
+    ]
+   }
+  },
+  "dispLabel": "mechanics",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/thermodynamics",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "thermodynamics"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "thermodynamics"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "thermodynamica"
+    ]
+   }
+  },
+  "dispLabel": "thermodynamics",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electromagnetism",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "electromagnetism"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "electromagnetism"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "elektromagnetisme"
+    ]
+   }
+  },
+  "dispLabel": "electromagnetism",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/fluidMechanics",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "fluid mechanics",
+     "fluidmechanics"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "fluid mechanics",
+     "fluidmechanics"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "vloeistofmechanica"
+    ]
+   }
+  },
+  "dispLabel": "fluid mechanics",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/fluidMechanicsDimensionlessNumbers",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "fluid mechanics dimensionless numbers",
+     "fluidmechanicsdimensionlessnumbers"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "fluid mechanics dimensionless numbers",
+     "fluidmechanicsdimensionlessnumbers"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "vloeistofmechanica dimensieloze getallen",
+     "vloeistofmechanicadimensielozegetallen"
+    ]
+   }
+  },
+  "dispLabel": "fluid mechanics dimensionless numbers",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/chemicalPhysics",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "chemical physics",
+     "chemicalphysics"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "chemical physics",
+     "chemicalphysics"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "fysische chemie",
+     "fysischechemie"
+    ]
+   }
+  },
+  "dispLabel": "chemical physics",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/chemistry",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "chemistry"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "chemistry"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "chemie"
+    ]
+   }
+  },
+  "dispLabel": "chemistry",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/photometry",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "photometry"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "photometry"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "fotometrie"
+    ]
+   }
+  },
+  "dispLabel": "photometry",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/radiometryAndRadiobiology",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "radiometry and radiobiology",
+     "radiometryandradiobiology"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "radiometry and radiobiology",
+     "radiometryandradiobiology"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "radiometrie en radiobiologie",
+     "radiometrieenradiobiologie"
+    ]
+   }
+  },
+  "dispLabel": "radiometry and radiobiology",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/astronomyAndAstrophysics",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "astronomy and astrophysics",
+     "astronomyandastrophysics"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "astronomy and astrophysics",
+     "astronomyandastrophysics"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "astronomie en astrofysica",
+     "astronomieenastrofysica"
+    ]
+   }
+  },
+  "dispLabel": "astronomy and astrophysics",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/cosmology",
+  "ontology": "OM2",
+  "labels": {
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "kosmologie"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "cosmology"
+    ]
+   },
+   "en": {
+    "__type": "Set",
+    "values": [
+     "cosmology"
+    ]
+   }
+  },
+  "dispLabel": "cosmology",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/economics",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "economics"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "economics"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "economie"
+    ]
+   }
+  },
+  "dispLabel": "economics",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/informationTechnology",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "information technology",
+     "informationtechnology"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "information technology",
+     "informationtechnology"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "informatietechnologie"
+    ]
+   }
+  },
+  "dispLabel": "information technology",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/typography",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "typography"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "typography"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "typografie"
+    ]
+   }
+  },
+  "dispLabel": "typography",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/shipping",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "shipping"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "shipping"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "shipping"
+    ]
+   }
+  },
+  "dispLabel": "shipping",
+  "raw": null
+ },
+ {
+  "__type": "SemObject",
+  "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/commonApplicationArea",
+  "ontology": "OM2",
+  "labels": {
+   "en": {
+    "__type": "Set",
+    "values": [
+     "common application area",
+     "commonapplicationarea"
+    ]
+   },
+   "_uri": {
+    "__type": "Set",
+    "values": [
+     "common application area",
+     "commonapplicationarea"
+    ]
+   },
+   "nl": {
+    "__type": "Set",
+    "values": [
+     "algemeen toepassingsgebied",
+     "algemeentoepassingsgebied"
+    ]
+   }
+  },
+  "dispLabel": "common application area",
   "raw": null
  },
  {

@@ -1,5 +1,13 @@
 [
  {
+  "onto": "QUDT",
+  "label": "plane angle",
+  "objs": [
+   "http://qudt.org/vocab/quantity#PlaneAngle",
+   "http://qudt.org/vocab/quantity#Angle"
+  ]
+ },
+ {
   "onto": "OM",
   "label": "temperature",
   "objs": [
@@ -8,85 +16,27 @@
   ]
  },
  {
-  "onto": "OM",
-  "label": "pressure",
+  "onto": "OM2",
+  "label": "temperature",
   "objs": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/Pressure",
-   "http://www.wurvoc.org/vocabularies/om-1.8/Stress"
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/Temperature",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperature"
   ]
  },
  {
-  "onto": "QU",
-  "label": "pressure",
+  "onto": "WD",
+  "label": "temperature",
   "objs": [
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#stressOrPressure",
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#pressure",
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#stress"
+   "http://www.wikidata.org/entity/Q264647",
+   "http://www.wikidata.org/entity/Q11466"
   ]
  },
  {
-  "onto": "QUDT",
-  "label": "pressure",
+  "onto": "OM2",
+  "label": "luminous intensity",
   "objs": [
-   "http://qudt.org/vocab/quantity#Stress",
-   "http://qudt.org/vocab/quantity#Pressure"
-  ]
- },
- {
-  "onto": "SWEET",
-  "label": "pressure",
-  "objs": [
-   "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Pressure",
-   "http://sweet.jpl.nasa.gov/2.3/propPressure.owl#Stress"
-  ]
- },
- {
-  "onto": "QU",
-  "label": "volume",
-  "objs": [
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#volume",
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#volumeOrBulkStrain"
-  ]
- },
- {
-  "onto": "OM",
-  "label": "velocity",
-  "objs": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/Velocity",
-   "http://www.wurvoc.org/vocabularies/om-1.8/Speed"
-  ]
- },
- {
-  "onto": "QU",
-  "label": "velocity",
-  "objs": [
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#velocityOrSpeed",
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#velocity",
-   "http://purl.oclc.org/NET/ssnx/qu/quantity#speed"
-  ]
- },
- {
-  "onto": "QUDT",
-  "label": "velocity",
-  "objs": [
-   "http://qudt.org/vocab/quantity#Velocity",
-   "http://qudt.org/vocab/quantity#Speed"
-  ]
- },
- {
-  "onto": "SWEET",
-  "label": "velocity",
-  "objs": [
-   "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Speed",
-   "http://sweet.jpl.nasa.gov/2.3/propSpeed.owl#Velocity"
-  ]
- },
- {
-  "onto": "UO",
-  "label": "velocity",
-  "objs": [
-   "http://purl.obolibrary.org/obo/PATO_0000008",
-   "http://purl.obolibrary.org/obo/PATO_0002242"
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/LuminousIntensity",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousIntensityInAGivenDirectionOfASourceThatEmitsMonochromaticRadiationOfFrequency540e12HertzAndThatHasARadiantIntensityInThatDirectionOf1683WattPerSteradian"
   ]
  },
  {
@@ -98,11 +48,52 @@
   ]
  },
  {
+  "onto": "WD",
+  "label": "magnetic field strength",
+  "objs": [
+   "http://www.wikidata.org/entity/Q28123",
+   "http://www.wikidata.org/entity/Q11408"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "depth",
+  "objs": [
+   "http://www.wikidata.org/entity/Q930412",
+   "http://www.wikidata.org/entity/Q181591",
+   "http://www.wikidata.org/entity/Q1792720"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "displacement",
+  "objs": [
+   "http://www.wikidata.org/entity/Q190291",
+   "http://www.wikidata.org/entity/Q5636358"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "height",
+  "objs": [
+   "http://www.wikidata.org/entity/Q208826",
+   "http://www.wikidata.org/entity/Q10623719"
+  ]
+ },
+ {
   "onto": "QUDT",
   "label": "kinetic energy",
   "objs": [
    "http://qudt.org/vocab/quantity#EnergyKinetic",
    "http://qudt.org/vocab/quantity#KineticEnergy"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "entropy",
+  "objs": [
+   "http://www.wikidata.org/entity/Q5380792",
+   "http://www.wikidata.org/entity/Q45003"
   ]
  },
  {
@@ -114,11 +105,27 @@
   ]
  },
  {
+  "onto": "WD",
+  "label": "permeability",
+  "objs": [
+   "http://www.wikidata.org/entity/Q256699",
+   "http://www.wikidata.org/entity/Q28352"
+  ]
+ },
+ {
   "onto": "OM",
   "label": "B magnitude",
   "objs": [
    "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
    "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude"
+  ]
+ },
+ {
+  "onto": "OM2",
+  "label": "B magnitude",
+  "objs": [
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/bMagnitude"
   ]
  },
  {
@@ -130,11 +137,35 @@
   ]
  },
  {
+  "onto": "OM2",
+  "label": "U magnitude",
+  "objs": [
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/UMagnitude",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude"
+  ]
+ },
+ {
   "onto": "OM",
   "label": "V magnitude",
   "objs": [
    "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude",
    "http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude"
+  ]
+ },
+ {
+  "onto": "OM2",
+  "label": "V magnitude",
+  "objs": [
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/vMagnitude"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "concentration",
+  "objs": [
+   "http://www.wikidata.org/entity/Q3686031",
+   "http://www.wikidata.org/entity/Q12549812"
   ]
  },
  {
@@ -194,11 +225,60 @@
   ]
  },
  {
-  "onto": "UO",
-  "label": "lacks parts or has fewer parts of type",
+  "onto": "WD",
+  "label": "elevation",
   "objs": [
-   "http://purl.obolibrary.org/obo/PATO_0001999",
-   "http://purl.obolibrary.org/obo/PATO_0002001"
+   "http://www.wikidata.org/entity/Q2633778",
+   "http://www.wikidata.org/entity/Q190200"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "red shift",
+  "objs": [
+   "http://www.wikidata.org/entity/Q76250",
+   "http://www.wikidata.org/entity/P1090"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "flight",
+  "objs": [
+   "http://www.wikidata.org/entity/Q206021",
+   "http://www.wikidata.org/entity/Q15921555",
+   "http://www.wikidata.org/entity/Q16746864"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "equivalent dose",
+  "objs": [
+   "http://www.wikidata.org/entity/Q256106",
+   "http://www.wikidata.org/entity/Q15855957"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "Voyager program",
+  "objs": [
+   "http://www.wikidata.org/entity/Q155311",
+   "http://www.wikidata.org/entity/Q2917208"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "non-mechanical work (physics, thermodynamics)",
+  "objs": [
+   "http://www.wikidata.org/entity/Q28599240",
+   "http://www.wikidata.org/entity/Q28555555"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "maximum speed",
+  "objs": [
+   "http://www.wikidata.org/entity/Q28809136",
+   "http://www.wikidata.org/entity/Q20973478"
   ]
  }
 ]

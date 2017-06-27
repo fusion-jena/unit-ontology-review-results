@@ -113,15 +113,17 @@
       left: -1em;
       border-radius: 0.3em;
     }
-    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    /* colors from https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory10 */
     li:before    { background-color: #7f7f7f; }
     li[data-onto="MUO"]:before    { background-color: #1f77b4; }
     li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
     li[data-onto="OM"]:before     { background-color: #2ca02c; }
+    li[data-onto="OM2"]:before    { background-color: #bcbd22; }
     li[data-onto="QU"]:before     { background-color: #d62728; }
     li[data-onto="QUDT"]:before   { background-color: #9467bd; }
     li[data-onto="SWEET"]:before  { background-color: #8c564b; }
     li[data-onto="UO"]:before     { background-color: #e377c2; }
+    li[data-onto="WD"]:before     { background-color: #17becf; }
     
     /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
     
@@ -144,10 +146,12 @@
         <li data-onto="MUO">MUO
         <li data-onto="OBOE">OBOE
         <li data-onto="OM">OM
+        <li data-onto="OM2">OM2
         <li data-onto="QU">QU
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
@@ -162,10 +166,161 @@
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
-  <h2><ul><li data-onto="MUO">MUO</ul></h2><h3>unit</h3><ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon">http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon</a><ul><li>gon<li>grade</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1">http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1</a><ul><li>Gunter's chain<li>Surveyor's chain</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain">http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain</a><ul><li>Ramden's chain<li>Engineer's chain</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight">http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight</a><ul><li>short hundredweight<li>U.S. hundredweight</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight">http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight</a><ul><li>British hundredweight<li>long hunderdweight</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton">http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton</a><ul><li>short ton<li>U.S. ton</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton">http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton</a><ul><li>long ton<li>British ton</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/stone">http://purl.oclc.org/NET/muo/ucum/unit/mass/stone</a><ul><li>stone<li>British stone</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2">http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2</a><ul><li>dram<li>drachm</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/pied">http://purl.oclc.org/NET/muo/ucum/unit/length/pied</a><ul><li>pied<li>French foot</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/pouce">http://purl.oclc.org/NET/muo/ucum/unit/length/pouce</a><ul><li>pouce<li>French inch</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/ligne">http://purl.oclc.org/NET/muo/ucum/unit/length/ligne</a><ul><li>ligne<li>French line</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/didot">http://purl.oclc.org/NET/muo/ucum/unit/length/didot</a><ul><li>didot<li>Didot's point</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/cicero">http://purl.oclc.org/NET/muo/ucum/unit/length/cicero</a><ul><li>cicero<li>Didot's pica</ul><li><a href="http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere">http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere</a><ul><li>Charrière<li>french</ul></ul><h2><ul><li data-onto="OBOE">OBOE</ul></h2><h2><ul><li data-onto="OM">OM</ul></h2><h2><ul><li data-onto="QU">QU</ul></h2><h2><ul><li data-onto="QUDT">QUDT</ul></h2><h2><ul><li data-onto="SWEET">SWEET</ul></h2><h2><ul><li data-onto="UO">UO</ul></h2>
+  <h2><ul><li data-onto="MUO">
+MUO
+</ul></h2>
+<h3>
+unit
+</h3><ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon">
+http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon
+</a><ul>
+<li>
+gon
+<li>
+grade
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1">
+http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1
+</a><ul>
+<li>
+Gunter's chain
+<li>
+Surveyor's chain
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain">
+http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain
+</a><ul>
+<li>
+Ramden's chain
+<li>
+Engineer's chain
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight">
+http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight
+</a><ul>
+<li>
+short hundredweight
+<li>
+U.S. hundredweight
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight">
+http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight
+</a><ul>
+<li>
+British hundredweight
+<li>
+long hunderdweight
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton">
+http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton
+</a><ul>
+<li>
+short ton
+<li>
+U.S. ton
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton">
+http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton
+</a><ul>
+<li>
+long ton
+<li>
+British ton
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/stone">
+http://purl.oclc.org/NET/muo/ucum/unit/mass/stone
+</a><ul>
+<li>
+stone
+<li>
+British stone
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2">
+http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2
+</a><ul>
+<li>
+dram
+<li>
+drachm
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/pied">
+http://purl.oclc.org/NET/muo/ucum/unit/length/pied
+</a><ul>
+<li>
+pied
+<li>
+French foot
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/pouce">
+http://purl.oclc.org/NET/muo/ucum/unit/length/pouce
+</a><ul>
+<li>
+pouce
+<li>
+French inch
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/ligne">
+http://purl.oclc.org/NET/muo/ucum/unit/length/ligne
+</a><ul>
+<li>
+ligne
+<li>
+French line
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/didot">
+http://purl.oclc.org/NET/muo/ucum/unit/length/didot
+</a><ul>
+<li>
+didot
+<li>
+Didot's point
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/length/cicero">
+http://purl.oclc.org/NET/muo/ucum/unit/length/cicero
+</a><ul>
+<li>
+cicero
+<li>
+Didot's pica
+</ul>
+<li><a href="http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere">
+http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere
+</a><ul>
+<li>
+Charrière
+<li>
+french
+</ul>
+</ul>
+<h2><ul><li data-onto="OBOE">
+OBOE
+</ul></h2>
+<h2><ul><li data-onto="OM">
+OM
+</ul></h2>
+<h2><ul><li data-onto="OM2">
+OM2
+</ul></h2>
+<h2><ul><li data-onto="QU">
+QU
+</ul></h2>
+<h2><ul><li data-onto="QUDT">
+QUDT
+</ul></h2>
+<h2><ul><li data-onto="SWEET">
+SWEET
+</ul></h2>
+<h2><ul><li data-onto="UO">
+UO
+</ul></h2>
+<h2><ul><li data-onto="WD">
+WD
+</ul></h2>
   <script>
   !function(){
     

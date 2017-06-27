@@ -46,6 +46,17 @@
   "exportHTML": []
  },
  {
+  "desc": "validate the presence of input files and folders",
+  "key": "0150",
+  "name": "validate input",
+  "file": "0150 validate inputs.js",
+  "loadedResults": [],
+  "loadedPredefined": [],
+  "loadedData": [],
+  "exportResult": [],
+  "exportHTML": []
+ },
+ {
   "desc": "Run all the SPARQL Queries present in /data against the respective ontologies\r\nand store the resulting data in /res\r\n\noutput:\r\n- one file per type and ontology in separate folders",
   "key": "0510",
   "name": "extraction",
@@ -81,6 +92,19 @@
   ],
   "exportResult": [
    "check - prefixUnit duplicates"
+  ],
+  "exportHTML": []
+ },
+ {
+  "desc": "check, whether there are URIs that are present in multiple types",
+  "key": "1100",
+  "name": "multiple type assignments",
+  "file": "1100 check - multiple type assignments.js",
+  "loadedResults": [],
+  "loadedPredefined": [],
+  "loadedData": [],
+  "exportResult": [
+   "multiple type assignments"
   ],
   "exportHTML": []
  },
@@ -218,7 +242,24 @@
   "exportHTML": []
  },
  {
-  "desc": "list all objects, which have multiple labels\r\n\noutput\r\n- \"check - multiple labels\" ... list per ontology of object with multiple labels",
+  "desc": "check, whether all referencedapplication fields and quantity kinds of appFieldQantityKind exist in the respective datasets\r\n\noutput:\r\n\"completeness - appFieldQuantKind\" ... list per ontology of missing application fields and quantity kinds",
+  "key": "1507",
+  "name": "completeness - appFieldQuantKind",
+  "file": "1507 completeness - appFieldQuantKind.js",
+  "loadedResults": [],
+  "loadedPredefined": [],
+  "loadedData": [
+   "quantKind",
+   "appField",
+   "appFieldQuantKind"
+  ],
+  "exportResult": [
+   "completeness - appFieldQuantKind"
+  ],
+  "exportHTML": []
+ },
+ {
+  "desc": "list all individuals, which have multiple labels\r\n\noutput\r\n- \"check - multiple labels\" ... list per ontology of individuals with multiple labels",
   "key": "1600",
   "name": "check - multiple labels",
   "file": "1600 check - multiple labels.js",
@@ -227,6 +268,19 @@
   "loadedData": [],
   "exportResult": [
    "check - multiple labels"
+  ],
+  "exportHTML": []
+ },
+ {
+  "desc": "list all individuals, which have no labels\r\n\noutput\r\n- \"check - missing labels\" ... list per ontology of individuals with no labels",
+  "key": "1601",
+  "name": "check - missing labels",
+  "file": "1601 check - missing labels.js",
+  "loadedResults": [],
+  "loadedPredefined": [],
+  "loadedData": [],
+  "exportResult": [
+   "check - missing labels"
   ],
   "exportHTML": []
  },
@@ -255,6 +309,19 @@
   ],
   "exportResult": [
    "check - keyword usage"
+  ],
+  "exportHTML": []
+ },
+ {
+  "desc": "count languages used for labels per ontology\r\nused to select display label later on\r\n\r\noutput:\r\n- \"statistic - label languages overall\"",
+  "key": "1700",
+  "name": "statistic - label languages overall",
+  "file": "1700 statistic - label languages overall.js",
+  "loadedResults": [],
+  "loadedPredefined": [],
+  "loadedData": [],
+  "exportResult": [
+   "statistic - label languages overall"
   ],
   "exportHTML": []
  },
@@ -463,7 +530,7 @@
   "exportHTML": []
  },
  {
-  "desc": "find individuals, that are lacking a label in a specific language, \r\neven though that language is specified for that type and ontology\r\n\r\noutput:\r\n- 'check - missing languages in labels'",
+  "desc": "find individuals, that are lacking a label in a specific language, \r\neven though that language is specified for that type and ontology for over 30% of the individuals\r\n(otherwise we get flooded by individuals from WD)\r\n\r\noutput:\r\n- 'check - missing languages in labels'",
   "key": "3751",
   "name": "check - missing languages in labels",
   "file": "3751 check - missing languages in labels.js",
@@ -791,12 +858,12 @@
   "loadedPredefined": [],
   "loadedData": [],
   "exportResult": [
-   "statistic - unit overlap + ' - shared noPrefix'",
-   "statistic - unit overlap + ' - shared total'",
-   "statistic - unit overlap + ' - sharedCounts noPrefix'",
-   "statistic - unit overlap + ' - sharedCounts total'",
-   "statistic - unit overlap + ' - overlap noPrefix'",
-   "statistic - unit overlap + ' - overlap total'"
+   "statistic - unit overlap + ' - shared noPrefix' + filtered",
+   "statistic - unit overlap + ' - shared total' + filtered",
+   "statistic - unit overlap + ' - sharedCounts noPrefix' + filtered",
+   "statistic - unit overlap + ' - sharedCounts total' + filtered",
+   "statistic - unit overlap + ' - overlap noPrefix' + filtered",
+   "statistic - unit overlap + ' - overlap total' + filtered"
   ],
   "exportHTML": []
  },
@@ -1149,7 +1216,7 @@
   "desc": "Create HTML output for languages missing in labels per ontology and type\r\n\noutput:\r\n- \"check - missing languages in labels\" ... list of languages missing in labels per ontology and type",
   "key": "9751",
   "name": "check - missing languages in labels",
-  "file": "9751 check - missing lnaguages in labels.js",
+  "file": "9751 check - missing languages in labels.js",
   "loadedResults": [
    "check - missing languages in labels"
   ],

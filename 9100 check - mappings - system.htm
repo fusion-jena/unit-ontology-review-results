@@ -113,15 +113,17 @@
       left: -1em;
       border-radius: 0.3em;
     }
-    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    /* colors from https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory10 */
     li:before    { background-color: #7f7f7f; }
     li[data-onto="MUO"]:before    { background-color: #1f77b4; }
     li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
     li[data-onto="OM"]:before     { background-color: #2ca02c; }
+    li[data-onto="OM2"]:before    { background-color: #bcbd22; }
     li[data-onto="QU"]:before     { background-color: #d62728; }
     li[data-onto="QUDT"]:before   { background-color: #9467bd; }
     li[data-onto="SWEET"]:before  { background-color: #8c564b; }
     li[data-onto="UO"]:before     { background-color: #e377c2; }
+    li[data-onto="WD"]:before     { background-color: #17becf; }
     
     /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
     
@@ -144,10 +146,12 @@
         <li data-onto="MUO">MUO
         <li data-onto="OBOE">OBOE
         <li data-onto="OM">OM
+        <li data-onto="OM2">OM2
         <li data-onto="QU">QU
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
@@ -162,10 +166,281 @@
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
-  <b>Apothecaries' system of weights</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/Apothecaries_system_of_weights">Apothecaries' system of weights<br>(http://www.wurvoc.org/vocabularies/om-1.8/Apothecaries_system_of_weights)</a></ul><b>Atomic System of Units</b><ul><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_Atomic">Atomic System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_Atomic)</a></ul><b>Avoirdupois system of units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/Avoirdupois_system_of_units">Avoirdupois system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/Avoirdupois_system_of_units)</a></ul><b>British system of units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/British_system_of_units">British system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/British_system_of_units)</a></ul><b>centimetre-gram-second electromagnetic system of units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electromagnetic_system_of_units">centimetre-gram-second electromagnetic system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electromagnetic_system_of_units)</a></ul><b>centimetre-gram-second electrostatic system of units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electrostatic_system_of_units">centimetre-gram-second electrostatic system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electrostatic_system_of_units)</a></ul><b>centimetre-gram-second system of units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_system_of_units">centimetre-gram-second system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_system_of_units)</a></ul><b>centimetre-gram-second-biot system of units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-biot_system_of_units">centimetre-gram-second-biot system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-biot_system_of_units)</a></ul><b>centimetre-gram-second-franklin system of units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-franklin_system_of_units">centimetre-gram-second-franklin system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-franklin_system_of_units)</a></ul><b>CGS System of Units</b><ul><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_CGS">CGS System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_CGS)</a></ul><b>CGS-EMU System of Units</b><ul><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_CGS-EMU">CGS-EMU System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_CGS-EMU)</a></ul><b>CGS-ESU System of Units</b><ul><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_CGS-ESU">CGS-ESU System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_CGS-ESU)</a></ul><b>CGS-Gauss System of Units</b><ul><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_CGS-Gauss">CGS-Gauss System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_CGS-Gauss)</a></ul><b>Gaussian system of units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/Gaussian_system_of_units">Gaussian system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/Gaussian_system_of_units)</a></ul><b>Imperial System</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/Imperial_System">Imperial System<br>(http://www.wurvoc.org/vocabularies/om-1.8/Imperial_System)</a></ul><b>International System of Units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/International_System_of_Units">International System of Units<br>(http://www.wurvoc.org/vocabularies/om-1.8/International_System_of_Units)</a><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_SI">International System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_SI)</a></ul><b>ISO 4217 Currencies</b><ul><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_ISO4217-Currencies">ISO 4217 Currencies<br>(http://qudt.org/vocab/unit#SystemOfUnits_ISO4217-Currencies)</a></ul><b>metre-kilogram-second-ampere system of units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/metre-kilogram-second-ampere_system_of_units">metre-kilogram-second-ampere system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/metre-kilogram-second-ampere_system_of_units)</a></ul><b>MKS System of Units</b><ul><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_MKS">MKS System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_MKS)</a></ul><b>Planck System of Units</b><ul><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_Planck">Planck System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_Planck)</a></ul><b>System of units_Imperial</b><ul><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_Imperial">System of units_Imperial<br>(http://qudt.org/vocab/unit#SystemOfUnits_Imperial)</a></ul><b>Troy system of units</b><ul><li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/Troy_system_of_units">Troy system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/Troy_system_of_units)</a></ul><b>US Customary Unit System</b><ul><li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_USCustomary">US Customary Unit System<br>(http://qudt.org/vocab/unit#SystemOfUnits_USCustomary)</a></ul>
+  <b>
+apothecaries' system
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q620565">apothecaries' system<br>(http://www.wikidata.org/entity/Q620565)</a>
+</ul>
+<b>
+Apothecaries' system of weights
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/Apothecaries_system_of_weights">Apothecaries' system of weights<br>(http://www.wurvoc.org/vocabularies/om-1.8/Apothecaries_system_of_weights)</a>
+</ul>
+<b>
+Atomic System of Units
+</b><ul>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_Atomic">Atomic System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_Atomic)</a>
+</ul>
+<b>
+Atomic units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q757568">Atomic units<br>(http://www.wikidata.org/entity/Q757568)</a>
+</ul>
+<b>
+avoirdupois
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q791259">avoirdupois<br>(http://www.wikidata.org/entity/Q791259)</a>
+</ul>
+<b>
+Avoirdupois system of units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/Avoirdupois_system_of_units">Avoirdupois system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/Avoirdupois_system_of_units)</a>
+</ul>
+<b>
+British system of units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/British_system_of_units">British system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/British_system_of_units)</a>
+</ul>
+<b>
+Burmese units of measurement
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1016708">Burmese units of measurement<br>(http://www.wikidata.org/entity/Q1016708)</a>
+</ul>
+<b>
+centimetre-gram-second electromagnetic system of units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electromagnetic_system_of_units">centimetre-gram-second electromagnetic system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electromagnetic_system_of_units)</a>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-SecondElectromagneticSystemOfUnits">centimetre-gram-second electromagnetic system of units<br>(http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-SecondElectromagneticSystemOfUnits)</a>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_CGS-EMU">CGS-EMU System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_CGS-EMU)</a>
+</ul>
+<b>
+centimetre-gram-second electrostatic system of units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electrostatic_system_of_units">centimetre-gram-second electrostatic system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electrostatic_system_of_units)</a>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-SecondElectrostaticSystemOfUnits">centimetre-gram-second electrostatic system of units<br>(http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-SecondElectrostaticSystemOfUnits)</a>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_CGS-ESU">CGS-ESU System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_CGS-ESU)</a>
+</ul>
+<b>
+centimetre-gram-second system of units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_system_of_units">centimetre-gram-second system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_system_of_units)</a>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-SecondSystemOfUnits">centimetre-gram-second system of units<br>(http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-SecondSystemOfUnits)</a>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_CGS">CGS System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_CGS)</a>
+</ul>
+<b>
+centimetre-gram-second-biot system of units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-biot_system_of_units">centimetre-gram-second-biot system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-biot_system_of_units)</a>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-Second-BiotSystemOfUnits">centimetre-gram-second-biot system of units<br>(http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-Second-BiotSystemOfUnits)</a>
+</ul>
+<b>
+centimetre-gram-second-franklin system of units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-franklin_system_of_units">centimetre-gram-second-franklin system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-franklin_system_of_units)</a>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-Second-FranklinSystemOfUnits">centimetre-gram-second-franklin system of units<br>(http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-Second-FranklinSystemOfUnits)</a>
+</ul>
+<b>
+centimetre–gram–second system of units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q26240">centimetre–gram–second system of units<br>(http://www.wikidata.org/entity/Q26240)</a>
+</ul>
+<b>
+Chinese system of measurement
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28648897">Chinese system of measurement<br>(http://www.wikidata.org/entity/Q28648897)</a>
+</ul>
+<b>
+Danish system of units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q435913">Danish system of units<br>(http://www.wikidata.org/entity/Q435913)</a>
+</ul>
+<b>
+electromagnetic unit system
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q27666180">electromagnetic unit system<br>(http://www.wikidata.org/entity/Q27666180)</a>
+</ul>
+<b>
+electrostatic system of units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1370826">electrostatic system of units<br>(http://www.wikidata.org/entity/Q1370826)</a>
+</ul>
+<b>
+English units of measurement
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q16782623">English units of measurement<br>(http://www.wikidata.org/entity/Q16782623)</a>
+</ul>
+<b>
+Exchequer Standards
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28134852">Exchequer Standards<br>(http://www.wikidata.org/entity/Q28134852)</a>
+</ul>
+<b>
+foot–pound–second system
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q5466615">foot–pound–second system<br>(http://www.wikidata.org/entity/Q5466615)</a>
+</ul>
+<b>
+Gaussian system of units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/Gaussian_system_of_units">Gaussian system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/Gaussian_system_of_units)</a>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/GaussianSystemOfUnits">Gaussian system of units<br>(http://www.ontology-of-units-of-measure.org/resource/om-2/GaussianSystemOfUnits)</a>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_CGS-Gauss">CGS-Gauss System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_CGS-Gauss)</a>
+</ul>
+<b>
+Gaussian units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q3234036">Gaussian units<br>(http://www.wikidata.org/entity/Q3234036)</a>
+</ul>
+<b>
+gravitational metric system
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1213508">gravitational metric system<br>(http://www.wikidata.org/entity/Q1213508)</a>
+</ul>
+<b>
+Imperial System
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/Imperial_System">Imperial System<br>(http://www.wurvoc.org/vocabularies/om-1.8/Imperial_System)</a>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_Imperial">System of units_Imperial<br>(http://qudt.org/vocab/unit#SystemOfUnits_Imperial)</a>
+</ul>
+<b>
+imperial system of units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q641227">imperial system of units<br>(http://www.wikidata.org/entity/Q641227)</a>
+</ul>
+<b>
+International System of Electrical and Magnetic Units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1496383">International System of Electrical and Magnetic Units<br>(http://www.wikidata.org/entity/Q1496383)</a>
+</ul>
+<b>
+International System of Quantities
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q16203461">International System of Quantities<br>(http://www.wikidata.org/entity/Q16203461)</a>
+</ul>
+<b>
+International System of Units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/International_System_of_Units">International System of Units<br>(http://www.wurvoc.org/vocabularies/om-1.8/International_System_of_Units)</a>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/InternationalSystemOfUnits">International System of Units<br>(http://www.ontology-of-units-of-measure.org/resource/om-2/InternationalSystemOfUnits)</a>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_SI">International System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_SI)</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q12457">International System of Units<br>(http://www.wikidata.org/entity/Q12457)</a>
+</ul>
+<b>
+ISO 4217 Currencies
+</b><ul>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_ISO4217-Currencies">ISO 4217 Currencies<br>(http://qudt.org/vocab/unit#SystemOfUnits_ISO4217-Currencies)</a>
+</ul>
+<b>
+Japanese system of measurement
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1029751">Japanese system of measurement<br>(http://www.wikidata.org/entity/Q1029751)</a>
+</ul>
+<b>
+Lorentz–Heaviside units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1274918">Lorentz–Heaviside units<br>(http://www.wikidata.org/entity/Q1274918)</a>
+</ul>
+<b>
+metre-kilogram-second-ampere system of units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/metre-kilogram-second-ampere_system_of_units">metre-kilogram-second-ampere system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/metre-kilogram-second-ampere_system_of_units)</a>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/metre-Kilogram-Second-AmpereSystemOfUnits">metre-kilogram-second-ampere system of units<br>(http://www.ontology-of-units-of-measure.org/resource/om-2/metre-Kilogram-Second-AmpereSystemOfUnits)</a>
+</ul>
+<b>
+metre–tonne–second system of units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q939202">metre–tonne–second system of units<br>(http://www.wikidata.org/entity/Q939202)</a>
+</ul>
+<b>
+miary austriackie
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q11778227">miary austriackie<br>(http://www.wikidata.org/entity/Q11778227)</a>
+</ul>
+<b>
+miary pruskie i niemieckie
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q11778234">miary pruskie i niemieckie<br>(http://www.wikidata.org/entity/Q11778234)</a>
+</ul>
+<b>
+miesches einheitensystem
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1932187">miesches einheitensystem<br>(http://www.wikidata.org/entity/Q1932187)</a>
+</ul>
+<b>
+MKS System of Units
+</b><ul>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_MKS">MKS System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_MKS)</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q512417">MKS system of units<br>(http://www.wikidata.org/entity/Q512417)</a>
+</ul>
+<b>
+MKSA system of units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q730906">MKSA system of units<br>(http://www.wikidata.org/entity/Q730906)</a>
+</ul>
+<b>
+Norwegian system of units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q13409875">Norwegian system of units<br>(http://www.wikidata.org/entity/Q13409875)</a>
+</ul>
+<b>
+Planck System of Units
+</b><ul>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_Planck">Planck System of Units<br>(http://qudt.org/vocab/unit#SystemOfUnits_Planck)</a>
+</ul>
+<b>
+Planck units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q468999">Planck units<br>(http://www.wikidata.org/entity/Q468999)</a>
+</ul>
+<b>
+Russian system of units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q435964">Russian system of units<br>(http://www.wikidata.org/entity/Q435964)</a>
+</ul>
+<b>
+skandinavischen maßsysteme
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q435951">skandinavischen maßsysteme<br>(http://www.wikidata.org/entity/Q435951)</a>
+</ul>
+<b>
+Spanish customary units
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1414173">Spanish customary units<br>(http://www.wikidata.org/entity/Q1414173)</a>
+</ul>
+<b>
+Swedish system of measurement
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q10502481">Swedish system of measurement<br>(http://www.wikidata.org/entity/Q10502481)</a>
+</ul>
+<b>
+system of measures in the Gran Duchy of Lithuania
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q4420945">system of measures in the Gran Duchy of Lithuania<br>(http://www.wikidata.org/entity/Q4420945)</a>
+</ul>
+<b>
+Troy system of units
+</b><ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/Troy_system_of_units">Troy system of units<br>(http://www.wurvoc.org/vocabularies/om-1.8/Troy_system_of_units)</a>
+</ul>
+<b>
+United States customary system
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1116609">United States customary system<br>(http://www.wikidata.org/entity/Q1116609)</a>
+</ul>
+<b>
+US Customary Unit System
+</b><ul>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#SystemOfUnits_USCustomary">US Customary Unit System<br>(http://qudt.org/vocab/unit#SystemOfUnits_USCustomary)</a>
+</ul>
+<b>
+Winchester measure
+</b><ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q8023875">Winchester measure<br>(http://www.wikidata.org/entity/Q8023875)</a>
+</ul>
   <script>
   !function(){
     

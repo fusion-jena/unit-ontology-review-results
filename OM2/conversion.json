@@ -1,0 +1,4994 @@
+[
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/micrometre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decimetre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decametre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectometre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilometre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megametre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigametre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attometre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtometre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picometre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanometre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terametre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petametre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exametre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megaparsec",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/parsec",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centiare",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/are",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectare",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/are",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microlitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centilitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decilitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decalitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilolitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megalitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigalitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attolitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtolitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picolitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanolitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teralitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petalitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exalitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/milliradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centiradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/deciradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attoradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtoradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picoradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanoradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millisecond-Angle",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Angle",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microsecond-Angle",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Angle",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microsteradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/steradian",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millisteradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/steradian",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centisteradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/steradian",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decisteradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/steradian",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attosteradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/steradian",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtosteradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/steradian",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picosteradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/steradian",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanosteradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/steradian",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigaparsec",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/parsec",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kiloparsec",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/parsec",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctometre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptometre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettametre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottametre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctolitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptolitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettalitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottalitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctoradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptoradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctosteradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/steradian",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptosteradian",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/steradian",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microbar",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctogram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptogram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attogram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picogram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtogram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanogram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microgram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/milligram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centigram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decigram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decagram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectogram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megagram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigagram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teragram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petagram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exagram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettagram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottagram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctosecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptosecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attosecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picosecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtosecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanosecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microsecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millisecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centisecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decisecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decasecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectosecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilosecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megasecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigasecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terasecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petasecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exasecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettasecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottasecond-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctoampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptoampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attoampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picoampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtoampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanoampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/milliampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centiampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/deciampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decaampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectoampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kiloampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megaampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigaampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teraampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petaampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exaampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettaampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottaampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctokelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptokelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attokelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picokelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtokelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanokelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microkelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millikelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centikelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decikelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decakelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectokelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilokelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megakelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigakelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terakelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petakelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exakelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettakelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottakelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctomole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptomole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attomole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picomole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtomole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanomole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/micromole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decimole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decamole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectomole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilomole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megamole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigamole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teramole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petamole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/examole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettamole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottamole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/mole",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctocandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptocandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attocandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picocandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtocandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanocandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microcandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millicandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centicandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decicandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decacandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectocandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilocandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megacandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigacandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teracandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petacandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exacandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettacandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottacandela",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candela",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctohertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptohertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attohertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picohertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtohertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanohertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microhertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millihertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centihertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decihertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decahertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectohertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilohertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megahertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigahertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terahertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petahertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exahertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettahertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottahertz",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hertz",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctonewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptonewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attonewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/piconewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtonewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanonewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/micronewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millinewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centinewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decinewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decanewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectonewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilonewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/meganewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/giganewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teranewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petanewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exanewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettanewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottanewton",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctopascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptopascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attopascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picopascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtopascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanopascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/micropascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millipascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centipascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decipascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decapascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectopascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilopascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megapascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigapascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terapascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petapascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exapascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettapascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottapascal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctojoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptojoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attojoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picojoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtojoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanojoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microjoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millijoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centijoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decijoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decajoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectojoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilojoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megajoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigajoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terajoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petajoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exajoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettajoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottajoule",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctowatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptowatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attowatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picowatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtowatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanowatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microwatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/milliwatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centiwatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/deciwatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decawatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectowatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilowatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megawatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigawatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terawatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petawatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exawatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettawatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottawatt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctocoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptocoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attocoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picocoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtocoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanocoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microcoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millicoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centicoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decicoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decacoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectocoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilocoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megacoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigacoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teracoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petacoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exacoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettacoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottacoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctovolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptovolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attovolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picovolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtovolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanovolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microvolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millivolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centivolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decivolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decavolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectovolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilovolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megavolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigavolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teravolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petavolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exavolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettavolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottavolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctofarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptofarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attofarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picofarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtofarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanofarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microfarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millifarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centifarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decifarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decafarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectofarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilofarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megafarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigafarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terafarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petafarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exafarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettafarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottafarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctoohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptoohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attoohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picoohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtoohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanoohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/milliohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centiohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/deciohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decaohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectoohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigaohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teraohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petaohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exaohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettaohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottaohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctosiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptosiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attosiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picosiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtosiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanosiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microsiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millisiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centisiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decisiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decasiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectosiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilosiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megasiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigasiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terasiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petasiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exasiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettasiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottasiemens",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctoweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptoweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attoweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picoweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtoweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanoweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/milliweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centiweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/deciweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decaweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectoweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kiloweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megaweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigaweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teraweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petaweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exaweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettaweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottaweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctotesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptotesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attotesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picotesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtotesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanotesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microtesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millitesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centitesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decitesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decatesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectotesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilotesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megatesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigatesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teratesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petatesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exatesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettatesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottatesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctohenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptohenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attohenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picohenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtohenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanohenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microhenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millihenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centihenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decihenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decahenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectohenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilohenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megahenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigahenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terahenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petahenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exahenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettahenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottahenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctodegreeCelsius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptodegreeCelsius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attodegreeCelsius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picodegreeCelsius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtodegreeCelsius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanodegreeCelsius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microdegreeCelsius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millidegreeCelsius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centidegreeCelsius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decidegreeCelsius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctolumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptolumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attolumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picolumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtolumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanolumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microlumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centilumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decilumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decalumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilolumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megalumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigalumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teralumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petalumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exalumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettalumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottalumen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lumen",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctolux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptolux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attolux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picolux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtolux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanolux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microlux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centilux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decilux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decalux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilolux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megalux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigalux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teralux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petalux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exalux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettalux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottalux",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctobecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptobecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attobecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picobecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtobecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanobecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microbecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millibecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centibecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decibecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decabecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectobecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilobecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megabecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigabecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terabecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petabecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exabecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettabecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottabecquerel",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctogray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptogray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attogray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picogray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtogray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanogray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microgray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/milligray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centigray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decigray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decagray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectogray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megagray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigagray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teragray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petagray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exagray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettagray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottagray",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctosievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptosievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attosievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picosievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtosievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanosievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microsievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millisievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centisievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decisievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decasievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectosievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilosievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megasievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigasievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terasievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petasievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exasievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettasievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottasievert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctokatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptokatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attokatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picokatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtokatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanokatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microkatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millikatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centikatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decikatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decakatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectokatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilokatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megakatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigakatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terakatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petakatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exakatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettakatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottakatal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/katal",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigayear",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/year",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilotonne",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tonne",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megatonne",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tonne",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanounifiedAtomicMassUnit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/unifiedAtomicMassUnit",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decibar",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millibar",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigaelectronvolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/electronvolt",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kiloelectronvolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/electronvolt",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megaelectronvolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/electronvolt",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilocalorie-Mean",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/calorie-Mean",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megaerg",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/erg",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centipoise",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/poise",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centistokes",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/stokes",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megaeuro",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/euro",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/milligauss",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gauss",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/attomolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1e-18
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/femtomolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megamolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/micromolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nanomolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/picomolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yoctomolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1e-24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zeptomolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1e-21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decimolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decamolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectomolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilomolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigamolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teramolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petamolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/examolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettamolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottamolair",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/molair",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/micromagnitude",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/magnitude",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimagnitude",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/magnitude",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kibibit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1024
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/mebibit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1048576
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gibibit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1073741824
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/tebibit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1099511627776
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/pebibit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1125899906842624
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exbibit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1152921504606847000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zebibit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1.1805916207174113e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yobibit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1.2089258196146292e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilobit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megabit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigabit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terabit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petabit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exabit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettabit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottabit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kibibyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1024
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/mebibyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1048576
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gibibyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1073741824
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/tebibyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1099511627776
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/pebibyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1125899906842624
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exbibyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1152921504606847000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zebibyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1.1805916207174113e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yobibyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1.2089258196146292e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilobyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megabyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gigabyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/terabyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/petabyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/exabyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1000000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettabyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1e+21
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yottabyte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convFactor": 1e+24
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/chain",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 20.11684
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/cicero",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/point-Didot",
+    "convFactor": 12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/fathom-USSurvey",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1.828804
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/fermi",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1e-15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/foot-International",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.3048
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/foot-USSurvey",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.3048006
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/furlong-International",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 201.168
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/inch-International",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.0254
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/micron",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/mil-Length",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.0000254
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/mile-Statute",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1609.344
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/mile-USSurvey",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1609.347
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/nauticalMile-International",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1852
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/pica-ATA",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/point-ATA",
+    "convFactor": 12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/pica-Postscript",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/point-Postscript",
+    "convFactor": 12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/pica-TeX",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/point-TeX",
+    "convFactor": 12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/point-ATA",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.0003514598
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/point-Didot",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.0003759
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/point-Postscript",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/inch-International",
+    "convFactor": 0.013888888888888888
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/point-TeX",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/inch-International",
+    "convFactor": 0.013837000138370002
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/rod-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 5.02921
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/yard-International",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 0.9144
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/angstrom",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 1e-10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/astronomicalUnit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 149597870700
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/lightYear",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 9460730000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/parsec",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 30856775814913700
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/acre-International",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/squareMetre",
+    "convFactor": 4046.8564224
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/acre-USSurvey",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/squareMetre",
+    "convFactor": 4046.872609874252
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/are",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/squareMetre",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/barn",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/squareMetre",
+    "convFactor": 1e-28
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/circularMil",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/squareMetre",
+    "convFactor": 5.067075e-10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/acreFoot",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 1233.489
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/barrel-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.1589873
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/bushel-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.03523907
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/cord",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 3.624556
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/cup-USCustomary",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.0002365882
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.00440488377086
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryPint-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.0005506105
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryQuart-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.001101221
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/fluidOunce-Imperial",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.00002841306
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/fluidOunce-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.00002957353
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.00454609
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.003785412
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gill-Imperial",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.0001420653
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gill-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.0001182941
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/liquidPint-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.0004731765
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/liquidQuart-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.0009463529
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/peck-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.008809768
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/pint-Imperial",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilitre",
+    "convFactor": 568.26125
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+    "convFactor": 1.1365
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/tablespoon-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.00001478676
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/teaspoon-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 0.000004928922
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dessertspoon",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/teaspoon-US",
+    "convFactor": 2
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/ton-Register",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+    "convFactor": 2.831658
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/degree",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 0.01745329
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gon",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 0.01570796
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/mil-Angle",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 0.0009817477
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/minute-Angle",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 0.0002908882
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/revolution",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 6.283185
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Angle",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/radian",
+    "convFactor": 0.000004848137
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/solarRadius",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+    "convFactor": 695500000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/_25Millilitre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilitre",
+    "convFactor": 25
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dyne",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 0.00001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/erg",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1e-7
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/poise",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascalSecond-Time",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/stokes",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/squareMetrePerSecond-Time",
+    "convFactor": 0.0001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/stilb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candelaPerSquareMetre",
+    "convFactor": 10000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/phot",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 10000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/abampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/abcoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/abfarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/abhenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/abmho",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/abohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/abvolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 1e-8
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/oersted",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/amperePerMetre",
+    "convFactor": 79.57747
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gauss",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 0.0001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/maxwell",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1e-8
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gilbert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 0.7957747
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/statcoulomb",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 3.335641e-10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/statampere",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 3.335641e-10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/statvolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/volt",
+    "convFactor": 299.7925
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/stattesla",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 2997900
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/statfarad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/farad",
+    "convFactor": 1.11265e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/stathenry",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/henry",
+    "convFactor": 898755200000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/statmho",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/siemens",
+    "convFactor": 1.11265e-12
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/statohm",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ohm",
+    "convFactor": 898755200000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/statweber",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 299.79
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/biot",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/ampere",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/franklin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 3.335641e-10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kayser",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/reciprocalMetre",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/day",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 86400
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hour",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 3600
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/minute-Time",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 60
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/year",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 31536000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/shake",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 1e-8
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/day-Sidereal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 86164.09
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hour-Sidereal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 3590.17
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/minute-Sidereal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 59.83617
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Sidereal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 0.9972696
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/year-Sidereal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 31558150
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/year-Tropical",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 31556930
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/week",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+    "convFactor": 604800
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/carat-Mass",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 0.0002
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/grain",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 0.00006479891
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hundredweight-British",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 50.80235
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hundredweight-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 45.35924
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/ounceAvoirdupois",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 0.02834952
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/ounceApothecaries",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 0.03110348
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/pennyweight-Troy",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 0.001555174
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/poundApothecaries",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 0.3732417
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/poundAvoirdupois",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 0.45359237
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/slug",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 14.5939
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/solarMass",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 1.98892e+30
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/ton-ShortAssay",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 0.02916667
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/ton-Long",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 1016.047
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/ton-Short",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 907.1847
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/tonne",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/percent",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/one",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/partsPerMillion",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/one",
+    "convFactor": 0.000001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gramPerKilogram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/one",
+    "convFactor": 0.001
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kip",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 4448.222
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/poundal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 0.138255
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/pound-Force",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 4.448222
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/ton-Force-Short",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+    "convFactor": 8896.443
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/atmosphere-Standard",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 101325
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/atmosphere-Technical",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 98066.5
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 100000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/barye",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 0.1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 133322
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/torr",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+    "convFactor": 133.322368421053
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/BritishThermalUnit-39F",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1059.67
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/BritishThermalUnit-59F",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1054.8
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/BritishThermalUnit-60F",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1054.68
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/BritishThermalUnit-InternationalTable",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1055.056
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/BritishThermalUnit-Mean",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1055.87
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/BritishThermalUnit-Thermochemical",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1054.35
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/calorie-15C",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 4.1858
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/calorie-20C",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 4.1819
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/calorie-InternationalTable",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 4.1868
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/calorie-Mean",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 4.19002
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/calorie-Thermochemical",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 4.184
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/electronvolt",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 1.602177e-19
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/footPoundal",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 0.04214011
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/BritishThermalUnit-InternationalTable",
+    "convFactor": 1000000000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/therm-EC",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 105506000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/therm-US",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 105480400
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/tonOfTNT",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+    "convFactor": 4184000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/horsepower-Boiler",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 9809.5
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/horsepower-British",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 745.7
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/horsepower-Electric",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 746
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/horsepower-Metric",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 735.4988
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/horsepower-Water",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 746.043
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/solarLuminosity",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 3.839e+26
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/tonOfRefrigeration",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+    "convFactor": 3516.853
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/rhe",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/reciprocalPascalSecond-Time",
+    "convFactor": 10
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/_100Kilometre",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilometre",
+    "convFactor": 100
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/faraday",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulomb",
+    "convFactor": 96485.31
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/unitPole",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/weber",
+    "convFactor": 1.256637e-7
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gamma",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+    "convFactor": 1e-9
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/debye",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulombMetre",
+    "convFactor": 3.33564e-30
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/footlambert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candelaPerSquareMetre",
+    "convFactor": 3.426259
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/lambert",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candelaPerSquareMetre",
+    "convFactor": 3183.099
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/footcandle",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+    "convFactor": 10.76391
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/rad",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gray",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/rem",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/sievert",
+    "convFactor": 0.01
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/curie",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/becquerel",
+    "convFactor": 37000000000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/röntgen",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/coulombPerKilogram",
+    "convFactor": 0.000258
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hour-HourAngle",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degree",
+    "convFactor": 15
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/minute-HourAngle",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degree",
+    "convFactor": 0.25
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-HourAngle",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degree",
+    "convFactor": 0.0041666667
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/darcy",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/squareMetre",
+    "convFactor": 9.869233e-13
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/perm-0C",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerPascalSecond-TimeSquareMetre",
+    "convFactor": 5.72135e-11
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/perm-23C",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerPascalSecond-TimeSquareMetre",
+    "convFactor": 5.74525e-11
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/_1000ColonyFormingUnit",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/colonyFormingUnit",
+    "convFactor": 1000
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/byte",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 8
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hartley",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bit",
+    "convFactor": 3.321928095
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convOffset": -273.15,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeCelsius",
+    "convFactor": 1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convOffset": -459.67,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeFahrenheit",
+    "convFactor": 1.8
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convOffset": -218.52,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeReaumur",
+    "convFactor": 1
+  },
+  {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kelvin",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/degreeRankine",
+    "convFactor": 1.8
+  }
+]

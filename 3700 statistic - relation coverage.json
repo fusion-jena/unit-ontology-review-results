@@ -40,6 +40,31 @@
    "systemUnit": 8
   }
  },
+ "OM2": {
+  "appField": {
+   "appFieldQuantKind": 17,
+   "appFieldUnit": 16
+  },
+  "quantKind": {
+   "appFieldQuantKind": 318,
+   "quantKindUnit": 519
+  },
+  "unit": {
+   "appFieldUnit": 903,
+   "quantKindUnit": 1070,
+   "dimensionUnit": 1157,
+   "systemUnit": 767
+  },
+  "dimension": {
+   "dimensionUnit": 76
+  },
+  "prefix": {
+   "prefixUnit": 28
+  },
+  "system": {
+   "systemUnit": 8
+  }
+ },
  "QU": {
   "appField": {
    "appFieldQuantKind": 12
@@ -73,10 +98,10 @@
  },
  "SWEET": {
   "appField": {
-   "appFieldQuantKind": 12
+   "appFieldQuantKind": 7
   },
   "quantKind": {
-   "appFieldQuantKind": 397,
+   "appFieldQuantKind": 389,
    "quantKindUnit": 470
   },
   "unit": {
@@ -88,10 +113,22 @@
  },
  "UO": {
   "quantKind": {
-   "quantKindUnit": 96
+   "quantKindUnit": 98
   },
   "unit": {
-   "quantKindUnit": 169
+   "quantKindUnit": 167
+  }
+ },
+ "WD": {
+  "quantKind": {
+   "quantKindUnit": 135
+  },
+  "unit": {
+   "quantKindUnit": 3978,
+   "systemUnit": 116
+  },
+  "system": {
+   "systemUnit": 22
   }
  }
 }

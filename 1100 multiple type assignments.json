@@ -1,0 +1,605 @@
+{
+ "MUO": {},
+ "OBOE": {},
+ "OM": {},
+ "OM2": {},
+ "QU": {},
+ "QUDT": {
+  "http://qudt.org/vocab/quantity#ElectricCharge": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#PowerPerElectricCharge": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Dimensionless": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LinearAcceleration": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MagneticFluxPerUnitLength": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricCurrent": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MagneticField": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Radiance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ThermodynamicTemperature": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricDipoleMoment": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#PowerPerAreaQuarticTemperature": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Permeability": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Resistance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LuminousFlux": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#EnergyPerElectricCharge": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Area": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Force": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MolarHeatCapacity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Mass": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MagnetomotiveForce": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricConductivity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Time": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LinearVelocity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#EnergyPerAreaElectricCharge": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Length": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Capacitance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#EnergyPerTemperature": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#InverseLength": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#InverseMagneticFlux": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ThermalResistance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AmountOfSubstance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#SpecificEnergy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AngularAcceleration": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LuminousIntensity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MassPerAreaTime": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Volume": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LinearThermalExpansion": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#PowerArea": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#InverseVolume": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Inductance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#QuarticElectricDipoleMomentPerCubicEnergy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AngularVelocity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#SpecificHeatVolume": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MomentOfInertia": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#RadiantIntensity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MassPerElectricCharge": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LengthMass": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Density": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricField": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MassPerArea": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricChargePerAmountOfSubstance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#InversePermittivity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricCurrentDensity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ThermalResistivity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MassPerTime": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Torque": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#EnergyAndWork": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#CoefficientOfHeatTransfer": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#TimeSquared": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MagneticFlux": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Luminance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ForcePerArea": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#EnergyPerArea": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ForcePerLength": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AngularMomentum": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Frequency": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Permittivity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#PowerAreaPerSolidAngle": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#SpecificVolume": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LengthTemperature": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#PowerPerArea": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#DynamicViscosity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricChargePerArea": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ForcePerElectricCharge": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AreaTemperature": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AmountOfSubstancePerUnitVolume": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#TemperaturePerMagneticFluxDensity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#GravitationalAttraction": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricFlux": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MassPerLength": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#EnergyPerSquareMagneticFluxDensity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#StandardGravitationalParameter": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LengthEnergy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AmountOfSubstancePerUnitMass": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#SpecificHeatCapacity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MolarEnergy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ThermalInsulance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LuminousFluxPerArea": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Power": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MassTemperature": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ThrustToMassRatio": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AreaAngle": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AreaTime": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LengthPerUnitElectricCurrent": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricChargePerMass": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ForcePerAreaTime": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#VolumePerUnitTime": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#TemperatureAmountOfSubstance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#InverseEnergy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LengthPerUnitMagneticFlux": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#TimeTemperature": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MolarVolume": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#CatalyticActivity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LuminousEfficacy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#InverseAmountOfSubstance": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#InverseSquareEnergy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#SpecificHeatPressure": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AreaThermalExpansion": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LinearMomentum": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ThermalConductivity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MolarAngularMomentum": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#CubicElectricDipoleMomentPerSquareEnergy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#LengthMolarEnergy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitEnergy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#VolumeThermalExpansion": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricChargeVolumeDensity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MagneticDipoleMoment": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#VolumetricHeatCapacity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#InverseLengthTemperature": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricChargeLineDensity": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AreaPerTime": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#SquareEnergy": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#Polarizability": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#AbsorbedDoseRate": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#ElectricQuadrupoleMoment": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#InverseTimeTemperature": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#MolarMass": [
+   "dimension",
+   "quantKind"
+  ],
+  "http://qudt.org/vocab/quantity#TemperaturePerTime": [
+   "dimension",
+   "quantKind"
+  ]
+ },
+ "SWEET": {},
+ "UO": {},
+ "WD": {
+  "http://www.wikidata.org/entity/Q646427": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q376660": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q324923": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q124003": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q909482": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q4463210": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q2080811": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q181011": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q23893296": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q23893259": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q3561856": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q11229": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q1778552": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q27084": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q5329": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q50098": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q50094": [
+   "quantKind",
+   "unit"
+  ],
+  "http://www.wikidata.org/entity/Q44395": [
+   "quantKind",
+   "unit"
+  ]
+ }
+}

@@ -37,6 +37,39 @@
    },
    {
     "__type": "SemPrefix",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/pebi",
+    "ontology": "OM2",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     }
+    },
+    "dispLabel": "pebi",
+    "factor": 1125899906842624,
+    "raw": {
+     "labelLang": "en",
+     "label": "pebi",
+     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/pebi",
+     "factor": 1125899906842624
+    }
+   },
+   {
+    "__type": "SemPrefix",
     "uri": "http://qudt.org/vocab/unit#Pebi",
     "ontology": "QUDT",
     "labels": {
@@ -97,6 +130,39 @@
      "labelLang": "en",
      "label": "exbi",
      "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/exbi",
+     "factor": 1152921504606847000
+    }
+   },
+   {
+    "__type": "SemPrefix",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/exbi",
+    "ontology": "OM2",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "exbi"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "exbi"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "exbi"
+      ]
+     }
+    },
+    "dispLabel": "exbi",
+    "factor": 1152921504606847000,
+    "raw": {
+     "labelLang": "en",
+     "label": "exbi",
+     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/exbi",
      "factor": 1152921504606847000
     }
    },

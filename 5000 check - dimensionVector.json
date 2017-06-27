@@ -1,1 +1,56 @@
-[]
+[
+ [
+  {
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_field_strength-dimension",
+   "onto": "OM",
+   "vector": [
+    -1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "uri": "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength",
+   "onto": "QUDT",
+   "vector": [
+    -1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagneticField-Dimension",
+   "onto": "OM2",
+   "vector": [
+    -1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "uri": "http://qudt.org/vocab/quantity#MagneticField",
+   "onto": "QUDT",
+   "vector": [
+    0,
+    1,
+    -2,
+    -1,
+    0,
+    0,
+    0
+   ]
+  }
+ ]
+]

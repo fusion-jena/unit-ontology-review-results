@@ -14,11 +14,18 @@
   "unit_prefix_total": 67
  },
  "OM": {
-  "unit_noprefix_total": 375,
+  "unit_noprefix_total": 371,
   "unit_prefix_ontology": 989,
   "unit_prefix_heuristic": 4,
-  "unit_prefix_unrecognized": 1,
-  "unit_prefix_total": 994
+  "unit_prefix_unrecognized": 3,
+  "unit_prefix_total": 996
+ },
+ "OM2": {
+  "unit_noprefix_total": 388,
+  "unit_prefix_ontology": 866,
+  "unit_prefix_heuristic": 126,
+  "unit_prefix_unrecognized": 4,
+  "unit_prefix_total": 996
  },
  "QU": {
   "unit_noprefix_total": 433,
@@ -28,18 +35,18 @@
   "unit_prefix_total": 368
  },
  "QUDT": {
-  "unit_noprefix_total": 653,
+  "unit_noprefix_total": 652,
   "unit_prefix_ontology": 0,
   "unit_prefix_heuristic": 114,
-  "unit_prefix_unrecognized": 1,
-  "unit_prefix_total": 115
+  "unit_prefix_unrecognized": 2,
+  "unit_prefix_total": 116
  },
  "SWEET": {
-  "unit_noprefix_total": 112,
+  "unit_noprefix_total": 111,
   "unit_prefix_ontology": 9,
   "unit_prefix_heuristic": 17,
-  "unit_prefix_unrecognized": 2,
-  "unit_prefix_total": 28
+  "unit_prefix_unrecognized": 3,
+  "unit_prefix_total": 29
  },
  "UO": {
   "unit_noprefix_total": 111,
@@ -47,5 +54,12 @@
   "unit_prefix_heuristic": 110,
   "unit_prefix_unrecognized": 0,
   "unit_prefix_total": 110
+ },
+ "WD": {
+  "unit_noprefix_total": 4143,
+  "unit_prefix_ontology": 0,
+  "unit_prefix_heuristic": 260,
+  "unit_prefix_unrecognized": 1,
+  "unit_prefix_total": 261
  }
 }

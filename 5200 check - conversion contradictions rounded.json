@@ -23,6 +23,255 @@
    "convFactor": "0.9144",
    "onto": "QUDT",
    "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q482798",
+   "convFactor": "0.9144",
+   "unit2": "http://www.wikidata.org/entity/Q11573",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Yard",
+   "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millimeter",
+   "convFactor": "914.398",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Yard",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
+     "convFactor": "0.914398",
+     "onto": "OBOE"
+    },
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Millimeter",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
+     "convFactor": "0.001",
+     "onto": "OBOE"
+    }
+   ],
+   "onto": "OBOE",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#yard",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetre",
+   "convFactor": "914.4",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#yard",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+     "convFactor": "0.9144",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millimetre",
+     "convFactor": "1e-3",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q174789",
+   "unit2": "http://www.wikidata.org/entity/Q482798",
+   "convFactor": "1.093613298337707786526684164479440069991251093613298337707786527e-3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q218593",
+     "convFactor": "25.4",
+     "unit2": "http://www.wikidata.org/entity/Q174789",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q482798",
+     "convFactor": "36",
+     "unit2": "http://www.wikidata.org/entity/Q218593",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Yard",
+   "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Inch",
+   "convFactor": "35.99992125984251968503937007874015748031496062992125984251968504",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Yard",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
+     "convFactor": "0.914398",
+     "onto": "OBOE"
+    },
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Inch",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
+     "convFactor": "0.0254",
+     "onto": "OBOE"
+    }
+   ],
+   "onto": "OBOE",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#yard",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#inch",
+   "convFactor": "36",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#yard",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+     "convFactor": "0.9144",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#inch",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+     "convFactor": "25.4e-3",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://qudt.org/vocab/unit#Inch",
+   "unit2": "http://qudt.org/vocab/unit#Yard",
+   "convFactor": "0.02777777777777777777777777777777777777777777777777777777777777778",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://qudt.org/vocab/unit#Inch",
+     "convOffset": "0.0",
+     "unit2": "http://qudt.org/vocab/unit#Meter",
+     "convFactor": "0.0254",
+     "onto": "QUDT"
+    },
+    {
+     "unit1": "http://qudt.org/vocab/unit#Yard",
+     "convOffset": "0.0",
+     "unit2": "http://qudt.org/vocab/unit#Meter",
+     "convFactor": "0.9144",
+     "onto": "QUDT"
+    }
+   ],
+   "onto": "QUDT",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q482798",
+   "convFactor": "36",
+   "unit2": "http://www.wikidata.org/entity/Q218593",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Yard",
+   "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Foot",
+   "convFactor": "2.999993438320209973753280839895013123359580052493438320209973753",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Yard",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
+     "convFactor": "0.914398",
+     "onto": "OBOE"
+    },
+    {
+     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Foot",
+     "convOffset": 0,
+     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
+     "convFactor": "0.3048",
+     "onto": "OBOE"
+    }
+   ],
+   "onto": "OBOE",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#yard",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#foot",
+   "convFactor": "3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#yard",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+     "convFactor": "0.9144",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#foot",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#metre",
+     "convFactor": "0.3048",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://qudt.org/vocab/unit#Foot",
+   "unit2": "http://qudt.org/vocab/unit#Yard",
+   "convFactor": "0.3333333333333333333333333333333333333333333333333333333333333333",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://qudt.org/vocab/unit#Foot",
+     "convOffset": "0.0",
+     "unit2": "http://qudt.org/vocab/unit#Meter",
+     "convFactor": "0.3048",
+     "onto": "QUDT"
+    },
+    {
+     "unit1": "http://qudt.org/vocab/unit#Yard",
+     "convOffset": "0.0",
+     "unit2": "http://qudt.org/vocab/unit#Meter",
+     "convFactor": "0.9144",
+     "onto": "QUDT"
+    }
+   ],
+   "onto": "QUDT",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q482798",
+   "convFactor": "3",
+   "unit2": "http://www.wikidata.org/entity/Q3710",
+   "onto": "WD",
+   "reverse": true
   }
  ],
  [
@@ -41,23 +290,12 @@
    "convFactor": "0.45359237",
    "onto": "QU",
    "reverse": true
-  }
- ],
- [
-  {
-   "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Degree",
-   "convOffset": 0,
-   "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Radian",
-   "convFactor": "0.0174533",
-   "onto": "OBOE",
-   "reverse": true
   },
   {
-   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/degree",
-   "convOffset": 0,
-   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/radian",
-   "convFactor": "1.745329e-2",
-   "onto": "OM",
+   "unit1": "http://www.wikidata.org/entity/Q100995",
+   "convFactor": "0.45359237",
+   "unit2": "http://www.wikidata.org/entity/Q11570",
+   "onto": "WD",
    "reverse": true
   }
  ],
@@ -71,11 +309,26 @@
    "reverse": true
   },
   {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/chain",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metre",
+   "convFactor": 20.11684,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
    "unit1": "http://qudt.org/vocab/unit#Chain",
    "convOffset": "0.0",
    "unit2": "http://qudt.org/vocab/unit#Meter",
    "convFactor": "20.1168",
    "onto": "QUDT",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q552299",
+   "convFactor": "20.1168",
+   "unit2": "http://www.wikidata.org/entity/Q11573",
+   "onto": "WD",
    "reverse": true
   }
  ],
@@ -86,6 +339,14 @@
    "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
    "convFactor": "9.071847e2",
    "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/ton-Short",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+   "convFactor": 907.1847,
+   "onto": "OM2",
    "reverse": true
   },
   {
@@ -107,6 +368,14 @@
    "reverse": true
   },
   {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/ton-Long",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+   "convFactor": 1016.047,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
    "unit1": "http://qudt.org/vocab/unit#TonLong",
    "convOffset": "0.0",
    "unit2": "http://qudt.org/vocab/unit#Kilogram",
@@ -125,6 +394,14 @@
    "reverse": true
   },
   {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/slug",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+   "convFactor": 14.5939,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slug",
    "convOffset": "0.0",
    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
@@ -138,6 +415,1751 @@
    "unit2": "http://qudt.org/vocab/unit#Kilogram",
    "convFactor": "14.593903",
    "onto": "QUDT",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q1363007",
+   "convFactor": "14.593903",
+   "unit2": "http://www.wikidata.org/entity/Q11570",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/pound-avoirdupois",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+   "convFactor": "4.535924e-1",
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/poundAvoirdupois",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+   "convFactor": 0.45359237,
+   "onto": "OM2",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/grain",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+   "convFactor": "6.479891e-5",
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/grain",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+   "convFactor": 0.00006479891,
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#grain",
+   "convOffset": "0.0",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+   "convFactor": "64.79891e-6",
+   "onto": "QU",
+   "reverse": false
+  },
+  {
+   "unit1": "http://qudt.org/vocab/unit#Grain",
+   "convOffset": "0.0",
+   "unit2": "http://qudt.org/vocab/unit#Kilogram",
+   "convFactor": "6.479891E-5",
+   "onto": "QUDT",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q693944",
+   "convFactor": "0.0000622",
+   "unit2": "http://www.wikidata.org/entity/Q11570",
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/slug",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/megagram",
+   "convFactor": "0.0145939",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/slug",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.459390e1",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/megagram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convFactor": 1000000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/slug",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/megagram",
+   "convFactor": "0.0145939",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/slug",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+     "convFactor": 14.5939,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megagram",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+     "convFactor": 1000000,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slug",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#megagram",
+   "convFactor": "0.0145939",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slug",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1.459390e1",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megagram",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1e3",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q11776930",
+   "unit2": "http://www.wikidata.org/entity/Q1363007",
+   "convFactor": "68.52176556196104633558274301261286990875573176003705108907466358",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q11776930",
+     "convFactor": "1000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q1363007",
+     "convFactor": "14.593903",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/slug",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/hectogram",
+   "convFactor": "145.939",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/slug",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.459390e1",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/hectogram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convFactor": 100,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/slug",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectogram",
+   "convFactor": "145.939",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/slug",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+     "convFactor": 14.5939,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectogram",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+     "convFactor": 100,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slug",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hectogram",
+   "convFactor": "145.939",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slug",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1.459390e1",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hectogram",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1e-1",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q1363007",
+   "unit2": "http://www.wikidata.org/entity/Q1057069",
+   "convFactor": "145.93903",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q1363007",
+     "convFactor": "14.593903",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q1057069",
+     "convFactor": "0.1",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/slug",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decagram",
+   "convFactor": "1459.39",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/slug",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.459390e1",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decagram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convFactor": 10,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/slug",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/decagram",
+   "convFactor": "1459.39",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/slug",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+     "convFactor": 14.5939,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decagram",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+     "convFactor": 10,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slug",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#decagram",
+   "convFactor": "1459.39",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#slug",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1.459390e1",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decagram",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1e-2",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q6517513",
+   "unit2": "http://www.wikidata.org/entity/Q1363007",
+   "convFactor": "6.852176556196104633558274301261286990875573176003705108907466358e-4",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q6517513",
+     "convFactor": "0.01",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q1363007",
+     "convFactor": "14.593903",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/grain",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/megagram",
+   "convFactor": "6.479891e-8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/grain",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "6.479891e-5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/megagram",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+     "convFactor": 1000000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/grain",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/megagram",
+   "convFactor": "6.479891e-8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/grain",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+     "convFactor": 0.00006479891,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megagram",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+     "convFactor": 1000000,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#grain",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#megagram",
+   "convFactor": "6.479891e-8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#grain",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "64.79891e-6",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#megagram",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+     "convFactor": "1e3",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q693944",
+   "unit2": "http://www.wikidata.org/entity/Q11776930",
+   "convFactor": "6.22e-8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q693944",
+     "convFactor": "0.0000622",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q11776930",
+     "convFactor": "1000",
+     "unit2": "http://www.wikidata.org/entity/Q11570",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/shake",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/second-time",
+   "convFactor": "1.0e-8",
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/shake",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/second-Time",
+   "convFactor": 1e-8,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://qudt.org/vocab/unit#Shake",
+   "convOffset": "0.0",
+   "unit2": "http://qudt.org/vocab/unit#SecondTime",
+   "convFactor": "1.0E-8",
+   "onto": "QUDT",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q7462601",
+   "convFactor": "0.0000001",
+   "unit2": "http://www.wikidata.org/entity/Q11574",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+   "convFactor": "1.1365",
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+   "convFactor": 1.1365,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#litre",
+   "convFactor": "1.1365225",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1.1365225e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#litre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-3",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+   "convFactor": "1.1365e-3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": "1.1365",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+   "convFactor": "1.1365e-3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 1.1365,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+   "convOffset": "0.0",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+   "convFactor": "1.1365225e-3",
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilolitre",
+   "convFactor": "1.1365e-3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": "1.1365",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilolitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 1000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilolitre",
+   "convFactor": "1.1365e-3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 1.1365,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilolitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 1000,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilolitre",
+   "convFactor": "1.1365225e-3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1.1365225e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilolitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/hectolitre",
+   "convFactor": "0.011365",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": "1.1365",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/hectolitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 100,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolitre",
+   "convFactor": "0.011365",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 1.1365,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 100,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hectolitre",
+   "convFactor": "0.011365225",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1.1365225e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hectolitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-1",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decalitre",
+   "convFactor": "0.11365",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": "1.1365",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decalitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 10,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/decalitre",
+   "convFactor": "0.11365",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 1.1365,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decalitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 10,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#decalitre",
+   "convFactor": "0.11365225",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1.1365225e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decalitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-2",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decilitre",
+   "convFactor": "11.365",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": "1.1365",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decilitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 0.1,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/decilitre",
+   "convFactor": "11.365",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 1.1365,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decilitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 0.1,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#decilitre",
+   "convFactor": "11.365225",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1.1365225e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decilitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-4",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/centilitre",
+   "convFactor": "113.65",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": "1.1365",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/centilitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 0.01,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/centilitre",
+   "convFactor": "113.65",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/quart-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 1.1365,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centilitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 0.01,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#centilitre",
+   "convFactor": "113.65225",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#quartUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1.1365225e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centilitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-5",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+   "convFactor": "4.54609e-3",
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+   "convFactor": 0.00454609,
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+   "convOffset": "0.0",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+   "convFactor": "4.546092e-3",
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/cord",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+   "convFactor": "3.624556",
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/cord",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+   "convFactor": 3.624556,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q920297",
+   "convFactor": "3.624556363776",
+   "unit2": "http://www.wikidata.org/entity/Q25517",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilolitre",
+   "convFactor": "4.54609e-3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "4.54609e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilolitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 1000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilolitre",
+   "convFactor": "4.54609e-3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00454609,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilolitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 1000,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilolitre",
+   "convFactor": "4.546092e-3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "4.546092e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#kilolitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/hectolitre",
+   "convFactor": "0.0454609",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "4.54609e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/hectolitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 100,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolitre",
+   "convFactor": "0.0454609",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00454609,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 100,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hectolitre",
+   "convFactor": "0.04546092",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "4.546092e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hectolitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-1",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decalitre",
+   "convFactor": "0.454609",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "4.54609e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decalitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 10,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/decalitre",
+   "convFactor": "0.454609",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00454609,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decalitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 10,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#decalitre",
+   "convFactor": "0.4546092",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "4.546092e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decalitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-2",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/decilitre",
+   "convFactor": "45.4609",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "4.54609e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/decilitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 0.1,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/decilitre",
+   "convFactor": "45.4609",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00454609,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decilitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 0.1,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#decilitre",
+   "convFactor": "45.46092",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "4.546092e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#decilitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-4",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/centilitre",
+   "convFactor": "454.609",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "4.54609e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/centilitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 0.01,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/centilitre",
+   "convFactor": "454.609",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00454609,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centilitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 0.01,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#centilitre",
+   "convFactor": "454.6092",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "4.546092e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centilitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-5",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/millilitre",
+   "convFactor": "4546.09",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "4.54609e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millilitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 0.001,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilitre",
+   "convFactor": "4546.09",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00454609,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitre",
+   "convFactor": "4546.092",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "4.546092e-3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-6",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pint-Imperial",
+   "convFactor": "8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "4.54609e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millilitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 0.001,
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/pint-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/millilitre",
+     "convFactor": "568.26125",
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pint-Imperial",
+   "convFactor": "8",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gallon-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00454609,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/pint-Imperial",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilitre",
+     "convFactor": 568.26125,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+   "convFactor": "0.124999890015424236905016440494385067438142474899320119346462852",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "5.68261e-4",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#gallonUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "4.546092e-3",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
    "reverse": true
   }
  ],
@@ -172,6 +2194,38 @@
     }
    ],
    "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolitre",
+   "convFactor": "0.0440488377086",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00440488377086,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 100,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
    "reverse": true
   },
   {
@@ -234,6 +2288,38 @@
    "reverse": true
   },
   {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/decalitre",
+   "convFactor": "0.440488377086",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00440488377086,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decalitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 10,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dryGallonUs",
    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#decalitre",
    "convFactor": "0.4404884",
@@ -290,6 +2376,38 @@
     }
    ],
    "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/decilitre",
+   "convFactor": "44.0488377086",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00440488377086,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decilitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 0.1,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
    "reverse": true
   },
   {
@@ -352,6 +2470,38 @@
    "reverse": true
   },
   {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/centilitre",
+   "convFactor": "440.488377086",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00440488377086,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centilitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 0.01,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dryGallonUs",
    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#centilitre",
    "convFactor": "440.4884",
@@ -411,6 +2561,38 @@
    "reverse": true
   },
   {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilitre",
+   "convFactor": "4404.88377086",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/dryGallon-US",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.00440488377086,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#dryGallonUs",
    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitre",
    "convFactor": "4404.884",
@@ -438,18 +2620,248 @@
  ],
  [
   {
-   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
-   "convOffset": 0,
-   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
-   "convFactor": "1.33322368421053e2",
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/cord",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/hectolitre",
+   "convFactor": "36.24556",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/cord",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "3.624556",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre",
+     "convFactor": "1.0e-3",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/hectolitre",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/litre",
+     "convFactor": 100,
+     "onto": "OM"
+    }
+   ],
    "onto": "OM",
    "reverse": true
   },
   {
-   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#torr",
-   "convOffset": "0.0",
-   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
-   "convFactor": "133.3224",
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/cord",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolitre",
+   "convFactor": "36.24556",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/cord",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 3.624556,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMetre",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectolitre",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/litre",
+     "convFactor": 100,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q920297",
+   "unit2": "http://www.wikidata.org/entity/Q2029519",
+   "convFactor": "36.24556363776",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q920297",
+     "convFactor": "3.624556363776",
+     "unit2": "http://www.wikidata.org/entity/Q25517",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q2029519",
+     "convFactor": "0.1",
+     "unit2": "http://www.wikidata.org/entity/Q25517",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/pint-Imperial",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/millilitre",
+   "convFactor": "568.26125",
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/pint-Imperial",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/millilitre",
+   "convFactor": 568.26125,
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUk",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitre",
+   "convFactor": "568.261",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#pintUk",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "5.68261e-4",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millilitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-6",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kip",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/newton",
+   "convFactor": "4.448222e3",
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kip",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/newton",
+   "convFactor": 4448.222,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q6414556",
+   "convFactor": "4448.2216",
+   "unit2": "http://www.wikidata.org/entity/Q12438",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre_of_mercury",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/bar",
+   "convFactor": "0.0133322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convFactor": 0.01,
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322e5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/bar",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.0e5",
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+   "convFactor": "75.00637554192106329037968227299320442237590195166589160078606682",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 100000,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.01,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetreOfMercury",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#barUnitOfPressure",
+   "convFactor": "0.01333224",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetreOfMercury",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+     "convFactor": "1.333224e3",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#barUnitOfPressure",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
+     "convFactor": "1e5",
+     "onto": "QU"
+    }
+   ],
    "onto": "QU",
    "reverse": true
   }
@@ -492,6 +2904,45 @@
     }
    ],
    "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/millibar",
+   "convFactor": "13.3322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.01,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 100000,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millibar",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
    "reverse": true
   },
   {
@@ -554,6 +3005,38 @@
    "reverse": true
   },
   {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/megapascal",
+   "convFactor": "1.33322e-3",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.01,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megapascal",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 1000000,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetreOfMercury",
    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#megapascal",
    "convFactor": "1.333224e-3",
@@ -609,6 +3092,38 @@
     }
    ],
    "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilopascal",
+   "convFactor": "1.33322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.01,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilopascal",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 1000,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
    "reverse": true
   },
   {
@@ -670,6 +3185,38 @@
    "reverse": true
   },
   {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectopascal",
+   "convFactor": "13.3322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.01,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectopascal",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 100,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetreOfMercury",
    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hectopascal",
    "convFactor": "13.33224",
@@ -728,6 +3275,38 @@
    "reverse": true
   },
   {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/decapascal",
+   "convFactor": "133.322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.01,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/decapascal",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 10,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#centimetreOfMercury",
    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#decapascal",
    "convFactor": "133.3224",
@@ -755,17 +3334,113 @@
  ],
  [
   {
-   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
-   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/millibar",
-   "convFactor": "1.33322368421053",
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
+   "convFactor": "0.9999972366148504317865654857328309870383813945948544707940736584",
    "convOffset": "0",
    "computed": true,
    "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convFactor": 0.001,
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322e5",
+     "onto": "OM"
+    },
     {
      "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/torr",
      "convOffset": 0,
      "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
      "convFactor": "1.33322368421053e2",
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/torr",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+   "convFactor": "1.000002763392785886800378032132731282158983513598655885750288775",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/torr",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133.322368421053,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q185648",
+   "unit2": "http://www.wikidata.org/entity/Q6859652",
+   "convFactor": "1",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q185648",
+     "convFactor": "133.322387415",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q6859652",
+     "convFactor": "133.322387415",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/millibar",
+   "convFactor": "1.33322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convFactor": 0.001,
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322e5",
      "onto": "OM"
     },
     {
@@ -787,28 +3462,332 @@
    "reverse": true
   },
   {
-   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#torr",
-   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#millibar",
-   "convFactor": "1.333224",
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/millibar",
+   "convFactor": "1.33322",
    "convOffset": "0",
    "computed": true,
    "involved": [
     {
-     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#torr",
-     "convOffset": "0.0",
-     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
-     "convFactor": "133.3224",
-     "onto": "QU"
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.001,
+     "onto": "OM2"
     },
     {
-     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#millibar",
-     "convOffset": "0.0",
-     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#pascal",
-     "convFactor": "1e2",
-     "onto": "QU"
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 100000,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millibar",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+     "convFactor": 0.001,
+     "onto": "OM2"
     }
    ],
-   "onto": "QU",
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q12827327",
+   "unit2": "http://www.wikidata.org/entity/Q6859652",
+   "convFactor": "0.7500615758456563339512712250660681735137378540319623183519481832",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q12827327",
+     "convFactor": "100",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q6859652",
+     "convFactor": "133.322387415",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/megapascal",
+   "convFactor": "1.33322e-4",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convFactor": 0.001,
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322e5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/megapascal",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": 1000000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/megapascal",
+   "convFactor": "1.33322e-4",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/megapascal",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 1000000,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q6859652",
+   "unit2": "http://www.wikidata.org/entity/Q21062777",
+   "convFactor": "1.33322387415e-4",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q6859652",
+     "convFactor": "133.322387415",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q21062777",
+     "convFactor": "1000000",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilopascal",
+   "convFactor": "0.133322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convFactor": 0.001,
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322e5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilopascal",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": 1000,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilopascal",
+   "convFactor": "0.133322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilopascal",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 1000,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q6859652",
+   "unit2": "http://www.wikidata.org/entity/Q21064807",
+   "convFactor": "0.133322387415",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q6859652",
+     "convFactor": "133.322387415",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q21064807",
+     "convFactor": "1000",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/hectopascal",
+   "convFactor": "1.33322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/millimetre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convFactor": 0.001,
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/metre_of_mercury",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": "1.33322e5",
+     "onto": "OM"
+    },
+    {
+     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/hectopascal",
+     "convOffset": 0,
+     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/pascal",
+     "convFactor": 100,
+     "onto": "OM"
+    }
+   ],
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectopascal",
+   "convFactor": "1.33322",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/millimetreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convFactor": 0.001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/metreOfMercury",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133322,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/hectopascal",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 100,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q6859652",
+   "unit2": "http://www.wikidata.org/entity/Q5139563",
+   "convFactor": "1.33322387415",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q6859652",
+     "convFactor": "133.322387415",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q5139563",
+     "convFactor": "100",
+     "unit2": "http://www.wikidata.org/entity/Q44395",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
    "reverse": true
   }
  ],
@@ -846,6 +3825,38 @@
    "reverse": true
   },
   {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microbar",
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/torr",
+   "convFactor": "7.500616827041676780925619820680990286962252250902735263452945939e-4",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/microbar",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+     "convFactor": 0.000001,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/bar",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 100000,
+     "onto": "OM2"
+    },
+    {
+     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/torr",
+     "convOffset": 0,
+     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/pascal",
+     "convFactor": 133.322368421053,
+     "onto": "OM2"
+    }
+   ],
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
    "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#torr",
    "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#microbar",
    "convFactor": "1333.224",
@@ -868,6 +3879,229 @@
     }
    ],
    "onto": "QU",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/calorie-thermochemical",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/joule",
+   "convFactor": "4.184",
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/calorie-Thermochemical",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+   "convFactor": 4.184,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#calorieThermochemical",
+   "convOffset": "0.0",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#joule",
+   "convFactor": "4.184",
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q130964",
+   "convFactor": "4.19",
+   "unit2": "http://www.wikidata.org/entity/Q25269",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/British_thermal_unit-thermochemical",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/joule",
+   "convFactor": "1.054350e3",
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/BritishThermalUnit-Thermochemical",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/joule",
+   "convFactor": 1054.35,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q211580",
+   "convFactor": "1054.35026444",
+   "unit2": "http://www.wikidata.org/entity/Q25269",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/horsepower-metric",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/watt",
+   "convFactor": "7.354988e2",
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/horsepower-Metric",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/watt",
+   "convFactor": 735.4988,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#metricHorsePower",
+   "convOffset": "0.0",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#watt",
+   "convFactor": "735.49875",
+   "onto": "QU",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/footcandle",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/lux",
+   "convFactor": "1.076391e1",
+   "onto": "OM",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/footcandle",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/lux",
+   "convFactor": 10.76391,
+   "onto": "OM2",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q2064166",
+   "convFactor": "10.764",
+   "unit2": "http://www.wikidata.org/entity/Q179836",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/lambert",
+   "convOffset": 0,
+   "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/candela_per_square_metre",
+   "convFactor": "3.183099e3",
+   "onto": "OM",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/lambert",
+   "convOffset": 0,
+   "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/candelaPerSquareMetre",
+   "convFactor": 3183.099,
+   "onto": "OM2",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q905912",
+   "convFactor": "3183.09",
+   "unit2": "http://www.wikidata.org/entity/Q281096",
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicFoot",
+   "convOffset": "0.0",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+   "convFactor": "2.831685e-2",
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q1545979",
+   "unit2": "http://www.wikidata.org/entity/Q25517",
+   "convFactor": "0.0283",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q752079",
+     "convFactor": "100",
+     "unit2": "http://www.wikidata.org/entity/Q1545979",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q752079",
+     "convFactor": "2.83",
+     "unit2": "http://www.wikidata.org/entity/Q25517",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicFoot",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#hectolitre",
+   "convFactor": "0.2831685",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicFoot",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "2.831685e-2",
+     "onto": "QU"
+    },
+    {
+     "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#hectolitre",
+     "convOffset": "0.0",
+     "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#cubicMetre",
+     "convFactor": "1e-1",
+     "onto": "QU"
+    }
+   ],
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q1545979",
+   "unit2": "http://www.wikidata.org/entity/Q2029519",
+   "convFactor": "0.283",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q752079",
+     "convFactor": "100",
+     "unit2": "http://www.wikidata.org/entity/Q1545979",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q752079",
+     "convFactor": "2.83",
+     "unit2": "http://www.wikidata.org/entity/Q25517",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q2029519",
+     "convFactor": "0.1",
+     "unit2": "http://www.wikidata.org/entity/Q25517",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
    "reverse": true
   }
  ],
@@ -919,6 +4153,30 @@
    ],
    "onto": "SWEET",
    "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q577",
+   "convFactor": "12",
+   "unit2": "http://www.wikidata.org/entity/Q5151",
+   "onto": "WD",
+   "reverse": false
+  }
+ ],
+ [
+  {
+   "unit1": "http://purl.oclc.org/NET/ssnx/qu/unit#ounce",
+   "convOffset": "0.0",
+   "unit2": "http://purl.oclc.org/NET/ssnx/qu/unit#kilogram",
+   "convFactor": "2.834952e-2",
+   "onto": "QU",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q48013",
+   "convFactor": "0.028349523125",
+   "unit2": "http://www.wikidata.org/entity/Q11570",
+   "onto": "WD",
+   "reverse": true
   }
  ],
  [
@@ -935,6 +4193,78 @@
    "unit2": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterPerSecond",
    "convFactor": "0.27777777",
    "onto": "SWEET",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q180154",
+   "convFactor": "0.2777777777777777778",
+   "unit2": "http://www.wikidata.org/entity/Q182429",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://qudt.org/vocab/unit#Rod",
+   "convOffset": "0.0",
+   "unit2": "http://qudt.org/vocab/unit#Meter",
+   "convFactor": "5.029210",
+   "onto": "QUDT",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q1165588",
+   "convFactor": "5.0292",
+   "unit2": "http://www.wikidata.org/entity/Q11573",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q26221041",
+   "convFactor": "4.55225",
+   "unit2": "http://www.wikidata.org/entity/Q25343",
+   "onto": "WD",
+   "reverse": true
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q27949624",
+   "convFactor": "4.55",
+   "unit2": "http://www.wikidata.org/entity/Q25343",
+   "onto": "WD",
+   "reverse": true
+  }
+ ],
+ [
+  {
+   "unit1": "http://www.wikidata.org/entity/Q26221041",
+   "convFactor": "9",
+   "unit2": "http://www.wikidata.org/entity/Q26250779",
+   "onto": "WD",
+   "reverse": false
+  },
+  {
+   "unit1": "http://www.wikidata.org/entity/Q26250779",
+   "unit2": "http://www.wikidata.org/entity/Q27949624",
+   "convFactor": "0.1111648351648351648351648351648351648351648351648351648351648352",
+   "convOffset": "0",
+   "computed": true,
+   "involved": [
+    {
+     "unit1": "http://www.wikidata.org/entity/Q26250779",
+     "convFactor": "0.5058",
+     "unit2": "http://www.wikidata.org/entity/Q25343",
+     "onto": "WD"
+    },
+    {
+     "unit1": "http://www.wikidata.org/entity/Q27949624",
+     "convFactor": "4.55",
+     "unit2": "http://www.wikidata.org/entity/Q25343",
+     "onto": "WD"
+    }
+   ],
+   "onto": "WD",
    "reverse": true
   }
  ]

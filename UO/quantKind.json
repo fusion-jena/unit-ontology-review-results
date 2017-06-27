@@ -343,6 +343,12 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000018",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001296",
+    "label": "fluorescence"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000019",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000060",
     "label": "color pattern"
@@ -734,7 +740,7 @@
   {
     "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000965",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000440",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000060",
     "label": "symmetry"
   },
   {
@@ -814,12 +820,6 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001548",
     "parent": "http://purl.obolibrary.org/obo/PATO_0002198",
     "label": "quality of a liquid"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001005",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000502",
-    "label": "latency"
   },
   {
     "labelLang": "",
@@ -1093,6 +1093,12 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001842",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000033",
+    "label": "acidity"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001431",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
     "label": "adhesivity"
@@ -1294,12 +1300,6 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001594",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001857",
     "label": "arched"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001599",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000614",
-    "label": "rotated"
   },
   {
     "labelLang": "",
@@ -1912,5 +1912,53 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0015002",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001236",
     "label": "process efficacy"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0015007",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000057",
+    "label": "prominence"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0015008",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
+    "label": "distensibility"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0015009",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001547",
+    "label": "humidity"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0015012",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001547",
+    "label": "quality of a plasma"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0015013",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001291",
+    "label": "degree of illumination"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0015017",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002198",
+    "label": "quality of a colloidal suspension"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0015018",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0015017",
+    "label": "quality of an aerosol"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0015021",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "combustibility"
   }
 ]

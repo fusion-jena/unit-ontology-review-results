@@ -113,15 +113,17 @@
       left: -1em;
       border-radius: 0.3em;
     }
-    /* colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category10 */
+    /* colors from https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory10 */
     li:before    { background-color: #7f7f7f; }
     li[data-onto="MUO"]:before    { background-color: #1f77b4; }
     li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
     li[data-onto="OM"]:before     { background-color: #2ca02c; }
+    li[data-onto="OM2"]:before    { background-color: #bcbd22; }
     li[data-onto="QU"]:before     { background-color: #d62728; }
     li[data-onto="QUDT"]:before   { background-color: #9467bd; }
     li[data-onto="SWEET"]:before  { background-color: #8c564b; }
     li[data-onto="UO"]:before     { background-color: #e377c2; }
+    li[data-onto="WD"]:before     { background-color: #17becf; }
     
     /* XXXXXXXXXXXXXXXXXXXXXXXX Collapsibles XXXXXXXXXXXXXXXXXXXXXXXX */
     
@@ -144,10 +146,12 @@
         <li data-onto="MUO">MUO
         <li data-onto="OBOE">OBOE
         <li data-onto="OM">OM
+        <li data-onto="OM2">OM2
         <li data-onto="QU">QU
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
@@ -162,10 +166,320 @@
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
         <li data-onto="UO">UO
+        <li data-onto="WD">WD
       </ul>
     </fieldset>
   </div>
-  <table><tr><td></td><th><ul><li data-onto="MUO">MUO</ul></th><th><ul><li data-onto="OBOE">OBOE</ul></th><th><ul><li data-onto="OM">OM</ul></th><th><ul><li data-onto="QU">QU</ul></th><th><ul><li data-onto="QUDT">QUDT</ul></th><th><ul><li data-onto="SWEET">SWEET</ul></th><th><ul><li data-onto="UO">UO</ul></th><tr><th><ul><li data-onto="MUO">MUO</ul></th><td>100.00</td><td>9.16</td><td>35.88</td><td>23.28</td><td>27.86</td><td>10.69</td><td>17.18</td></tr><th><ul><li data-onto="OBOE">OBOE</ul></th><td>33.80</td><td>100.00</td><td>50.70</td><td>60.56</td><td>60.56</td><td>35.21</td><td>36.62</td></tr><th><ul><li data-onto="OM">OM</ul></th><td>25.13</td><td>9.63</td><td>100.00</td><td>31.28</td><td>51.87</td><td>16.04</td><td>15.78</td></tr><th><ul><li data-onto="QU">QU</ul></th><td>14.12</td><td>9.95</td><td>27.08</td><td>100.00</td><td>38.66</td><td>13.43</td><td>11.57</td></tr><th><ul><li data-onto="QUDT">QUDT</ul></th><td>11.21</td><td>6.61</td><td>29.80</td><td>25.65</td><td>100.00</td><td>9.52</td><td>8.45</td></tr><th><ul><li data-onto="SWEET">SWEET</ul></th><td>25.45</td><td>22.73</td><td>54.55</td><td>52.73</td><td>56.36</td><td>100.00</td><td>32.73</td></tr><th><ul><li data-onto="UO">UO</ul></th><td>40.54</td><td>23.42</td><td>53.15</td><td>45.05</td><td>49.55</td><td>32.43</td><td>100.00</td></tr></table><div class="comment">100 * #SynSet(row-ontology && col-ontology) / #SynSet(row-ontology)</div>
+  <table><tr><td></td>
+<th><ul><li data-onto="MUO">
+MUO
+</ul></th>
+<th><ul><li data-onto="OBOE">
+OBOE
+</ul></th>
+<th><ul><li data-onto="OM">
+OM
+</ul></th>
+<th><ul><li data-onto="OM2">
+OM2
+</ul></th>
+<th><ul><li data-onto="QU">
+QU
+</ul></th>
+<th><ul><li data-onto="QUDT">
+QUDT
+</ul></th>
+<th><ul><li data-onto="SWEET">
+SWEET
+</ul></th>
+<th><ul><li data-onto="UO">
+UO
+</ul></th>
+<th><ul><li data-onto="WD">
+WD
+</ul></th>
+<tr>
+<th><ul><li data-onto="MUO">
+MUO
+</ul></th>
+<td>
+100.00
+</td>
+<td>
+10.38
+</td>
+<td>
+41.15
+</td>
+<td>
+41.54
+</td>
+<td>
+28.46
+</td>
+<td>
+31.92
+</td>
+<td>
+13.08
+</td>
+<td>
+17.69
+</td>
+<td>
+33.08
+</td>
+</tr>
+<th><ul><li data-onto="OBOE">
+OBOE
+</ul></th>
+<td>
+38.03
+</td>
+<td>
+100.00
+</td>
+<td>
+53.52
+</td>
+<td>
+54.93
+</td>
+<td>
+69.01
+</td>
+<td>
+64.79
+</td>
+<td>
+39.44
+</td>
+<td>
+42.25
+</td>
+<td>
+70.42
+</td>
+</tr>
+<th><ul><li data-onto="OM">
+OM
+</ul></th>
+<td>
+28.84
+</td>
+<td>
+10.24
+</td>
+<td>
+100.00
+</td>
+<td>
+100.00
+</td>
+<td>
+36.93
+</td>
+<td>
+54.72
+</td>
+<td>
+18.06
+</td>
+<td>
+17.25
+</td>
+<td>
+42.05
+</td>
+</tr>
+<th><ul><li data-onto="OM2">
+OM2
+</ul></th>
+<td>
+27.84
+</td>
+<td>
+10.05
+</td>
+<td>
+95.62
+</td>
+<td>
+100.00
+</td>
+<td>
+37.11
+</td>
+<td>
+54.64
+</td>
+<td>
+17.78
+</td>
+<td>
+16.49
+</td>
+<td>
+41.49
+</td>
+</tr>
+<th><ul><li data-onto="QU">
+QU
+</ul></th>
+<td>
+17.21
+</td>
+<td>
+11.40
+</td>
+<td>
+31.86
+</td>
+<td>
+33.49
+</td>
+<td>
+100.00
+</td>
+<td>
+41.40
+</td>
+<td>
+14.65
+</td>
+<td>
+13.02
+</td>
+<td>
+26.51
+</td>
+</tr>
+<th><ul><li data-onto="QUDT">
+QUDT
+</ul></th>
+<td>
+12.83
+</td>
+<td>
+7.11
+</td>
+<td>
+31.38
+</td>
+<td>
+32.77
+</td>
+<td>
+27.51
+</td>
+<td>
+100.00
+</td>
+<td>
+10.20
+</td>
+<td>
+8.96
+</td>
+<td>
+42.35
+</td>
+</tr>
+<th><ul><li data-onto="SWEET">
+SWEET
+</ul></th>
+<td>
+31.48
+</td>
+<td>
+25.93
+</td>
+<td>
+62.04
+</td>
+<td>
+63.89
+</td>
+<td>
+58.33
+</td>
+<td>
+61.11
+</td>
+<td>
+100.00
+</td>
+<td>
+43.52
+</td>
+<td>
+51.85
+</td>
+</tr>
+<th><ul><li data-onto="UO">
+UO
+</ul></th>
+<td>
+41.44
+</td>
+<td>
+27.03
+</td>
+<td>
+57.66
+</td>
+<td>
+57.66
+</td>
+<td>
+50.45
+</td>
+<td>
+52.25
+</td>
+<td>
+42.34
+</td>
+<td>
+100.00
+</td>
+<td>
+57.66
+</td>
+</tr>
+<th><ul><li data-onto="WD">
+WD
+</ul></th>
+<td>
+2.09
+</td>
+<td>
+1.22
+</td>
+<td>
+3.80
+</td>
+<td>
+3.92
+</td>
+<td>
+2.77
+</td>
+<td>
+6.67
+</td>
+<td>
+1.36
+</td>
+<td>
+1.56
+</td>
+<td>
+100.00
+</td>
+</tr>
+</table>
+<div class="comment">100 * #SynSet(row-ontology && col-ontology) / #SynSet(row-ontology)</div>
   <script>
   !function(){
     
