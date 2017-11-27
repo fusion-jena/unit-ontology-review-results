@@ -1,109 +1,19 @@
 [
  {
-  "dimVector": "[0,0,0,1,0,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/electric_current-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/electricCurrent-Dimension",
-    "http://qudt.org/vocab/quantity#ElectricCurrent"
-   ],
-   [
-    "http://qudt.org/vocab/quantity#MagnetomotiveForce"
-   ],
-   [
-    "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle"
-   ]
-  ],
-  "labels": [
-   [
-    "electric current",
-    "electriccurrent",
-    "electric current-",
-    "electriccurrent-"
-   ],
-   [
-    "magnetomotive force",
-    "magnetomotiveforce"
-   ],
-   [
-    "electric current per angle",
-    "electriccurrentperangle"
-   ]
-  ]
- },
- {
-  "dimVector": "[0,0,0,0,0,0,1]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousIntensity-Dimension",
-    "http://qudt.org/vocab/quantity#LuminousIntensity"
-   ],
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/luminous_flux-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousFlux-Dimension",
-    "http://qudt.org/vocab/quantity#LuminousFlux"
-   ]
-  ],
-  "labels": [
-   [
-    "luminous intensity",
-    "luminousintensity",
-    "luminous intensity-",
-    "luminousintensity-",
-    "lichtsterktedimensie"
-   ],
-   [
-    "luminous flux",
-    "luminousflux",
-    "luminous flux-",
-    "luminousflux-"
-   ]
-  ]
- },
- {
-  "dimVector": "[2,0,0,0,0,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/area-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/area-Dimension",
-    "http://qudt.org/vocab/quantity#Area"
-   ],
-   [
-    "http://qudt.org/vocab/quantity#AreaAngle"
-   ]
-  ],
-  "labels": [
-   [
-    "area",
-    "area-",
-    "oppervlaktedimensie"
-   ],
-   [
-    "area angle",
-    "areaangle"
-   ]
-  ]
- },
- {
   "dimVector": "[0,0,-1,0,0,0,0]",
   "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/frequency-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/frequency-Dimension",
-    "http://qudt.org/vocab/quantity#Frequency"
-   ],
    [
     "http://www.wurvoc.org/vocabularies/om-1.8/angular_speed-dimension",
     "http://www.ontology-of-units-of-measure.org/resource/om-2/angularSpeed-Dimension",
     "http://qudt.org/vocab/quantity#AngularVelocity"
+   ],
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/frequency-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/frequency-Dimension",
+    "http://qudt.org/vocab/quantity#Frequency"
    ]
   ],
   "labels": [
-   [
-    "frequency",
-    "frequency-"
-   ],
    [
     "angular speed",
     "angularspeed",
@@ -111,6 +21,10 @@
     "angularspeed-",
     "angular velocity",
     "angularvelocity"
+   ],
+   [
+    "frequency",
+    "frequency-"
    ]
   ]
  },
@@ -142,94 +56,30 @@
   ]
  },
  {
-  "dimVector": "[-2,0,0,0,0,0,1]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/luminance-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/luminance-Dimension",
-    "http://qudt.org/vocab/quantity#Luminance"
-   ],
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/illuminance-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/illuminance-Dimension",
-    "http://qudt.org/vocab/quantity#LuminousFluxPerArea"
-   ]
-  ],
-  "labels": [
-   [
-    "luminance",
-    "luminance-"
-   ],
-   [
-    "illuminance",
-    "illuminance-",
-    "luminous flux per area",
-    "luminousfluxperarea"
-   ]
-  ]
- },
- {
-  "dimVector": "[0,1,-2,-1,0,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_field_strength-dimension",
-    "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/MagneticField-Dimension",
-    "http://qudt.org/vocab/quantity#MagneticField"
-   ],
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_flux_density-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/magneticFluxDensity-Dimension"
-   ]
-  ],
-  "labels": [
-   [
-    "magnetic field strength",
-    "magneticfieldstrength",
-    "magnetic field strength-",
-    "magneticfieldstrength-",
-    "magnetic field",
-    "magneticfield",
-    "magnetic field-",
-    "magneticfield-",
-    "electric current per length",
-    "electriccurrentperlength",
-    "electric current per unit length",
-    "electriccurrentperunitlength"
-   ],
-   [
-    "magnetic flux density",
-    "magneticfluxdensity",
-    "magnetic flux density-",
-    "magneticfluxdensity-"
-   ]
-  ]
- },
- {
   "dimVector": "[-1,1,-2,0,0,0,0]",
   "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/energy_density-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/energyDensity-Dimension"
+   ],
    [
     "http://www.wurvoc.org/vocabularies/om-1.8/pressure-dimension",
     "http://www.ontology-of-units-of-measure.org/resource/om-2/pressure-Dimension",
     "http://qudt.org/vocab/quantity#ForcePerArea"
-   ],
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/energy_density-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/energyDensity-Dimension"
    ]
   ],
   "labels": [
-   [
-    "pressure",
-    "pressure-",
-    "force per area",
-    "forceperarea"
-   ],
    [
     "energy density",
     "energydensity",
     "energy density-",
     "energydensity-"
+   ],
+   [
+    "pressure",
+    "pressure-",
+    "force per area",
+    "forceperarea"
    ]
   ]
  },
@@ -258,25 +108,69 @@
   ]
  },
  {
-  "dimVector": "[2,1,-3,0,0,0,0]",
+  "dimVector": "[0,1,-2,-1,0,0,0]",
   "entries": [
    [
-    "http://www.wurvoc.org/vocabularies/om-1.8/power-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/power-Dimension",
-    "http://qudt.org/vocab/quantity#Power"
+    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_flux_density-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/magneticFluxDensity-Dimension"
    ],
    [
-    "http://qudt.org/vocab/quantity#RadiantIntensity"
+    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_field_strength-dimension",
+    "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/MagneticField-Dimension",
+    "http://qudt.org/vocab/quantity#MagneticField"
    ]
   ],
   "labels": [
    [
-    "power",
-    "power-"
+    "magnetic flux density",
+    "magneticfluxdensity",
+    "magnetic flux density-",
+    "magneticfluxdensity-"
    ],
    [
-    "radiant intensity",
-    "radiantintensity"
+    "magnetic field strength",
+    "magneticfieldstrength",
+    "magnetic field strength-",
+    "magneticfieldstrength-",
+    "magnetic field",
+    "magneticfield",
+    "magnetic field-",
+    "magneticfield-",
+    "electric current per length",
+    "electriccurrentperlength",
+    "electric current per unit length",
+    "electriccurrentperunitlength"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[0,1,-2,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/surface_tension-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/surfaceTension-Dimension",
+    "http://qudt.org/vocab/quantity#ForcePerLength"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#EnergyPerArea"
+   ]
+  ],
+  "labels": [
+   [
+    "oppervlaktespanningdimensie",
+    "surface tension-",
+    "surfacetension-",
+    "force per length",
+    "forceperlength",
+    "surface tension",
+    "surfacetension",
+    "force per unit length",
+    "forceperunitlength"
+   ],
+   [
+    "energy per area",
+    "energyperarea"
    ]
   ]
  },
@@ -310,32 +204,138 @@
   ]
  },
  {
-  "dimVector": "[0,1,-2,0,0,0,0]",
+  "dimVector": "[2,1,-3,0,0,0,0]",
   "entries": [
    [
-    "http://www.wurvoc.org/vocabularies/om-1.8/surface_tension-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/surfaceTension-Dimension",
-    "http://qudt.org/vocab/quantity#ForcePerLength"
+    "http://www.wurvoc.org/vocabularies/om-1.8/power-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/power-Dimension",
+    "http://qudt.org/vocab/quantity#Power"
    ],
    [
-    "http://qudt.org/vocab/quantity#EnergyPerArea"
+    "http://qudt.org/vocab/quantity#RadiantIntensity"
    ]
   ],
   "labels": [
    [
-    "surface tension",
-    "surfacetension",
-    "surface tension-",
-    "surfacetension-",
-    "force per length",
-    "forceperlength",
-    "oppervlaktespanningdimensie",
-    "force per unit length",
-    "forceperunitlength"
+    "power",
+    "power-"
    ],
    [
-    "energy per area",
-    "energyperarea"
+    "radiant intensity",
+    "radiantintensity"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[2,0,0,0,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/area-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/area-Dimension",
+    "http://qudt.org/vocab/quantity#Area"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#AreaAngle"
+   ]
+  ],
+  "labels": [
+   [
+    "area",
+    "area-",
+    "oppervlaktedimensie"
+   ],
+   [
+    "area angle",
+    "areaangle"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[0,0,0,1,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/electric_current-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/electricCurrent-Dimension",
+    "http://qudt.org/vocab/quantity#ElectricCurrent"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#MagnetomotiveForce"
+   ]
+  ],
+  "labels": [
+   [
+    "electric current",
+    "electriccurrent",
+    "electric current-",
+    "electriccurrent-"
+   ],
+   [
+    "electric current per angle",
+    "electriccurrentperangle"
+   ],
+   [
+    "magnetomotive force",
+    "magnetomotiveforce"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[-2,0,0,0,0,0,1]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/illuminance-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/illuminance-Dimension",
+    "http://qudt.org/vocab/quantity#LuminousFluxPerArea"
+   ],
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/luminance-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/luminance-Dimension",
+    "http://qudt.org/vocab/quantity#Luminance"
+   ]
+  ],
+  "labels": [
+   [
+    "illuminance",
+    "illuminance-",
+    "luminous flux per area",
+    "luminousfluxperarea"
+   ],
+   [
+    "luminance",
+    "luminance-"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[0,0,0,0,0,0,1]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/luminous_flux-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousFlux-Dimension",
+    "http://qudt.org/vocab/quantity#LuminousFlux"
+   ],
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousIntensity-Dimension",
+    "http://qudt.org/vocab/quantity#LuminousIntensity"
+   ]
+  ],
+  "labels": [
+   [
+    "luminous flux",
+    "luminousflux",
+    "luminous flux-",
+    "luminousflux-"
+   ],
+   [
+    "lichtsterktedimensie",
+    "luminous intensity-",
+    "luminousintensity-",
+    "luminous intensity",
+    "luminousintensity"
    ]
   ]
  },

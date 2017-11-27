@@ -1,11 +1,23 @@
 [
   {
-    "factor": "1e3",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilo"
+    "factor": "10",
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#deca"
   },
   {
-    "factor": "1e9",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#giga"
+    "factor": "1E-2",
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#centi"
+  },
+  {
+    "factor": "1E-3",
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#milli"
+  },
+  {
+    "factor": "1E-6",
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#micro"
+  },
+  {
+    "factor": "1E-9",
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#nano"
   },
   {
     "factor": "1e12",
@@ -20,31 +32,19 @@
     "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#exa"
   },
   {
-    "factor": "1E-6",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#micro"
-  },
-  {
-    "factor": "1E-3",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#milli"
-  },
-  {
-    "factor": "1E-2",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#centi"
-  },
-  {
     "factor": "1e2",
     "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hecto"
   },
   {
-    "factor": "1E-9",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#nano"
-  },
-  {
-    "factor": "10",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#deca"
+    "factor": "1e3",
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilo"
   },
   {
     "factor": "1e6",
     "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mega"
+  },
+  {
+    "factor": "1e9",
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#giga"
   }
 ]

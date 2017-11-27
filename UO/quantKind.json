@@ -1,303 +1,15 @@
 [
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001708",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000117",
-    "label": "1-D extent"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000125",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "mass"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000128",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001035",
-    "label": "weight"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000165",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "time"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001309",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002062",
-    "label": "duration"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000146",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "temperature"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001709",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000117",
-    "label": "2-D extent"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001028",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001906",
-    "label": "acceleration"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001413",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002242",
-    "label": "angular velocity"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001350",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001028",
-    "label": "angular acceleration"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000033",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002182",
-    "label": "concentration of"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001353",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001019",
-    "label": "volumetric density"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001351",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001019",
-    "label": "area density"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001681",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000125",
-    "label": "molar mass"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001680",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000918",
-    "label": "molar volume"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001022",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "impulse"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001023",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001906",
-    "label": "momentum"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000008",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001906",
-    "label": "speed"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001710",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000117",
-    "label": "3-D extent"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000044",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000161",
-    "label": "frequency"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001035",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "force"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001025",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "pressure"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001021",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "energy"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001026",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "work"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001024",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "power"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001296",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001300",
-    "label": "luminous flux"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001414",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "catalytic activity"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000133",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000140",
-    "label": "orientation"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001740",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001739",
-    "label": "activity (of a radionuclide)"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001745",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001744",
-    "label": "radiation absorbed dose"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001746",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001744",
-    "label": "radiation equivalent dose"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001744",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001739",
-    "label": "radiation exposure"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001299",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001292",
-    "label": "radiation emitting quality"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001019",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "mass density"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001352",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001019",
-    "label": "linear density"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001428",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001842",
-    "label": "medium acidity"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001674",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000033",
-    "label": "catalytic (activity) concentration"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001464",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "electric potential"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001682",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "magnetism"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001461",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "surface tension"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000992",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001548",
-    "label": "viscosity"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001521",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000080",
-    "label": "sound amplitude"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001747",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001744",
-    "label": "radiation effective dose"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001757",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001585",
-    "label": "electrical conductivity"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001756",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001585",
-    "label": "heat conductivity"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001574",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001906",
-    "label": "flow rate"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001470",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "proportionality to"
-  },
-  {
-    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000004",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
     "label": "mobility"
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001241",
-    "label": "physical quality"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001906",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "movement quality"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000008",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001906",
+    "label": "speed"
   },
   {
     "labelLang": "",
@@ -313,21 +25,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001300",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001291",
-    "label": "optical quality"
-  },
-  {
-    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000015",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001301",
     "label": "color hue"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001301",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001300",
-    "label": "chromatic property"
   },
   {
     "labelLang": "",
@@ -355,12 +55,6 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000060",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000140",
-    "label": "spatial pattern"
-  },
-  {
-    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000021",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000186",
     "label": "compatibility"
@@ -373,9 +67,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000141",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000051",
-    "label": "structure"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000033",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002182",
+    "label": "concentration of"
   },
   {
     "labelLang": "",
@@ -403,9 +97,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000161",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002062",
-    "label": "rate"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000044",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000161",
+    "label": "frequency"
   },
   {
     "labelLang": "",
@@ -418,12 +112,6 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000048",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001546",
     "label": "hardness"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001546",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002198",
-    "label": "quality of a solid"
   },
   {
     "labelLang": "",
@@ -463,21 +151,15 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002323",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002062",
-    "label": "temporal distribution quality"
-  },
-  {
-    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000058",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
     "label": "odor"
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000140",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "position"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000060",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000140",
+    "label": "spatial pattern"
   },
   {
     "labelLang": "",
@@ -487,21 +169,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001530",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001236",
-    "label": "behavioral quality of a process"
-  },
-  {
-    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000066",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000150",
     "label": "pilosity"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000150",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000051",
-    "label": "texture"
   },
   {
     "labelLang": "",
@@ -514,12 +184,6 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000070",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000068",
     "label": "amount"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001555",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001241",
-    "label": "has number of"
   },
   {
     "labelLang": "",
@@ -538,12 +202,6 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000080",
     "parent": "http://purl.obolibrary.org/obo/PATO_0002062",
     "label": "amplitude"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002062",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001236",
-    "label": "physical quality of a process"
   },
   {
     "labelLang": "",
@@ -583,15 +241,69 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000125",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "mass"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000128",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001035",
+    "label": "weight"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000133",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000140",
+    "label": "orientation"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000136",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000051",
     "label": "closure"
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000140",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "position"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000141",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000051",
+    "label": "structure"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000146",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "temperature"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000150",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000051",
+    "label": "texture"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000152",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000085",
     "label": "threshold"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000161",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002062",
+    "label": "rate"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000165",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "time"
   },
   {
     "labelLang": "",
@@ -643,12 +355,6 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001496",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001434",
-    "label": "brood quality"
-  },
-  {
-    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000277",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000274",
     "label": "female fertility"
@@ -661,63 +367,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002324",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002323",
-    "label": "offset quality"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001894",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000047",
-    "label": "phenotypic sex"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002009",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
-    "label": "branchiness"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001794",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
-    "label": "coiling"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001591",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
-    "label": "curvature"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001303",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001236",
-    "label": "variability"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002000",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001999",
-    "label": "lacks all parts of type"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002325",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002323",
-    "label": "onset quality"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001046",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "resistance to"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000927",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000085",
-    "label": "photosensitivity"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000773",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000189",
+    "label": "preference"
   },
   {
     "labelLang": "",
@@ -739,45 +391,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000965",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000060",
-    "label": "symmetry"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002181",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000140",
-    "label": "displaced"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002037",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
-    "label": "degeneration"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002076",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000186",
-    "label": "movement behavioral quality"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000773",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000189",
-    "label": "preference"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002264",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
-    "label": "organization quality"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002014",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
-    "label": "structure, cavities"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000927",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000085",
+    "label": "photosensitivity"
   },
   {
     "labelLang": "",
@@ -787,21 +403,15 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002006",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
-    "label": "2-D shape"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002008",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002266",
-    "label": "concave 3-D shape"
-  },
-  {
-    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0000957",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001300",
     "label": "opacity"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000965",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000060",
+    "label": "symmetry"
   },
   {
     "labelLang": "",
@@ -817,15 +427,69 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001548",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002198",
-    "label": "quality of a liquid"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0000992",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001548",
+    "label": "viscosity"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001241",
+    "label": "physical quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001019",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "mass density"
   },
   {
     "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001020",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
     "label": "damage"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001021",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "energy"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001022",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "impulse"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001023",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001906",
+    "label": "momentum"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001024",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "power"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001025",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "pressure"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001026",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "work"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001028",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001906",
+    "label": "acceleration"
   },
   {
     "labelLang": "",
@@ -853,15 +517,21 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001035",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "force"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001043",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000085",
     "label": "susceptibility toward"
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002326",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000133",
-    "label": "angle"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001046",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "resistance to"
   },
   {
     "labelLang": "",
@@ -880,12 +550,6 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001291",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001739",
     "label": "electromagnetic (EM) radiation quality"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001739",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "radiation quality"
   },
   {
     "labelLang": "",
@@ -913,6 +577,12 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001296",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001300",
+    "label": "luminous flux"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001297",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001294",
     "label": "reflectivity"
@@ -925,9 +595,39 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001299",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001292",
+    "label": "radiation emitting quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001300",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001291",
+    "label": "optical quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001301",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001300",
+    "label": "chromatic property"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001303",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001236",
+    "label": "variability"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001304",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001303",
     "label": "variability of temperature"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001309",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002062",
+    "label": "duration"
   },
   {
     "labelLang": "",
@@ -967,21 +667,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001895",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000047",
-    "label": "mating type"
-  },
-  {
-    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001337",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001895",
     "label": "yeast mating type"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002003",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001241",
-    "label": "population quality"
   },
   {
     "labelLang": "",
@@ -1003,33 +691,27 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002005",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
-    "label": "concavity"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001350",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001028",
+    "label": "angular acceleration"
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002007",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002266",
-    "label": "convex 3-D shape"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001351",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001019",
+    "label": "area density"
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001925",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
-    "label": "surface feature shape"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001352",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001019",
+    "label": "linear density"
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001662",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
-    "label": "fragility"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001716",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001662",
-    "label": "non-fragile"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001353",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001019",
+    "label": "volumetric density"
   },
   {
     "labelLang": "",
@@ -1063,21 +745,21 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002242",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001906",
-    "label": "velocity"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001413",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002242",
+    "label": "angular velocity"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001414",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "catalytic activity"
   },
   {
     "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001415",
     "parent": "http://purl.obolibrary.org/obo/PATO_0002003",
     "label": "morbidity"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002265",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000186",
-    "label": "behavioural activity"
   },
   {
     "labelLang": "",
@@ -1093,9 +775,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001842",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000033",
-    "label": "acidity"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001428",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001842",
+    "label": "medium acidity"
   },
   {
     "labelLang": "",
@@ -1123,24 +805,6 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001579",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "contractility"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001531",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001396",
-    "label": "cellular adhesivity"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001531",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001431",
-    "label": "cellular adhesivity"
-  },
-  {
-    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001442",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
     "label": "wholeness"
@@ -1165,6 +829,12 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001461",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "surface tension"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001462",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001464",
     "label": "membrane potential"
@@ -1177,9 +847,15 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001595",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001708",
-    "label": "depth"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001464",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "electric potential"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001470",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "proportionality to"
   },
   {
     "labelLang": "",
@@ -1198,6 +874,12 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001492",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000161",
     "label": "growth rate"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001496",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001434",
+    "label": "brood quality"
   },
   {
     "labelLang": "",
@@ -1237,6 +919,12 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001521",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000080",
+    "label": "sound amplitude"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001522",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000008",
     "label": "sound speed"
@@ -1252,6 +940,24 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001529",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001236",
     "label": "cellular spatiotemporal quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001530",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001236",
+    "label": "behavioral quality of a process"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001531",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001396",
+    "label": "cellular adhesivity"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001531",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001431",
+    "label": "cellular adhesivity"
   },
   {
     "labelLang": "",
@@ -1273,9 +979,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002198",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
-    "label": "quality of a substance"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001546",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002198",
+    "label": "quality of a solid"
   },
   {
     "labelLang": "",
@@ -1285,9 +991,33 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001548",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002198",
+    "label": "quality of a liquid"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001555",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001241",
+    "label": "has number of"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001564",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001236",
     "label": "extra or missing processual parts"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001574",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001906",
+    "label": "flow rate"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001579",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "contractility"
   },
   {
     "labelLang": "",
@@ -1297,9 +1027,21 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001591",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
+    "label": "curvature"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001594",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001857",
     "label": "arched"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001595",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001708",
+    "label": "depth"
   },
   {
     "labelLang": "",
@@ -1339,12 +1081,6 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001711",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000122",
-    "label": "perimeter"
-  },
-  {
-    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001652",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000140",
     "label": "alignment"
@@ -1357,15 +1093,75 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001662",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
+    "label": "fragility"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001674",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000033",
+    "label": "catalytic (activity) concentration"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001679",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000918",
     "label": "specific volume"
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001680",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000918",
+    "label": "molar volume"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001681",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000125",
+    "label": "molar mass"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001682",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "magnetism"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001687",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000140",
     "label": "elevation"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001708",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000117",
+    "label": "1-D extent"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001709",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000117",
+    "label": "2-D extent"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001710",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000117",
+    "label": "3-D extent"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001711",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000122",
+    "label": "perimeter"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001716",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001662",
+    "label": "non-fragile"
   },
   {
     "labelLang": "",
@@ -1405,9 +1201,57 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001739",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "radiation quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001740",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001739",
+    "label": "activity (of a radionuclide)"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001744",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001739",
+    "label": "radiation exposure"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001745",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001744",
+    "label": "radiation absorbed dose"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001746",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001744",
+    "label": "radiation equivalent dose"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001747",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001744",
+    "label": "radiation effective dose"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001752",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001490",
     "label": "peramorphic growth"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001756",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001585",
+    "label": "heat conductivity"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001757",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001585",
+    "label": "electrical conductivity"
   },
   {
     "labelLang": "",
@@ -1420,6 +1264,12 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001769",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000140",
     "label": "positional polarity"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001794",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
+    "label": "coiling"
   },
   {
     "labelLang": "",
@@ -1447,15 +1297,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002243",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001574",
-    "label": "fluid flow rate"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002013",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
-    "label": "fasciculation"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001842",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000033",
+    "label": "acidity"
   },
   {
     "labelLang": "",
@@ -1483,9 +1327,33 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001894",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000047",
+    "label": "phenotypic sex"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001895",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000047",
+    "label": "mating type"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0001905",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001555",
     "label": "has normal numbers of parts of type"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001906",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "movement quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0001925",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
+    "label": "surface feature shape"
   },
   {
     "labelLang": "",
@@ -1513,15 +1381,9 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002083",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0001555",
-    "label": "altered number of"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002001",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002303",
-    "label": "has fewer parts of type"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002000",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001999",
+    "label": "lacks all parts of type"
   },
   {
     "labelLang": "",
@@ -1531,15 +1393,69 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002002",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002305",
-    "label": "has extra parts of type"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002001",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002303",
+    "label": "has fewer parts of type"
   },
   {
     "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0002002",
     "parent": "http://purl.obolibrary.org/obo/PATO_0002083",
     "label": "has extra parts of type"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002002",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002305",
+    "label": "has extra parts of type"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002003",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001241",
+    "label": "population quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002005",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
+    "label": "concavity"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002006",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
+    "label": "2-D shape"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002007",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002266",
+    "label": "convex 3-D shape"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002008",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002266",
+    "label": "concave 3-D shape"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002009",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000052",
+    "label": "branchiness"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002013",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
+    "label": "fasciculation"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002014",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
+    "label": "structure, cavities"
   },
   {
     "labelLang": "",
@@ -1567,6 +1483,12 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002037",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
+    "label": "degeneration"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0002041",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001334",
     "label": "anterior-posterior diameter"
@@ -1591,6 +1513,12 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002062",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001236",
+    "label": "physical quality of a process"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0002067",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000060",
     "label": "stratification"
@@ -1609,6 +1537,18 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002076",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000186",
+    "label": "movement behavioral quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002083",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001555",
+    "label": "altered number of"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0002111",
     "parent": "http://purl.obolibrary.org/obo/PATO_0002099",
     "label": "moderately well differentiated"
@@ -1618,12 +1558,6 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0002131",
     "parent": "http://purl.obolibrary.org/obo/PATO_0002168",
     "label": "abduction"
-  },
-  {
-    "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002168",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0000133",
-    "label": "displaced to"
   },
   {
     "labelLang": "",
@@ -1651,6 +1585,12 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002168",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000133",
+    "label": "displaced to"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0002173",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001654",
     "label": "misaligned towards"
@@ -1666,6 +1606,12 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0002175",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000060",
     "label": "deviation"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002181",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000140",
+    "label": "displaced"
   },
   {
     "labelLang": "",
@@ -1699,6 +1645,12 @@
   },
   {
     "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002198",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001018",
+    "label": "quality of a substance"
+  },
+  {
+    "labelLang": "",
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0002199",
     "parent": "http://purl.obolibrary.org/obo/PATO_0002198",
     "label": "meltability"
@@ -1729,9 +1681,15 @@
   },
   {
     "labelLang": "",
-    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002262",
-    "parent": "http://purl.obolibrary.org/obo/PATO_0002182",
-    "label": "phosphorylation"
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002242",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001906",
+    "label": "velocity"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002243",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0001574",
+    "label": "fluid flow rate"
   },
   {
     "labelLang": "",
@@ -1744,6 +1702,24 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0002247",
     "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
     "label": "degree of pigmentation"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002262",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002182",
+    "label": "phosphorylation"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002264",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000141",
+    "label": "organization quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002265",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000186",
+    "label": "behavioural activity"
   },
   {
     "labelLang": "",
@@ -1786,6 +1762,30 @@
     "quantKind": "http://purl.obolibrary.org/obo/PATO_0002307",
     "parent": "http://purl.obolibrary.org/obo/PATO_0001875",
     "label": "isosceles triangular"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002323",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002062",
+    "label": "temporal distribution quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002324",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002323",
+    "label": "offset quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002325",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0002323",
+    "label": "onset quality"
+  },
+  {
+    "labelLang": "",
+    "quantKind": "http://purl.obolibrary.org/obo/PATO_0002326",
+    "parent": "http://purl.obolibrary.org/obo/PATO_0000133",
+    "label": "angle"
   },
   {
     "labelLang": "",

@@ -1,21 +1,9 @@
 [
   {
-    "label": "micro",
-    "factor": "1.0e-6",
+    "label": "atto",
+    "factor": "1.0e-18",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
-  },
-  {
-    "label": "milli",
-    "factor": "1.0e-3",
-    "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
-  },
-  {
-    "label": "deci",
-    "factor": "1.0e-1",
-    "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#deci"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#atto"
   },
   {
     "label": "centi",
@@ -24,28 +12,22 @@
     "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#centi"
   },
   {
-    "label": "hecto",
-    "factor": "1.0e2",
+    "label": "deci",
+    "factor": "1.0e-1",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#hecto"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#deci"
   },
   {
-    "label": "kilo",
-    "factor": "1.0e3",
+    "label": "deka",
+    "factor": "1.0e1",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#deka"
   },
   {
-    "label": "nano",
-    "factor": "1.0e-9",
+    "label": "exa",
+    "factor": "1.0e18",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
-  },
-  {
-    "label": "pico",
-    "factor": "1.0e-12",
-    "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#exa"
   },
   {
     "label": "femto",
@@ -60,22 +42,40 @@
     "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
   },
   {
+    "label": "hecto",
+    "factor": "1.0e2",
+    "labelLang": "",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#hecto"
+  },
+  {
+    "label": "kilo",
+    "factor": "1.0e3",
+    "labelLang": "",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+  },
+  {
     "label": "mega",
     "factor": "1.0e6",
     "labelLang": "",
     "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
   },
   {
-    "label": "tera",
-    "factor": "1.0e12",
+    "label": "micro",
+    "factor": "1.0e-6",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#tera"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
   },
   {
-    "label": "exa",
-    "factor": "1.0e18",
+    "label": "milli",
+    "factor": "1.0e-3",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#exa"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+  },
+  {
+    "label": "nano",
+    "factor": "1.0e-9",
+    "labelLang": "",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
   },
   {
     "label": "peta",
@@ -84,10 +84,22 @@
     "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#peta"
   },
   {
-    "label": "atto",
-    "factor": "1.0e-18",
+    "label": "pico",
+    "factor": "1.0e-12",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#atto"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+  },
+  {
+    "label": "tera",
+    "factor": "1.0e12",
+    "labelLang": "",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#tera"
+  },
+  {
+    "label": "yocto",
+    "factor": "1.0e-24",
+    "labelLang": "",
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#yocto"
   },
   {
     "label": "yotta",
@@ -96,27 +108,15 @@
     "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#yotta"
   },
   {
-    "label": "zetta",
-    "factor": "1.0e21",
-    "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#zetta"
-  },
-  {
-    "label": "deka",
-    "factor": "1.0e1",
-    "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#deka"
-  },
-  {
     "label": "zepto",
     "factor": "1.0e-21",
     "labelLang": "",
     "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#zepto"
   },
   {
-    "label": "yocto",
-    "factor": "1.0e-24",
+    "label": "zetta",
+    "factor": "1.0e21",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#yocto"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#zetta"
   }
 ]

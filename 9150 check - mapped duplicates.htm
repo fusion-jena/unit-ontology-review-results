@@ -118,10 +118,11 @@
     li[data-onto="MUO"]:before    { background-color: #1f77b4; }
     li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
     li[data-onto="OM"]:before     { background-color: #2ca02c; }
-    li[data-onto="OM2"]:before    { background-color: #bcbd22; }
+    li[data-onto="OM2"]:before    { background-color: #98df8a; }
     li[data-onto="QU"]:before     { background-color: #d62728; }
     li[data-onto="QUDT"]:before   { background-color: #9467bd; }
     li[data-onto="SWEET"]:before  { background-color: #8c564b; }
+    li[data-onto="SWEET3"]:before { background-color: #c49c94; }
     li[data-onto="UO"]:before     { background-color: #e377c2; }
     li[data-onto="WD"]:before     { background-color: #17becf; }
     
@@ -150,6 +151,7 @@
         <li data-onto="QU">QU
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
+        <li data-onto="SWEET3">SWEET3
         <li data-onto="UO">UO
         <li data-onto="WD">WD
       </ul>
@@ -172,17 +174,6 @@
   </div>
   <h2>mapDimension</h2>
 <b>
-magnetic field strength dimension
-</b>
-<ul>
-<li data-onto="QUDT"><a href="http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength">
-http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength
-</a>
-<li data-onto="QUDT"><a href="http://qudt.org/vocab/quantity#MagneticField">
-http://qudt.org/vocab/quantity#MagneticField
-</a>
-</ul>
-<b>
 electric field dimension
 </b>
 <ul>
@@ -193,27 +184,27 @@ http://qudt.org/vocab/quantity#ElectricField
 http://qudt.org/vocab/quantity#ForcePerElectricCharge
 </a>
 </ul>
-<h2>mapQuantKind</h2>
 <b>
-B magnitude
+magnetic field strength dimension
 </b>
 <ul>
-<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude">
-http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength">
+http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength
 </a>
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/quantity#MagneticField">
+http://qudt.org/vocab/quantity#MagneticField
+</a>
+</ul>
+<h2>mapQuantKind</h2>
+<b>
+b magnitude
+</b>
+<ul>
 <li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude">
 http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude
 </a>
-</ul>
-<b>
-U magnitude
-</b>
-<ul>
-<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude">
-http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude
-</a>
-<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude">
-http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude">
+http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude
 </a>
 </ul>
 <b>
@@ -228,14 +219,25 @@ http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature
 </a>
 </ul>
 <b>
-V magnitude
+v magnitude
 </b>
 <ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude">
+http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude
+</a>
 <li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude">
 http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude
 </a>
-<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude">
-http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude
+</ul>
+<b>
+u magnitude
+</b>
+<ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude">
+http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude
+</a>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude">
+http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude
 </a>
 </ul>
 <b>
@@ -250,25 +252,36 @@ http://www.ontology-of-units-of-measure.org/resource/om-2/luminousIntensityInAGi
 </a>
 </ul>
 <b>
-B magnitude
+b magnitude
 </b>
 <ul>
-<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude">
-http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude
-</a>
 <li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/bMagnitude">
 http://www.ontology-of-units-of-measure.org/resource/om-2/bMagnitude
 </a>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude">
+http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude
+</a>
 </ul>
 <b>
-V magnitude
+v magnitude
 </b>
 <ul>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/vMagnitude">
+http://www.ontology-of-units-of-measure.org/resource/om-2/vMagnitude
+</a>
 <li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude">
 http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude
 </a>
-<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/vMagnitude">
-http://www.ontology-of-units-of-measure.org/resource/om-2/vMagnitude
+</ul>
+<b>
+u magnitude
+</b>
+<ul>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude">
+http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude
+</a>
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/UMagnitude">
+http://www.ontology-of-units-of-measure.org/resource/om-2/UMagnitude
 </a>
 </ul>
 <b>
@@ -283,14 +296,14 @@ http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperatu
 </a>
 </ul>
 <b>
-U magnitude
+plane angle
 </b>
 <ul>
-<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/UMagnitude">
-http://www.ontology-of-units-of-measure.org/resource/om-2/UMagnitude
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/quantity#PlaneAngle">
+http://qudt.org/vocab/quantity#PlaneAngle
 </a>
-<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude">
-http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/quantity#Angle">
+http://qudt.org/vocab/quantity#Angle
 </a>
 </ul>
 <b>
@@ -305,25 +318,14 @@ http://qudt.org/vocab/quantity#KineticEnergy
 </a>
 </ul>
 <b>
-plane angle
+geothermal
 </b>
 <ul>
-<li data-onto="QUDT"><a href="http://qudt.org/vocab/quantity#PlaneAngle">
-http://qudt.org/vocab/quantity#PlaneAngle
+<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/phenEnergy.owl#Geothermal">
+http://sweet.jpl.nasa.gov/2.3/phenEnergy.owl#Geothermal
 </a>
-<li data-onto="QUDT"><a href="http://qudt.org/vocab/quantity#Angle">
-http://qudt.org/vocab/quantity#Angle
-</a>
-</ul>
-<b>
-sunlight
-</b>
-<ul>
-<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/phenAtmo.owl#Sunlight">
-http://sweet.jpl.nasa.gov/2.3/phenAtmo.owl#Sunlight
-</a>
-<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/phenAtmoSky.owl#Sunlight">
-http://sweet.jpl.nasa.gov/2.3/phenAtmoSky.owl#Sunlight
+<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl#Geothermal">
+http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl#Geothermal
 </a>
 </ul>
 <b>
@@ -338,14 +340,14 @@ http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Efficiency
 </a>
 </ul>
 <b>
-geothermal
+sunlight
 </b>
 <ul>
-<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/phenEnergy.owl#Geothermal">
-http://sweet.jpl.nasa.gov/2.3/phenEnergy.owl#Geothermal
+<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/phenAtmo.owl#Sunlight">
+http://sweet.jpl.nasa.gov/2.3/phenAtmo.owl#Sunlight
 </a>
-<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl#Geothermal">
-http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl#Geothermal
+<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/phenAtmoSky.owl#Sunlight">
+http://sweet.jpl.nasa.gov/2.3/phenAtmoSky.owl#Sunlight
 </a>
 </ul>
 <b>
@@ -360,17 +362,6 @@ http://sweet.jpl.nasa.gov/2.3/propSpaceMultidimensional.owl#Capacity
 </a>
 </ul>
 <b>
-level
-</b>
-<ul>
-<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Level">
-http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Level
-</a>
-<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level">
-http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level
-</a>
-</ul>
-<b>
 permeability
 </b>
 <ul>
@@ -379,6 +370,17 @@ http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Permeability
 </a>
 <li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl#Permeability">
 http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl#Permeability
+</a>
+</ul>
+<b>
+level
+</b>
+<ul>
+<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Level">
+http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Level
+</a>
+<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level">
+http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level
 </a>
 </ul>
 <b>
@@ -404,6 +406,94 @@ http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl#Visibility
 </a>
 </ul>
 <b>
+efficiency
+</b>
+<ul>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/prop/Efficiency">
+http://sweetontology.net/prop/Efficiency
+</a>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propFraction/Efficiency">
+http://sweetontology.net/propFraction/Efficiency
+</a>
+</ul>
+<b>
+level
+</b>
+<ul>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propOrdinal/Level">
+http://sweetontology.net/propOrdinal/Level
+</a>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propSpaceHeight/Level">
+http://sweetontology.net/propSpaceHeight/Level
+</a>
+</ul>
+<b>
+geothermal
+</b>
+<ul>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/phenEnergy/Geothermal">
+http://sweetontology.net/phenEnergy/Geothermal
+</a>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/realmLandVolcanic/Geothermal">
+http://sweetontology.net/realmLandVolcanic/Geothermal
+</a>
+</ul>
+<b>
+Capacity
+</b>
+<ul>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propCapacity/Capacity">
+http://sweetontology.net/propCapacity/Capacity
+</a>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propSpaceMultidimensional/Capacity">
+http://sweetontology.net/propSpaceMultidimensional/Capacity
+</a>
+</ul>
+<b>
+sunlight
+</b>
+<ul>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/phenAtmo/Sunlight">
+http://sweetontology.net/phenAtmo/Sunlight
+</a>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/phenAtmoSky/Sunlight">
+http://sweetontology.net/phenAtmoSky/Sunlight
+</a>
+</ul>
+<b>
+permeability
+</b>
+<ul>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propCharge/Permeability">
+http://sweetontology.net/propCharge/Permeability
+</a>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propMassFlux/Permeability">
+http://sweetontology.net/propMassFlux/Permeability
+</a>
+</ul>
+<b>
+visibility
+</b>
+<ul>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propOrdinal/Visibility">
+http://sweetontology.net/propOrdinal/Visibility
+</a>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propSpaceDistance/Visibility">
+http://sweetontology.net/propSpaceDistance/Visibility
+</a>
+</ul>
+<b>
+temperature range
+</b>
+<ul>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propOrdinal/TemperatureRange">
+http://sweetontology.net/propOrdinal/TemperatureRange
+</a>
+<li data-onto="SWEET3"><a href="http://sweetontology.net/propTemperature/TemperatureRange">
+http://sweetontology.net/propTemperature/TemperatureRange
+</a>
+</ul>
+<b>
 structure
 </b>
 <ul>
@@ -415,50 +505,50 @@ http://purl.obolibrary.org/obo/PATO_0002014
 </a>
 </ul>
 <b>
-displacement
+depth
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q190291">
-http://www.wikidata.org/entity/Q190291
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1792720">
+http://www.wikidata.org/entity/Q1792720
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q5636358">
-http://www.wikidata.org/entity/Q5636358
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q181591">
+http://www.wikidata.org/entity/Q181591
 </a>
-</ul>
-<b>
-permeability
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q256699">
-http://www.wikidata.org/entity/Q256699
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28352">
-http://www.wikidata.org/entity/Q28352
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q930412">
+http://www.wikidata.org/entity/Q930412
 </a>
 </ul>
 <b>
 height
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q208826">
-http://www.wikidata.org/entity/Q208826
-</a>
 <li data-onto="WD"><a href="http://www.wikidata.org/entity/Q10623719">
 http://www.wikidata.org/entity/Q10623719
 </a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q208826">
+http://www.wikidata.org/entity/Q208826
+</a>
 </ul>
 <b>
-depth
+concentration
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q930412">
-http://www.wikidata.org/entity/Q930412
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q12549812">
+http://www.wikidata.org/entity/Q12549812
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q181591">
-http://www.wikidata.org/entity/Q181591
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q3686031">
+http://www.wikidata.org/entity/Q3686031
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1792720">
-http://www.wikidata.org/entity/Q1792720
+</ul>
+<b>
+temperature
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q11466">
+http://www.wikidata.org/entity/Q11466
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q264647">
+http://www.wikidata.org/entity/Q264647
 </a>
 </ul>
 <b>
@@ -473,50 +563,14 @@ http://www.wikidata.org/entity/Q190200
 </a>
 </ul>
 <b>
-red shift
+redshift
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q76250">
-http://www.wikidata.org/entity/Q76250
-</a>
 <li data-onto="WD"><a href="http://www.wikidata.org/entity/P1090">
 http://www.wikidata.org/entity/P1090
 </a>
-</ul>
-<b>
-flight
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q206021">
-http://www.wikidata.org/entity/Q206021
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q15921555">
-http://www.wikidata.org/entity/Q15921555
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q16746864">
-http://www.wikidata.org/entity/Q16746864
-</a>
-</ul>
-<b>
-equivalent dose
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q256106">
-http://www.wikidata.org/entity/Q256106
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q15855957">
-http://www.wikidata.org/entity/Q15855957
-</a>
-</ul>
-<b>
-concentration
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q3686031">
-http://www.wikidata.org/entity/Q3686031
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q12549812">
-http://www.wikidata.org/entity/Q12549812
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q76250">
+http://www.wikidata.org/entity/Q76250
 </a>
 </ul>
 <b>
@@ -531,14 +585,39 @@ http://www.wikidata.org/entity/Q2917208
 </a>
 </ul>
 <b>
-temperature
+equivalent dose
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q264647">
-http://www.wikidata.org/entity/Q264647
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q15855957">
+http://www.wikidata.org/entity/Q15855957
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q11466">
-http://www.wikidata.org/entity/Q11466
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q256106">
+http://www.wikidata.org/entity/Q256106
+</a>
+</ul>
+<b>
+displacement
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q190291">
+http://www.wikidata.org/entity/Q190291
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q5636358">
+http://www.wikidata.org/entity/Q5636358
+</a>
+</ul>
+<b>
+flight
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q15921555">
+http://www.wikidata.org/entity/Q15921555
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q16746864">
+http://www.wikidata.org/entity/Q16746864
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q206021">
+http://www.wikidata.org/entity/Q206021
 </a>
 </ul>
 <b>
@@ -553,36 +632,47 @@ http://www.wikidata.org/entity/Q11408
 </a>
 </ul>
 <b>
-non-mechanical work (physics, thermodynamics)
+maximum speed
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28599240">
-http://www.wikidata.org/entity/Q28599240
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q20973478">
+http://www.wikidata.org/entity/Q20973478
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28555555">
-http://www.wikidata.org/entity/Q28555555
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28809136">
+http://www.wikidata.org/entity/Q28809136
 </a>
 </ul>
 <b>
 entropy
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q5380792">
-http://www.wikidata.org/entity/Q5380792
-</a>
 <li data-onto="WD"><a href="http://www.wikidata.org/entity/Q45003">
 http://www.wikidata.org/entity/Q45003
 </a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q5380792">
+http://www.wikidata.org/entity/Q5380792
+</a>
 </ul>
 <b>
-maximum speed
+permeability
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28809136">
-http://www.wikidata.org/entity/Q28809136
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q256699">
+http://www.wikidata.org/entity/Q256699
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q20973478">
-http://www.wikidata.org/entity/Q20973478
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28352">
+http://www.wikidata.org/entity/Q28352
+</a>
+</ul>
+<b>
+mechanical work (physics, thermodynamics)
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28555555">
+http://www.wikidata.org/entity/Q28555555
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28599240">
+http://www.wikidata.org/entity/Q28599240
 </a>
 </ul>
 <h2>mapUnit</h2>
@@ -653,6 +743,17 @@ http://www.wurvoc.org/vocabularies/om-1.8/fermi
 </a>
 </ul>
 <b>
+hectare
+</b>
+<ul>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/hectare">
+http://www.wurvoc.org/vocabularies/om-1.8/hectare
+</a>
+<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/square_hectometre">
+http://www.wurvoc.org/vocabularies/om-1.8/square_hectometre
+</a>
+</ul>
+<b>
 micrometer
 </b>
 <ul>
@@ -667,22 +768,11 @@ http://www.wurvoc.org/vocabularies/om-1.8/micron
 hectare
 </b>
 <ul>
-<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/hectare">
-http://www.wurvoc.org/vocabularies/om-1.8/hectare
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/hectare">
+http://www.ontology-of-units-of-measure.org/resource/om-2/hectare
 </a>
-<li data-onto="OM"><a href="http://www.wurvoc.org/vocabularies/om-1.8/square_hectometre">
-http://www.wurvoc.org/vocabularies/om-1.8/square_hectometre
-</a>
-</ul>
-<b>
-femtometre
-</b>
-<ul>
-<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/femtometre">
-http://www.ontology-of-units-of-measure.org/resource/om-2/femtometre
-</a>
-<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/fermi">
-http://www.ontology-of-units-of-measure.org/resource/om-2/fermi
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/squareHectometre">
+http://www.ontology-of-units-of-measure.org/resource/om-2/squareHectometre
 </a>
 </ul>
 <b>
@@ -697,25 +787,14 @@ http://www.ontology-of-units-of-measure.org/resource/om-2/micron
 </a>
 </ul>
 <b>
-hectare
+femtometre
 </b>
 <ul>
-<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/hectare">
-http://www.ontology-of-units-of-measure.org/resource/om-2/hectare
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/femtometre">
+http://www.ontology-of-units-of-measure.org/resource/om-2/femtometre
 </a>
-<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/squareHectometre">
-http://www.ontology-of-units-of-measure.org/resource/om-2/squareHectometre
-</a>
-</ul>
-<b>
-hectare
-</b>
-<ul>
-<li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/unit#hectare">
-http://purl.oclc.org/NET/ssnx/qu/unit#hectare
-</a>
-<li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/unit#squareHectometre">
-http://purl.oclc.org/NET/ssnx/qu/unit#squareHectometre
+<li data-onto="OM2"><a href="http://www.ontology-of-units-of-measure.org/resource/om-2/fermi">
+http://www.ontology-of-units-of-measure.org/resource/om-2/fermi
 </a>
 </ul>
 <b>
@@ -730,6 +809,28 @@ http://purl.oclc.org/NET/ssnx/qu/unit#pintUsDry
 </a>
 </ul>
 <b>
+number per meter squared
+</b>
+<ul>
+<li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetre">
+http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetre
+</a>
+<li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalSquareMetre">
+http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalSquareMetre
+</a>
+</ul>
+<b>
+hectare
+</b>
+<ul>
+<li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/unit#hectare">
+http://purl.oclc.org/NET/ssnx/qu/unit#hectare
+</a>
+<li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/unit#squareHectometre">
+http://purl.oclc.org/NET/ssnx/qu/unit#squareHectometre
+</a>
+</ul>
+<b>
 dry quart (US)
 </b>
 <ul>
@@ -741,14 +842,14 @@ http://purl.oclc.org/NET/ssnx/qu/unit#quartUsDry
 </a>
 </ul>
 <b>
-number per meter squared
+femtometre
 </b>
 <ul>
-<li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetre">
-http://purl.oclc.org/NET/ssnx/qu/unit#perSquareMetre
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#Femtometer">
+http://qudt.org/vocab/unit#Femtometer
 </a>
-<li data-onto="QU"><a href="http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalSquareMetre">
-http://purl.oclc.org/NET/ssnx/qu/unit#reciprocalSquareMetre
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#Fermi">
+http://qudt.org/vocab/unit#Fermi
 </a>
 </ul>
 <b>
@@ -780,36 +881,14 @@ http://qudt.org/vocab/unit#TonMetric
 </a>
 </ul>
 <b>
-femtometre
-</b>
-<ul>
-<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#Femtometer">
-http://qudt.org/vocab/unit#Femtometer
-</a>
-<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#Fermi">
-http://qudt.org/vocab/unit#Fermi
-</a>
-</ul>
-<b>
 grade
 </b>
 <ul>
-<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#Grade">
-http://qudt.org/vocab/unit#Grade
-</a>
 <li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#Gon">
 http://qudt.org/vocab/unit#Gon
 </a>
-</ul>
-<b>
-permil
-</b>
-<ul>
-<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#permil">
-http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#permil
-</a>
-<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMil">
-http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMil
+<li data-onto="QUDT"><a href="http://qudt.org/vocab/unit#Grade">
+http://qudt.org/vocab/unit#Grade
 </a>
 </ul>
 <b>
@@ -824,36 +903,47 @@ http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#FormazinTurbidityUnit
 </a>
 </ul>
 <b>
-span
+permil
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q185759">
-http://www.wikidata.org/entity/Q185759
+<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#permil">
+http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#permil
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q2317268">
-http://www.wikidata.org/entity/Q2317268
+<li data-onto="SWEET"><a href="http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMil">
+http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perMil
 </a>
 </ul>
 <b>
-talent
+permil
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q190139">
-http://www.wikidata.org/entity/Q190139
+<li data-onto="SWEET3"><a href="http://sweetontology.net/reprSciUnits/permil">
+http://sweetontology.net/reprSciUnits/permil
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q25839995">
-http://www.wikidata.org/entity/Q25839995
+<li data-onto="SWEET3"><a href="http://sweetontology.net/reprSciUnits/perMil">
+http://sweetontology.net/reprSciUnits/perMil
 </a>
 </ul>
 <b>
-academic term
+ftu
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q915466">
-http://www.wikidata.org/entity/Q915466
+<li data-onto="SWEET3"><a href="http://sweetontology.net/reprSciUnits/FTU">
+http://sweetontology.net/reprSciUnits/FTU
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q2269240">
-http://www.wikidata.org/entity/Q2269240
+<li data-onto="SWEET3"><a href="http://sweetontology.net/reprSciUnits/FormazinTurbidityUnit">
+http://sweetontology.net/reprSciUnits/FormazinTurbidityUnit
+</a>
+</ul>
+<b>
+libra
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q10317923">
+http://www.wikidata.org/entity/Q10317923
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q11348804">
+http://www.wikidata.org/entity/Q11348804
 </a>
 </ul>
 <b>
@@ -868,69 +958,28 @@ http://www.wikidata.org/entity/Q1645564
 </a>
 </ul>
 <b>
-mark
+cruzeiro
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1089123">
-http://www.wikidata.org/entity/Q1089123
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q10261894">
+http://www.wikidata.org/entity/Q10261894
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q4281830">
-http://www.wikidata.org/entity/Q4281830
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q10261896">
+http://www.wikidata.org/entity/Q10261896
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q8351983">
+http://www.wikidata.org/entity/Q8351983
 </a>
 </ul>
 <b>
-scruple
+Ligula
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1573593">
-http://www.wikidata.org/entity/Q1573593
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q11931933">
+http://www.wikidata.org/entity/Q11931933
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q3953133">
-http://www.wikidata.org/entity/Q3953133
-</a>
-</ul>
-<b>
-shekel
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1404428">
-http://www.wikidata.org/entity/Q1404428
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q30093538">
-http://www.wikidata.org/entity/Q30093538
-</a>
-</ul>
-<b>
-quarter
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1643308">
-http://www.wikidata.org/entity/Q1643308
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q2681972">
-http://www.wikidata.org/entity/Q2681972
-</a>
-</ul>
-<b>
-carat (mass)
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q261247">
-http://www.wikidata.org/entity/Q261247
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1072404">
-http://www.wikidata.org/entity/Q1072404
-</a>
-</ul>
-<b>
-Łan
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1757518">
-http://www.wikidata.org/entity/Q1757518
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q17094697">
-http://www.wikidata.org/entity/Q17094697
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28649044">
+http://www.wikidata.org/entity/Q28649044
 </a>
 </ul>
 <b>
@@ -945,28 +994,69 @@ http://www.wikidata.org/entity/Q3655672
 </a>
 </ul>
 <b>
-point
+shekel
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q156389">
-http://www.wikidata.org/entity/Q156389
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1404428">
+http://www.wikidata.org/entity/Q1404428
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q24038885">
-http://www.wikidata.org/entity/Q24038885
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q30093538">
+http://www.wikidata.org/entity/Q30093538
 </a>
 </ul>
 <b>
-50,000 Colombian peso note
+Greek drachma
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q2903517">
-http://www.wikidata.org/entity/Q2903517
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1546443">
+http://www.wikidata.org/entity/Q1546443
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q3236732">
-http://www.wikidata.org/entity/Q3236732
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q25835384">
+http://www.wikidata.org/entity/Q25835384
 </a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q23671267">
-http://www.wikidata.org/entity/Q23671267
+</ul>
+<b>
+scruple
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1573593">
+http://www.wikidata.org/entity/Q1573593
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q3953133">
+http://www.wikidata.org/entity/Q3953133
+</a>
+</ul>
+<b>
+cord
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q30095434">
+http://www.wikidata.org/entity/Q30095434
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q920297">
+http://www.wikidata.org/entity/Q920297
+</a>
+</ul>
+<b>
+quarter
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1643308">
+http://www.wikidata.org/entity/Q1643308
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q2681972">
+http://www.wikidata.org/entity/Q2681972
+</a>
+</ul>
+<b>
+cuerda
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q17087835">
+http://www.wikidata.org/entity/Q17087835
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q23931245">
+http://www.wikidata.org/entity/Q23931245
 </a>
 </ul>
 <b>
@@ -978,6 +1068,172 @@ http://www.wikidata.org/entity/Q216658
 </a>
 <li data-onto="WD"><a href="http://www.wikidata.org/entity/Q30102988">
 http://www.wikidata.org/entity/Q30102988
+</a>
+</ul>
+<b>
+Łan
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q17094697">
+http://www.wikidata.org/entity/Q17094697
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1757518">
+http://www.wikidata.org/entity/Q1757518
+</a>
+</ul>
+<b>
+fathom
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q280164">
+http://www.wikidata.org/entity/Q280164
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q6502423">
+http://www.wikidata.org/entity/Q6502423
+</a>
+</ul>
+<b>
+Dash
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q17155887">
+http://www.wikidata.org/entity/Q17155887
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q26869687">
+http://www.wikidata.org/entity/Q26869687
+</a>
+</ul>
+<b>
+point
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q156389">
+http://www.wikidata.org/entity/Q156389
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q24038885">
+http://www.wikidata.org/entity/Q24038885
+</a>
+</ul>
+<b>
+span
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q185759">
+http://www.wikidata.org/entity/Q185759
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q2317268">
+http://www.wikidata.org/entity/Q2317268
+</a>
+</ul>
+<b>
+South Korean won
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q202040">
+http://www.wikidata.org/entity/Q202040
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q7567738">
+http://www.wikidata.org/entity/Q7567738
+</a>
+</ul>
+<b>
+talent
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q190139">
+http://www.wikidata.org/entity/Q190139
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q25839995">
+http://www.wikidata.org/entity/Q25839995
+</a>
+</ul>
+<b>
+gallon
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q178413">
+http://www.wikidata.org/entity/Q178413
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q23925410">
+http://www.wikidata.org/entity/Q23925410
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q23925413">
+http://www.wikidata.org/entity/Q23925413
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q23925527">
+http://www.wikidata.org/entity/Q23925527
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q5519125">
+http://www.wikidata.org/entity/Q5519125
+</a>
+</ul>
+<b>
+academic term
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q2269240">
+http://www.wikidata.org/entity/Q2269240
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q915466">
+http://www.wikidata.org/entity/Q915466
+</a>
+</ul>
+<b>
+carat (mass)
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1072404">
+http://www.wikidata.org/entity/Q1072404
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q261247">
+http://www.wikidata.org/entity/Q261247
+</a>
+</ul>
+<b>
+100,000 Colombian peso note
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q23671267">
+http://www.wikidata.org/entity/Q23671267
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q2903517">
+http://www.wikidata.org/entity/Q2903517
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q3236732">
+http://www.wikidata.org/entity/Q3236732
+</a>
+</ul>
+<b>
+mark
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1089123">
+http://www.wikidata.org/entity/Q1089123
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q4281830">
+http://www.wikidata.org/entity/Q4281830
+</a>
+</ul>
+<b>
+degree
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1359207">
+http://www.wikidata.org/entity/Q1359207
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28390">
+http://www.wikidata.org/entity/Q28390
+</a>
+</ul>
+<b>
+square sazhen
+</b>
+<ul>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q26221041">
+http://www.wikidata.org/entity/Q26221041
+</a>
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q27949624">
+http://www.wikidata.org/entity/Q27949624
 </a>
 </ul>
 <b>
@@ -995,155 +1251,11 @@ http://www.wikidata.org/entity/Q4342566
 BrazilianReal
 </b>
 <ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q173117">
-http://www.wikidata.org/entity/Q173117
-</a>
 <li data-onto="WD"><a href="http://www.wikidata.org/entity/Q10366257">
 http://www.wikidata.org/entity/Q10366257
 </a>
-</ul>
-<b>
-cruzeiro
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q8351983">
-http://www.wikidata.org/entity/Q8351983
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q10261896">
-http://www.wikidata.org/entity/Q10261896
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q10261894">
-http://www.wikidata.org/entity/Q10261894
-</a>
-</ul>
-<b>
-degree
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1359207">
-http://www.wikidata.org/entity/Q1359207
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28390">
-http://www.wikidata.org/entity/Q28390
-</a>
-</ul>
-<b>
-cuerda
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q17087835">
-http://www.wikidata.org/entity/Q17087835
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q23931245">
-http://www.wikidata.org/entity/Q23931245
-</a>
-</ul>
-<b>
-fathom
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q280164">
-http://www.wikidata.org/entity/Q280164
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q6502423">
-http://www.wikidata.org/entity/Q6502423
-</a>
-</ul>
-<b>
-libra
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q10317923">
-http://www.wikidata.org/entity/Q10317923
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q11348804">
-http://www.wikidata.org/entity/Q11348804
-</a>
-</ul>
-<b>
-gallon
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q178413">
-http://www.wikidata.org/entity/Q178413
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q5519125">
-http://www.wikidata.org/entity/Q5519125
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q23925410">
-http://www.wikidata.org/entity/Q23925410
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q23925413">
-http://www.wikidata.org/entity/Q23925413
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q23925527">
-http://www.wikidata.org/entity/Q23925527
-</a>
-</ul>
-<b>
-Dash
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q17155887">
-http://www.wikidata.org/entity/Q17155887
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q26869687">
-http://www.wikidata.org/entity/Q26869687
-</a>
-</ul>
-<b>
-cord
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q920297">
-http://www.wikidata.org/entity/Q920297
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q30095434">
-http://www.wikidata.org/entity/Q30095434
-</a>
-</ul>
-<b>
-Ligula
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q11931933">
-http://www.wikidata.org/entity/Q11931933
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q28649044">
-http://www.wikidata.org/entity/Q28649044
-</a>
-</ul>
-<b>
-Greek drachma
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q1546443">
-http://www.wikidata.org/entity/Q1546443
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q25835384">
-http://www.wikidata.org/entity/Q25835384
-</a>
-</ul>
-<b>
-square sazhen
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q26221041">
-http://www.wikidata.org/entity/Q26221041
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q27949624">
-http://www.wikidata.org/entity/Q27949624
-</a>
-</ul>
-<b>
-South Korean won
-</b>
-<ul>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q202040">
-http://www.wikidata.org/entity/Q202040
-</a>
-<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q7567738">
-http://www.wikidata.org/entity/Q7567738
+<li data-onto="WD"><a href="http://www.wikidata.org/entity/Q173117">
+http://www.wikidata.org/entity/Q173117
 </a>
 </ul>
   <script>

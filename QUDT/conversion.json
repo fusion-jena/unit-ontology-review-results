@@ -1,63 +1,27 @@
 [
   {
-    "unit1": "http://qudt.org/vocab/unit#Grain",
+    "unit1": "http://qudt.org/vocab/unit#Abampere",
     "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "6.479891E-5"
+    "unit2": "http://qudt.org/vocab/unit#Ampere",
+    "convFactor": "10"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#Slug",
+    "unit1": "http://qudt.org/vocab/unit#Angstrom",
     "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "14.593903"
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "1.0E-10"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#UnifiedAtomicMassUnit",
+    "unit1": "http://qudt.org/vocab/unit#AstronomicalUnit",
     "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "9.10938215E-31"
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "1.4959787E11"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#Gram",
+    "unit1": "http://qudt.org/vocab/unit#Biot",
     "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "0.001"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#TonAssay",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "0.032666667"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#TonShort",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "907.18474"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#PoundTroy",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "0.3732417216"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#OunceMass",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "0.028349523125"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#PennyWeight",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "0.00155517384"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#PoundMass",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "0.45359237"
+    "unit2": "http://qudt.org/vocab/unit#Ampere",
+    "convFactor": "3.335641E-10"
   },
   {
     "unit1": "http://qudt.org/vocab/unit#Carat",
@@ -66,40 +30,22 @@
     "convFactor": "0.0002"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#OunceTroy",
+    "unit1": "http://qudt.org/vocab/unit#Centimeter",
     "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "0.0311034768"
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "0.01"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#PlanckMass",
+    "unit1": "http://qudt.org/vocab/unit#Chain",
     "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "2.17644E-8"
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "20.1168"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#TonLong",
+    "unit1": "http://qudt.org/vocab/unit#Day",
     "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "1016.0469088"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#HundredWeightShort",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "45.359237"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#MetricTon",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kilogram",
-    "convFactor": "1000"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#DegreeRankine",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Kelvin",
-    "convFactor": "0.5555555555555555556E0"
+    "unit2": "http://qudt.org/vocab/unit#SecondTime",
+    "convFactor": "86400"
   },
   {
     "unit1": "http://qudt.org/vocab/unit#DegreeCelsius",
@@ -114,70 +60,10 @@
     "convFactor": "0.5555555555555555556E0"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#PlanckTemperature",
+    "unit1": "http://qudt.org/vocab/unit#DegreeRankine",
     "convOffset": "0.0",
     "unit2": "http://qudt.org/vocab/unit#Kelvin",
-    "convFactor": "1.416785E32"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#PlanckCurrent",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Ampere",
-    "convFactor": "3.4789E25"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Biot",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Ampere",
-    "convFactor": "3.335641E-10"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Abampere",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Ampere",
-    "convFactor": "10"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Statampere",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Ampere",
-    "convFactor": "3.335641E-10"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#AstronomicalUnit",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "1.4959787E11"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Yard",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "0.9144"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Foot",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "0.3048"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#NauticalMile",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "1852.0"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Inch",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "0.0254"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#LightYear",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "9.4607304725808E15"
+    "convFactor": "0.5555555555555555556E0"
   },
   {
     "unit1": "http://qudt.org/vocab/unit#Fathom",
@@ -186,46 +72,10 @@
     "convFactor": "1.8288"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#Angstrom",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "1.0E-10"
-  },
-  {
     "unit1": "http://qudt.org/vocab/unit#Femtometer",
     "convOffset": "0.0",
     "unit2": "http://qudt.org/vocab/unit#Meter",
     "convFactor": "1.0E-15"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#MileInternational",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "1609.344"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Furlong",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "201.1680"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#MileUSStatute",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "1609.347"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Rod",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "5.029210"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Chain",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "20.1168"
   },
   {
     "unit1": "http://qudt.org/vocab/unit#Fermi",
@@ -234,28 +84,10 @@
     "convFactor": "1.0E-15"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#MicroInch",
+    "unit1": "http://qudt.org/vocab/unit#Foot",
     "convOffset": "0.0",
     "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "2.54E-8"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Point",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "2.54E-5"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Centimeter",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "0.01"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Micrometer",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "0.000001"
+    "convFactor": "0.3048"
   },
   {
     "unit1": "http://qudt.org/vocab/unit#FootUSSurvey",
@@ -264,33 +96,21 @@
     "convFactor": "0.3048006"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#PlanckLength",
+    "unit1": "http://qudt.org/vocab/unit#Furlong",
     "convOffset": "0.0",
     "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "1.616252E-35"
+    "convFactor": "201.1680"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#Kilometer",
+    "unit1": "http://qudt.org/vocab/unit#Grain",
     "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#Meter",
-    "convFactor": "1000"
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "6.479891E-5"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#MicroSecond",
+    "unit1": "http://qudt.org/vocab/unit#Gram",
     "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#SecondTime",
-    "convFactor": "0.000001"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#Day",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#SecondTime",
-    "convFactor": "86400"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#MilliSecond",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#SecondTime",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
     "convFactor": "0.001"
   },
   {
@@ -300,10 +120,124 @@
     "convFactor": "3600.0"
   },
   {
-    "unit1": "http://qudt.org/vocab/unit#Year365Day",
+    "unit1": "http://qudt.org/vocab/unit#HundredWeightShort",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "45.359237"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#Inch",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "0.0254"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#Kilometer",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "1000"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#LightYear",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "9.4607304725808E15"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#MetricTon",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "1000"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#MicroInch",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "2.54E-8"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#Micrometer",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "0.000001"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#MicroSecond",
     "convOffset": "0.0",
     "unit2": "http://qudt.org/vocab/unit#SecondTime",
-    "convFactor": "31536000"
+    "convFactor": "0.000001"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#MileInternational",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "1609.344"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#MileUSStatute",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "1609.347"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#MilliSecond",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#SecondTime",
+    "convFactor": "0.001"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#MinuteTime",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#SecondTime",
+    "convFactor": "60.0"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#NauticalMile",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "1852.0"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#OunceMass",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "0.028349523125"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#OunceTroy",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "0.0311034768"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#PennyWeight",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "0.00155517384"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#PlanckCurrent",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Ampere",
+    "convFactor": "3.4789E25"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#PlanckLength",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "1.616252E-35"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#PlanckMass",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "2.17644E-8"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#PlanckTemperature",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kelvin",
+    "convFactor": "1.416785E32"
   },
   {
     "unit1": "http://qudt.org/vocab/unit#PlanckTime",
@@ -312,21 +246,87 @@
     "convFactor": "5.39124E-44"
   },
   {
+    "unit1": "http://qudt.org/vocab/unit#Point",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "2.54E-5"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#PoundMass",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "0.45359237"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#PoundTroy",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "0.3732417216"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#Rod",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "5.029210"
+  },
+  {
     "unit1": "http://qudt.org/vocab/unit#Shake",
     "convOffset": "0.0",
     "unit2": "http://qudt.org/vocab/unit#SecondTime",
     "convFactor": "1.0E-8"
   },
   {
+    "unit1": "http://qudt.org/vocab/unit#Slug",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "14.593903"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#Statampere",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Ampere",
+    "convFactor": "3.335641E-10"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#TonAssay",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "0.032666667"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#TonLong",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "1016.0469088"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#TonShort",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "907.18474"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#UnifiedAtomicMassUnit",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Kilogram",
+    "convFactor": "9.10938215E-31"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#Yard",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#Meter",
+    "convFactor": "0.9144"
+  },
+  {
+    "unit1": "http://qudt.org/vocab/unit#Year365Day",
+    "convOffset": "0.0",
+    "unit2": "http://qudt.org/vocab/unit#SecondTime",
+    "convFactor": "31536000"
+  },
+  {
     "unit1": "http://qudt.org/vocab/unit#YearSidereal",
     "convOffset": "0.0",
     "unit2": "http://qudt.org/vocab/unit#SecondTime",
     "convFactor": "31558149.7632"
-  },
-  {
-    "unit1": "http://qudt.org/vocab/unit#MinuteTime",
-    "convOffset": "0.0",
-    "unit2": "http://qudt.org/vocab/unit#SecondTime",
-    "convFactor": "60.0"
   }
 ]

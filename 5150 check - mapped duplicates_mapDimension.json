@@ -1,18 +1,18 @@
 [
  {
   "onto": "QUDT",
-  "label": "magnetic field strength dimension",
-  "objs": [
-   "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength",
-   "http://qudt.org/vocab/quantity#MagneticField"
-  ]
- },
- {
-  "onto": "QUDT",
   "label": "electric field dimension",
   "objs": [
    "http://qudt.org/vocab/quantity#ElectricField",
    "http://qudt.org/vocab/quantity#ForcePerElectricCharge"
+  ]
+ },
+ {
+  "onto": "QUDT",
+  "label": "magnetic field strength dimension",
+  "objs": [
+   "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength",
+   "http://qudt.org/vocab/quantity#MagneticField"
   ]
  }
 ]

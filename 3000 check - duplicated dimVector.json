@@ -2,29 +2,15 @@
  {
   "__type": "Set",
   "values": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension",
-   "http://www.wurvoc.org/vocabularies/om-1.8/luminous_flux-dimension"
+   "http://www.wurvoc.org/vocabularies/om-1.8/angular_speed-dimension",
+   "http://www.wurvoc.org/vocabularies/om-1.8/frequency-dimension"
   ]
  },
  {
   "__type": "Set",
   "values": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/frequency-dimension",
-   "http://www.wurvoc.org/vocabularies/om-1.8/angular_speed-dimension"
-  ]
- },
- {
-  "__type": "Set",
-  "values": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/luminance-dimension",
-   "http://www.wurvoc.org/vocabularies/om-1.8/illuminance-dimension"
-  ]
- },
- {
-  "__type": "Set",
-  "values": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/pressure-dimension",
-   "http://www.wurvoc.org/vocabularies/om-1.8/energy_density-dimension"
+   "http://www.wurvoc.org/vocabularies/om-1.8/energy_density-dimension",
+   "http://www.wurvoc.org/vocabularies/om-1.8/pressure-dimension"
   ]
  },
  {
@@ -37,29 +23,29 @@
  {
   "__type": "Set",
   "values": [
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousIntensity-Dimension",
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousFlux-Dimension"
+   "http://www.wurvoc.org/vocabularies/om-1.8/illuminance-dimension",
+   "http://www.wurvoc.org/vocabularies/om-1.8/luminance-dimension"
   ]
  },
  {
   "__type": "Set",
   "values": [
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/luminance-Dimension",
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/illuminance-Dimension"
+   "http://www.wurvoc.org/vocabularies/om-1.8/luminous_flux-dimension",
+   "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension"
   ]
  },
  {
   "__type": "Set",
   "values": [
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/frequency-Dimension",
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/angularSpeed-Dimension"
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/angularSpeed-Dimension",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/frequency-Dimension"
   ]
  },
  {
   "__type": "Set",
   "values": [
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/pressure-Dimension",
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/energyDensity-Dimension"
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/energyDensity-Dimension",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/pressure-Dimension"
   ]
  },
  {
@@ -72,44 +58,22 @@
  {
   "__type": "Set",
   "values": [
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/illuminance-Dimension",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/luminance-Dimension"
+  ]
+ },
+ {
+  "__type": "Set",
+  "values": [
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousFlux-Dimension",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousIntensity-Dimension"
+  ]
+ },
+ {
+  "__type": "Set",
+  "values": [
    "http://qudt.org/vocab/quantity#Area",
    "http://qudt.org/vocab/quantity#AreaAngle"
-  ]
- },
- {
-  "__type": "Set",
-  "values": [
-   "http://qudt.org/vocab/quantity#LinearAcceleration",
-   "http://qudt.org/vocab/quantity#ThrustToMassRatio"
-  ]
- },
- {
-  "__type": "Set",
-  "values": [
-   "http://qudt.org/vocab/quantity#ElectricCurrent",
-   "http://qudt.org/vocab/quantity#MagnetomotiveForce",
-   "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle"
-  ]
- },
- {
-  "__type": "Set",
-  "values": [
-   "http://qudt.org/vocab/quantity#Radiance",
-   "http://qudt.org/vocab/quantity#PowerPerArea"
-  ]
- },
- {
-  "__type": "Set",
-  "values": [
-   "http://qudt.org/vocab/quantity#LuminousFlux",
-   "http://qudt.org/vocab/quantity#LuminousIntensity"
-  ]
- },
- {
-  "__type": "Set",
-  "values": [
-   "http://qudt.org/vocab/quantity#PowerArea",
-   "http://qudt.org/vocab/quantity#PowerAreaPerSolidAngle"
   ]
  },
  {
@@ -122,8 +86,22 @@
  {
   "__type": "Set",
   "values": [
-   "http://qudt.org/vocab/quantity#RadiantIntensity",
-   "http://qudt.org/vocab/quantity#Power"
+   "http://qudt.org/vocab/quantity#EnergyAndWork",
+   "http://qudt.org/vocab/quantity#Torque"
+  ]
+ },
+ {
+  "__type": "Set",
+  "values": [
+   "http://qudt.org/vocab/quantity#EnergyPerArea",
+   "http://qudt.org/vocab/quantity#ForcePerLength"
+  ]
+ },
+ {
+  "__type": "Set",
+  "values": [
+   "http://qudt.org/vocab/quantity#LinearAcceleration",
+   "http://qudt.org/vocab/quantity#ThrustToMassRatio"
   ]
  },
  {
@@ -136,8 +114,30 @@
  {
   "__type": "Set",
   "values": [
-   "http://qudt.org/vocab/quantity#Torque",
-   "http://qudt.org/vocab/quantity#EnergyAndWork"
+   "http://qudt.org/vocab/quantity#Power",
+   "http://qudt.org/vocab/quantity#RadiantIntensity"
+  ]
+ },
+ {
+  "__type": "Set",
+  "values": [
+   "http://qudt.org/vocab/quantity#PowerArea",
+   "http://qudt.org/vocab/quantity#PowerAreaPerSolidAngle"
+  ]
+ },
+ {
+  "__type": "Set",
+  "values": [
+   "http://qudt.org/vocab/quantity#PowerPerArea",
+   "http://qudt.org/vocab/quantity#Radiance"
+  ]
+ },
+ {
+  "__type": "Set",
+  "values": [
+   "http://qudt.org/vocab/quantity#ElectricCurrent",
+   "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle",
+   "http://qudt.org/vocab/quantity#MagnetomotiveForce"
   ]
  },
  {
@@ -150,8 +150,8 @@
  {
   "__type": "Set",
   "values": [
-   "http://qudt.org/vocab/quantity#EnergyPerArea",
-   "http://qudt.org/vocab/quantity#ForcePerLength"
+   "http://qudt.org/vocab/quantity#LuminousFlux",
+   "http://qudt.org/vocab/quantity#LuminousIntensity"
   ]
  }
 ]

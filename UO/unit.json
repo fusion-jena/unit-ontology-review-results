@@ -1164,6 +1164,18 @@
     "labelLang": ""
   },
   {
+    "unit": "http://purl.obolibrary.org/obo/UO_0000277",
+    "label": "ug/disk",
+    "definition": "A unit which is equal to one microgram per disk, where a disk is some physical surface/container upon which the substance is deposited.",
+    "labelLang": ""
+  },
+  {
+    "unit": "http://purl.obolibrary.org/obo/UO_0000278",
+    "label": "nmole/disk",
+    "definition": "A unit which is equal to one nanomole per disk, where a disk is some physical surface/container upon which the substance is deposited.",
+    "labelLang": ""
+  },
+  {
     "unit": "http://purl.obolibrary.org/obo/UO_0000279",
     "label": "milliunits per milliliter",
     "definition": "A unit per milliliter unit which is equal to one thousandth of a unit of an agreed arbitrary amount per one milliliter.",
@@ -1224,36 +1236,6 @@
     "labelLang": ""
   },
   {
-    "unit": "http://purl.obolibrary.org/obo/UO_0000325",
-    "label": "megaHertz",
-    "definition": "A frequency unit which is equal to one million hertz or 10^[6] V.",
-    "labelLang": ""
-  },
-  {
-    "unit": "http://purl.obolibrary.org/obo/UO_0000326",
-    "label": "centiMorgan",
-    "definition": "A unit used to express distances on a genetic map. In genetic mapping, distances between markers are determined by measuring the rate of meoitic recombination between them, which increases proportionately with the distance separating them. A cM is defined as the length of an interval in which there is a 1% probability of recombination. On the average, 1 cM is roughly equivalent to 1 megabase (Mb) of DNA, although this can vary widely due to hot and cold spots of recombination.",
-    "labelLang": ""
-  },
-  {
-    "unit": "http://purl.obolibrary.org/obo/UO_0000327",
-    "label": "centiRay",
-    "definition": "A unit of genetic map distance defined corresponding to an interval in which there is a 1% probability of X-irradiation induced breakage. To be completely specified, the unit must be qualified by the radiation in dosage in rads (e.g. cR8000), because this determines the actual breakage probability.",
-    "labelLang": ""
-  },
-  {
-    "unit": "http://purl.obolibrary.org/obo/UO_0000329",
-    "label": "megabasepair",
-    "definition": "A unit equal to one million base pairs",
-    "labelLang": ""
-  },
-  {
-    "unit": "http://purl.obolibrary.org/obo/UO_0000330",
-    "label": "gigabasepair",
-    "definition": "A unit equal to one billion base pairs.",
-    "labelLang": ""
-  },
-  {
     "unit": "http://purl.obolibrary.org/obo/UO_0000316",
     "label": "cells per microliter",
     "definition": "A unit of cell concentration which is equal to one cell in a volume of 1 microliter.",
@@ -1296,9 +1278,39 @@
     "labelLang": ""
   },
   {
+    "unit": "http://purl.obolibrary.org/obo/UO_0000325",
+    "label": "megaHertz",
+    "definition": "A frequency unit which is equal to one million hertz or 10^[6] V.",
+    "labelLang": ""
+  },
+  {
+    "unit": "http://purl.obolibrary.org/obo/UO_0000326",
+    "label": "centiMorgan",
+    "definition": "A unit used to express distances on a genetic map. In genetic mapping, distances between markers are determined by measuring the rate of meoitic recombination between them, which increases proportionately with the distance separating them. A cM is defined as the length of an interval in which there is a 1% probability of recombination. On the average, 1 cM is roughly equivalent to 1 megabase (Mb) of DNA, although this can vary widely due to hot and cold spots of recombination.",
+    "labelLang": ""
+  },
+  {
+    "unit": "http://purl.obolibrary.org/obo/UO_0000327",
+    "label": "centiRay",
+    "definition": "A unit of genetic map distance defined corresponding to an interval in which there is a 1% probability of X-irradiation induced breakage. To be completely specified, the unit must be qualified by the radiation in dosage in rads (e.g. cR8000), because this determines the actual breakage probability.",
+    "labelLang": ""
+  },
+  {
     "unit": "http://purl.obolibrary.org/obo/UO_0000328",
     "label": "kilobasepair",
     "definition": "A unit equal to one thousand base pairs.",
+    "labelLang": ""
+  },
+  {
+    "unit": "http://purl.obolibrary.org/obo/UO_0000329",
+    "label": "megabasepair",
+    "definition": "A unit equal to one million base pairs",
+    "labelLang": ""
+  },
+  {
+    "unit": "http://purl.obolibrary.org/obo/UO_0000330",
+    "label": "gigabasepair",
+    "definition": "A unit equal to one billion base pairs.",
     "labelLang": ""
   },
   {
@@ -1311,18 +1323,6 @@
     "unit": "http://purl.obolibrary.org/obo/UO_0000332",
     "label": "terabyte",
     "definition": "An information unit which is equal to 1000 gigabytes.",
-    "labelLang": ""
-  },
-  {
-    "unit": "http://purl.obolibrary.org/obo/UO_0000277",
-    "label": "ug/disk",
-    "definition": "A unit which is equal to one microgram per disk, where a disk is some physical surface/container upon which the substance is deposited.",
-    "labelLang": ""
-  },
-  {
-    "unit": "http://purl.obolibrary.org/obo/UO_0000278",
-    "label": "nmole/disk",
-    "definition": "A unit which is equal to one nanomole per disk, where a disk is some physical surface/container upon which the substance is deposited.",
     "labelLang": ""
   }
 ]

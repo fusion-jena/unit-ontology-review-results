@@ -92,35 +92,6 @@
   },
   {
    "__type": "SemObject",
-   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-biot_system_of_units",
-   "ontology": "OM",
-   "labels": {
-    "en": {
-     "__type": "Set",
-     "values": [
-      "centimetre-gram-second-biot system of units",
-      "centimetre-gram-second-biotsystemofunits"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "centimetre-gram-second-biot system of units",
-      "centimetre-gram-second-biotsystemofunits"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "centimeter-gram-seconde-biot-systeem"
-     ]
-    }
-   },
-   "dispLabel": "centimetre-gram-second-biot system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_electromagnetic_system_of_units",
    "ontology": "OM",
    "labels": {
@@ -181,35 +152,6 @@
   },
   {
    "__type": "SemObject",
-   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-franklin_system_of_units",
-   "ontology": "OM",
-   "labels": {
-    "en": {
-     "__type": "Set",
-     "values": [
-      "centimetre-gram-second-franklin system of units",
-      "centimetre-gram-second-franklinsystemofunits"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "centimetre-gram-second-franklin system of units",
-      "centimetre-gram-second-franklinsystemofunits"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "centimeter-gram-seconde-franklin-systeem"
-     ]
-    }
-   },
-   "dispLabel": "centimetre-gram-second-franklin system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second_system_of_units",
    "ontology": "OM",
    "labels": {
@@ -235,6 +177,64 @@
     }
    },
    "dispLabel": "centimetre-gram-second system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-biot_system_of_units",
+   "ontology": "OM",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "centimetre-gram-second-biot system of units",
+      "centimetre-gram-second-biotsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "centimetre-gram-second-biot system of units",
+      "centimetre-gram-second-biotsystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "centimeter-gram-seconde-biot-systeem"
+     ]
+    }
+   },
+   "dispLabel": "centimetre-gram-second-biot system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wurvoc.org/vocabularies/om-1.8/centimetre-gram-second-franklin_system_of_units",
+   "ontology": "OM",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "centimetre-gram-second-franklin system of units",
+      "centimetre-gram-second-franklinsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "centimetre-gram-second-franklin system of units",
+      "centimetre-gram-second-franklinsystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "centimeter-gram-seconde-franklin-systeem"
+     ]
+    }
+   },
+   "dispLabel": "centimetre-gram-second-franklin system of units",
    "raw": null
   },
   {
@@ -389,31 +389,60 @@
  "OM2": [
   {
    "__type": "SemObject",
-   "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-SecondSystemOfUnits",
+   "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-Second-BiotSystemOfUnits",
    "ontology": "OM2",
    "labels": {
     "en": {
      "__type": "Set",
      "values": [
-      "centimetre-gram-second system of units",
-      "centimetre-gram-secondsystemofunits"
+      "centimetre-gram-second-biot system of units",
+      "centimetre-gram-second-biotsystemofunits"
      ]
     },
     "_uri": {
      "__type": "Set",
      "values": [
-      "centimetre-gram-second system of units",
-      "centimetre-gram-secondsystemofunits"
+      "centimetre-gram-second-biot system of units",
+      "centimetre-gram-second-biotsystemofunits"
      ]
     },
     "nl": {
      "__type": "Set",
      "values": [
-      "centimeter-gram-seconde-systeem"
+      "centimeter-gram-seconde-biot-systeem"
      ]
     }
    },
-   "dispLabel": "centimetre-gram-second system of units",
+   "dispLabel": "centimetre-gram-second-biot system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-Second-FranklinSystemOfUnits",
+   "ontology": "OM2",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "centimetre-gram-second-franklin system of units",
+      "centimetre-gram-second-franklinsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "centimetre-gram-second-franklin system of units",
+      "centimetre-gram-second-franklinsystemofunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "centimeter-gram-seconde-franklin-systeem"
+     ]
+    }
+   },
+   "dispLabel": "centimetre-gram-second-franklin system of units",
    "raw": null
   },
   {
@@ -478,60 +507,31 @@
   },
   {
    "__type": "SemObject",
-   "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-Second-BiotSystemOfUnits",
+   "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-SecondSystemOfUnits",
    "ontology": "OM2",
    "labels": {
     "en": {
      "__type": "Set",
      "values": [
-      "centimetre-gram-second-biot system of units",
-      "centimetre-gram-second-biotsystemofunits"
+      "centimetre-gram-second system of units",
+      "centimetre-gram-secondsystemofunits"
      ]
     },
     "_uri": {
      "__type": "Set",
      "values": [
-      "centimetre-gram-second-biot system of units",
-      "centimetre-gram-second-biotsystemofunits"
+      "centimetre-gram-second system of units",
+      "centimetre-gram-secondsystemofunits"
      ]
     },
     "nl": {
      "__type": "Set",
      "values": [
-      "centimeter-gram-seconde-biot-systeem"
+      "centimeter-gram-seconde-systeem"
      ]
     }
    },
-   "dispLabel": "centimetre-gram-second-biot system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre-Gram-Second-FranklinSystemOfUnits",
-   "ontology": "OM2",
-   "labels": {
-    "en": {
-     "__type": "Set",
-     "values": [
-      "centimetre-gram-second-franklin system of units",
-      "centimetre-gram-second-franklinsystemofunits"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "centimetre-gram-second-franklin system of units",
-      "centimetre-gram-second-franklinsystemofunits"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "centimeter-gram-seconde-franklin-systeem"
-     ]
-    }
-   },
-   "dispLabel": "centimetre-gram-second-franklin system of units",
+   "dispLabel": "centimetre-gram-second system of units",
    "raw": null
   },
   {
@@ -628,48 +628,25 @@
  "QUDT": [
   {
    "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS-ESU",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_Atomic",
    "ontology": "QUDT",
    "labels": {
     "": {
      "__type": "Set",
      "values": [
-      "cgs-esu system of units",
-      "cgs-esusystemofunits"
+      "atomic system of units",
+      "atomicsystemofunits"
      ]
     },
     "_uri": {
      "__type": "Set",
      "values": [
-      "system of units cgs-esu",
-      "systemofunitscgs-esu"
+      "system of units atomic",
+      "systemofunitsatomic"
      ]
     }
    },
-   "dispLabel": "CGS-ESU System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_USCustomary",
-   "ontology": "QUDT",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "us customary unit system",
-      "uscustomaryunitsystem"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "system of units uscustomary",
-      "systemofunitsuscustomary"
-     ]
-    }
-   },
-   "dispLabel": "US Customary Unit System",
+   "dispLabel": "Atomic System of Units",
    "raw": null
   },
   {
@@ -697,75 +674,6 @@
   },
   {
    "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_SI",
-   "ontology": "QUDT",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "international system of units",
-      "internationalsystemofunits"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "system of units si",
-      "systemofunitssi"
-     ]
-    }
-   },
-   "dispLabel": "International System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_Planck",
-   "ontology": "QUDT",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "planck system of units",
-      "plancksystemofunits"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "system of units planck",
-      "systemofunitsplanck"
-     ]
-    }
-   },
-   "dispLabel": "Planck System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS-Gauss",
-   "ontology": "QUDT",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "cgs-gauss system of units",
-      "cgs-gausssystemofunits"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "system of units cgs-gauss",
-      "systemofunitscgs-gauss"
-     ]
-    }
-   },
-   "dispLabel": "CGS-Gauss System of Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
    "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS-EMU",
    "ontology": "QUDT",
    "labels": {
@@ -789,48 +697,48 @@
   },
   {
    "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_MKS",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS-ESU",
    "ontology": "QUDT",
    "labels": {
     "": {
      "__type": "Set",
      "values": [
-      "mks system of units",
-      "mkssystemofunits"
+      "cgs-esu system of units",
+      "cgs-esusystemofunits"
      ]
     },
     "_uri": {
      "__type": "Set",
      "values": [
-      "system of units mks",
-      "systemofunitsmks"
+      "system of units cgs-esu",
+      "systemofunitscgs-esu"
      ]
     }
    },
-   "dispLabel": "MKS System of Units",
+   "dispLabel": "CGS-ESU System of Units",
    "raw": null
   },
   {
    "__type": "SemObject",
-   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_Atomic",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_CGS-Gauss",
    "ontology": "QUDT",
    "labels": {
     "": {
      "__type": "Set",
      "values": [
-      "atomic system of units",
-      "atomicsystemofunits"
+      "cgs-gauss system of units",
+      "cgs-gausssystemofunits"
      ]
     },
     "_uri": {
      "__type": "Set",
      "values": [
-      "system of units atomic",
-      "systemofunitsatomic"
+      "system of units cgs-gauss",
+      "systemofunitscgs-gauss"
      ]
     }
    },
-   "dispLabel": "Atomic System of Units",
+   "dispLabel": "CGS-Gauss System of Units",
    "raw": null
   },
   {
@@ -878,834 +786,70 @@
    },
    "dispLabel": "ISO 4217 Currencies",
    "raw": null
-  }
- ],
- "SWEET": [],
- "UO": [],
- "WD": [
+  },
   {
    "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q12457",
-   "ontology": "WD",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_MKS",
+   "ontology": "QUDT",
    "labels": {
-    "ab": {
+    "": {
      "__type": "Set",
      "values": [
-      "си"
+      "mks system of units",
+      "mkssystemofunits"
      ]
     },
     "_uri": {
      "__type": "Set",
      "values": [
-      "q12457"
+      "system of units mks",
+      "systemofunitsmks"
      ]
-    },
-    "af": {
+    }
+   },
+   "dispLabel": "MKS System of Units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_Planck",
+   "ontology": "QUDT",
+   "labels": {
+    "": {
      "__type": "Set",
      "values": [
-      "si-stelsel"
+      "planck system of units",
+      "plancksystemofunits"
      ]
     },
-    "an": {
+    "_uri": {
      "__type": "Set",
      "values": [
-      "sistema internacional d unidatz",
-      "sistemainternacionaldunidatz"
+      "system of units planck",
+      "systemofunitsplanck"
      ]
-    },
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "نظام الوحدات الدولي",
-      "نظامالوحداتالدولي"
-     ]
-    },
-    "arz": {
-     "__type": "Set",
-     "values": [
-      "النظام الدولى للوحدات",
-      "النظامالدولىللوحدات"
-     ]
-    },
-    "as": {
-     "__type": "Set",
-     "values": [
-      "আন্তৰ্জাতিক একক পদ্ধতি",
-      "আন্তৰ্জাতিকএককপদ্ধতি"
-     ]
-    },
-    "ast": {
-     "__type": "Set",
-     "values": [
-      "sistema internacional d unidaes",
-      "sistemainternacionaldunidaes"
-     ]
-    },
-    "az": {
-     "__type": "Set",
-     "values": [
-      "si̇"
-     ]
-    },
-    "ba": {
-     "__type": "Set",
-     "values": [
-      "халыҡ-ара берәмектәр системаһы",
-      "халыҡ-араберәмектәрсистемаһы"
-     ]
-    },
-    "be": {
-     "__type": "Set",
-     "values": [
-      "сі"
-     ]
-    },
-    "be-tarask": {
-     "__type": "Set",
-     "values": [
-      "міжнародная сыстэма сі",
-      "міжнароднаясыстэмасі"
-     ]
-    },
-    "bg": {
-     "__type": "Set",
-     "values": [
-      "международна система единици",
-      "международнасистемаединици"
-     ]
-    },
-    "bn": {
-     "__type": "Set",
-     "values": [
-      "আন্তর্জাতিক একক পদ্ধতি",
-      "আন্তর্জাতিকএককপদ্ধতি"
-     ]
-    },
-    "br": {
-     "__type": "Set",
-     "values": [
-      "reizhiad etrebroadel unanennoù ar fizik",
-      "reizhiadetrebroadelunanennoùarfizik"
-     ]
-    },
-    "bs": {
-     "__type": "Set",
-     "values": [
-      "si sistem",
-      "sisistem"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "sistema internacional d unitats",
-      "sistemainternacionaldunitats"
-     ]
-    },
-    "ckb": {
-     "__type": "Set",
-     "values": [
-      "سیستەمی جیھانیی یەکەکان",
-      "سیستەمیجیھانیییەکەکان"
-     ]
-    },
-    "cs": {
-     "__type": "Set",
-     "values": [
-      "soustava si",
-      "soustavasi"
-     ]
-    },
-    "cu": {
-     "__type": "Set",
-     "values": [
-      "мєждоународьнъ мѣръ сѷстима",
-      "мєждоународьнъмѣръсѷстима"
-     ]
-    },
-    "cy": {
-     "__type": "Set",
-     "values": [
-      "system ryngwladol o unedau",
-      "systemryngwladolounedau"
-     ]
-    },
-    "da": {
-     "__type": "Set",
-     "values": [
-      "système international d unités",
-      "systèmeinternationaldunités"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "internationales einheitensystem",
-      "internationaleseinheitensystem"
-     ]
-    },
-    "el": {
-     "__type": "Set",
-     "values": [
-      "διεθνές σύστημα μονάδων",
-      "διεθνέςσύστημαμονάδων"
-     ]
-    },
-    "en": {
+    }
+   },
+   "dispLabel": "Planck System of Units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_SI",
+   "ontology": "QUDT",
+   "labels": {
+    "": {
      "__type": "Set",
      "values": [
       "international system of units",
       "internationalsystemofunits"
      ]
     },
-    "eo": {
+    "_uri": {
      "__type": "Set",
      "values": [
-      "internacia sistemo de unuoj",
-      "internaciasistemodeunuoj"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema internacional de unidades",
-      "sistemainternacionaldeunidades"
-     ]
-    },
-    "et": {
-     "__type": "Set",
-     "values": [
-      "si-süsteem"
-     ]
-    },
-    "eu": {
-     "__type": "Set",
-     "values": [
-      "nazioarteko unitate sistema",
-      "nazioartekounitatesistema"
-     ]
-    },
-    "fa": {
-     "__type": "Set",
-     "values": [
-      "دستگاه بین‌المللی یکاها",
-      "دستگاهبین‌المللییکاها"
-     ]
-    },
-    "fi": {
-     "__type": "Set",
-     "values": [
-      "kansainvälinen yksikköjärjestelmä",
-      "kansainvälinenyksikköjärjestelmä"
-     ]
-    },
-    "fo": {
-     "__type": "Set",
-     "values": [
-      "millumtjóða eindarskipanin",
-      "millumtjóðaeindarskipanin"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "système international d unités",
-      "systèmeinternationaldunités"
-     ]
-    },
-    "frr": {
-     "__type": "Set",
-     "values": [
-      "si-süsteem"
-     ]
-    },
-    "fur": {
-     "__type": "Set",
-     "values": [
-      "sisteme internazionâl di unitâts",
-      "sistemeinternazionâldiunitâts"
-     ]
-    },
-    "fy": {
-     "__type": "Set",
-     "values": [
-      "ynternasjonaal systeem fan ienheden",
-      "ynternasjonaalsysteemfanienheden"
-     ]
-    },
-    "ga": {
-     "__type": "Set",
-     "values": [
-      "córas idirnáisiúnta na n aonad",
-      "córasidirnáisiúntananaonad"
-     ]
-    },
-    "gan": {
-     "__type": "Set",
-     "values": [
-      "國際單位系統"
-     ]
-    },
-    "gd": {
-     "__type": "Set",
-     "values": [
-      "siostam eadar-nàiseanta nan aonadan",
-      "siostameadar-nàiseantananaonadan"
-     ]
-    },
-    "gl": {
-     "__type": "Set",
-     "values": [
-      "sistema internacional de unidades",
-      "sistemainternacionaldeunidades"
-     ]
-    },
-    "gsw": {
-     "__type": "Set",
-     "values": [
-      "si-einheitesytem"
-     ]
-    },
-    "he": {
-     "__type": "Set",
-     "values": [
-      "מערכת היחידות הבינלאומית",
-      "מערכתהיחידותהבינלאומית"
-     ]
-    },
-    "hi": {
-     "__type": "Set",
-     "values": [
-      "अन्तर्राष्ट्रीय इकाई प्रणाली",
-      "अन्तर्राष्ट्रीयइकाईप्रणाली"
-     ]
-    },
-    "hif": {
-     "__type": "Set",
-     "values": [
-      "si"
-     ]
-    },
-    "hr": {
-     "__type": "Set",
-     "values": [
-      "međunarodni sustav mjernih jedinica",
-      "međunarodnisustavmjernihjedinica"
-     ]
-    },
-    "hu": {
-     "__type": "Set",
-     "values": [
-      "si mértékegységrendszer",
-      "simértékegységrendszer"
-     ]
-    },
-    "hy": {
-     "__type": "Set",
-     "values": [
-      "միավորների միջազգային համակարգ",
-      "միավորներիմիջազգայինհամակարգ"
-     ]
-    },
-    "ia": {
-     "__type": "Set",
-     "values": [
-      "systema international de unitates",
-      "systemainternationaldeunitates"
-     ]
-    },
-    "id": {
-     "__type": "Set",
-     "values": [
-      "sistem satuan internasional",
-      "sistemsatuaninternasional"
-     ]
-    },
-    "ilo": {
-     "__type": "Set",
-     "values": [
-      "internasional a sistema dagiti yunit",
-      "internasionalasistemadagitiyunit"
-     ]
-    },
-    "io": {
-     "__type": "Set",
-     "values": [
-      "unaj-internaciona sistemo",
-      "unaj-internacionasistemo"
-     ]
-    },
-    "is": {
-     "__type": "Set",
-     "values": [
-      "alþjóðlega einingakerfið",
-      "alþjóðlegaeiningakerfið"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema internazionale di unità di misura",
-      "sistemainternazionalediunitàdimisura"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "国際単位系"
-     ]
-    },
-    "jam": {
-     "__type": "Set",
-     "values": [
-      "intanashinal sistim a yuunit",
-      "intanashinalsistimayuunit"
-     ]
-    },
-    "jbo": {
-     "__type": "Set",
-     "values": [
-      "treci e",
-      "trecie"
-     ]
-    },
-    "jv": {
-     "__type": "Set",
-     "values": [
-      "sistem pétungan internasional",
-      "sistempétunganinternasional"
-     ]
-    },
-    "ka": {
-     "__type": "Set",
-     "values": [
-      "ერთეულთა საერთაშოირისო სისტემა",
-      "ერთეულთასაერთაშოირისოსისტემა"
-     ]
-    },
-    "kk": {
-     "__type": "Set",
-     "values": [
-      "өлшем бірліктерінің халықаралық жүйесі",
-      "өлшембірліктерініңхалықаралықжүйесі"
-     ]
-    },
-    "kn": {
-     "__type": "Set",
-     "values": [
-      "ಅಂತರರಾಷ್ಟ್ರೀಯ ಏಕಮಾನ ವ್ಯವಸ್ಥೆ",
-      "ಅಂತರರಾಷ್ಟ್ರೀಯಏಕಮಾನವ್ಯವಸ್ಥೆ"
-     ]
-    },
-    "ko": {
-     "__type": "Set",
-     "values": [
-      "국제단위계"
-     ]
-    },
-    "krc": {
-     "__type": "Set",
-     "values": [
-      "ёс"
-     ]
-    },
-    "ksh": {
-     "__type": "Set",
-     "values": [
-      "si-basiseinheite"
-     ]
-    },
-    "ku": {
-     "__type": "Set",
-     "values": [
-      "sîstema navneteweyî ya yekeyan",
-      "sîstemanavneteweyîyayekeyan"
-     ]
-    },
-    "ky": {
-     "__type": "Set",
-     "values": [
-      "си өлчөө системи",
-      "сиөлчөөсистеми"
-     ]
-    },
-    "la": {
-     "__type": "Set",
-     "values": [
-      "systema internationale",
-      "systemainternationale"
-     ]
-    },
-    "lb": {
-     "__type": "Set",
-     "values": [
-      "internationalt eenheetesystem",
-      "internationalteenheetesystem"
-     ]
-    },
-    "li": {
-     "__type": "Set",
-     "values": [
-      "si"
-     ]
-    },
-    "lt": {
-     "__type": "Set",
-     "values": [
-      "si"
-     ]
-    },
-    "lv": {
-     "__type": "Set",
-     "values": [
-      "starptautiskā mērvienību sistēma",
-      "starptautiskāmērvienībusistēma"
-     ]
-    },
-    "lzh": {
-     "__type": "Set",
-     "values": [
-      "萬國公制"
-     ]
-    },
-    "mk": {
-     "__type": "Set",
-     "values": [
-      "меѓународен систем на мерни единици",
-      "меѓународенсистемнамерниединици"
-     ]
-    },
-    "ml": {
-     "__type": "Set",
-     "values": [
-      "അന്താരാഷ്ട്ര ഏകകവ്യവസ്ഥ",
-      "അന്താരാഷ്ട്രഏകകവ്യവസ്ഥ"
-     ]
-    },
-    "mn": {
-     "__type": "Set",
-     "values": [
-      "олон улсын нэгжийн систем",
-      "олонулсыннэгжийнсистем"
-     ]
-    },
-    "mr": {
-     "__type": "Set",
-     "values": [
-      "आंतरराष्ट्रीय गणना पद्धती",
-      "आंतरराष्ट्रीयगणनापद्धती"
-     ]
-    },
-    "ms": {
-     "__type": "Set",
-     "values": [
-      "sistem unit antarabangsa",
-      "sistemunitantarabangsa"
-     ]
-    },
-    "my": {
-     "__type": "Set",
-     "values": [
-      "အပြည်ပြည်ဆိုင်ရာ ယူနစ် စနစ်",
-      "အပြည်ပြည်ဆိုင်ရာယူနစ်စနစ်"
-     ]
-    },
-    "nan": {
-     "__type": "Set",
-     "values": [
-      "kok-chè tan-ūi hē-thóng",
-      "kok-chètan-ūihē-thóng"
-     ]
-    },
-    "nb": {
-     "__type": "Set",
-     "values": [
-      "si-systemet"
-     ]
-    },
-    "nds": {
-     "__type": "Set",
-     "values": [
-      "internatschonal eenheitensystem",
-      "internatschonaleenheitensystem"
-     ]
-    },
-    "new": {
-     "__type": "Set",
-     "values": [
-      "एस् आइ",
-      "एस्आइ"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "si-stelsel"
-     ]
-    },
-    "nn": {
-     "__type": "Set",
-     "values": [
-      "si-systemet"
-     ]
-    },
-    "nso": {
-     "__type": "Set",
-     "values": [
-      "si"
-     ]
-    },
-    "oc": {
-     "__type": "Set",
-     "values": [
-      "sistèma internacionau d unitats",
-      "sistèmainternacionaudunitats"
-     ]
-    },
-    "pa": {
-     "__type": "Set",
-     "values": [
-      "ਅੰਤਰਦੇਸ਼ੀ ਇਕਾਈ ਪ੍ਰਣਾਲੀ",
-      "ਅੰਤਰਦੇਸ਼ੀਇਕਾਈਪ੍ਰਣਾਲੀ"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "układ si",
-      "układsi"
-     ]
-    },
-    "pnb": {
-     "__type": "Set",
-     "values": [
-      "ناپاں دا انٹرنیشنل پربندھ",
-      "ناپاںداانٹرنیشنلپربندھ"
-     ]
-    },
-    "pt": {
-     "__type": "Set",
-     "values": [
-      "sistema internacional de unidades",
-      "sistemainternacionaldeunidades"
-     ]
-    },
-    "qu": {
-     "__type": "Set",
-     "values": [
-      "si tupuy",
-      "situpuy"
-     ]
-    },
-    "ro": {
-     "__type": "Set",
-     "values": [
-      "sistemul internațional de unități",
-      "sistemulinternaționaldeunități"
-     ]
-    },
-    "roa-tara": {
-     "__type": "Set",
-     "values": [
-      "sisteme ndernazionale de aunità de mesure",
-      "sistemendernazionaledeaunitàdemesure"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "международная система единиц",
-      "международнаясистемаединиц"
-     ]
-    },
-    "sco": {
-     "__type": "Set",
-     "values": [
-      "si"
-     ]
-    },
-    "sgs": {
-     "__type": "Set",
-     "values": [
-      "si"
-     ]
-    },
-    "sh": {
-     "__type": "Set",
-     "values": [
-      "si"
-     ]
-    },
-    "sk": {
-     "__type": "Set",
-     "values": [
-      "si"
-     ]
-    },
-    "sl": {
-     "__type": "Set",
-     "values": [
-      "mednarodni sistem enot",
-      "mednarodnisistemenot"
-     ]
-    },
-    "so": {
-     "__type": "Set",
-     "values": [
-      "horgale"
-     ]
-    },
-    "sq": {
-     "__type": "Set",
-     "values": [
-      "sistemi si",
-      "sistemisi"
-     ]
-    },
-    "sr": {
-     "__type": "Set",
-     "values": [
-      "међународни систем јединица",
-      "међународнисистемјединица"
-     ]
-    },
-    "su": {
-     "__type": "Set",
-     "values": [
-      "sistem hijian internasional",
-      "sistemhijianinternasional"
-     ]
-    },
-    "sv": {
-     "__type": "Set",
-     "values": [
-      "internationella måttenhetssystemet",
-      "internationellamåttenhetssystemet"
-     ]
-    },
-    "sw": {
-     "__type": "Set",
-     "values": [
-      "vipimo sanifu vya kimataifa",
-      "vipimosanifuvyakimataifa"
-     ]
-    },
-    "ta": {
-     "__type": "Set",
-     "values": [
-      "அனைத்துலக முறை அலகுகள்",
-      "அனைத்துலகமுறைஅலகுகள்"
-     ]
-    },
-    "te": {
-     "__type": "Set",
-     "values": [
-      "అంతర్జాతీయ ప్రమాణాల పద్ధతి",
-      "అంతర్జాతీయప్రమాణాలపద్ధతి"
-     ]
-    },
-    "th": {
-     "__type": "Set",
-     "values": [
-      "ระบบหน่วยวัดระหว่างประเทศ"
-     ]
-    },
-    "tl": {
-     "__type": "Set",
-     "values": [
-      "pandaigdigang sistema ng mga yunit",
-      "pandaigdigangsistemangmgayunit"
-     ]
-    },
-    "tr": {
-     "__type": "Set",
-     "values": [
-      "uluslararası birimler sistemi",
-      "uluslararasıbirimlersistemi"
-     ]
-    },
-    "tt": {
-     "__type": "Set",
-     "values": [
-      "си"
-     ]
-    },
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "міжнародна система одиниць",
-      "міжнароднасистемаодиниць"
-     ]
-    },
-    "ur": {
-     "__type": "Set",
-     "values": [
-      "بین الاقوامی نظام اکائیات",
-      "بینالاقوامینظاماکائیات"
-     ]
-    },
-    "uz": {
-     "__type": "Set",
-     "values": [
-      "si"
-     ]
-    },
-    "vec": {
-     "__type": "Set",
-     "values": [
-      "sistema internasional",
-      "sistemainternasional"
-     ]
-    },
-    "vi": {
-     "__type": "Set",
-     "values": [
-      "si"
-     ]
-    },
-    "vls": {
-     "__type": "Set",
-     "values": [
-      "si-systèm"
-     ]
-    },
-    "war": {
-     "__type": "Set",
-     "values": [
-      "kanasodnon sistema han mga yunit",
-      "kanasodnonsistemahanmgayunit"
-     ]
-    },
-    "yi": {
-     "__type": "Set",
-     "values": [
-      "אינטערנאציאנאלע סיסטעם פון איינסן",
-      "אינטערנאציאנאלעסיסטעםפוןאיינסן"
-     ]
-    },
-    "yo": {
-     "__type": "Set",
-     "values": [
-      "ìwọ̀n ẹyọ akáríayé si",
-      "ìwọ̀nẹyọakáríayési"
-     ]
-    },
-    "yue": {
-     "__type": "Set",
-     "values": [
-      "國際單位制"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "国际单位制"
-     ]
-    },
-    "km": {
-     "__type": "Set",
-     "values": [
-      "ប្រព័ន្ធខ្នាតអន្តរជាតិ"
+      "system of units si",
+      "systemofunitssi"
      ]
     }
    },
@@ -1714,2056 +858,42 @@
   },
   {
    "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q468999",
-   "ontology": "WD",
+   "uri": "http://qudt.org/vocab/unit#SystemOfUnits_USCustomary",
+   "ontology": "QUDT",
    "labels": {
-    "he": {
+    "": {
      "__type": "Set",
      "values": [
-      "יחידות פלאנק",
-      "יחידותפלאנק"
+      "us customary unit system",
+      "uscustomaryunitsystem"
      ]
     },
     "_uri": {
      "__type": "Set",
      "values": [
-      "q468999"
-     ]
-    },
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "وحدات بلانك",
-      "وحداتبلانك"
-     ]
-    },
-    "be": {
-     "__type": "Set",
-     "values": [
-      "планкаўскія адзінкі",
-      "планкаўскіяадзінкі"
-     ]
-    },
-    "bg": {
-     "__type": "Set",
-     "values": [
-      "единици на планк",
-      "единицинапланк"
-     ]
-    },
-    "bs": {
-     "__type": "Set",
-     "values": [
-      "prirodne jedinice",
-      "prirodnejedinice"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "unitats de planck",
-      "unitatsdeplanck"
-     ]
-    },
-    "cs": {
-     "__type": "Set",
-     "values": [
-      "planckovy jednotky",
-      "planckovyjednotky"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "planck-einheiten"
-     ]
-    },
-    "el": {
-     "__type": "Set",
-     "values": [
-      "μονάδες πλανκ",
-      "μονάδεςπλανκ"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "planck units",
-      "planckunits"
-     ]
-    },
-    "eo": {
-     "__type": "Set",
-     "values": [
-      "unuoj de planck",
-      "unuojdeplanck"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "unidades de planck",
-      "unidadesdeplanck"
-     ]
-    },
-    "fi": {
-     "__type": "Set",
-     "values": [
-      "planckin yksiköt",
-      "planckinyksiköt"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "unités de planck",
-      "unitésdeplanck"
-     ]
-    },
-    "hu": {
-     "__type": "Set",
-     "values": [
-      "planck-egységek"
-     ]
-    },
-    "hy": {
-     "__type": "Set",
-     "values": [
-      "պլանկի միավորներ",
-      "պլանկիմիավորներ"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "unità di misura di planck",
-      "unitàdimisuradiplanck"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "プランク単位系"
-     ]
-    },
-    "ko": {
-     "__type": "Set",
-     "values": [
-      "플랑크 단위계",
-      "플랑크단위계"
-     ]
-    },
-    "mk": {
-     "__type": "Set",
-     "values": [
-      "планкови единици",
-      "планковиединици"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "planck-eenheden"
-     ]
-    },
-    "nn": {
-     "__type": "Set",
-     "values": [
-      "planck-einingar"
-     ]
-    },
-    "pa": {
-     "__type": "Set",
-     "values": [
-      "ਪਲੈਂਕ ਯੂਨਿਟਾਂ",
-      "ਪਲੈਂਕਯੂਨਿਟਾਂ"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "jednostki plancka",
-      "jednostkiplancka"
-     ]
-    },
-    "pt": {
-     "__type": "Set",
-     "values": [
-      "unidades de planck",
-      "unidadesdeplanck"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "планковские единицы",
-      "планковскиеединицы"
-     ]
-    },
-    "sh": {
-     "__type": "Set",
-     "values": [
-      "prirodne jedinice",
-      "prirodnejedinice"
-     ]
-    },
-    "sk": {
-     "__type": "Set",
-     "values": [
-      "planckove jednotky",
-      "planckovejednotky"
-     ]
-    },
-    "sl": {
-     "__type": "Set",
-     "values": [
-      "planckov sistem enot",
-      "planckovsistemenot"
-     ]
-    },
-    "sr": {
-     "__type": "Set",
-     "values": [
-      "природна јединица",
-      "природнајединица"
-     ]
-    },
-    "sr-ec": {
-     "__type": "Set",
-     "values": [
-      "природне јединице",
-      "природнејединице"
-     ]
-    },
-    "sr-el": {
-     "__type": "Set",
-     "values": [
-      "prirodne jedinice",
-      "prirodnejedinice"
-     ]
-    },
-    "sv": {
-     "__type": "Set",
-     "values": [
-      "planckenheter"
-     ]
-    },
-    "tr": {
-     "__type": "Set",
-     "values": [
-      "planck birimleri",
-      "planckbirimleri"
-     ]
-    },
-    "tt": {
-     "__type": "Set",
-     "values": [
-      "plank berämlekläre",
-      "plankberämlekläre"
-     ]
-    },
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "одиниці планка",
-      "одиниціпланка"
-     ]
-    },
-    "uz": {
-     "__type": "Set",
-     "values": [
-      "tabiiy birliklar tizimi",
-      "tabiiybirliklartizimi"
-     ]
-    },
-    "vi": {
-     "__type": "Set",
-     "values": [
-      "hệ thống đo lường planck",
-      "hệthốngđolườngplanck"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "普朗克單位制"
-     ]
-    },
-    "fa": {
-     "__type": "Set",
-     "values": [
-      "یکاهای طبیعی",
-      "یکاهایطبیعی"
+      "system of units uscustomary",
+      "systemofunitsuscustomary"
      ]
     }
    },
-   "dispLabel": "Planck units",
+   "dispLabel": "US Customary Unit System",
    "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q512417",
-   "ontology": "WD",
-   "labels": {
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "мкс"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q512417"
-     ]
-    },
-    "be-tarask": {
-     "__type": "Set",
-     "values": [
-      "мкс"
-     ]
-    },
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "نظام وحدات متر كيلوغرام ثانية",
-      "نظاموحداتمتركيلوغرامثانية"
-     ]
-    },
-    "ast": {
-     "__type": "Set",
-     "values": [
-      "sistema téunicu d unidaes",
-      "sistematéunicudunidaes"
-     ]
-    },
-    "bar": {
-     "__type": "Set",
-     "values": [
-      "mks-einheitensystem"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "sistema mks d unitats",
-      "sistemamksdunitats"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "mks-einheitensystem"
-     ]
-    },
-    "de-ch": {
-     "__type": "Set",
-     "values": [
-      "mks-einheitensystem"
-     ]
-    },
-    "el": {
-     "__type": "Set",
-     "values": [
-      "σύστημα mks",
-      "σύστημαmks"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "mks system of units",
-      "mkssystemofunits"
-     ]
-    },
-    "en-ca": {
-     "__type": "Set",
-     "values": [
-      "mks system of units",
-      "mkssystemofunits"
-     ]
-    },
-    "en-gb": {
-     "__type": "Set",
-     "values": [
-      "mks system of units",
-      "mkssystemofunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema mks de unidades",
-      "sistemamksdeunidades"
-     ]
-    },
-    "et": {
-     "__type": "Set",
-     "values": [
-      "mksa-süsteem"
-     ]
-    },
-    "fi": {
-     "__type": "Set",
-     "values": [
-      "tekninen mittajärjestelmä",
-      "tekninenmittajärjestelmä"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "mks"
-     ]
-    },
-    "frr": {
-     "__type": "Set",
-     "values": [
-      "mks-süsteem"
-     ]
-    },
-    "gl": {
-     "__type": "Set",
-     "values": [
-      "sistema mks",
-      "sistemamks"
-     ]
-    },
-    "hi": {
-     "__type": "Set",
-     "values": [
-      "मीटर-किलोग्राम-सेकेण्ड पद्धति",
-      "मीटर-किलोग्राम-सेकेण्डपद्धति"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema mks",
-      "sistemamks"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "mks単位系"
-     ]
-    },
-    "ko": {
-     "__type": "Set",
-     "values": [
-      "mks 단위계",
-      "mks단위계"
-     ]
-    },
-    "mk": {
-     "__type": "Set",
-     "values": [
-      "мкс-систем"
-     ]
-    },
-    "nds": {
-     "__type": "Set",
-     "values": [
-      "mks-eenheitensystem"
-     ]
-    },
-    "nn": {
-     "__type": "Set",
-     "values": [
-      "mksa-systemet"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "układ jednostek miar mks",
-      "układjednostekmiarmks"
-     ]
-    },
-    "pt": {
-     "__type": "Set",
-     "values": [
-      "sistema mks de unidades",
-      "sistemamksdeunidades"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "система единиц мкс",
-      "системаединицмкс"
-     ]
-    },
-    "sh": {
-     "__type": "Set",
-     "values": [
-      "mksa"
-     ]
-    },
-    "sk": {
-     "__type": "Set",
-     "values": [
-      "sústava mks",
-      "sústavamks"
-     ]
-    },
-    "sl": {
-     "__type": "Set",
-     "values": [
-      "sistem enot mks",
-      "sistemenotmks"
-     ]
-    },
-    "sr": {
-     "__type": "Set",
-     "values": [
-      "мкс систем",
-      "мкссистем"
-     ]
-    },
-    "sr-ec": {
-     "__type": "Set",
-     "values": [
-      "мкс систем",
-      "мкссистем"
-     ]
-    },
-    "sr-el": {
-     "__type": "Set",
-     "values": [
-      "mks sistem",
-      "mkssistem"
-     ]
-    },
-    "sv": {
-     "__type": "Set",
-     "values": [
-      "mksa"
-     ]
-    },
-    "vi": {
-     "__type": "Set",
-     "values": [
-      "hệ đo lường mks",
-      "hệđolườngmks"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "米-千克-秒制"
-     ]
-    },
-    "hu": {
-     "__type": "Set",
-     "values": [
-      "mks mértékegységrendszer",
-      "mksmértékegységrendszer"
-     ]
-    }
-   },
-   "dispLabel": "MKS system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q620565",
-   "ontology": "WD",
-   "labels": {
-    "zh-cn": {
-     "__type": "Set",
-     "values": [
-      "小群士兵 古罗马",
-      "小群士兵古罗马"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q620565"
-     ]
-    },
-    "zh-hant": {
-     "__type": "Set",
-     "values": [
-      "小群士兵 古羅馬",
-      "小群士兵古羅馬"
-     ]
-    },
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "نظام الصيدليات",
-      "نظامالصيدليات"
-     ]
-    },
-    "be-tarask": {
-     "__type": "Set",
-     "values": [
-      "аптэкарская вага",
-      "аптэкарскаявага"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "sistema apotecari",
-      "sistemaapotecari"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "apothekergewicht"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "apothecaries system",
-      "apothecariessystem"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema boticario",
-      "sistemaboticario"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "système des apothicaires",
-      "systèmedesapothicaires"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema apotecario",
-      "sistemaapotecario"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "薬衡"
-     ]
-    },
-    "la": {
-     "__type": "Set",
-     "values": [
-      "pondus medicinale",
-      "pondusmedicinale"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "аптекарский вес",
-      "аптекарскийвес"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "藥衡制"
-     ]
-    }
-   },
-   "dispLabel": "apothecaries' system",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q641227",
-   "ontology": "WD",
-   "labels": {
-    "hu": {
-     "__type": "Set",
-     "values": [
-      "angolszász mértékegység",
-      "angolszászmértékegység"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q641227"
-     ]
-    },
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "وحدات القياس الإمبراطورية",
-      "وحداتالقياسالإمبراطورية"
-     ]
-    },
-    "bg": {
-     "__type": "Set",
-     "values": [
-      "имперска единица",
-      "имперскаединица"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "sistema imperial d unitats",
-      "sistemaimperialdunitats"
-     ]
-    },
-    "cy": {
-     "__type": "Set",
-     "values": [
-      "unedau imperial",
-      "unedauimperial"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "imperiales maßsystem",
-      "imperialesmaßsystem"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "imperial system of units",
-      "imperialsystemofunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema imperial",
-      "sistemaimperial"
-     ]
-    },
-    "fa": {
-     "__type": "Set",
-     "values": [
-      "دستگاه امپراتوری",
-      "دستگاهامپراتوری"
-     ]
-    },
-    "fi": {
-     "__type": "Set",
-     "values": [
-      "brittiläinen yksikköjärjestelmä",
-      "brittiläinenyksikköjärjestelmä"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "système impérial",
-      "systèmeimpérial"
-     ]
-    },
-    "hr": {
-     "__type": "Set",
-     "values": [
-      "imperijalni sustav mjera",
-      "imperijalnisustavmjera"
-     ]
-    },
-    "id": {
-     "__type": "Set",
-     "values": [
-      "satuan imperial",
-      "satuanimperial"
-     ]
-    },
-    "is": {
-     "__type": "Set",
-     "values": [
-      "breskar mælieiningar",
-      "breskarmælieiningar"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema imperiale britannico",
-      "sistemaimperialebritannico"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "帝国単位"
-     ]
-    },
-    "jam": {
-     "__type": "Set",
-     "values": [
-      "impiiriyal yuunit",
-      "impiiriyalyuunit"
-     ]
-    },
-    "ko": {
-     "__type": "Set",
-     "values": [
-      "야드파운드법"
-     ]
-    },
-    "la": {
-     "__type": "Set",
-     "values": [
-      "mensurae anglicae",
-      "mensuraeanglicae"
-     ]
-    },
-    "mk": {
-     "__type": "Set",
-     "values": [
-      "империјална единица",
-      "империјалнаединица"
-     ]
-    },
-    "ms": {
-     "__type": "Set",
-     "values": [
-      "sistem imperial",
-      "sistemimperial"
-     ]
-    },
-    "nan": {
-     "__type": "Set",
-     "values": [
-      "tè-kok tan-ūi",
-      "tè-koktan-ūi"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "imperiaal stelsel",
-      "imperiaalstelsel"
-     ]
-    },
-    "nn": {
-     "__type": "Set",
-     "values": [
-      "britisk einingssystem for mål og vekt",
-      "britiskeiningssystemformålogvekt"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "jednostki imperialne",
-      "jednostkiimperialne"
-     ]
-    },
-    "pt": {
-     "__type": "Set",
-     "values": [
-      "sistema imperial",
-      "sistemaimperial"
-     ]
-    },
-    "ro": {
-     "__type": "Set",
-     "values": [
-      "sistemul imperial britanic de unități",
-      "sistemulimperialbritanicdeunități"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "имперская единица",
-      "имперскаяединица"
-     ]
-    },
-    "sh": {
-     "__type": "Set",
-     "values": [
-      "imperijalni sustav mjera",
-      "imperijalnisustavmjera"
-     ]
-    },
-    "sl": {
-     "__type": "Set",
-     "values": [
-      "imperialna enota",
-      "imperialnaenota"
-     ]
-    },
-    "sv": {
-     "__type": "Set",
-     "values": [
-      "brittiska måttenheter",
-      "brittiskamåttenheter"
-     ]
-    },
-    "ta": {
-     "__type": "Set",
-     "values": [
-      "இம்பீரியல் அலகு",
-      "இம்பீரியல்அலகு"
-     ]
-    },
-    "tr": {
-     "__type": "Set",
-     "values": [
-      "i̇ngiliz ölçü birimleri",
-      "i̇ngilizölçübirimleri"
-     ]
-    },
-    "ur": {
-     "__type": "Set",
-     "values": [
-      "imperial unit",
-      "imperialunit"
-     ]
-    },
-    "vi": {
-     "__type": "Set",
-     "values": [
-      "hệ đo lường anh",
-      "hệđolườnganh"
-     ]
-    },
-    "war": {
-     "__type": "Set",
-     "values": [
-      "yunit imperyal",
-      "yunitimperyal"
-     ]
-    },
-    "yue": {
-     "__type": "Set",
-     "values": [
-      "英制單位"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "英制单位"
-     ]
-    },
-    "cs": {
-     "__type": "Set",
-     "values": [
-      "imperiální jednotka",
-      "imperiálníjednotka"
-     ]
-    },
-    "ia": {
-     "__type": "Set",
-     "values": [
-      "systema imperial de unitates",
-      "systemaimperialdeunitates"
-     ]
-    }
-   },
-   "dispLabel": "imperial system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q435913",
-   "ontology": "WD",
-   "labels": {
-    "da": {
-     "__type": "Set",
-     "values": [
-      "danske måleenheder",
-      "danskemåleenheder"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q435913"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "dänischen maßsystem",
-      "dänischenmaßsystem"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "danish system of units",
-      "danishsystemofunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema danés de unidades",
-      "sistemadanésdeunidades"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "デンマークの度量衡"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "duńskie jednostki miar",
-      "duńskiejednostkimiar"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "датские единицы измерения",
-      "датскиеединицыизмерения"
-     ]
-    }
-   },
-   "dispLabel": "Danish system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q435951",
-   "ontology": "WD",
-   "labels": {
-    "de": {
-     "__type": "Set",
-     "values": [
-      "skandinavischen maßsysteme",
-      "skandinavischenmaßsysteme"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q435951"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema escandinavo de unidades",
-      "sistemaescandinavodeunidades"
-     ]
-    }
-   },
-   "dispLabel": "skandinavischen maßsysteme",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q435964",
-   "ontology": "WD",
-   "labels": {
-    "bn": {
-     "__type": "Set",
-     "values": [
-      "চরকা"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q435964"
-     ]
-    },
-    "bpy": {
-     "__type": "Set",
-     "values": [
-      "চরকা"
-     ]
-    },
-    "new": {
-     "__type": "Set",
-     "values": [
-      "चर्का"
-     ]
-    },
-    "vi": {
-     "__type": "Set",
-     "values": [
-      "charka"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "恰尔卡"
-     ]
-    },
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "وحدات قياس الطول الروسية القديمة",
-      "وحداتقياسالطولالروسيةالقديمة"
-     ]
-    },
-    "be": {
-     "__type": "Set",
-     "values": [
-      "руская сістэма мер",
-      "рускаясістэмамер"
-     ]
-    },
-    "be-tarask": {
-     "__type": "Set",
-     "values": [
-      "расейская сыстэма мер",
-      "расейскаясыстэмамер"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "unitats de mesura obsoletes de rússia",
-      "unitatsdemesuraobsoletesderússia"
-     ]
-    },
-    "cs": {
-     "__type": "Set",
-     "values": [
-      "ruská měrná soustava",
-      "ruskáměrnásoustava"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "maßsystem im alten russland",
-      "maßsystemimaltenrussland"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "russian system of units",
-      "russiansystemofunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema ruso de medidas",
-      "sistemarusodemedidas"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "ロシアの廃止された度量衡"
-     ]
-    },
-    "lv": {
-     "__type": "Set",
-     "values": [
-      "krievijas mēru sistēma",
-      "krievijasmērusistēma"
-     ]
-    },
-    "mk": {
-     "__type": "Set",
-     "values": [
-      "стара руска мерка",
-      "старарускамерка"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "miary rosyjskie",
-      "miaryrosyjskie"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "русская система мер",
-      "русскаясистемамер"
-     ]
-    },
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "руська система одиниць",
-      "руськасистемаодиниць"
-     ]
-    },
-    "zh-cn": {
-     "__type": "Set",
-     "values": [
-      "旧俄制"
-     ]
-    },
-    "zh-hant": {
-     "__type": "Set",
-     "values": [
-      "舊俄製"
-     ]
-    }
-   },
-   "dispLabel": "Russian system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q26240",
-   "ontology": "WD",
-   "labels": {
-    "eo": {
-     "__type": "Set",
-     "values": [
-      "cgs"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q26240"
-     ]
-    },
-    "id": {
-     "__type": "Set",
-     "values": [
-      "cgs"
-     ]
-    },
-    "vi": {
-     "__type": "Set",
-     "values": [
-      "cgs"
-     ]
-    },
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "نظام وحدات سنتيمتر غرام ثانية",
-      "نظاموحداتسنتيمترغرامثانية"
-     ]
-    },
-    "ast": {
-     "__type": "Set",
-     "values": [
-      "sistema ceguesimal",
-      "sistemaceguesimal"
-     ]
-    },
-    "az": {
-     "__type": "Set",
-     "values": [
-      "sqs"
-     ]
-    },
-    "be": {
-     "__type": "Set",
-     "values": [
-      "сгс"
-     ]
-    },
-    "be-tarask": {
-     "__type": "Set",
-     "values": [
-      "сгс"
-     ]
-    },
-    "bg": {
-     "__type": "Set",
-     "values": [
-      "система сантиметър-грам-секунда",
-      "системасантиметър-грам-секунда"
-     ]
-    },
-    "bn": {
-     "__type": "Set",
-     "values": [
-      "সিজিএস পদ্ধতি",
-      "সিজিএসপদ্ধতি"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "sistema cgs",
-      "sistemacgs"
-     ]
-    },
-    "cs": {
-     "__type": "Set",
-     "values": [
-      "soustava cgs",
-      "soustavacgs"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "cgs-einheitensystem"
-     ]
-    },
-    "el": {
-     "__type": "Set",
-     "values": [
-      "σύστημα cgs",
-      "σύστημαcgs"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "centimetre–gram–second system of units",
-      "centimetre–gram–secondsystemofunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema cegesimal de unidades",
-      "sistemacegesimaldeunidades"
-     ]
-    },
-    "et": {
-     "__type": "Set",
-     "values": [
-      "cgs-süsteem"
-     ]
-    },
-    "fa": {
-     "__type": "Set",
-     "values": [
-      "دستگاه واحدهای سانتیمتر-گرم-ثانیه",
-      "دستگاهواحدهایسانتیمتر-گرم-ثانیه"
-     ]
-    },
-    "fi": {
-     "__type": "Set",
-     "values": [
-      "cgs-järjestelmä"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "système cgs",
-      "systèmecgs"
-     ]
-    },
-    "frr": {
-     "__type": "Set",
-     "values": [
-      "cgs-süsteem"
-     ]
-    },
-    "gl": {
-     "__type": "Set",
-     "values": [
-      "sistema cgs",
-      "sistemacgs"
-     ]
-    },
-    "gsw": {
-     "__type": "Set",
-     "values": [
-      "cgs-einheitensystem"
-     ]
-    },
-    "he": {
-     "__type": "Set",
-     "values": [
-      "יחידות cgs",
-      "יחידותcgs"
-     ]
-    },
-    "hi": {
-     "__type": "Set",
-     "values": [
-      "सेंटीमीटर-ग्राम-सैकिण्ड इकाई प्रणाली",
-      "सेंटीमीटर-ग्राम-सैकिण्डइकाईप्रणाली"
-     ]
-    },
-    "hr": {
-     "__type": "Set",
-     "values": [
-      "cgs sustav",
-      "cgssustav"
-     ]
-    },
-    "is": {
-     "__type": "Set",
-     "values": [
-      "cgs-kerfi"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema cgs",
-      "sistemacgs"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "cgs単位系"
-     ]
-    },
-    "ka": {
-     "__type": "Set",
-     "values": [
-      "სანტიმეტრი-გრამი-წამი ერთეულთა სისტემა",
-      "სანტიმეტრი-გრამი-წამიერთეულთასისტემა"
-     ]
-    },
-    "ko": {
-     "__type": "Set",
-     "values": [
-      "cgs 단위계",
-      "cgs단위계"
-     ]
-    },
-    "mk": {
-     "__type": "Set",
-     "values": [
-      "сгс-систем"
-     ]
-    },
-    "ml": {
-     "__type": "Set",
-     "values": [
-      "സെന്റിമീറ്റർ-ഗ്രാം-സെക്കന്റ് വ്യവസ്ഥ",
-      "സെന്റിമീറ്റർ-ഗ്രാം-സെക്കന്റ്വ്യവസ്ഥ"
-     ]
-    },
-    "nb": {
-     "__type": "Set",
-     "values": [
-      "cgs-systemet"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "cgs-systeem"
-     ]
-    },
-    "nn": {
-     "__type": "Set",
-     "values": [
-      "cgs-systemet"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "układ jednostek miar cgs",
-      "układjednostekmiarcgs"
-     ]
-    },
-    "pt": {
-     "__type": "Set",
-     "values": [
-      "sistema cgs de unidades",
-      "sistemacgsdeunidades"
-     ]
-    },
-    "ro": {
-     "__type": "Set",
-     "values": [
-      "sistemul de unități cgs în electromagnetism",
-      "sistemuldeunitățicgsînelectromagnetism"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "сгс"
-     ]
-    },
-    "sk": {
-     "__type": "Set",
-     "values": [
-      "sústava cgs",
-      "sústavacgs"
-     ]
-    },
-    "sl": {
-     "__type": "Set",
-     "values": [
-      "sistem enot cgs",
-      "sistemenotcgs"
-     ]
-    },
-    "sv": {
-     "__type": "Set",
-     "values": [
-      "cgs-systemet"
-     ]
-    },
-    "th": {
-     "__type": "Set",
-     "values": [
-      "มาตราซีจีเอส"
-     ]
-    },
-    "tr": {
-     "__type": "Set",
-     "values": [
-      "c g s",
-      "cgs"
-     ]
-    },
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "сгс"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "厘米-克-秒制"
-     ]
-    },
-    "sco": {
-     "__type": "Set",
-     "values": [
-      "centimetre–gram–seicont seestem o units",
-      "centimetre–gram–seicontseestemounits"
-     ]
-    }
-   },
-   "dispLabel": "centimetre–gram–second system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q730906",
-   "ontology": "WD",
-   "labels": {
-    "et": {
-     "__type": "Set",
-     "values": [
-      "mksa-süsteem"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q730906"
-     ]
-    },
-    "nn": {
-     "__type": "Set",
-     "values": [
-      "mksa-systemet"
-     ]
-    },
-    "sh": {
-     "__type": "Set",
-     "values": [
-      "mksa"
-     ]
-    },
-    "sv": {
-     "__type": "Set",
-     "values": [
-      "mksa"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "sistema d unitats mksa",
-      "sistemadunitatsmksa"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "mksa-einheitensystem"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "mksa system of units",
-      "mksasystemofunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema de unidades mksa",
-      "sistemadeunidadesmksa"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "mksa"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema mksa",
-      "sistemamksa"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "mksa単位系"
-     ]
-    },
-    "mk": {
-     "__type": "Set",
-     "values": [
-      "мкса-систем"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "układ jednostek miar mksa",
-      "układjednostekmiarmksa"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "система единиц мкса",
-      "системаединицмкса"
-     ]
-    },
-    "sr": {
-     "__type": "Set",
-     "values": [
-      "мкса систем",
-      "мксасистем"
-     ]
-    },
-    "sr-ec": {
-     "__type": "Set",
-     "values": [
-      "мкса систем",
-      "мксасистем"
-     ]
-    },
-    "sr-el": {
-     "__type": "Set",
-     "values": [
-      "mksa sistem",
-      "mksasistem"
-     ]
-    },
-    "vi": {
-     "__type": "Set",
-     "values": [
-      "hệ đơn vị mksa",
-      "hệđơnvịmksa"
-     ]
-    }
-   },
-   "dispLabel": "MKSA system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q757568",
-   "ontology": "WD",
-   "labels": {
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "وحدة ذرية",
-      "وحدةذرية"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q757568"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "unitat atòmica",
-      "unitatatòmica"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "atomare einheiten",
-      "atomareeinheiten"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "atomic units",
-      "atomicunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "unidades atómicas",
-      "unidadesatómicas"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "système d unités atomiques",
-      "systèmedunitésatomiques"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "unità atomiche",
-      "unitàatomiche"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "原子単位系"
-     ]
-    },
-    "ko": {
-     "__type": "Set",
-     "values": [
-      "원자 단위계",
-      "원자단위계"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "atomaire eenheden",
-      "atomaireeenheden"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "jednostki atomowe",
-      "jednostkiatomowe"
-     ]
-    },
-    "pt": {
-     "__type": "Set",
-     "values": [
-      "unidades atômicas",
-      "unidadesatômicas"
-     ]
-    },
-    "ro": {
-     "__type": "Set",
-     "values": [
-      "unitate atomică",
-      "unitateatomică"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "атомная система единиц",
-      "атомнаясистемаединиц"
-     ]
-    },
-    "sl": {
-     "__type": "Set",
-     "values": [
-      "atomske enote",
-      "atomskeenote"
-     ]
-    },
-    "tr": {
-     "__type": "Set",
-     "values": [
-      "atomik birimler",
-      "atomikbirimler"
-     ]
-    },
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "атомна система одиниць",
-      "атомнасистемаодиниць"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "原子单位制"
-     ]
-    }
-   },
-   "dispLabel": "Atomic units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q791259",
-   "ontology": "WD",
-   "labels": {
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "أفردوبويز"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q791259"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "avoirdupois"
-     ]
-    },
-    "cs": {
-     "__type": "Set",
-     "values": [
-      "avoirdupois"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "avoirdupois"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "avoirdupois"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "avoirdupois"
-     ]
-    },
-    "fa": {
-     "__type": "Set",
-     "values": [
-      "اویردوپیز"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "avoirdupois"
-     ]
-    },
-    "hr": {
-     "__type": "Set",
-     "values": [
-      "avoirdupois sustav mjera",
-      "avoirdupoissustavmjera"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema avoirdupois",
-      "sistemaavoirdupois"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "常衡"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "avoirdupoids"
-     ]
-    },
-    "nn": {
-     "__type": "Set",
-     "values": [
-      "avoirdupois"
-     ]
-    },
-    "pt": {
-     "__type": "Set",
-     "values": [
-      "avoirdupois"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "эвердьюпойс"
-     ]
-    },
-    "tr": {
-     "__type": "Set",
-     "values": [
-      "i̇ngiliz tartı sistemi",
-      "i̇ngiliztartısistemi"
-     ]
-    },
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "евердьюпойс"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "常衡"
-     ]
-    }
-   },
-   "dispLabel": "avoirdupois",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q939202",
-   "ontology": "WD",
-   "labels": {
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "نظام وحدات متر طن ثانية",
-      "نظاموحداتمترطنثانية"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q939202"
-     ]
-    },
-    "be-tarask": {
-     "__type": "Set",
-     "values": [
-      "мтс"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "mts-system"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "metre–tonne–second system of units",
-      "metre–tonne–secondsystemofunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema mts de unidades",
-      "sistemamtsdeunidades"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "système d unités mètre-tonne-seconde",
-      "systèmedunitésmètre-tonne-seconde"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema mts",
-      "sistemamts"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "mts単位系"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "metre–tonne–second system of units",
-      "metre–tonne–secondsystemofunits"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "układ jednostek miar mts",
-      "układjednostekmiarmts"
-     ]
-    },
-    "pt": {
-     "__type": "Set",
-     "values": [
-      "sistema de unidades de metro-tonelada-segundo",
-      "sistemadeunidadesdemetro-tonelada-segundo"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "мтс"
-     ]
-    },
-    "sk": {
-     "__type": "Set",
-     "values": [
-      "sústava mts",
-      "sústavamts"
-     ]
-    },
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "мтс"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "米-公頓-秒制"
-     ]
-    }
-   },
-   "dispLabel": "metre–tonne–second system of units",
-   "raw": null
-  },
+  }
+ ],
+ "SWEET": [],
+ "SWEET3": [],
+ "UO": [],
+ "WD": [
   {
    "__type": "SemObject",
    "uri": "http://www.wikidata.org/entity/Q1016708",
    "ontology": "WD",
    "labels": {
-    "de": {
+    "en": {
      "__type": "Set",
      "values": [
-      "burmesisches maßsystem",
-      "burmesischesmaßsystem"
+      "burmese units of measurement",
+      "burmeseunitsofmeasurement"
      ]
     },
     "_uri": {
@@ -3772,18 +902,11 @@
       "q1016708"
      ]
     },
-    "en": {
+    "de": {
      "__type": "Set",
      "values": [
-      "burmese units of measurement",
-      "burmeseunitsofmeasurement"
-     ]
-    },
-    "hi": {
-     "__type": "Set",
-     "values": [
-      "बर्मा में प्रचलित मापन इकाईया",
-      "बर्मामेंप्रचलितमापनइकाईया"
+      "burmesisches maßsystem",
+      "burmesischesmaßsystem"
      ]
     },
     "hr": {
@@ -3800,16 +923,31 @@
       "sistemsatuanpengukuranmyanmar"
      ]
     },
-    "ja": {
+    "pt": {
      "__type": "Set",
      "values": [
-      "ミャンマーの度量衡"
+      "unidades de medida birmanesas",
+      "unidadesdemedidabirmanesas"
      ]
     },
     "ms": {
      "__type": "Set",
      "values": [
       "viss"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "бирманская система мер",
+      "бирманскаясистемамер"
+     ]
+    },
+    "hi": {
+     "__type": "Set",
+     "values": [
+      "बर्मा में प्रचलित मापन इकाईया",
+      "बर्मामेंप्रचलितमापनइकाईया"
      ]
     },
     "my": {
@@ -3819,18 +957,10 @@
       "မြန်မာ့ရိုးရာအတိုင်းအတာယူနစ်များ"
      ]
     },
-    "pt": {
+    "ja": {
      "__type": "Set",
      "values": [
-      "unidades de medida birmanesas",
-      "unidadesdemedidabirmanesas"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "бирманская система мер",
-      "бирманскаясистемамер"
+      "ミャンマーの度量衡"
      ]
     },
     "zh": {
@@ -3848,30 +978,17 @@
    "uri": "http://www.wikidata.org/entity/Q1029751",
    "ontology": "WD",
    "labels": {
-    "ast": {
+    "hu": {
      "__type": "Set",
      "values": [
-      "sistema xaponés d unidaes",
-      "sistemaxaponésdunidaes"
+      "japán mértékegységrendszer",
+      "japánmértékegységrendszer"
      ]
     },
     "_uri": {
      "__type": "Set",
      "values": [
       "q1029751"
-     ]
-    },
-    "be-tarask": {
-     "__type": "Set",
-     "values": [
-      "японская сыстэма мер",
-      "японскаясыстэмамер"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "shakkanhō"
      ]
     },
     "en": {
@@ -3881,51 +998,17 @@
       "japanesesystemofmeasurement"
      ]
     },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema japonés de unidades",
-      "sistemajaponésdeunidades"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "système d unités de mesure japonaises",
-      "systèmedunitésdemesurejaponaises"
-     ]
-    },
-    "hi": {
-     "__type": "Set",
-     "values": [
-      "जापानी मापन इकाइयाँ",
-      "जापानीमापनइकाइयाँ"
-     ]
-    },
-    "hu": {
-     "__type": "Set",
-     "values": [
-      "japán mértékegységrendszer",
-      "japánmértékegységrendszer"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "尺貫法"
-     ]
-    },
-    "ko": {
-     "__type": "Set",
-     "values": [
-      "척근법"
-     ]
-    },
     "pl": {
      "__type": "Set",
      "values": [
       "japońskie jednostki miary",
       "japońskiejednostkimiary"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "shakkanhō"
      ]
     },
     "pt": {
@@ -3935,11 +1018,53 @@
       "sistemademedidajaponês"
      ]
     },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema japonés de unidades",
+      "sistemajaponésdeunidades"
+     ]
+    },
+    "ast": {
+     "__type": "Set",
+     "values": [
+      "sistema xaponés d unidaes",
+      "sistemaxaponésdunidaes"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "système d unités de mesure japonaises",
+      "systèmedunitésdemesurejaponaises"
+     ]
+    },
     "ru": {
      "__type": "Set",
      "values": [
       "японская система мер",
       "японскаясистемамер"
+     ]
+    },
+    "be-tarask": {
+     "__type": "Set",
+     "values": [
+      "японская сыстэма мер",
+      "японскаясыстэмамер"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "японська система мір",
+      "японськасистемамір"
+     ]
+    },
+    "hi": {
+     "__type": "Set",
+     "values": [
+      "जापानी मापन इकाइयाँ",
+      "जापानीमापनइकाइयाँ"
      ]
     },
     "th": {
@@ -3948,11 +1073,10 @@
       "มาตราชั่งตวงวัดของญี่ปุ่น"
      ]
     },
-    "uk": {
+    "ko": {
      "__type": "Set",
      "values": [
-      "японська система мір",
-      "японськасистемамір"
+      "척근법"
      ]
     },
     "zh": {
@@ -3965,6 +1089,12 @@
      "__type": "Set",
      "values": [
       "东亚传统计量体系"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "尺貫法"
      ]
     },
     "zh-hant": {
@@ -3985,840 +1115,14 @@
   },
   {
    "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q1116609",
-   "ontology": "WD",
-   "labels": {
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "وحدات قياس عرفية أمريكية",
-      "وحداتقياسعرفيةأمريكية"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q1116609"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "unitats de mesura dels estats units",
-      "unitatsdemesuradelsestatsunits"
-     ]
-    },
-    "cs": {
-     "__type": "Set",
-     "values": [
-      "americká běžná jednotka",
-      "americkáběžnájednotka"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "amerikanisches maßsystem",
-      "amerikanischesmaßsystem"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "united states customary system",
-      "unitedstatescustomarysystem"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema tradicional de estados unidos",
-      "sistematradicionaldeestadosunidos"
-     ]
-    },
-    "fa": {
-     "__type": "Set",
-     "values": [
-      "دستگاه آمریکایی",
-      "دستگاهآمریکایی"
-     ]
-    },
-    "fi": {
-     "__type": "Set",
-     "values": [
-      "yhdysvaltalaiset mittayksiköt",
-      "yhdysvaltalaisetmittayksiköt"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "système d unités américaines",
-      "systèmedunitésaméricaines"
-     ]
-    },
-    "he": {
-     "__type": "Set",
-     "values": [
-      "מערכת יחידות המידה של ארצות הברית",
-      "מערכתיחידותהמידהשלארצותהברית"
-     ]
-    },
-    "hi": {
-     "__type": "Set",
-     "values": [
-      "संयुक्त राज्य परंपरागत इकाइयाँ",
-      "संयुक्तराज्यपरंपरागतइकाइयाँ"
-     ]
-    },
-    "hr": {
-     "__type": "Set",
-     "values": [
-      "američki sustav mjera",
-      "američkisustavmjera"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema consuetudinario statunitense",
-      "sistemaconsuetudinariostatunitense"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "米国慣用単位"
-     ]
-    },
-    "ko": {
-     "__type": "Set",
-     "values": [
-      "미국 단위계",
-      "미국단위계"
-     ]
-    },
-    "pt": {
-     "__type": "Set",
-     "values": [
-      "sistema de medida usual nos estados unidos",
-      "sistemademedidausualnosestadosunidos"
-     ]
-    },
-    "ro": {
-     "__type": "Set",
-     "values": [
-      "sistemul cutumiar american de unități",
-      "sistemulcutumiaramericandeunități"
-     ]
-    },
-    "sv": {
-     "__type": "Set",
-     "values": [
-      "traditionella amerikanska mått",
-      "traditionellaamerikanskamått"
-     ]
-    },
-    "tr": {
-     "__type": "Set",
-     "values": [
-      "abd geleneksel birimleri",
-      "abdgelenekselbirimleri"
-     ]
-    },
-    "ur": {
-     "__type": "Set",
-     "values": [
-      "united states customary units",
-      "unitedstatescustomaryunits"
-     ]
-    },
-    "war": {
-     "__type": "Set",
-     "values": [
-      "yunit panukol han estados unidos",
-      "yunitpanukolhanestadosunidos"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "美式英制单位"
-     ]
-    }
-   },
-   "dispLabel": "United States customary system",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q1213508",
-   "ontology": "WD",
-   "labels": {
-    "ast": {
-     "__type": "Set",
-     "values": [
-      "sistema téunicu d unidaes",
-      "sistematéunicudunidaes"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q1213508"
-     ]
-    },
-    "fi": {
-     "__type": "Set",
-     "values": [
-      "tekninen mittajärjestelmä",
-      "tekninenmittajärjestelmä"
-     ]
-    },
-    "be-tarask": {
-     "__type": "Set",
-     "values": [
-      "мкгсс"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "sistema tècnic",
-      "sistematècnic"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "technisches maßsystem",
-      "technischesmaßsystem"
-     ]
-    },
-    "de-ch": {
-     "__type": "Set",
-     "values": [
-      "technisches masssystem",
-      "technischesmasssystem"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "gravitational metric system",
-      "gravitationalmetricsystem"
-     ]
-    },
-    "en-ca": {
-     "__type": "Set",
-     "values": [
-      "gravitational metric system",
-      "gravitationalmetricsystem"
-     ]
-    },
-    "en-gb": {
-     "__type": "Set",
-     "values": [
-      "gravitational metric system",
-      "gravitationalmetricsystem"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema técnico de unidades",
-      "sistematécnicodeunidades"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "système des méchaniciens",
-      "systèmedesméchaniciens"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema pratico degli ingegneri",
-      "sistemapraticodegliingegneri"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "重力単位系"
-     ]
-    },
-    "mk": {
-     "__type": "Set",
-     "values": [
-      "гравитациски метрички систем",
-      "гравитацискиметричкисистем"
-     ]
-    },
-    "nl": {
-     "__type": "Set",
-     "values": [
-      "gravitational metric system",
-      "gravitationalmetricsystem"
-     ]
-    },
-    "nn": {
-     "__type": "Set",
-     "values": [
-      "det tekniske einingsysstemet",
-      "dettekniskeeiningsysstemet"
-     ]
-    },
-    "pl": {
-     "__type": "Set",
-     "values": [
-      "układ jednostek miar ciężarowy",
-      "układjednostekmiarciężarowy"
-     ]
-    },
-    "ro": {
-     "__type": "Set",
-     "values": [
-      "sistemul mkf s de unități",
-      "sistemulmkfsdeunități"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "мкгсс"
-     ]
-    },
-    "sr": {
-     "__type": "Set",
-     "values": [
-      "гравитациони метрички систем",
-      "гравитациониметричкисистем"
-     ]
-    },
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "мкгсс"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "重力米制"
-     ]
-    },
-    "hu": {
-     "__type": "Set",
-     "values": [
-      "műszaki–technikai mértékegységrendszer",
-      "műszaki–technikaimértékegységrendszer"
-     ]
-    }
-   },
-   "dispLabel": "gravitational metric system",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q1274918",
-   "ontology": "WD",
-   "labels": {
-    "de": {
-     "__type": "Set",
-     "values": [
-      "heaviside-lorentz-einheitensystem"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q1274918"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "lorentz–heaviside units",
-      "lorentz–heavisideunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "unidades de lorentz–heaviside",
-      "unidadesdelorentz–heaviside"
-     ]
-    },
-    "ko": {
-     "__type": "Set",
-     "values": [
-      "헤비사이드-로런츠 단위계",
-      "헤비사이드-로런츠단위계"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "лоренца-хевисайда сгс",
-      "лоренца-хевисайдасгс"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "勞侖茲-黑維塞單位制"
-     ]
-    }
-   },
-   "dispLabel": "Lorentz–Heaviside units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q1370826",
-   "ontology": "WD",
-   "labels": {
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "unitats electrostàtiques",
-      "unitatselectrostàtiques"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q1370826"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "elektrostatisches einheitensystem",
-      "elektrostatischeseinheitensystem"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "electrostatic system of units",
-      "electrostaticsystemofunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema de unidades electrostáticas",
-      "sistemadeunidadeselectrostáticas"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "абсолютная электростатическая система",
-      "абсолютнаяэлектростатическаясистема"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "靜電單位制"
-     ]
-    }
-   },
-   "dispLabel": "electrostatic system of units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q1414173",
-   "ontology": "WD",
-   "labels": {
-    "de-ch": {
-     "__type": "Set",
-     "values": [
-      "alte masse und gewichte",
-      "altemasseundgewichte"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q1414173"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "alte maße und gewichte in spanien",
-      "altemaßeundgewichteinspanien"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "spanish customary units",
-      "spanishcustomaryunits"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema español de unidades",
-      "sistemaespañoldeunidades"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "anciennes unités de mesure espagnoles",
-      "anciennesunitésdemesureespagnoles"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "スペインの慣用単位"
-     ]
-    }
-   },
-   "dispLabel": "Spanish customary units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q1496383",
-   "ontology": "WD",
-   "labels": {
-    "de": {
-     "__type": "Set",
-     "values": [
-      "internationales system elektrischer und magnetischer einheiten",
-      "internationalessystemelektrischerundmagnetischereinheiten"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q1496383"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "international system of electrical and magnetic units",
-      "internationalsystemofelectricalandmagneticunits"
-     ]
-    },
-    "it": {
-     "__type": "Set",
-     "values": [
-      "sistema internazionale di unità elettriche e magnetiche",
-      "sistemainternazionalediunitàelettricheemagnetiche"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "電磁気の単位"
-     ]
-    },
-    "nn": {
-     "__type": "Set",
-     "values": [
-      "internasjonale elektriske einingar",
-      "internasjonaleelektriskeeiningar"
-     ]
-    }
-   },
-   "dispLabel": "International System of Electrical and Magnetic Units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q1932187",
-   "ontology": "WD",
-   "labels": {
-    "de": {
-     "__type": "Set",
-     "values": [
-      "miesches einheitensystem",
-      "miescheseinheitensystem"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q1932187"
-     ]
-    }
-   },
-   "dispLabel": "miesches einheitensystem",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q3234036",
-   "ontology": "WD",
-   "labels": {
-    "ar": {
-     "__type": "Set",
-     "values": [
-      "الوحدات الفيزيائية الجاوسية",
-      "الوحداتالفيزيائيةالجاوسية"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q3234036"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "unitats gaussianes",
-      "unitatsgaussianes"
-     ]
-    },
-    "de": {
-     "__type": "Set",
-     "values": [
-      "gaußsches einheitensystem",
-      "gaußscheseinheitensystem"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "gaussian units",
-      "gaussianunits"
-     ]
-    },
-    "fi": {
-     "__type": "Set",
-     "values": [
-      "gaussin yksikköjärjestelmä",
-      "gaussinyksikköjärjestelmä"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "電磁気の単位 cgsガウス単位系",
-      "電磁気の単位cgsガウス単位系"
-     ]
-    },
-    "ka": {
-     "__type": "Set",
-     "values": [
-      "გაუსის ერთეულთა სისტემა",
-      "გაუსისერთეულთასისტემა"
-     ]
-    },
-    "nn": {
-     "__type": "Set",
-     "values": [
-      "gauss-systemet"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "гауссова сгс",
-      "гауссовасгс"
-     ]
-    },
-    "sl": {
-     "__type": "Set",
-     "values": [
-      "gaussov sistem enot",
-      "gaussovsistemenot"
-     ]
-    },
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "ґаусса система одиниць",
-      "ґауссасистемаодиниць"
-     ]
-    },
-    "zh": {
-     "__type": "Set",
-     "values": [
-      "高斯單位制"
-     ]
-    },
-    "zh-hans": {
-     "__type": "Set",
-     "values": [
-      "高斯单位制"
-     ]
-    },
-    "zh-hant": {
-     "__type": "Set",
-     "values": [
-      "高斯單位制"
-     ]
-    },
-    "zh-hk": {
-     "__type": "Set",
-     "values": [
-      "高斯單位制"
-     ]
-    }
-   },
-   "dispLabel": "Gaussian units",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q4420945",
-   "ontology": "WD",
-   "labels": {
-    "be": {
-     "__type": "Set",
-     "values": [
-      "беларуская сістэма мер",
-      "беларускаясістэмамер"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q4420945"
-     ]
-    },
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "sistema d unitats del gran ducat de lituània",
-      "sistemadunitatsdelgranducatdelituània"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "system of measures in the gran duchy of lithuania",
-      "systemofmeasuresinthegranduchyoflithuania"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema de medidas del gran ducado de lituania",
-      "sistemademedidasdelgranducadodelituania"
-     ]
-    },
-    "ru": {
-     "__type": "Set",
-     "values": [
-      "система мер в великом княжестве литовском",
-      "системамерввеликомкняжествелитовском"
-     ]
-    },
-    "uk": {
-     "__type": "Set",
-     "values": [
-      "білоруська система мір",
-      "білоруськасистемамір"
-     ]
-    }
-   },
-   "dispLabel": "system of measures in the Gran Duchy of Lithuania",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q5466615",
-   "ontology": "WD",
-   "labels": {
-    "ca": {
-     "__type": "Set",
-     "values": [
-      "sistema peu-lliura-segon",
-      "sistemapeu-lliura-segon"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q5466615"
-     ]
-    },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "foot–pound–second system",
-      "foot–pound–secondsystem"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema pie-libra-segundo",
-      "sistemapie-libra-segundo"
-     ]
-    },
-    "ja": {
-     "__type": "Set",
-     "values": [
-      "fps単位系"
-     ]
-    },
-    "ml": {
-     "__type": "Set",
-     "values": [
-      "ഫൂട്ട്- പൗണ്ട്-സെക്കന്റ് വ്യവസ്ഥ",
-      "ഫൂട്ട്-പൗണ്ട്-സെക്കന്റ്വ്യവസ്ഥ"
-     ]
-    }
-   },
-   "dispLabel": "foot–pound–second system",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q8023875",
-   "ontology": "WD",
-   "labels": {
-    "en": {
-     "__type": "Set",
-     "values": [
-      "winchester measure",
-      "winchestermeasure"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "q8023875"
-     ]
-    },
-    "es": {
-     "__type": "Set",
-     "values": [
-      "sistema winchester",
-      "sistemawinchester"
-     ]
-    }
-   },
-   "dispLabel": "Winchester measure",
-   "raw": null
-  },
-  {
-   "__type": "SemObject",
    "uri": "http://www.wikidata.org/entity/Q10502481",
    "ontology": "WD",
    "labels": {
-    "en": {
+    "sv": {
      "__type": "Set",
      "values": [
-      "swedish system of measurement",
-      "swedishsystemofmeasurement"
+      "gamla svenska mått",
+      "gamlasvenskamått"
      ]
     },
     "_uri": {
@@ -4834,10 +1138,11 @@
       "sistemasuecodeunidades"
      ]
     },
-    "ja": {
+    "en": {
      "__type": "Set",
      "values": [
-      "スウェーデンの度量衡"
+      "swedish system of measurement",
+      "swedishsystemofmeasurement"
      ]
     },
     "pl": {
@@ -4854,15 +1159,181 @@
       "шведскиеединицыизмерения"
      ]
     },
-    "sv": {
+    "ja": {
      "__type": "Set",
      "values": [
-      "gamla svenska mått",
-      "gamlasvenskamått"
+      "スウェーデンの度量衡"
      ]
     }
    },
    "dispLabel": "Swedish system of measurement",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q1116609",
+   "ontology": "WD",
+   "labels": {
+    "tr": {
+     "__type": "Set",
+     "values": [
+      "abd geleneksel birimleri",
+      "abdgelenekselbirimleri"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q1116609"
+     ]
+    },
+    "cs": {
+     "__type": "Set",
+     "values": [
+      "americká běžná jednotka",
+      "americkáběžnájednotka"
+     ]
+    },
+    "hr": {
+     "__type": "Set",
+     "values": [
+      "američki sustav mjera",
+      "američkisustavmjera"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "amerikanisches maßsystem",
+      "amerikanischesmaßsystem"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema consuetudinario statunitense",
+      "sistemaconsuetudinariostatunitense"
+     ]
+    },
+    "pt": {
+     "__type": "Set",
+     "values": [
+      "sistema de medida usual nos estados unidos",
+      "sistemademedidausualnosestadosunidos"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema tradicional de estados unidos",
+      "sistematradicionaldeestadosunidos"
+     ]
+    },
+    "ro": {
+     "__type": "Set",
+     "values": [
+      "sistemul cutumiar american de unități",
+      "sistemulcutumiaramericandeunități"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "système d unités américaines",
+      "systèmedunitésaméricaines"
+     ]
+    },
+    "sv": {
+     "__type": "Set",
+     "values": [
+      "traditionella amerikanska mått",
+      "traditionellaamerikanskamått"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "unitats de mesura dels estats units",
+      "unitatsdemesuradelsestatsunits"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "united states customary system",
+      "unitedstatescustomarysystem"
+     ]
+    },
+    "ur": {
+     "__type": "Set",
+     "values": [
+      "united states customary units",
+      "unitedstatescustomaryunits"
+     ]
+    },
+    "fi": {
+     "__type": "Set",
+     "values": [
+      "yhdysvaltalaiset mittayksiköt",
+      "yhdysvaltalaisetmittayksiköt"
+     ]
+    },
+    "war": {
+     "__type": "Set",
+     "values": [
+      "yunit panukol han estados unidos",
+      "yunitpanukolhanestadosunidos"
+     ]
+    },
+    "he": {
+     "__type": "Set",
+     "values": [
+      "מערכת יחידות המידה של ארצות הברית",
+      "מערכתיחידותהמידהשלארצותהברית"
+     ]
+    },
+    "fa": {
+     "__type": "Set",
+     "values": [
+      "دستگاه آمریکایی",
+      "دستگاهآمریکایی"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "وحدات قياس عرفية أمريكية",
+      "وحداتقياسعرفيةأمريكية"
+     ]
+    },
+    "hi": {
+     "__type": "Set",
+     "values": [
+      "संयुक्त राज्य परंपरागत इकाइयाँ",
+      "संयुक्तराज्यपरंपरागतइकाइयाँ"
+     ]
+    },
+    "ko": {
+     "__type": "Set",
+     "values": [
+      "미국 단위계",
+      "미국단위계"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "米国慣用単位"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "美式英制单位"
+     ]
+    }
+   },
+   "dispLabel": "United States customary system",
    "raw": null
   },
   {
@@ -4911,6 +1382,1061 @@
   },
   {
    "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q1213508",
+   "ontology": "WD",
+   "labels": {
+    "nn": {
+     "__type": "Set",
+     "values": [
+      "det tekniske einingsysstemet",
+      "dettekniskeeiningsysstemet"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q1213508"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "gravitational metric system",
+      "gravitationalmetricsystem"
+     ]
+    },
+    "en-ca": {
+     "__type": "Set",
+     "values": [
+      "gravitational metric system",
+      "gravitationalmetricsystem"
+     ]
+    },
+    "en-gb": {
+     "__type": "Set",
+     "values": [
+      "gravitational metric system",
+      "gravitationalmetricsystem"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "gravitational metric system",
+      "gravitationalmetricsystem"
+     ]
+    },
+    "hu": {
+     "__type": "Set",
+     "values": [
+      "műszaki–technikai mértékegységrendszer",
+      "műszaki–technikaimértékegységrendszer"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema pratico degli ingegneri",
+      "sistemapraticodegliingegneri"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "sistema tècnic",
+      "sistematècnic"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema técnico de unidades",
+      "sistematécnicodeunidades"
+     ]
+    },
+    "ast": {
+     "__type": "Set",
+     "values": [
+      "sistema téunicu d unidaes",
+      "sistematéunicudunidaes"
+     ]
+    },
+    "ro": {
+     "__type": "Set",
+     "values": [
+      "sistemul mkf s de unități",
+      "sistemulmkfsdeunități"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "système des méchaniciens",
+      "systèmedesméchaniciens"
+     ]
+    },
+    "de-ch": {
+     "__type": "Set",
+     "values": [
+      "technisches masssystem",
+      "technischesmasssystem"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "technisches maßsystem",
+      "technischesmaßsystem"
+     ]
+    },
+    "fi": {
+     "__type": "Set",
+     "values": [
+      "tekninen mittajärjestelmä",
+      "tekninenmittajärjestelmä"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "układ jednostek miar ciężarowy",
+      "układjednostekmiarciężarowy"
+     ]
+    },
+    "sr": {
+     "__type": "Set",
+     "values": [
+      "гравитациони метрички систем",
+      "гравитациониметричкисистем"
+     ]
+    },
+    "mk": {
+     "__type": "Set",
+     "values": [
+      "гравитациски метрички систем",
+      "гравитацискиметричкисистем"
+     ]
+    },
+    "be-tarask": {
+     "__type": "Set",
+     "values": [
+      "мкгсс"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "мкгсс"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "мкгсс"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "重力単位系"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "重力米制"
+     ]
+    }
+   },
+   "dispLabel": "gravitational metric system",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q12457",
+   "ontology": "WD",
+   "labels": {
+    "is": {
+     "__type": "Set",
+     "values": [
+      "alþjóðlega einingakerfið",
+      "alþjóðlegaeiningakerfið"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q12457"
+     ]
+    },
+    "ga": {
+     "__type": "Set",
+     "values": [
+      "córas idirnáisiúnta na n aonad",
+      "córasidirnáisiúntananaonad"
+     ]
+    },
+    "so": {
+     "__type": "Set",
+     "values": [
+      "horgale"
+     ]
+    },
+    "jam": {
+     "__type": "Set",
+     "values": [
+      "intanashinal sistim a yuunit",
+      "intanashinalsistimayuunit"
+     ]
+    },
+    "eo": {
+     "__type": "Set",
+     "values": [
+      "internacia sistemo de unuoj",
+      "internaciasistemodeunuoj"
+     ]
+    },
+    "ilo": {
+     "__type": "Set",
+     "values": [
+      "internasional a sistema dagiti yunit",
+      "internasionalasistemadagitiyunit"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "international system of units",
+      "internationalsystemofunits"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "internationales einheitensystem",
+      "internationaleseinheitensystem"
+     ]
+    },
+    "lb": {
+     "__type": "Set",
+     "values": [
+      "internationalt eenheetesystem",
+      "internationalteenheetesystem"
+     ]
+    },
+    "sv": {
+     "__type": "Set",
+     "values": [
+      "internationella måttenhetssystemet",
+      "internationellamåttenhetssystemet"
+     ]
+    },
+    "nds": {
+     "__type": "Set",
+     "values": [
+      "internatschonal eenheitensystem",
+      "internatschonaleenheitensystem"
+     ]
+    },
+    "yo": {
+     "__type": "Set",
+     "values": [
+      "ìwọ̀n ẹyọ akáríayé si",
+      "ìwọ̀nẹyọakáríayési"
+     ]
+    },
+    "war": {
+     "__type": "Set",
+     "values": [
+      "kanasodnon sistema han mga yunit",
+      "kanasodnonsistemahanmgayunit"
+     ]
+    },
+    "fi": {
+     "__type": "Set",
+     "values": [
+      "kansainvälinen yksikköjärjestelmä",
+      "kansainvälinenyksikköjärjestelmä"
+     ]
+    },
+    "nan": {
+     "__type": "Set",
+     "values": [
+      "kok-chè tan-ūi hē-thóng",
+      "kok-chètan-ūihē-thóng"
+     ]
+    },
+    "sl": {
+     "__type": "Set",
+     "values": [
+      "mednarodni sistem enot",
+      "mednarodnisistemenot"
+     ]
+    },
+    "hr": {
+     "__type": "Set",
+     "values": [
+      "međunarodni sustav mjernih jedinica",
+      "međunarodnisustavmjernihjedinica"
+     ]
+    },
+    "fo": {
+     "__type": "Set",
+     "values": [
+      "millumtjóða eindarskipanin",
+      "millumtjóðaeindarskipanin"
+     ]
+    },
+    "eu": {
+     "__type": "Set",
+     "values": [
+      "nazioarteko unitate sistema",
+      "nazioartekounitatesistema"
+     ]
+    },
+    "tl": {
+     "__type": "Set",
+     "values": [
+      "pandaigdigang sistema ng mga yunit",
+      "pandaigdigangsistemangmgayunit"
+     ]
+    },
+    "br": {
+     "__type": "Set",
+     "values": [
+      "reizhiad etrebroadel unanennoù ar fizik",
+      "reizhiadetrebroadelunanennoùarfizik"
+     ]
+    },
+    "hif": {
+     "__type": "Set",
+     "values": [
+      "si"
+     ]
+    },
+    "li": {
+     "__type": "Set",
+     "values": [
+      "si"
+     ]
+    },
+    "lt": {
+     "__type": "Set",
+     "values": [
+      "si"
+     ]
+    },
+    "nso": {
+     "__type": "Set",
+     "values": [
+      "si"
+     ]
+    },
+    "sco": {
+     "__type": "Set",
+     "values": [
+      "si"
+     ]
+    },
+    "sgs": {
+     "__type": "Set",
+     "values": [
+      "si"
+     ]
+    },
+    "sh": {
+     "__type": "Set",
+     "values": [
+      "si"
+     ]
+    },
+    "sk": {
+     "__type": "Set",
+     "values": [
+      "si"
+     ]
+    },
+    "uz": {
+     "__type": "Set",
+     "values": [
+      "si"
+     ]
+    },
+    "vi": {
+     "__type": "Set",
+     "values": [
+      "si"
+     ]
+    },
+    "az": {
+     "__type": "Set",
+     "values": [
+      "si̇"
+     ]
+    },
+    "hu": {
+     "__type": "Set",
+     "values": [
+      "si mértékegységrendszer",
+      "simértékegységrendszer"
+     ]
+    },
+    "bs": {
+     "__type": "Set",
+     "values": [
+      "si sistem",
+      "sisistem"
+     ]
+    },
+    "qu": {
+     "__type": "Set",
+     "values": [
+      "si tupuy",
+      "situpuy"
+     ]
+    },
+    "ksh": {
+     "__type": "Set",
+     "values": [
+      "si-basiseinheite"
+     ]
+    },
+    "gsw": {
+     "__type": "Set",
+     "values": [
+      "si-einheitesytem"
+     ]
+    },
+    "af": {
+     "__type": "Set",
+     "values": [
+      "si-stelsel"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "si-stelsel"
+     ]
+    },
+    "et": {
+     "__type": "Set",
+     "values": [
+      "si-süsteem"
+     ]
+    },
+    "frr": {
+     "__type": "Set",
+     "values": [
+      "si-süsteem"
+     ]
+    },
+    "vls": {
+     "__type": "Set",
+     "values": [
+      "si-systèm"
+     ]
+    },
+    "nb": {
+     "__type": "Set",
+     "values": [
+      "si-systemet"
+     ]
+    },
+    "nn": {
+     "__type": "Set",
+     "values": [
+      "si-systemet"
+     ]
+    },
+    "gd": {
+     "__type": "Set",
+     "values": [
+      "siostam eadar-nàiseanta nan aonadan",
+      "siostameadar-nàiseantananaonadan"
+     ]
+    },
+    "su": {
+     "__type": "Set",
+     "values": [
+      "sistem hijian internasional",
+      "sistemhijianinternasional"
+     ]
+    },
+    "jv": {
+     "__type": "Set",
+     "values": [
+      "sistem pétungan internasional",
+      "sistempétunganinternasional"
+     ]
+    },
+    "id": {
+     "__type": "Set",
+     "values": [
+      "sistem satuan internasional",
+      "sistemsatuaninternasional"
+     ]
+    },
+    "ms": {
+     "__type": "Set",
+     "values": [
+      "sistem unit antarabangsa",
+      "sistemunitantarabangsa"
+     ]
+    },
+    "ast": {
+     "__type": "Set",
+     "values": [
+      "sistema internacional d unidaes",
+      "sistemainternacionaldunidaes"
+     ]
+    },
+    "an": {
+     "__type": "Set",
+     "values": [
+      "sistema internacional d unidatz",
+      "sistemainternacionaldunidatz"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "sistema internacional d unitats",
+      "sistemainternacionaldunitats"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema internacional de unidades",
+      "sistemainternacionaldeunidades"
+     ]
+    },
+    "gl": {
+     "__type": "Set",
+     "values": [
+      "sistema internacional de unidades",
+      "sistemainternacionaldeunidades"
+     ]
+    },
+    "pt": {
+     "__type": "Set",
+     "values": [
+      "sistema internacional de unidades",
+      "sistemainternacionaldeunidades"
+     ]
+    },
+    "oc": {
+     "__type": "Set",
+     "values": [
+      "sistèma internacionau d unitats",
+      "sistèmainternacionaudunitats"
+     ]
+    },
+    "vec": {
+     "__type": "Set",
+     "values": [
+      "sistema internasional",
+      "sistemainternasional"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema internazionale di unità di misura",
+      "sistemainternazionalediunitàdimisura"
+     ]
+    },
+    "ku": {
+     "__type": "Set",
+     "values": [
+      "sîstema navneteweyî ya yekeyan",
+      "sîstemanavneteweyîyayekeyan"
+     ]
+    },
+    "roa-tara": {
+     "__type": "Set",
+     "values": [
+      "sisteme ndernazionale de aunità de mesure",
+      "sistemendernazionaledeaunitàdemesure"
+     ]
+    },
+    "fur": {
+     "__type": "Set",
+     "values": [
+      "sisteme internazionâl di unitâts",
+      "sistemeinternazionâldiunitâts"
+     ]
+    },
+    "sq": {
+     "__type": "Set",
+     "values": [
+      "sistemi si",
+      "sistemisi"
+     ]
+    },
+    "ro": {
+     "__type": "Set",
+     "values": [
+      "sistemul internațional de unități",
+      "sistemulinternaționaldeunități"
+     ]
+    },
+    "cs": {
+     "__type": "Set",
+     "values": [
+      "soustava si",
+      "soustavasi"
+     ]
+    },
+    "lv": {
+     "__type": "Set",
+     "values": [
+      "starptautiskā mērvienību sistēma",
+      "starptautiskāmērvienībusistēma"
+     ]
+    },
+    "cy": {
+     "__type": "Set",
+     "values": [
+      "system ryngwladol o unedau",
+      "systemryngwladolounedau"
+     ]
+    },
+    "ia": {
+     "__type": "Set",
+     "values": [
+      "systema international de unitates",
+      "systemainternationaldeunitates"
+     ]
+    },
+    "la": {
+     "__type": "Set",
+     "values": [
+      "systema internationale",
+      "systemainternationale"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "système international d unités",
+      "systèmeinternationaldunités"
+     ]
+    },
+    "da": {
+     "__type": "Set",
+     "values": [
+      "système international d unités",
+      "systèmeinternationaldunités"
+     ]
+    },
+    "jbo": {
+     "__type": "Set",
+     "values": [
+      "treci e",
+      "trecie"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "układ si",
+      "układsi"
+     ]
+    },
+    "tr": {
+     "__type": "Set",
+     "values": [
+      "uluslararası birimler sistemi",
+      "uluslararasıbirimlersistemi"
+     ]
+    },
+    "io": {
+     "__type": "Set",
+     "values": [
+      "unaj-internaciona sistemo",
+      "unaj-internacionasistemo"
+     ]
+    },
+    "sw": {
+     "__type": "Set",
+     "values": [
+      "vipimo sanifu vya kimataifa",
+      "vipimosanifuvyakimataifa"
+     ]
+    },
+    "fy": {
+     "__type": "Set",
+     "values": [
+      "ynternasjonaal systeem fan ienheden",
+      "ynternasjonaalsysteemfanienheden"
+     ]
+    },
+    "el": {
+     "__type": "Set",
+     "values": [
+      "διεθνές σύστημα μονάδων",
+      "διεθνέςσύστημαμονάδων"
+     ]
+    },
+    "krc": {
+     "__type": "Set",
+     "values": [
+      "ёс"
+     ]
+    },
+    "mk": {
+     "__type": "Set",
+     "values": [
+      "меѓународен систем на мерни единици",
+      "меѓународенсистемнамерниединици"
+     ]
+    },
+    "sr": {
+     "__type": "Set",
+     "values": [
+      "међународни систем јединица",
+      "међународнисистемјединица"
+     ]
+    },
+    "bg": {
+     "__type": "Set",
+     "values": [
+      "международна система единици",
+      "международнасистемаединици"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "международная система единиц",
+      "международнаясистемаединиц"
+     ]
+    },
+    "cu": {
+     "__type": "Set",
+     "values": [
+      "мєждоународьнъ мѣръ сѷстима",
+      "мєждоународьнъмѣръсѷстима"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "міжнародна система одиниць",
+      "міжнароднасистемаодиниць"
+     ]
+    },
+    "be-tarask": {
+     "__type": "Set",
+     "values": [
+      "міжнародная сыстэма сі",
+      "міжнароднаясыстэмасі"
+     ]
+    },
+    "mn": {
+     "__type": "Set",
+     "values": [
+      "олон улсын нэгжийн систем",
+      "олонулсыннэгжийнсистем"
+     ]
+    },
+    "kk": {
+     "__type": "Set",
+     "values": [
+      "өлшем бірліктерінің халықаралық жүйесі",
+      "өлшембірліктерініңхалықаралықжүйесі"
+     ]
+    },
+    "ab": {
+     "__type": "Set",
+     "values": [
+      "си"
+     ]
+    },
+    "tt": {
+     "__type": "Set",
+     "values": [
+      "си"
+     ]
+    },
+    "ky": {
+     "__type": "Set",
+     "values": [
+      "си өлчөө системи",
+      "сиөлчөөсистеми"
+     ]
+    },
+    "be": {
+     "__type": "Set",
+     "values": [
+      "сі"
+     ]
+    },
+    "ba": {
+     "__type": "Set",
+     "values": [
+      "халыҡ-ара берәмектәр системаһы",
+      "халыҡ-араберәмектәрсистемаһы"
+     ]
+    },
+    "ka": {
+     "__type": "Set",
+     "values": [
+      "ერთეულთა საერთაშოირისო სისტემა",
+      "ერთეულთასაერთაშოირისოსისტემა"
+     ]
+    },
+    "hy": {
+     "__type": "Set",
+     "values": [
+      "միավորների միջազգային համակարգ",
+      "միավորներիմիջազգայինհամակարգ"
+     ]
+    },
+    "yi": {
+     "__type": "Set",
+     "values": [
+      "אינטערנאציאנאלע סיסטעם פון איינסן",
+      "אינטערנאציאנאלעסיסטעםפוןאיינסן"
+     ]
+    },
+    "he": {
+     "__type": "Set",
+     "values": [
+      "מערכת היחידות הבינלאומית",
+      "מערכתהיחידותהבינלאומית"
+     ]
+    },
+    "arz": {
+     "__type": "Set",
+     "values": [
+      "النظام الدولى للوحدات",
+      "النظامالدولىللوحدات"
+     ]
+    },
+    "ur": {
+     "__type": "Set",
+     "values": [
+      "بین الاقوامی نظام اکائیات",
+      "بینالاقوامینظاماکائیات"
+     ]
+    },
+    "fa": {
+     "__type": "Set",
+     "values": [
+      "دستگاه بین‌المللی یکاها",
+      "دستگاهبین‌المللییکاها"
+     ]
+    },
+    "ckb": {
+     "__type": "Set",
+     "values": [
+      "سیستەمی جیھانیی یەکەکان",
+      "سیستەمیجیھانیییەکەکان"
+     ]
+    },
+    "pnb": {
+     "__type": "Set",
+     "values": [
+      "ناپاں دا انٹرنیشنل پربندھ",
+      "ناپاںداانٹرنیشنلپربندھ"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "نظام الوحدات الدولي",
+      "نظامالوحداتالدولي"
+     ]
+    },
+    "hi": {
+     "__type": "Set",
+     "values": [
+      "अन्तर्राष्ट्रीय इकाई प्रणाली",
+      "अन्तर्राष्ट्रीयइकाईप्रणाली"
+     ]
+    },
+    "mr": {
+     "__type": "Set",
+     "values": [
+      "आंतरराष्ट्रीय गणना पद्धती",
+      "आंतरराष्ट्रीयगणनापद्धती"
+     ]
+    },
+    "new": {
+     "__type": "Set",
+     "values": [
+      "एस् आइ",
+      "एस्आइ"
+     ]
+    },
+    "bn": {
+     "__type": "Set",
+     "values": [
+      "আন্তর্জাতিক একক পদ্ধতি",
+      "আন্তর্জাতিকএককপদ্ধতি"
+     ]
+    },
+    "as": {
+     "__type": "Set",
+     "values": [
+      "আন্তৰ্জাতিক একক পদ্ধতি",
+      "আন্তৰ্জাতিকএককপদ্ধতি"
+     ]
+    },
+    "pa": {
+     "__type": "Set",
+     "values": [
+      "ਅੰਤਰਦੇਸ਼ੀ ਇਕਾਈ ਪ੍ਰਣਾਲੀ",
+      "ਅੰਤਰਦੇਸ਼ੀਇਕਾਈਪ੍ਰਣਾਲੀ"
+     ]
+    },
+    "ta": {
+     "__type": "Set",
+     "values": [
+      "அனைத்துலக முறை அலகுகள்",
+      "அனைத்துலகமுறைஅலகுகள்"
+     ]
+    },
+    "te": {
+     "__type": "Set",
+     "values": [
+      "అంతర్జాతీయ ప్రమాణాల పద్ధతి",
+      "అంతర్జాతీయప్రమాణాలపద్ధతి"
+     ]
+    },
+    "kn": {
+     "__type": "Set",
+     "values": [
+      "ಅಂತರರಾಷ್ಟ್ರೀಯ ಏಕಮಾನ ವ್ಯವಸ್ಥೆ",
+      "ಅಂತರರಾಷ್ಟ್ರೀಯಏಕಮಾನವ್ಯವಸ್ಥೆ"
+     ]
+    },
+    "ml": {
+     "__type": "Set",
+     "values": [
+      "അന്താരാഷ്ട്ര ഏകകവ്യവസ്ഥ",
+      "അന്താരാഷ്ട്രഏകകവ്യവസ്ഥ"
+     ]
+    },
+    "th": {
+     "__type": "Set",
+     "values": [
+      "ระบบหน่วยวัดระหว่างประเทศ"
+     ]
+    },
+    "my": {
+     "__type": "Set",
+     "values": [
+      "အပြည်ပြည်ဆိုင်ရာ ယူနစ် စနစ်",
+      "အပြည်ပြည်ဆိုင်ရာယူနစ်စနစ်"
+     ]
+    },
+    "km": {
+     "__type": "Set",
+     "values": [
+      "ប្រព័ន្ធខ្នាតអន្តរជាតិ"
+     ]
+    },
+    "ko": {
+     "__type": "Set",
+     "values": [
+      "국제단위계"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "国际单位制"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "国際単位系"
+     ]
+    },
+    "yue": {
+     "__type": "Set",
+     "values": [
+      "國際單位制"
+     ]
+    },
+    "gan": {
+     "__type": "Set",
+     "values": [
+      "國際單位系統"
+     ]
+    },
+    "lzh": {
+     "__type": "Set",
+     "values": [
+      "萬國公制"
+     ]
+    }
+   },
+   "dispLabel": "International System of Units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q1274918",
+   "ontology": "WD",
+   "labels": {
+    "de": {
+     "__type": "Set",
+     "values": [
+      "heaviside-lorentz-einheitensystem"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q1274918"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "lorentz–heaviside units",
+      "lorentz–heavisideunits"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "unidades de lorentz–heaviside",
+      "unidadesdelorentz–heaviside"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "лоренца-хевисайда сгс",
+      "лоренца-хевисайдасгс"
+     ]
+    },
+    "ko": {
+     "__type": "Set",
+     "values": [
+      "헤비사이드-로런츠 단위계",
+      "헤비사이드-로런츠단위계"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "勞侖茲-黑維塞單位制"
+     ]
+    }
+   },
+   "dispLabel": "Lorentz–Heaviside units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
    "uri": "http://www.wikidata.org/entity/Q13409875",
    "ontology": "WD",
    "labels": {
@@ -4927,6 +2453,13 @@
       "q13409875"
      ]
     },
+    "nb": {
+     "__type": "Set",
+     "values": [
+      "gamle nordiske lengdemål",
+      "gamlenordiskelengdemål"
+     ]
+    },
     "en": {
      "__type": "Set",
      "values": [
@@ -4940,13 +2473,6 @@
       "sistema noruego de unidades",
       "sistemanoruegodeunidades"
      ]
-    },
-    "nb": {
-     "__type": "Set",
-     "values": [
-      "gamle nordiske lengdemål",
-      "gamlenordiskelengdemål"
-     ]
     }
    },
    "dispLabel": "Norwegian system of units",
@@ -4954,14 +2480,175 @@
   },
   {
    "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q16203461",
+   "uri": "http://www.wikidata.org/entity/Q1370826",
    "ontology": "WD",
    "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "electrostatic system of units",
+      "electrostaticsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q1370826"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "elektrostatisches einheitensystem",
+      "elektrostatischeseinheitensystem"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema de unidades electrostáticas",
+      "sistemadeunidadeselectrostáticas"
+     ]
+    },
     "ca": {
      "__type": "Set",
      "values": [
-      "sistema internacional de quantitats",
-      "sistemainternacionaldequantitats"
+      "unitats electrostàtiques",
+      "unitatselectrostàtiques"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "абсолютная электростатическая система",
+      "абсолютнаяэлектростатическаясистема"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "靜電單位制"
+     ]
+    }
+   },
+   "dispLabel": "electrostatic system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q1414173",
+   "ontology": "WD",
+   "labels": {
+    "de-ch": {
+     "__type": "Set",
+     "values": [
+      "alte masse und gewichte",
+      "altemasseundgewichte"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q1414173"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "alte maße und gewichte in spanien",
+      "altemaßeundgewichteinspanien"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "anciennes unités de mesure espagnoles",
+      "anciennesunitésdemesureespagnoles"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema español de unidades",
+      "sistemaespañoldeunidades"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "spanish customary units",
+      "spanishcustomaryunits"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "スペインの慣用単位"
+     ]
+    }
+   },
+   "dispLabel": "Spanish customary units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q1496383",
+   "ontology": "WD",
+   "labels": {
+    "nn": {
+     "__type": "Set",
+     "values": [
+      "internasjonale elektriske einingar",
+      "internasjonaleelektriskeeiningar"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q1496383"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "international system of electrical and magnetic units",
+      "internationalsystemofelectricalandmagneticunits"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "internationales system elektrischer und magnetischer einheiten",
+      "internationalessystemelektrischerundmagnetischereinheiten"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema internazionale di unità elettriche e magnetiche",
+      "sistemainternazionalediunitàelettricheemagnetiche"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "電磁気の単位"
+     ]
+    }
+   },
+   "dispLabel": "International System of Electrical and Magnetic Units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q16203461",
+   "ontology": "WD",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "international system of quantities",
+      "internationalsystemofquantities"
      ]
     },
     "_uri": {
@@ -4977,13 +2664,6 @@
       "internationalesgrößensystem"
      ]
     },
-    "en": {
-     "__type": "Set",
-     "values": [
-      "international system of quantities",
-      "internationalsystemofquantities"
-     ]
-    },
     "es": {
      "__type": "Set",
      "values": [
@@ -4991,10 +2671,18 @@
       "sistemainternacionaldecantidades"
      ]
     },
-    "ja": {
+    "ca": {
      "__type": "Set",
      "values": [
-      "国際量体系"
+      "sistema internacional de quantitats",
+      "sistemainternacionaldequantitats"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "système international de grandeurs",
+      "systèmeinternationaldegrandeurs"
      ]
     },
     "ru": {
@@ -5010,17 +2698,16 @@
       "国际数量体系"
      ]
     },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "国際量体系"
+     ]
+    },
     "zh-hant": {
      "__type": "Set",
      "values": [
       "國際數量體系"
-     ]
-    },
-    "fr": {
-     "__type": "Set",
-     "values": [
-      "système international de grandeurs",
-      "systèmeinternationaldegrandeurs"
      ]
     }
    },
@@ -5032,17 +2719,24 @@
    "uri": "http://www.wikidata.org/entity/Q16782623",
    "ontology": "WD",
    "labels": {
-    "ar": {
+    "nl": {
      "__type": "Set",
      "values": [
-      "وحدات إنجليزية",
-      "وحداتإنجليزية"
+      "engelse maateenheid",
+      "engelsemaateenheid"
      ]
     },
     "_uri": {
      "__type": "Set",
      "values": [
       "q16782623"
+     ]
+    },
+    "da": {
+     "__type": "Set",
+     "values": [
+      "engelsk måleenhed",
+      "engelskmåleenhed"
      ]
     },
     "de": {
@@ -5066,18 +2760,11 @@
       "englishunits"
      ]
     },
-    "es": {
+    "en": {
      "__type": "Set",
      "values": [
-      "unidad inglesa",
-      "unidadinglesa"
-     ]
-    },
-    "fa": {
-     "__type": "Set",
-     "values": [
-      "یکاهای انگلیسی",
-      "یکاهایانگلیسی"
+      "english units of measurement",
+      "englishunitsofmeasurement"
      ]
     },
     "id": {
@@ -5087,24 +2774,11 @@
       "satuaninggris"
      ]
     },
-    "ja": {
+    "es": {
      "__type": "Set",
      "values": [
-      "イギリス単位"
-     ]
-    },
-    "mk": {
-     "__type": "Set",
-     "values": [
-      "англиски мерни единици",
-      "англискимерниединици"
-     ]
-    },
-    "mr": {
-     "__type": "Set",
-     "values": [
-      "इंग्लिश एकके",
-      "इंग्लिशएकके"
+      "unidad inglesa",
+      "unidadinglesa"
      ]
     },
     "pt": {
@@ -5121,25 +2795,38 @@
       "английскаяединицаизмерения"
      ]
     },
-    "da": {
+    "mk": {
      "__type": "Set",
      "values": [
-      "engelsk måleenhed",
-      "engelskmåleenhed"
+      "англиски мерни единици",
+      "англискимерниединици"
      ]
     },
-    "nl": {
+    "ar": {
      "__type": "Set",
      "values": [
-      "engelse maateenheid",
-      "engelsemaateenheid"
+      "وحدات إنجليزية",
+      "وحداتإنجليزية"
      ]
     },
-    "en": {
+    "fa": {
      "__type": "Set",
      "values": [
-      "english units of measurement",
-      "englishunitsofmeasurement"
+      "یکاهای انگلیسی",
+      "یکاهایانگلیسی"
+     ]
+    },
+    "mr": {
+     "__type": "Set",
+     "values": [
+      "इंग्लिश एकके",
+      "इंग्लिशएकके"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "イギリス単位"
      ]
     }
    },
@@ -5148,14 +2835,365 @@
   },
   {
    "__type": "SemObject",
-   "uri": "http://www.wikidata.org/entity/Q27666180",
+   "uri": "http://www.wikidata.org/entity/Q1932187",
    "ontology": "WD",
    "labels": {
+    "de": {
+     "__type": "Set",
+     "values": [
+      "miesches einheitensystem",
+      "miescheseinheitensystem"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q1932187"
+     ]
+    }
+   },
+   "dispLabel": "miesches einheitensystem",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q26240",
+   "ontology": "WD",
+   "labels": {
+    "tr": {
+     "__type": "Set",
+     "values": [
+      "c g s",
+      "cgs"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q26240"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "centimetre–gram–second system of units",
+      "centimetre–gram–secondsystemofunits"
+     ]
+    },
+    "sco": {
+     "__type": "Set",
+     "values": [
+      "centimetre–gram–seicont seestem o units",
+      "centimetre–gram–seicontseestemounits"
+     ]
+    },
+    "eo": {
+     "__type": "Set",
+     "values": [
+      "cgs"
+     ]
+    },
+    "id": {
+     "__type": "Set",
+     "values": [
+      "cgs"
+     ]
+    },
+    "vi": {
+     "__type": "Set",
+     "values": [
+      "cgs"
+     ]
+    },
+    "hr": {
+     "__type": "Set",
+     "values": [
+      "cgs sustav",
+      "cgssustav"
+     ]
+    },
+    "ko": {
+     "__type": "Set",
+     "values": [
+      "cgs 단위계",
+      "cgs단위계"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "cgs-einheitensystem"
+     ]
+    },
+    "gsw": {
+     "__type": "Set",
+     "values": [
+      "cgs-einheitensystem"
+     ]
+    },
+    "fi": {
+     "__type": "Set",
+     "values": [
+      "cgs-järjestelmä"
+     ]
+    },
+    "is": {
+     "__type": "Set",
+     "values": [
+      "cgs-kerfi"
+     ]
+    },
+    "et": {
+     "__type": "Set",
+     "values": [
+      "cgs-süsteem"
+     ]
+    },
+    "frr": {
+     "__type": "Set",
+     "values": [
+      "cgs-süsteem"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "cgs-systeem"
+     ]
+    },
+    "sv": {
+     "__type": "Set",
+     "values": [
+      "cgs-systemet"
+     ]
+    },
+    "nb": {
+     "__type": "Set",
+     "values": [
+      "cgs-systemet"
+     ]
+    },
+    "nn": {
+     "__type": "Set",
+     "values": [
+      "cgs-systemet"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "cgs単位系"
+     ]
+    },
+    "sl": {
+     "__type": "Set",
+     "values": [
+      "sistem enot cgs",
+      "sistemenotcgs"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema cegesimal de unidades",
+      "sistemacegesimaldeunidades"
+     ]
+    },
+    "ast": {
+     "__type": "Set",
+     "values": [
+      "sistema ceguesimal",
+      "sistemaceguesimal"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema cgs",
+      "sistemacgs"
+     ]
+    },
     "ca": {
      "__type": "Set",
      "values": [
-      "sistema d unitats electromagnètic",
-      "sistemadunitatselectromagnètic"
+      "sistema cgs",
+      "sistemacgs"
+     ]
+    },
+    "gl": {
+     "__type": "Set",
+     "values": [
+      "sistema cgs",
+      "sistemacgs"
+     ]
+    },
+    "pt": {
+     "__type": "Set",
+     "values": [
+      "sistema cgs de unidades",
+      "sistemacgsdeunidades"
+     ]
+    },
+    "ro": {
+     "__type": "Set",
+     "values": [
+      "sistemul de unități cgs în electromagnetism",
+      "sistemuldeunitățicgsînelectromagnetism"
+     ]
+    },
+    "cs": {
+     "__type": "Set",
+     "values": [
+      "soustava cgs",
+      "soustavacgs"
+     ]
+    },
+    "az": {
+     "__type": "Set",
+     "values": [
+      "sqs"
+     ]
+    },
+    "sk": {
+     "__type": "Set",
+     "values": [
+      "sústava cgs",
+      "sústavacgs"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "système cgs",
+      "systèmecgs"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "układ jednostek miar cgs",
+      "układjednostekmiarcgs"
+     ]
+    },
+    "el": {
+     "__type": "Set",
+     "values": [
+      "σύστημα cgs",
+      "σύστημαcgs"
+     ]
+    },
+    "be": {
+     "__type": "Set",
+     "values": [
+      "сгс"
+     ]
+    },
+    "be-tarask": {
+     "__type": "Set",
+     "values": [
+      "сгс"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "сгс"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "сгс"
+     ]
+    },
+    "mk": {
+     "__type": "Set",
+     "values": [
+      "сгс-систем"
+     ]
+    },
+    "bg": {
+     "__type": "Set",
+     "values": [
+      "система сантиметър-грам-секунда",
+      "системасантиметър-грам-секунда"
+     ]
+    },
+    "ka": {
+     "__type": "Set",
+     "values": [
+      "სანტიმეტრი-გრამი-წამი ერთეულთა სისტემა",
+      "სანტიმეტრი-გრამი-წამიერთეულთასისტემა"
+     ]
+    },
+    "he": {
+     "__type": "Set",
+     "values": [
+      "יחידות cgs",
+      "יחידותcgs"
+     ]
+    },
+    "fa": {
+     "__type": "Set",
+     "values": [
+      "دستگاه واحدهای سانتیمتر-گرم-ثانیه",
+      "دستگاهواحدهایسانتیمتر-گرم-ثانیه"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "نظام وحدات سنتيمتر غرام ثانية",
+      "نظاموحداتسنتيمترغرامثانية"
+     ]
+    },
+    "hi": {
+     "__type": "Set",
+     "values": [
+      "सेंटीमीटर-ग्राम-सैकिण्ड इकाई प्रणाली",
+      "सेंटीमीटर-ग्राम-सैकिण्डइकाईप्रणाली"
+     ]
+    },
+    "bn": {
+     "__type": "Set",
+     "values": [
+      "সিজিএস পদ্ধতি",
+      "সিজিএসপদ্ধতি"
+     ]
+    },
+    "ml": {
+     "__type": "Set",
+     "values": [
+      "സെന്റിമീറ്റർ-ഗ്രാം-സെക്കന്റ് വ്യവസ്ഥ",
+      "സെന്റിമീറ്റർ-ഗ്രാം-സെക്കന്റ്വ്യവസ്ഥ"
+     ]
+    },
+    "th": {
+     "__type": "Set",
+     "values": [
+      "มาตราซีจีเอส"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "厘米-克-秒制"
+     ]
+    }
+   },
+   "dispLabel": "centimetre–gram–second system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q27666180",
+   "ontology": "WD",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "electromagnetic unit system",
+      "electromagneticunitsystem"
      ]
     },
     "_uri": {
@@ -5171,11 +3209,11 @@
       "elektromagnetischeseinheitensystem"
      ]
     },
-    "en": {
+    "ca": {
      "__type": "Set",
      "values": [
-      "electromagnetic unit system",
-      "electromagneticunitsystem"
+      "sistema d unitats electromagnètic",
+      "sistemadunitatselectromagnètic"
      ]
     },
     "es": {
@@ -5230,11 +3268,11 @@
    "uri": "http://www.wikidata.org/entity/Q28648897",
    "ontology": "WD",
    "labels": {
-    "de": {
+    "en": {
      "__type": "Set",
      "values": [
-      "einheitensystem des kaiserlichen chinas",
-      "einheitensystemdeskaiserlichenchinas"
+      "chinese system of measurement",
+      "chinesesystemofmeasurement"
      ]
     },
     "_uri": {
@@ -5243,11 +3281,11 @@
       "q28648897"
      ]
     },
-    "en": {
+    "de": {
      "__type": "Set",
      "values": [
-      "chinese system of measurement",
-      "chinesesystemofmeasurement"
+      "einheitensystem des kaiserlichen chinas",
+      "einheitensystemdeskaiserlichenchinas"
      ]
     },
     "es": {
@@ -5266,6 +3304,1969 @@
     }
    },
    "dispLabel": "Chinese system of measurement",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q3234036",
+   "ontology": "WD",
+   "labels": {
+    "nn": {
+     "__type": "Set",
+     "values": [
+      "gauss-systemet"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q3234036"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "gaussian units",
+      "gaussianunits"
+     ]
+    },
+    "fi": {
+     "__type": "Set",
+     "values": [
+      "gaussin yksikköjärjestelmä",
+      "gaussinyksikköjärjestelmä"
+     ]
+    },
+    "sl": {
+     "__type": "Set",
+     "values": [
+      "gaussov sistem enot",
+      "gaussovsistemenot"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "gaußsches einheitensystem",
+      "gaußscheseinheitensystem"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "unitats gaussianes",
+      "unitatsgaussianes"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "ґаусса система одиниць",
+      "ґауссасистемаодиниць"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "гауссова сгс",
+      "гауссовасгс"
+     ]
+    },
+    "ka": {
+     "__type": "Set",
+     "values": [
+      "გაუსის ერთეულთა სისტემა",
+      "გაუსისერთეულთასისტემა"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "الوحدات الفيزيائية الجاوسية",
+      "الوحداتالفيزيائيةالجاوسية"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "電磁気の単位 cgsガウス単位系",
+      "電磁気の単位cgsガウス単位系"
+     ]
+    },
+    "zh-hans": {
+     "__type": "Set",
+     "values": [
+      "高斯单位制"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "高斯單位制"
+     ]
+    },
+    "zh-hant": {
+     "__type": "Set",
+     "values": [
+      "高斯單位制"
+     ]
+    },
+    "zh-hk": {
+     "__type": "Set",
+     "values": [
+      "高斯單位制"
+     ]
+    }
+   },
+   "dispLabel": "Gaussian units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q435913",
+   "ontology": "WD",
+   "labels": {
+    "de": {
+     "__type": "Set",
+     "values": [
+      "dänischen maßsystem",
+      "dänischenmaßsystem"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q435913"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "danish system of units",
+      "danishsystemofunits"
+     ]
+    },
+    "da": {
+     "__type": "Set",
+     "values": [
+      "danske måleenheder",
+      "danskemåleenheder"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "duńskie jednostki miar",
+      "duńskiejednostkimiar"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema danés de unidades",
+      "sistemadanésdeunidades"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "датские единицы измерения",
+      "датскиеединицыизмерения"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "デンマークの度量衡"
+     ]
+    }
+   },
+   "dispLabel": "Danish system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q435951",
+   "ontology": "WD",
+   "labels": {
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema escandinavo de unidades",
+      "sistemaescandinavodeunidades"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q435951"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "skandinavischen maßsysteme",
+      "skandinavischenmaßsysteme"
+     ]
+    }
+   },
+   "dispLabel": "skandinavischen maßsysteme",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q435964",
+   "ontology": "WD",
+   "labels": {
+    "vi": {
+     "__type": "Set",
+     "values": [
+      "charka"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q435964"
+     ]
+    },
+    "lv": {
+     "__type": "Set",
+     "values": [
+      "krievijas mēru sistēma",
+      "krievijasmērusistēma"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "maßsystem im alten russland",
+      "maßsystemimaltenrussland"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "miary rosyjskie",
+      "miaryrosyjskie"
+     ]
+    },
+    "cs": {
+     "__type": "Set",
+     "values": [
+      "ruská měrná soustava",
+      "ruskáměrnásoustava"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "russian system of units",
+      "russiansystemofunits"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema ruso de medidas",
+      "sistemarusodemedidas"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "unitats de mesura obsoletes de rússia",
+      "unitatsdemesuraobsoletesderússia"
+     ]
+    },
+    "be-tarask": {
+     "__type": "Set",
+     "values": [
+      "расейская сыстэма мер",
+      "расейскаясыстэмамер"
+     ]
+    },
+    "be": {
+     "__type": "Set",
+     "values": [
+      "руская сістэма мер",
+      "рускаясістэмамер"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "русская система мер",
+      "русскаясистемамер"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "руська система одиниць",
+      "руськасистемаодиниць"
+     ]
+    },
+    "mk": {
+     "__type": "Set",
+     "values": [
+      "стара руска мерка",
+      "старарускамерка"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "وحدات قياس الطول الروسية القديمة",
+      "وحداتقياسالطولالروسيةالقديمة"
+     ]
+    },
+    "new": {
+     "__type": "Set",
+     "values": [
+      "चर्का"
+     ]
+    },
+    "bn": {
+     "__type": "Set",
+     "values": [
+      "চরকা"
+     ]
+    },
+    "bpy": {
+     "__type": "Set",
+     "values": [
+      "চরকা"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "ロシアの廃止された度量衡"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "恰尔卡"
+     ]
+    },
+    "zh-cn": {
+     "__type": "Set",
+     "values": [
+      "旧俄制"
+     ]
+    },
+    "zh-hant": {
+     "__type": "Set",
+     "values": [
+      "舊俄製"
+     ]
+    }
+   },
+   "dispLabel": "Russian system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q4420945",
+   "ontology": "WD",
+   "labels": {
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "sistema d unitats del gran ducat de lituània",
+      "sistemadunitatsdelgranducatdelituània"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q4420945"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema de medidas del gran ducado de lituania",
+      "sistemademedidasdelgranducadodelituania"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "system of measures in the gran duchy of lithuania",
+      "systemofmeasuresinthegranduchyoflithuania"
+     ]
+    },
+    "be": {
+     "__type": "Set",
+     "values": [
+      "беларуская сістэма мер",
+      "беларускаясістэмамер"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "білоруська система мір",
+      "білоруськасистемамір"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "система мер в великом княжестве литовском",
+      "системамерввеликомкняжествелитовском"
+     ]
+    }
+   },
+   "dispLabel": "system of measures in the Gran Duchy of Lithuania",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q468999",
+   "ontology": "WD",
+   "labels": {
+    "vi": {
+     "__type": "Set",
+     "values": [
+      "hệ thống đo lường planck",
+      "hệthốngđolườngplanck"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q468999"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "jednostki plancka",
+      "jednostkiplancka"
+     ]
+    },
+    "tr": {
+     "__type": "Set",
+     "values": [
+      "planck birimleri",
+      "planckbirimleri"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "planck units",
+      "planckunits"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "planck-eenheden"
+     ]
+    },
+    "hu": {
+     "__type": "Set",
+     "values": [
+      "planck-egységek"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "planck-einheiten"
+     ]
+    },
+    "nn": {
+     "__type": "Set",
+     "values": [
+      "planck-einingar"
+     ]
+    },
+    "sv": {
+     "__type": "Set",
+     "values": [
+      "planckenheter"
+     ]
+    },
+    "fi": {
+     "__type": "Set",
+     "values": [
+      "planckin yksiköt",
+      "planckinyksiköt"
+     ]
+    },
+    "sl": {
+     "__type": "Set",
+     "values": [
+      "planckov sistem enot",
+      "planckovsistemenot"
+     ]
+    },
+    "sk": {
+     "__type": "Set",
+     "values": [
+      "planckove jednotky",
+      "planckovejednotky"
+     ]
+    },
+    "cs": {
+     "__type": "Set",
+     "values": [
+      "planckovy jednotky",
+      "planckovyjednotky"
+     ]
+    },
+    "tt": {
+     "__type": "Set",
+     "values": [
+      "plank berämlekläre",
+      "plankberämlekläre"
+     ]
+    },
+    "bs": {
+     "__type": "Set",
+     "values": [
+      "prirodne jedinice",
+      "prirodnejedinice"
+     ]
+    },
+    "sh": {
+     "__type": "Set",
+     "values": [
+      "prirodne jedinice",
+      "prirodnejedinice"
+     ]
+    },
+    "sr-el": {
+     "__type": "Set",
+     "values": [
+      "prirodne jedinice",
+      "prirodnejedinice"
+     ]
+    },
+    "uz": {
+     "__type": "Set",
+     "values": [
+      "tabiiy birliklar tizimi",
+      "tabiiybirliklartizimi"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "unidades de planck",
+      "unidadesdeplanck"
+     ]
+    },
+    "pt": {
+     "__type": "Set",
+     "values": [
+      "unidades de planck",
+      "unidadesdeplanck"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "unità di misura di planck",
+      "unitàdimisuradiplanck"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "unitats de planck",
+      "unitatsdeplanck"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "unités de planck",
+      "unitésdeplanck"
+     ]
+    },
+    "eo": {
+     "__type": "Set",
+     "values": [
+      "unuoj de planck",
+      "unuojdeplanck"
+     ]
+    },
+    "el": {
+     "__type": "Set",
+     "values": [
+      "μονάδες πλανκ",
+      "μονάδεςπλανκ"
+     ]
+    },
+    "bg": {
+     "__type": "Set",
+     "values": [
+      "единици на планк",
+      "единицинапланк"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "одиниці планка",
+      "одиниціпланка"
+     ]
+    },
+    "be": {
+     "__type": "Set",
+     "values": [
+      "планкаўскія адзінкі",
+      "планкаўскіяадзінкі"
+     ]
+    },
+    "mk": {
+     "__type": "Set",
+     "values": [
+      "планкови единици",
+      "планковиединици"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "планковские единицы",
+      "планковскиеединицы"
+     ]
+    },
+    "sr": {
+     "__type": "Set",
+     "values": [
+      "природна јединица",
+      "природнајединица"
+     ]
+    },
+    "sr-ec": {
+     "__type": "Set",
+     "values": [
+      "природне јединице",
+      "природнејединице"
+     ]
+    },
+    "hy": {
+     "__type": "Set",
+     "values": [
+      "պլանկի միավորներ",
+      "պլանկիմիավորներ"
+     ]
+    },
+    "he": {
+     "__type": "Set",
+     "values": [
+      "יחידות פלאנק",
+      "יחידותפלאנק"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "وحدات بلانك",
+      "وحداتبلانك"
+     ]
+    },
+    "fa": {
+     "__type": "Set",
+     "values": [
+      "یکاهای طبیعی",
+      "یکاهایطبیعی"
+     ]
+    },
+    "pa": {
+     "__type": "Set",
+     "values": [
+      "ਪਲੈਂਕ ਯੂਨਿਟਾਂ",
+      "ਪਲੈਂਕਯੂਨਿਟਾਂ"
+     ]
+    },
+    "ko": {
+     "__type": "Set",
+     "values": [
+      "플랑크 단위계",
+      "플랑크단위계"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "プランク単位系"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "普朗克單位制"
+     ]
+    }
+   },
+   "dispLabel": "Planck units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q512417",
+   "ontology": "WD",
+   "labels": {
+    "vi": {
+     "__type": "Set",
+     "values": [
+      "hệ đo lường mks",
+      "hệđolườngmks"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q512417"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "mks"
+     ]
+    },
+    "hu": {
+     "__type": "Set",
+     "values": [
+      "mks mértékegységrendszer",
+      "mksmértékegységrendszer"
+     ]
+    },
+    "sr-el": {
+     "__type": "Set",
+     "values": [
+      "mks sistem",
+      "mkssistem"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "mks system of units",
+      "mkssystemofunits"
+     ]
+    },
+    "en-ca": {
+     "__type": "Set",
+     "values": [
+      "mks system of units",
+      "mkssystemofunits"
+     ]
+    },
+    "en-gb": {
+     "__type": "Set",
+     "values": [
+      "mks system of units",
+      "mkssystemofunits"
+     ]
+    },
+    "ko": {
+     "__type": "Set",
+     "values": [
+      "mks 단위계",
+      "mks단위계"
+     ]
+    },
+    "nds": {
+     "__type": "Set",
+     "values": [
+      "mks-eenheitensystem"
+     ]
+    },
+    "bar": {
+     "__type": "Set",
+     "values": [
+      "mks-einheitensystem"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "mks-einheitensystem"
+     ]
+    },
+    "de-ch": {
+     "__type": "Set",
+     "values": [
+      "mks-einheitensystem"
+     ]
+    },
+    "frr": {
+     "__type": "Set",
+     "values": [
+      "mks-süsteem"
+     ]
+    },
+    "sh": {
+     "__type": "Set",
+     "values": [
+      "mksa"
+     ]
+    },
+    "sv": {
+     "__type": "Set",
+     "values": [
+      "mksa"
+     ]
+    },
+    "et": {
+     "__type": "Set",
+     "values": [
+      "mksa-süsteem"
+     ]
+    },
+    "nn": {
+     "__type": "Set",
+     "values": [
+      "mksa-systemet"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "mks単位系"
+     ]
+    },
+    "sl": {
+     "__type": "Set",
+     "values": [
+      "sistem enot mks",
+      "sistemenotmks"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema mks",
+      "sistemamks"
+     ]
+    },
+    "gl": {
+     "__type": "Set",
+     "values": [
+      "sistema mks",
+      "sistemamks"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "sistema mks d unitats",
+      "sistemamksdunitats"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema mks de unidades",
+      "sistemamksdeunidades"
+     ]
+    },
+    "pt": {
+     "__type": "Set",
+     "values": [
+      "sistema mks de unidades",
+      "sistemamksdeunidades"
+     ]
+    },
+    "ast": {
+     "__type": "Set",
+     "values": [
+      "sistema téunicu d unidaes",
+      "sistematéunicudunidaes"
+     ]
+    },
+    "sk": {
+     "__type": "Set",
+     "values": [
+      "sústava mks",
+      "sústavamks"
+     ]
+    },
+    "fi": {
+     "__type": "Set",
+     "values": [
+      "tekninen mittajärjestelmä",
+      "tekninenmittajärjestelmä"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "układ jednostek miar mks",
+      "układjednostekmiarmks"
+     ]
+    },
+    "el": {
+     "__type": "Set",
+     "values": [
+      "σύστημα mks",
+      "σύστημαmks"
+     ]
+    },
+    "be-tarask": {
+     "__type": "Set",
+     "values": [
+      "мкс"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "мкс"
+     ]
+    },
+    "sr": {
+     "__type": "Set",
+     "values": [
+      "мкс систем",
+      "мкссистем"
+     ]
+    },
+    "sr-ec": {
+     "__type": "Set",
+     "values": [
+      "мкс систем",
+      "мкссистем"
+     ]
+    },
+    "mk": {
+     "__type": "Set",
+     "values": [
+      "мкс-систем"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "система единиц мкс",
+      "системаединицмкс"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "نظام وحدات متر كيلوغرام ثانية",
+      "نظاموحداتمتركيلوغرامثانية"
+     ]
+    },
+    "hi": {
+     "__type": "Set",
+     "values": [
+      "मीटर-किलोग्राम-सेकेण्ड पद्धति",
+      "मीटर-किलोग्राम-सेकेण्डपद्धति"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "米-千克-秒制"
+     ]
+    }
+   },
+   "dispLabel": "MKS system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q5466615",
+   "ontology": "WD",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "foot–pound–second system",
+      "foot–pound–secondsystem"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q5466615"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "fps単位系"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "sistema peu-lliura-segon",
+      "sistemapeu-lliura-segon"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema pie-libra-segundo",
+      "sistemapie-libra-segundo"
+     ]
+    },
+    "ml": {
+     "__type": "Set",
+     "values": [
+      "ഫൂട്ട്- പൗണ്ട്-സെക്കന്റ് വ്യവസ്ഥ",
+      "ഫൂട്ട്-പൗണ്ട്-സെക്കന്റ്വ്യവസ്ഥ"
+     ]
+    }
+   },
+   "dispLabel": "foot–pound–second system",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q620565",
+   "ontology": "WD",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "apothecaries system",
+      "apothecariessystem"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q620565"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "apothekergewicht"
+     ]
+    },
+    "la": {
+     "__type": "Set",
+     "values": [
+      "pondus medicinale",
+      "pondusmedicinale"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "sistema apotecari",
+      "sistemaapotecari"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema apotecario",
+      "sistemaapotecario"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema boticario",
+      "sistemaboticario"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "système des apothicaires",
+      "systèmedesapothicaires"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "аптекарский вес",
+      "аптекарскийвес"
+     ]
+    },
+    "be-tarask": {
+     "__type": "Set",
+     "values": [
+      "аптэкарская вага",
+      "аптэкарскаявага"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "نظام الصيدليات",
+      "نظامالصيدليات"
+     ]
+    },
+    "zh-cn": {
+     "__type": "Set",
+     "values": [
+      "小群士兵 古罗马",
+      "小群士兵古罗马"
+     ]
+    },
+    "zh-hant": {
+     "__type": "Set",
+     "values": [
+      "小群士兵 古羅馬",
+      "小群士兵古羅馬"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "薬衡"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "藥衡制"
+     ]
+    }
+   },
+   "dispLabel": "apothecaries' system",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q641227",
+   "ontology": "WD",
+   "labels": {
+    "hu": {
+     "__type": "Set",
+     "values": [
+      "angolszász mértékegység",
+      "angolszászmértékegység"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q641227"
+     ]
+    },
+    "is": {
+     "__type": "Set",
+     "values": [
+      "breskar mælieiningar",
+      "breskarmælieiningar"
+     ]
+    },
+    "nn": {
+     "__type": "Set",
+     "values": [
+      "britisk einingssystem for mål og vekt",
+      "britiskeiningssystemformålogvekt"
+     ]
+    },
+    "fi": {
+     "__type": "Set",
+     "values": [
+      "brittiläinen yksikköjärjestelmä",
+      "brittiläinenyksikköjärjestelmä"
+     ]
+    },
+    "sv": {
+     "__type": "Set",
+     "values": [
+      "brittiska måttenheter",
+      "brittiskamåttenheter"
+     ]
+    },
+    "vi": {
+     "__type": "Set",
+     "values": [
+      "hệ đo lường anh",
+      "hệđolườnganh"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "imperiaal stelsel",
+      "imperiaalstelsel"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "imperial system of units",
+      "imperialsystemofunits"
+     ]
+    },
+    "ur": {
+     "__type": "Set",
+     "values": [
+      "imperial unit",
+      "imperialunit"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "imperiales maßsystem",
+      "imperialesmaßsystem"
+     ]
+    },
+    "sl": {
+     "__type": "Set",
+     "values": [
+      "imperialna enota",
+      "imperialnaenota"
+     ]
+    },
+    "cs": {
+     "__type": "Set",
+     "values": [
+      "imperiální jednotka",
+      "imperiálníjednotka"
+     ]
+    },
+    "hr": {
+     "__type": "Set",
+     "values": [
+      "imperijalni sustav mjera",
+      "imperijalnisustavmjera"
+     ]
+    },
+    "sh": {
+     "__type": "Set",
+     "values": [
+      "imperijalni sustav mjera",
+      "imperijalnisustavmjera"
+     ]
+    },
+    "jam": {
+     "__type": "Set",
+     "values": [
+      "impiiriyal yuunit",
+      "impiiriyalyuunit"
+     ]
+    },
+    "tr": {
+     "__type": "Set",
+     "values": [
+      "i̇ngiliz ölçü birimleri",
+      "i̇ngilizölçübirimleri"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "jednostki imperialne",
+      "jednostkiimperialne"
+     ]
+    },
+    "la": {
+     "__type": "Set",
+     "values": [
+      "mensurae anglicae",
+      "mensuraeanglicae"
+     ]
+    },
+    "id": {
+     "__type": "Set",
+     "values": [
+      "satuan imperial",
+      "satuanimperial"
+     ]
+    },
+    "ms": {
+     "__type": "Set",
+     "values": [
+      "sistem imperial",
+      "sistemimperial"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema imperial",
+      "sistemaimperial"
+     ]
+    },
+    "pt": {
+     "__type": "Set",
+     "values": [
+      "sistema imperial",
+      "sistemaimperial"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "sistema imperial d unitats",
+      "sistemaimperialdunitats"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema imperiale britannico",
+      "sistemaimperialebritannico"
+     ]
+    },
+    "ro": {
+     "__type": "Set",
+     "values": [
+      "sistemul imperial britanic de unități",
+      "sistemulimperialbritanicdeunități"
+     ]
+    },
+    "ia": {
+     "__type": "Set",
+     "values": [
+      "systema imperial de unitates",
+      "systemaimperialdeunitates"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "système impérial",
+      "systèmeimpérial"
+     ]
+    },
+    "nan": {
+     "__type": "Set",
+     "values": [
+      "tè-kok tan-ūi",
+      "tè-koktan-ūi"
+     ]
+    },
+    "cy": {
+     "__type": "Set",
+     "values": [
+      "unedau imperial",
+      "unedauimperial"
+     ]
+    },
+    "war": {
+     "__type": "Set",
+     "values": [
+      "yunit imperyal",
+      "yunitimperyal"
+     ]
+    },
+    "mk": {
+     "__type": "Set",
+     "values": [
+      "империјална единица",
+      "империјалнаединица"
+     ]
+    },
+    "bg": {
+     "__type": "Set",
+     "values": [
+      "имперска единица",
+      "имперскаединица"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "имперская единица",
+      "имперскаяединица"
+     ]
+    },
+    "fa": {
+     "__type": "Set",
+     "values": [
+      "دستگاه امپراتوری",
+      "دستگاهامپراتوری"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "وحدات القياس الإمبراطورية",
+      "وحداتالقياسالإمبراطورية"
+     ]
+    },
+    "ta": {
+     "__type": "Set",
+     "values": [
+      "இம்பீரியல் அலகு",
+      "இம்பீரியல்அலகு"
+     ]
+    },
+    "ko": {
+     "__type": "Set",
+     "values": [
+      "야드파운드법"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "帝国単位"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "英制单位"
+     ]
+    },
+    "yue": {
+     "__type": "Set",
+     "values": [
+      "英制單位"
+     ]
+    }
+   },
+   "dispLabel": "imperial system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q730906",
+   "ontology": "WD",
+   "labels": {
+    "vi": {
+     "__type": "Set",
+     "values": [
+      "hệ đơn vị mksa",
+      "hệđơnvịmksa"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q730906"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "mksa"
+     ]
+    },
+    "sh": {
+     "__type": "Set",
+     "values": [
+      "mksa"
+     ]
+    },
+    "sv": {
+     "__type": "Set",
+     "values": [
+      "mksa"
+     ]
+    },
+    "sr-el": {
+     "__type": "Set",
+     "values": [
+      "mksa sistem",
+      "mksasistem"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "mksa system of units",
+      "mksasystemofunits"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "mksa-einheitensystem"
+     ]
+    },
+    "et": {
+     "__type": "Set",
+     "values": [
+      "mksa-süsteem"
+     ]
+    },
+    "nn": {
+     "__type": "Set",
+     "values": [
+      "mksa-systemet"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "mksa単位系"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "sistema d unitats mksa",
+      "sistemadunitatsmksa"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema de unidades mksa",
+      "sistemadeunidadesmksa"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema mksa",
+      "sistemamksa"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "układ jednostek miar mksa",
+      "układjednostekmiarmksa"
+     ]
+    },
+    "sr": {
+     "__type": "Set",
+     "values": [
+      "мкса систем",
+      "мксасистем"
+     ]
+    },
+    "sr-ec": {
+     "__type": "Set",
+     "values": [
+      "мкса систем",
+      "мксасистем"
+     ]
+    },
+    "mk": {
+     "__type": "Set",
+     "values": [
+      "мкса-систем"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "система единиц мкса",
+      "системаединицмкса"
+     ]
+    }
+   },
+   "dispLabel": "MKSA system of units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q757568",
+   "ontology": "WD",
+   "labels": {
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "atomaire eenheden",
+      "atomaireeenheden"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q757568"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "atomare einheiten",
+      "atomareeinheiten"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "atomic units",
+      "atomicunits"
+     ]
+    },
+    "tr": {
+     "__type": "Set",
+     "values": [
+      "atomik birimler",
+      "atomikbirimler"
+     ]
+    },
+    "sl": {
+     "__type": "Set",
+     "values": [
+      "atomske enote",
+      "atomskeenote"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "jednostki atomowe",
+      "jednostkiatomowe"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "système d unités atomiques",
+      "systèmedunitésatomiques"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "unidades atómicas",
+      "unidadesatómicas"
+     ]
+    },
+    "pt": {
+     "__type": "Set",
+     "values": [
+      "unidades atômicas",
+      "unidadesatômicas"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "unità atomiche",
+      "unitàatomiche"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "unitat atòmica",
+      "unitatatòmica"
+     ]
+    },
+    "ro": {
+     "__type": "Set",
+     "values": [
+      "unitate atomică",
+      "unitateatomică"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "атомна система одиниць",
+      "атомнасистемаодиниць"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "атомная система единиц",
+      "атомнаясистемаединиц"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "وحدة ذرية",
+      "وحدةذرية"
+     ]
+    },
+    "ko": {
+     "__type": "Set",
+     "values": [
+      "원자 단위계",
+      "원자단위계"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "原子单位制"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "原子単位系"
+     ]
+    }
+   },
+   "dispLabel": "Atomic units",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q791259",
+   "ontology": "WD",
+   "labels": {
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "avoirdupoids"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q791259"
+     ]
+    },
+    "ca": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois"
+     ]
+    },
+    "nn": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois"
+     ]
+    },
+    "cs": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois"
+     ]
+    },
+    "pt": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois"
+     ]
+    },
+    "hr": {
+     "__type": "Set",
+     "values": [
+      "avoirdupois sustav mjera",
+      "avoirdupoissustavmjera"
+     ]
+    },
+    "tr": {
+     "__type": "Set",
+     "values": [
+      "i̇ngiliz tartı sistemi",
+      "i̇ngiliztartısistemi"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema avoirdupois",
+      "sistemaavoirdupois"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "евердьюпойс"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "эвердьюпойс"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "أفردوبويز"
+     ]
+    },
+    "fa": {
+     "__type": "Set",
+     "values": [
+      "اویردوپیز"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "常衡"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "常衡"
+     ]
+    }
+   },
+   "dispLabel": "avoirdupois",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q8023875",
+   "ontology": "WD",
+   "labels": {
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema winchester",
+      "sistemawinchester"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q8023875"
+     ]
+    },
+    "en": {
+     "__type": "Set",
+     "values": [
+      "winchester measure",
+      "winchestermeasure"
+     ]
+    }
+   },
+   "dispLabel": "Winchester measure",
+   "raw": null
+  },
+  {
+   "__type": "SemObject",
+   "uri": "http://www.wikidata.org/entity/Q939202",
+   "ontology": "WD",
+   "labels": {
+    "en": {
+     "__type": "Set",
+     "values": [
+      "metre–tonne–second system of units",
+      "metre–tonne–secondsystemofunits"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "q939202"
+     ]
+    },
+    "nl": {
+     "__type": "Set",
+     "values": [
+      "metre–tonne–second system of units",
+      "metre–tonne–secondsystemofunits"
+     ]
+    },
+    "de": {
+     "__type": "Set",
+     "values": [
+      "mts-system"
+     ]
+    },
+    "ja": {
+     "__type": "Set",
+     "values": [
+      "mts単位系"
+     ]
+    },
+    "pt": {
+     "__type": "Set",
+     "values": [
+      "sistema de unidades de metro-tonelada-segundo",
+      "sistemadeunidadesdemetro-tonelada-segundo"
+     ]
+    },
+    "it": {
+     "__type": "Set",
+     "values": [
+      "sistema mts",
+      "sistemamts"
+     ]
+    },
+    "es": {
+     "__type": "Set",
+     "values": [
+      "sistema mts de unidades",
+      "sistemamtsdeunidades"
+     ]
+    },
+    "sk": {
+     "__type": "Set",
+     "values": [
+      "sústava mts",
+      "sústavamts"
+     ]
+    },
+    "fr": {
+     "__type": "Set",
+     "values": [
+      "système d unités mètre-tonne-seconde",
+      "systèmedunitésmètre-tonne-seconde"
+     ]
+    },
+    "pl": {
+     "__type": "Set",
+     "values": [
+      "układ jednostek miar mts",
+      "układjednostekmiarmts"
+     ]
+    },
+    "be-tarask": {
+     "__type": "Set",
+     "values": [
+      "мтс"
+     ]
+    },
+    "ru": {
+     "__type": "Set",
+     "values": [
+      "мтс"
+     ]
+    },
+    "uk": {
+     "__type": "Set",
+     "values": [
+      "мтс"
+     ]
+    },
+    "ar": {
+     "__type": "Set",
+     "values": [
+      "نظام وحدات متر طن ثانية",
+      "نظاموحداتمترطنثانية"
+     ]
+    },
+    "zh": {
+     "__type": "Set",
+     "values": [
+      "米-公頓-秒制"
+     ]
+    }
+   },
+   "dispLabel": "metre–tonne–second system of units",
    "raw": null
   }
  ]

@@ -118,10 +118,11 @@
     li[data-onto="MUO"]:before    { background-color: #1f77b4; }
     li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
     li[data-onto="OM"]:before     { background-color: #2ca02c; }
-    li[data-onto="OM2"]:before    { background-color: #bcbd22; }
+    li[data-onto="OM2"]:before    { background-color: #98df8a; }
     li[data-onto="QU"]:before     { background-color: #d62728; }
     li[data-onto="QUDT"]:before   { background-color: #9467bd; }
     li[data-onto="SWEET"]:before  { background-color: #8c564b; }
+    li[data-onto="SWEET3"]:before { background-color: #c49c94; }
     li[data-onto="UO"]:before     { background-color: #e377c2; }
     li[data-onto="WD"]:before     { background-color: #17becf; }
     
@@ -150,6 +151,7 @@
         <li data-onto="QU">QU
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
+        <li data-onto="SWEET3">SWEET3
         <li data-onto="UO">UO
         <li data-onto="WD">WD
       </ul>
@@ -192,6 +194,9 @@ QUDT
 <th><ul><li data-onto="SWEET">
 SWEET
 </ul></th>
+<th><ul><li data-onto="SWEET3">
+SWEET3
+</ul></th>
 <th><ul><li data-onto="UO">
 UO
 </ul></th>
@@ -218,6 +223,9 @@ appField
 <td>
 49
 </td>
+<td>
+49
+</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -247,6 +255,11 @@ appField
  
 49
 </td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+49
+</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -263,6 +276,11 @@ label
 0
 </td>
 <td>-</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:red">&#10007;</span>
+ 
+0
+</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:red">&#10007;</span>
  
@@ -291,6 +309,7 @@ label@en
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><td>
 label@nl
@@ -307,6 +326,7 @@ label@nl
  
 17
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -329,6 +349,9 @@ appFieldQuantKind
 653
 </td>
 <td>0</td>
+<td>
+489
+</td>
 <td>
 489
 </td>
@@ -356,6 +379,11 @@ appField
 653
 </td>
 <td>-</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+489
+</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
@@ -390,6 +418,11 @@ quantKind
  
 489
 </td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+489
+</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -405,6 +438,7 @@ appFieldUnit
 <td>
 992
 </td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -431,6 +465,7 @@ appField
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><td>
 unit
@@ -452,6 +487,7 @@ unit
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><th rowspan="5">
 conversion
@@ -462,7 +498,7 @@ conversion
 64
 </td>
 <td>
-827
+828
 </td>
 <td>
 832
@@ -472,6 +508,9 @@ conversion
 </td>
 <td>
 55
+</td>
+<td>
+37
 </td>
 <td>
 37
@@ -493,7 +532,7 @@ convFactor
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
-827
+828
 </td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
@@ -509,6 +548,11 @@ convFactor
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
 55
+</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
+ 
+36
 </td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
@@ -534,7 +578,7 @@ convOffset
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
-827
+828
 </td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
@@ -556,6 +600,11 @@ convOffset
  
 2
 </td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
+ 
+2
+</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -571,7 +620,7 @@ unit1
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
-827
+828
 </td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
@@ -587,6 +636,11 @@ unit1
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
 55
+</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+37
 </td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
@@ -612,7 +666,7 @@ unit2
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
-827
+828
 </td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
@@ -628,6 +682,11 @@ unit2
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
 55
+</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+37
 </td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
@@ -660,6 +719,7 @@ dimension
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
 </tr>
 <tr><td>
 dimAmount
@@ -682,6 +742,7 @@ dimAmount
  
 130
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -710,6 +771,7 @@ dimElec
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><td>
 dimLength
@@ -732,6 +794,7 @@ dimLength
  
 130
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -760,6 +823,7 @@ dimLum
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><td>
 dimMass
@@ -782,6 +846,7 @@ dimMass
  
 130
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -810,6 +875,7 @@ dimThermo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><td>
 dimTime
@@ -832,6 +898,7 @@ dimTime
  
 130
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -860,6 +927,7 @@ dimension
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><td>
 label
@@ -874,6 +942,7 @@ label
  
 130
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -893,6 +962,7 @@ label@en
  
 76
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -919,6 +989,7 @@ label@nl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><th rowspan="3">
 dimensionUnit
@@ -936,6 +1007,7 @@ dimensionUnit
 <td>
 491
 </td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -961,6 +1033,7 @@ dimension
  
 491
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -989,6 +1062,7 @@ unit
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><th rowspan="7">
 prefix
@@ -1009,6 +1083,9 @@ prefix
 </td>
 <td>
 28
+</td>
+<td>
+12
 </td>
 <td>
 12
@@ -1052,6 +1129,11 @@ factor
  
 12
 </td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+12
+</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -1071,6 +1153,11 @@ label
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
 28
+</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:red">&#10007;</span>
+ 
+0
 </td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:red">&#10007;</span>
@@ -1108,6 +1195,7 @@ label@en
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><td>
 label@nl
@@ -1129,6 +1217,7 @@ label@nl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><td>
 label@zh
@@ -1145,6 +1234,7 @@ label@zh
  
 15
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1188,6 +1278,11 @@ prefix
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
+12
+</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
 20
 </td>
 <td>-</td>
@@ -1208,6 +1303,9 @@ prefixUnit
 163
 </td>
 <td>0</td>
+<td>
+9
+</td>
 <td>
 9
 </td>
@@ -1235,6 +1333,11 @@ baseUnit
 163
 </td>
 <td>-</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+9
+</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
@@ -1269,6 +1372,11 @@ prefix
  
 9
 </td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+9
+</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -1293,6 +1401,11 @@ unit
 163
 </td>
 <td>-</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+9
+</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
@@ -1327,6 +1440,9 @@ quantKind
 847
 </td>
 <td>
+847
+</td>
+<td>
 324
 </td>
 <td>
@@ -1356,6 +1472,11 @@ label
 8
 </td>
 <td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:red">&#10007;</span>
+ 
+0
+</td>
+<td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
 324
@@ -1365,6 +1486,7 @@ label
 <tr><td>
 label@ab
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1390,6 +1512,7 @@ label@ace
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1399,6 +1522,7 @@ label@ace
 <tr><td>
 label@aeb-arab
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1424,6 +1548,7 @@ label@aeb-latn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1433,6 +1558,7 @@ label@aeb-latn
 <tr><td>
 label@af
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1458,6 +1584,7 @@ label@ak
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1467,6 +1594,7 @@ label@ak
 <tr><td>
 label@am
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1492,6 +1620,7 @@ label@an
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1501,6 +1630,7 @@ label@an
 <tr><td>
 label@ang
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1526,6 +1656,7 @@ label@anp
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1535,6 +1666,7 @@ label@anp
 <tr><td>
 label@ar
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1560,6 +1692,7 @@ label@arc
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1569,6 +1702,7 @@ label@arc
 <tr><td>
 label@arz
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1594,6 +1728,7 @@ label@as
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1603,6 +1738,7 @@ label@as
 <tr><td>
 label@ast
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1628,6 +1764,7 @@ label@av
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1637,6 +1774,7 @@ label@av
 <tr><td>
 label@awa
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1662,6 +1800,7 @@ label@ay
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1671,6 +1810,7 @@ label@ay
 <tr><td>
 label@az
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1696,6 +1836,7 @@ label@azb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1705,6 +1846,7 @@ label@azb
 <tr><td>
 label@ba
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1730,6 +1872,7 @@ label@bar
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1739,6 +1882,7 @@ label@bar
 <tr><td>
 label@be
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1764,6 +1908,7 @@ label@be-tarask
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1773,6 +1918,7 @@ label@be-tarask
 <tr><td>
 label@bg
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1798,6 +1944,7 @@ label@bho
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1807,6 +1954,7 @@ label@bho
 <tr><td>
 label@bi
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1832,6 +1980,7 @@ label@bjn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1841,6 +1990,7 @@ label@bjn
 <tr><td>
 label@bn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1866,6 +2016,7 @@ label@bo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1875,6 +2026,7 @@ label@bo
 <tr><td>
 label@bpy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1900,6 +2052,7 @@ label@br
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1909,6 +2062,7 @@ label@br
 <tr><td>
 label@bs
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1934,6 +2088,7 @@ label@bug
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1943,6 +2098,7 @@ label@bug
 <tr><td>
 label@bxr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1968,6 +2124,7 @@ label@ca
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -1977,6 +2134,7 @@ label@ca
 <tr><td>
 label@cdo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2002,6 +2160,7 @@ label@ce
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2011,6 +2170,7 @@ label@ce
 <tr><td>
 label@ceb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2036,6 +2196,7 @@ label@chr
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2045,6 +2206,7 @@ label@chr
 <tr><td>
 label@ckb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2070,6 +2232,7 @@ label@co
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2079,6 +2242,7 @@ label@co
 <tr><td>
 label@cs
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2104,6 +2268,7 @@ label@csb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2113,6 +2278,7 @@ label@csb
 <tr><td>
 label@cu
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2138,6 +2304,7 @@ label@cv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2147,6 +2314,7 @@ label@cv
 <tr><td>
 label@cy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2172,6 +2340,7 @@ label@da
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2181,6 +2350,7 @@ label@da
 <tr><td>
 label@de
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2206,6 +2376,7 @@ label@de-at
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2215,6 +2386,7 @@ label@de-at
 <tr><td>
 label@de-ch
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2240,6 +2412,7 @@ label@diq
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2249,6 +2422,7 @@ label@diq
 <tr><td>
 label@dsb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2274,6 +2448,7 @@ label@dty
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2283,6 +2458,7 @@ label@dty
 <tr><td>
 label@dv
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2308,6 +2484,7 @@ label@dz
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2317,6 +2494,7 @@ label@dz
 <tr><td>
 label@ee
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2342,6 +2520,7 @@ label@el
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2351,6 +2530,7 @@ label@el
 <tr><td>
 label@eml
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2392,6 +2572,7 @@ label@en
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -2401,6 +2582,7 @@ label@en
 <tr><td>
 label@en-ca
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2426,6 +2608,7 @@ label@en-gb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2435,6 +2618,7 @@ label@en-gb
 <tr><td>
 label@eo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2460,6 +2644,7 @@ label@es
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -2469,6 +2654,7 @@ label@es
 <tr><td>
 label@et
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2494,6 +2680,7 @@ label@eu
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2503,6 +2690,7 @@ label@eu
 <tr><td>
 label@ext
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2528,6 +2716,7 @@ label@fa
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2537,6 +2726,7 @@ label@fa
 <tr><td>
 label@ff
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2562,6 +2752,7 @@ label@fi
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2571,6 +2762,7 @@ label@fi
 <tr><td>
 label@fj
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2596,6 +2788,7 @@ label@fo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2605,6 +2798,7 @@ label@fo
 <tr><td>
 label@fr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2630,6 +2824,7 @@ label@frp
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2639,6 +2834,7 @@ label@frp
 <tr><td>
 label@frr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2664,6 +2860,7 @@ label@fur
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2673,6 +2870,7 @@ label@fur
 <tr><td>
 label@fy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2698,6 +2896,7 @@ label@ga
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2707,6 +2906,7 @@ label@ga
 <tr><td>
 label@gan
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2732,6 +2932,7 @@ label@gd
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2741,6 +2942,7 @@ label@gd
 <tr><td>
 label@gl
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2766,6 +2968,7 @@ label@glk
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2775,6 +2978,7 @@ label@glk
 <tr><td>
 label@gn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2800,6 +3004,7 @@ label@gom-deva
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2809,6 +3014,7 @@ label@gom-deva
 <tr><td>
 label@gsw
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2834,6 +3040,7 @@ label@gu
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2843,6 +3050,7 @@ label@gu
 <tr><td>
 label@gv
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2868,6 +3076,7 @@ label@ha
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2877,6 +3086,7 @@ label@ha
 <tr><td>
 label@hak
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2902,6 +3112,7 @@ label@haw
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2911,6 +3122,7 @@ label@haw
 <tr><td>
 label@he
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2936,6 +3148,7 @@ label@hi
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2945,6 +3158,7 @@ label@hi
 <tr><td>
 label@hif
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2970,6 +3184,7 @@ label@hr
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -2979,6 +3194,7 @@ label@hr
 <tr><td>
 label@hsb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3004,6 +3220,7 @@ label@ht
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3013,6 +3230,7 @@ label@ht
 <tr><td>
 label@hu
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3038,6 +3256,7 @@ label@hy
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3047,6 +3266,7 @@ label@hy
 <tr><td>
 label@ia
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3072,6 +3292,7 @@ label@id
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3081,6 +3302,7 @@ label@id
 <tr><td>
 label@ie
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3106,6 +3328,7 @@ label@ig
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3115,6 +3338,7 @@ label@ig
 <tr><td>
 label@ik
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3140,6 +3364,7 @@ label@ilo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3149,6 +3374,7 @@ label@ilo
 <tr><td>
 label@io
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3174,6 +3400,7 @@ label@is
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3183,6 +3410,7 @@ label@is
 <tr><td>
 label@it
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3208,6 +3436,7 @@ label@iu
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3217,6 +3446,7 @@ label@iu
 <tr><td>
 label@ja
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3242,6 +3472,7 @@ label@jam
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3251,6 +3482,7 @@ label@jam
 <tr><td>
 label@jbo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3276,6 +3508,7 @@ label@jv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3285,6 +3518,7 @@ label@jv
 <tr><td>
 label@ka
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3310,6 +3544,7 @@ label@kaa
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3319,6 +3554,7 @@ label@kaa
 <tr><td>
 label@kab
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3344,6 +3580,7 @@ label@kbd
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3353,6 +3590,7 @@ label@kbd
 <tr><td>
 label@kg
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3378,6 +3616,7 @@ label@ki
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3387,6 +3626,7 @@ label@ki
 <tr><td>
 label@kk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3412,6 +3652,7 @@ label@kk-arab
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3421,6 +3662,7 @@ label@kk-arab
 <tr><td>
 label@kk-cn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3446,6 +3688,7 @@ label@kk-cyrl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3455,6 +3698,7 @@ label@kk-cyrl
 <tr><td>
 label@kk-kz
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3480,6 +3724,7 @@ label@kk-latn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3489,6 +3734,7 @@ label@kk-latn
 <tr><td>
 label@kk-tr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3514,6 +3760,7 @@ label@kl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3523,6 +3770,7 @@ label@kl
 <tr><td>
 label@km
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3548,6 +3796,7 @@ label@kn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3557,6 +3806,7 @@ label@kn
 <tr><td>
 label@ko
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3582,6 +3832,7 @@ label@koi
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3591,6 +3842,7 @@ label@koi
 <tr><td>
 label@krc
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3616,6 +3868,7 @@ label@ks-deva
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3625,6 +3878,7 @@ label@ks-deva
 <tr><td>
 label@ksh
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3650,6 +3904,7 @@ label@ku
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3659,6 +3914,7 @@ label@ku
 <tr><td>
 label@ku-arab
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3684,6 +3940,7 @@ label@ku-latn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3693,6 +3950,7 @@ label@ku-latn
 <tr><td>
 label@kv
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3718,6 +3976,7 @@ label@kw
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3727,6 +3986,7 @@ label@kw
 <tr><td>
 label@ky
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3752,6 +4012,7 @@ label@la
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3761,6 +4022,7 @@ label@la
 <tr><td>
 label@lb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3786,6 +4048,7 @@ label@lbe
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3795,6 +4058,7 @@ label@lbe
 <tr><td>
 label@lez
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3820,6 +4084,7 @@ label@lg
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3829,6 +4094,7 @@ label@lg
 <tr><td>
 label@li
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3854,6 +4120,7 @@ label@lij
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3863,6 +4130,7 @@ label@lij
 <tr><td>
 label@lmo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3888,6 +4156,7 @@ label@ln
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3897,6 +4166,7 @@ label@ln
 <tr><td>
 label@lo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3922,6 +4192,7 @@ label@lt
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3931,6 +4202,7 @@ label@lt
 <tr><td>
 label@ltg
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3956,6 +4228,7 @@ label@lv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3965,6 +4238,7 @@ label@lv
 <tr><td>
 label@lzh
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3990,6 +4264,7 @@ label@mai
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -3999,6 +4274,7 @@ label@mai
 <tr><td>
 label@map-bms
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4024,6 +4300,7 @@ label@mg
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4033,6 +4310,7 @@ label@mg
 <tr><td>
 label@mhr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4058,6 +4336,7 @@ label@min
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4067,6 +4346,7 @@ label@min
 <tr><td>
 label@mk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4092,6 +4372,7 @@ label@ml
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4101,6 +4382,7 @@ label@ml
 <tr><td>
 label@mn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4126,6 +4408,7 @@ label@mo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4135,6 +4418,7 @@ label@mo
 <tr><td>
 label@mr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4160,6 +4444,7 @@ label@ms
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4169,6 +4454,7 @@ label@ms
 <tr><td>
 label@mt
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4194,6 +4480,7 @@ label@mwl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4203,6 +4490,7 @@ label@mwl
 <tr><td>
 label@my
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4228,6 +4516,7 @@ label@myv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4237,6 +4526,7 @@ label@myv
 <tr><td>
 label@mzn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4262,6 +4552,7 @@ label@nah
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4271,6 +4562,7 @@ label@nah
 <tr><td>
 label@nan
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4296,6 +4588,7 @@ label@nap
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4305,6 +4598,7 @@ label@nap
 <tr><td>
 label@nb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4330,6 +4624,7 @@ label@nds
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4339,6 +4634,7 @@ label@nds
 <tr><td>
 label@nds-nl
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4364,6 +4660,7 @@ label@ne
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4373,6 +4670,7 @@ label@ne
 <tr><td>
 label@new
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4406,6 +4704,7 @@ label@nl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -4415,6 +4714,7 @@ label@nl
 <tr><td>
 label@nn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4440,6 +4740,7 @@ label@nov
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4449,6 +4750,7 @@ label@nov
 <tr><td>
 label@nrm
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4474,6 +4776,7 @@ label@nso
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4483,6 +4786,7 @@ label@nso
 <tr><td>
 label@nv
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4508,6 +4812,7 @@ label@oc
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4517,6 +4822,7 @@ label@oc
 <tr><td>
 label@olo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4542,6 +4848,7 @@ label@om
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4551,6 +4858,7 @@ label@om
 <tr><td>
 label@or
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4576,6 +4884,7 @@ label@os
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4585,6 +4894,7 @@ label@os
 <tr><td>
 label@pa
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4610,6 +4920,7 @@ label@pam
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4619,6 +4930,7 @@ label@pam
 <tr><td>
 label@pap
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4644,6 +4956,7 @@ label@pcd
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4653,6 +4966,7 @@ label@pcd
 <tr><td>
 label@pdc
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4678,6 +4992,7 @@ label@pfl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4687,6 +5002,7 @@ label@pfl
 <tr><td>
 label@pi
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4712,6 +5028,7 @@ label@pl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -4721,6 +5038,7 @@ label@pl
 <tr><td>
 label@pms
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4746,6 +5064,7 @@ label@pnb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4755,6 +5074,7 @@ label@pnb
 <tr><td>
 label@ps
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4780,6 +5100,7 @@ label@pt
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -4789,6 +5110,7 @@ label@pt
 <tr><td>
 label@pt-br
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4814,6 +5136,7 @@ label@qu
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4823,6 +5146,7 @@ label@qu
 <tr><td>
 label@rm
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4848,6 +5172,7 @@ label@rmy
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4857,6 +5182,7 @@ label@rmy
 <tr><td>
 label@rn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4882,6 +5208,7 @@ label@ro
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4891,6 +5218,7 @@ label@ro
 <tr><td>
 label@roa-tara
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4916,6 +5244,7 @@ label@ru
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -4925,6 +5254,7 @@ label@ru
 <tr><td>
 label@rue
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4950,6 +5280,7 @@ label@rup
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4959,6 +5290,7 @@ label@rup
 <tr><td>
 label@rw
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4984,6 +5316,7 @@ label@rwr
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -4993,6 +5326,7 @@ label@rwr
 <tr><td>
 label@sa
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5018,6 +5352,7 @@ label@sah
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5027,6 +5362,7 @@ label@sah
 <tr><td>
 label@sc
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5052,6 +5388,7 @@ label@scn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5061,6 +5398,7 @@ label@scn
 <tr><td>
 label@sco
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5086,6 +5424,7 @@ label@sd
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5095,6 +5434,7 @@ label@sd
 <tr><td>
 label@se
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5120,6 +5460,7 @@ label@sg
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5129,6 +5470,7 @@ label@sg
 <tr><td>
 label@sgs
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5154,6 +5496,7 @@ label@sh
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5163,6 +5506,7 @@ label@sh
 <tr><td>
 label@shn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5188,6 +5532,7 @@ label@si
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5197,6 +5542,7 @@ label@si
 <tr><td>
 label@sk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5222,6 +5568,7 @@ label@sl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5231,6 +5578,7 @@ label@sl
 <tr><td>
 label@sm
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5256,6 +5604,7 @@ label@sma
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5265,6 +5614,7 @@ label@sma
 <tr><td>
 label@sn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5290,6 +5640,7 @@ label@so
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5299,6 +5650,7 @@ label@so
 <tr><td>
 label@sq
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5324,6 +5676,7 @@ label@sr
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5333,6 +5686,7 @@ label@sr
 <tr><td>
 label@sr-ec
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5358,6 +5712,7 @@ label@sr-el
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5367,6 +5722,7 @@ label@sr-el
 <tr><td>
 label@srn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5392,6 +5748,7 @@ label@stq
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5401,6 +5758,7 @@ label@stq
 <tr><td>
 label@su
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5426,6 +5784,7 @@ label@sv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -5435,6 +5794,7 @@ label@sv
 <tr><td>
 label@sw
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5460,6 +5820,7 @@ label@szl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5469,6 +5830,7 @@ label@szl
 <tr><td>
 label@ta
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5494,6 +5856,7 @@ label@tcy
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5503,6 +5866,7 @@ label@tcy
 <tr><td>
 label@te
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5528,6 +5892,7 @@ label@tg
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5537,6 +5902,7 @@ label@tg
 <tr><td>
 label@tg-cyrl
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5562,6 +5928,7 @@ label@tg-latn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5571,6 +5938,7 @@ label@tg-latn
 <tr><td>
 label@th
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5596,6 +5964,7 @@ label@ti
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5605,6 +5974,7 @@ label@ti
 <tr><td>
 label@tk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5630,6 +6000,7 @@ label@tl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5639,6 +6010,7 @@ label@tl
 <tr><td>
 label@tr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5664,6 +6036,7 @@ label@ts
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5673,6 +6046,7 @@ label@ts
 <tr><td>
 label@tt
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5698,6 +6072,7 @@ label@tum
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5707,6 +6082,7 @@ label@tum
 <tr><td>
 label@tyv
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5732,6 +6108,7 @@ label@udm
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5741,6 +6118,7 @@ label@udm
 <tr><td>
 label@ug
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5766,6 +6144,7 @@ label@uk
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -5775,6 +6154,7 @@ label@uk
 <tr><td>
 label@ur
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5800,6 +6180,7 @@ label@uz
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5809,6 +6190,7 @@ label@uz
 <tr><td>
 label@ve
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5834,6 +6216,7 @@ label@vec
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5843,6 +6226,7 @@ label@vec
 <tr><td>
 label@vep
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5868,6 +6252,7 @@ label@vi
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5877,6 +6262,7 @@ label@vi
 <tr><td>
 label@vls
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5902,6 +6288,7 @@ label@vo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5911,6 +6298,7 @@ label@vo
 <tr><td>
 label@vro
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5936,6 +6324,7 @@ label@wa
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5945,6 +6334,7 @@ label@wa
 <tr><td>
 label@war
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5970,6 +6360,7 @@ label@wo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -5979,6 +6370,7 @@ label@wo
 <tr><td>
 label@wuu
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6004,6 +6396,7 @@ label@xal
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6013,6 +6406,7 @@ label@xal
 <tr><td>
 label@xh
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6038,6 +6432,7 @@ label@xmf
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6047,6 +6442,7 @@ label@xmf
 <tr><td>
 label@yi
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6072,6 +6468,7 @@ label@yo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6081,6 +6478,7 @@ label@yo
 <tr><td>
 label@yue
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6106,6 +6504,7 @@ label@za
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6115,6 +6514,7 @@ label@za
 <tr><td>
 label@zea
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6148,6 +6548,7 @@ label@zh
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6157,6 +6558,7 @@ label@zh
 <tr><td>
 label@zh-cn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6182,6 +6584,7 @@ label@zh-hans
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6191,6 +6594,7 @@ label@zh-hans
 <tr><td>
 label@zh-hant
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6216,6 +6620,7 @@ label@zh-hk
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6225,6 +6630,7 @@ label@zh-hk
 <tr><td>
 label@zh-mo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6250,6 +6656,7 @@ label@zh-my
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6259,6 +6666,7 @@ label@zh-my
 <tr><td>
 label@zh-sg
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6284,6 +6692,7 @@ label@zh-tw
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6293,6 +6702,7 @@ label@zh-tw
 <tr><td>
 label@zu
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6331,6 +6741,11 @@ parent
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
 81
+</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
+ 
+842
 </td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
@@ -6389,6 +6804,11 @@ quantKind
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
+847
+</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
 324
 </td>
 <td>
@@ -6418,6 +6838,9 @@ quantKindUnit
 </td>
 <td>
 1093
+</td>
+<td>
+1028
 </td>
 <td>
 1028
@@ -6470,6 +6893,11 @@ quantKind
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
+1028
+</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
 944
 </td>
 <td>
@@ -6519,6 +6947,11 @@ unit
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
+1028
+</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
 944
 </td>
 <td>
@@ -6545,6 +6978,9 @@ sameAs
 </td>
 <td>
 704
+</td>
+<td>
+703
 </td>
 <td>0</td>
 <td>
@@ -6577,6 +7013,11 @@ object
  
 704
 </td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+703
+</td>
 <td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
@@ -6610,6 +7051,11 @@ sameAs
  
 704
 </td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+703
+</td>
 <td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
@@ -6635,6 +7081,7 @@ system
 </td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
 <td>
 35
 </td>
@@ -6655,10 +7102,12 @@ label
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr><td>
 label@ab
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6684,6 +7133,7 @@ label@af
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6693,6 +7143,7 @@ label@af
 <tr><td>
 label@an
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6718,6 +7169,7 @@ label@ar
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6727,6 +7179,7 @@ label@ar
 <tr><td>
 label@arz
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6752,6 +7205,7 @@ label@as
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6761,6 +7215,7 @@ label@as
 <tr><td>
 label@ast
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6786,6 +7241,7 @@ label@az
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6795,6 +7251,7 @@ label@az
 <tr><td>
 label@ba
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6820,6 +7277,7 @@ label@bar
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6829,6 +7287,7 @@ label@bar
 <tr><td>
 label@be
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6854,6 +7313,7 @@ label@be-tarask
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6863,6 +7323,7 @@ label@be-tarask
 <tr><td>
 label@bg
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6888,6 +7349,7 @@ label@bn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6897,6 +7359,7 @@ label@bn
 <tr><td>
 label@bpy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6922,6 +7385,7 @@ label@br
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6931,6 +7395,7 @@ label@br
 <tr><td>
 label@bs
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6956,6 +7421,7 @@ label@ca
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -6965,6 +7431,7 @@ label@ca
 <tr><td>
 label@ckb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6990,6 +7457,7 @@ label@cs
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -6999,6 +7467,7 @@ label@cs
 <tr><td>
 label@cu
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7024,6 +7493,7 @@ label@cy
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7033,6 +7503,7 @@ label@cy
 <tr><td>
 label@da
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7058,6 +7529,7 @@ label@de
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -7075,6 +7547,7 @@ label@de-ch
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7084,6 +7557,7 @@ label@de-ch
 <tr><td>
 label@el
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7117,6 +7591,7 @@ label@en
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -7126,6 +7601,7 @@ label@en
 <tr><td>
 label@en-ca
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7151,6 +7627,7 @@ label@en-gb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7160,6 +7637,7 @@ label@en-gb
 <tr><td>
 label@eo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7185,6 +7663,7 @@ label@es
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:yellow">&#10007;</span>
  
@@ -7194,6 +7673,7 @@ label@es
 <tr><td>
 label@et
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7219,6 +7699,7 @@ label@eu
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7228,6 +7709,7 @@ label@eu
 <tr><td>
 label@fa
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7253,6 +7735,7 @@ label@fi
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7262,6 +7745,7 @@ label@fi
 <tr><td>
 label@fo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7287,6 +7771,7 @@ label@fr
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7296,6 +7781,7 @@ label@fr
 <tr><td>
 label@frr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7321,6 +7807,7 @@ label@fur
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7330,6 +7817,7 @@ label@fur
 <tr><td>
 label@fy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7355,6 +7843,7 @@ label@ga
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7364,6 +7853,7 @@ label@ga
 <tr><td>
 label@gan
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7389,6 +7879,7 @@ label@gd
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7398,6 +7889,7 @@ label@gd
 <tr><td>
 label@gl
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7423,6 +7915,7 @@ label@gsw
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7432,6 +7925,7 @@ label@gsw
 <tr><td>
 label@he
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7457,6 +7951,7 @@ label@hi
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7466,6 +7961,7 @@ label@hi
 <tr><td>
 label@hif
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7491,6 +7987,7 @@ label@hr
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7500,6 +7997,7 @@ label@hr
 <tr><td>
 label@hu
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7525,6 +8023,7 @@ label@hy
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7534,6 +8033,7 @@ label@hy
 <tr><td>
 label@ia
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7559,6 +8059,7 @@ label@id
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7568,6 +8069,7 @@ label@id
 <tr><td>
 label@ilo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7593,6 +8095,7 @@ label@io
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7602,6 +8105,7 @@ label@io
 <tr><td>
 label@is
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7627,6 +8131,7 @@ label@it
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7636,6 +8141,7 @@ label@it
 <tr><td>
 label@ja
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7661,6 +8167,7 @@ label@jam
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7670,6 +8177,7 @@ label@jam
 <tr><td>
 label@jbo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7695,6 +8203,7 @@ label@jv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7704,6 +8213,7 @@ label@jv
 <tr><td>
 label@ka
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7729,6 +8239,7 @@ label@kk
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7738,6 +8249,7 @@ label@kk
 <tr><td>
 label@km
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7763,6 +8275,7 @@ label@kn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7772,6 +8285,7 @@ label@kn
 <tr><td>
 label@ko
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7797,6 +8311,7 @@ label@krc
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7806,6 +8321,7 @@ label@krc
 <tr><td>
 label@ksh
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7831,6 +8347,7 @@ label@ku
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7840,6 +8357,7 @@ label@ku
 <tr><td>
 label@ky
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7865,6 +8383,7 @@ label@la
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7874,6 +8393,7 @@ label@la
 <tr><td>
 label@lb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7899,6 +8419,7 @@ label@li
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7908,6 +8429,7 @@ label@li
 <tr><td>
 label@lt
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7933,6 +8455,7 @@ label@lv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7942,6 +8465,7 @@ label@lv
 <tr><td>
 label@lzh
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7967,6 +8491,7 @@ label@mk
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -7976,6 +8501,7 @@ label@mk
 <tr><td>
 label@ml
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8001,6 +8527,7 @@ label@mn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8010,6 +8537,7 @@ label@mn
 <tr><td>
 label@mr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8035,6 +8563,7 @@ label@ms
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8044,6 +8573,7 @@ label@ms
 <tr><td>
 label@my
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8069,6 +8599,7 @@ label@nan
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8078,6 +8609,7 @@ label@nan
 <tr><td>
 label@nb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8103,6 +8635,7 @@ label@nds
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8112,6 +8645,7 @@ label@nds
 <tr><td>
 label@new
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8145,6 +8679,7 @@ label@nl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8154,6 +8689,7 @@ label@nl
 <tr><td>
 label@nn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8179,6 +8715,7 @@ label@nso
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8188,6 +8725,7 @@ label@nso
 <tr><td>
 label@oc
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8213,6 +8751,7 @@ label@pa
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8222,6 +8761,7 @@ label@pa
 <tr><td>
 label@pl
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8247,6 +8787,7 @@ label@pnb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8256,6 +8797,7 @@ label@pnb
 <tr><td>
 label@pt
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8281,6 +8823,7 @@ label@qu
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8290,6 +8833,7 @@ label@qu
 <tr><td>
 label@ro
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8315,6 +8859,7 @@ label@roa-tara
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8324,6 +8869,7 @@ label@roa-tara
 <tr><td>
 label@ru
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8349,6 +8895,7 @@ label@sco
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8358,6 +8905,7 @@ label@sco
 <tr><td>
 label@sgs
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8383,6 +8931,7 @@ label@sh
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8392,6 +8941,7 @@ label@sh
 <tr><td>
 label@sk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8417,6 +8967,7 @@ label@sl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8426,6 +8977,7 @@ label@sl
 <tr><td>
 label@so
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8451,6 +9003,7 @@ label@sq
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8460,6 +9013,7 @@ label@sq
 <tr><td>
 label@sr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8485,6 +9039,7 @@ label@sr-ec
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8494,6 +9049,7 @@ label@sr-ec
 <tr><td>
 label@sr-el
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8519,6 +9075,7 @@ label@su
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8528,6 +9085,7 @@ label@su
 <tr><td>
 label@sv
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8553,6 +9111,7 @@ label@sw
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8562,6 +9121,7 @@ label@sw
 <tr><td>
 label@ta
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8587,6 +9147,7 @@ label@te
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8596,6 +9157,7 @@ label@te
 <tr><td>
 label@th
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8621,6 +9183,7 @@ label@tl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8630,6 +9193,7 @@ label@tl
 <tr><td>
 label@tr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8655,6 +9219,7 @@ label@tt
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8664,6 +9229,7 @@ label@tt
 <tr><td>
 label@uk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8689,6 +9255,7 @@ label@ur
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8698,6 +9265,7 @@ label@ur
 <tr><td>
 label@uz
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8723,6 +9291,7 @@ label@vec
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8732,6 +9301,7 @@ label@vec
 <tr><td>
 label@vi
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8757,6 +9327,7 @@ label@vls
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8766,6 +9337,7 @@ label@vls
 <tr><td>
 label@war
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8791,6 +9363,7 @@ label@yi
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8800,6 +9373,7 @@ label@yi
 <tr><td>
 label@yo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8825,6 +9399,7 @@ label@yue
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8834,6 +9409,7 @@ label@yue
 <tr><td>
 label@zh
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8859,6 +9435,7 @@ label@zh-cn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8868,6 +9445,7 @@ label@zh-cn
 <tr><td>
 label@zh-hans
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8893,6 +9471,7 @@ label@zh-hant
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -8902,6 +9481,7 @@ label@zh-hant
 <tr><td>
 label@zh-hk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8939,6 +9519,7 @@ system
 </td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
@@ -8961,6 +9542,7 @@ systemUnit
 <td>
 4124
 </td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>
@@ -8990,6 +9572,7 @@ system
 </td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
@@ -9019,6 +9602,7 @@ unit
 </td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
@@ -9046,6 +9630,9 @@ unit
 </td>
 <td>
 768
+</td>
+<td>
+140
 </td>
 <td>
 140
@@ -9083,6 +9670,7 @@ definition
 218
 </td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
@@ -9117,6 +9705,11 @@ label
 0
 </td>
 <td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:red">&#10007;</span>
+ 
+0
+</td>
+<td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
 221
@@ -9126,6 +9719,7 @@ label
 <tr><td>
 label@ab
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9151,6 +9745,7 @@ label@aeb-arab
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9160,6 +9755,7 @@ label@aeb-arab
 <tr><td>
 label@af
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9185,6 +9781,7 @@ label@ak
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9194,6 +9791,7 @@ label@ak
 <tr><td>
 label@am
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9219,6 +9817,7 @@ label@an
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9228,6 +9827,7 @@ label@an
 <tr><td>
 label@ang
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9253,6 +9853,7 @@ label@ar
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9262,6 +9863,7 @@ label@ar
 <tr><td>
 label@arc
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9287,6 +9889,7 @@ label@arz
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9296,6 +9899,7 @@ label@arz
 <tr><td>
 label@as
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9321,6 +9925,7 @@ label@ast
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9330,6 +9935,7 @@ label@ast
 <tr><td>
 label@av
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9355,6 +9961,7 @@ label@ay
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9364,6 +9971,7 @@ label@ay
 <tr><td>
 label@az
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9389,6 +9997,7 @@ label@azb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9398,6 +10007,7 @@ label@azb
 <tr><td>
 label@ba
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9423,6 +10033,7 @@ label@bar
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9432,6 +10043,7 @@ label@bar
 <tr><td>
 label@bcl
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9457,6 +10069,7 @@ label@be
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9466,6 +10079,7 @@ label@be
 <tr><td>
 label@be-tarask
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9491,6 +10105,7 @@ label@bg
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9500,6 +10115,7 @@ label@bg
 <tr><td>
 label@bho
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9525,6 +10141,7 @@ label@bjn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9534,6 +10151,7 @@ label@bjn
 <tr><td>
 label@bn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9559,6 +10177,7 @@ label@bo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9568,6 +10187,7 @@ label@bo
 <tr><td>
 label@bpy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9593,6 +10213,7 @@ label@br
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9602,6 +10223,7 @@ label@br
 <tr><td>
 label@brh
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9627,6 +10249,7 @@ label@bs
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9636,6 +10259,7 @@ label@bs
 <tr><td>
 label@bug
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9661,6 +10285,7 @@ label@bxr
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9670,6 +10295,7 @@ label@bxr
 <tr><td>
 label@ca
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9695,6 +10321,7 @@ label@cbk-zam
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9704,6 +10331,7 @@ label@cbk-zam
 <tr><td>
 label@cdo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9729,6 +10357,7 @@ label@ce
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9738,6 +10367,7 @@ label@ce
 <tr><td>
 label@ceb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9763,6 +10393,7 @@ label@ch
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9772,6 +10403,7 @@ label@ch
 <tr><td>
 label@chr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9797,6 +10429,7 @@ label@ckb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9806,6 +10439,7 @@ label@ckb
 <tr><td>
 label@co
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9831,6 +10465,7 @@ label@crh-latn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9840,6 +10475,7 @@ label@crh-latn
 <tr><td>
 label@cs
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9865,6 +10501,7 @@ label@csb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9874,6 +10511,7 @@ label@csb
 <tr><td>
 label@cu
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9899,6 +10537,7 @@ label@cv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9908,6 +10547,7 @@ label@cv
 <tr><td>
 label@cy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9933,6 +10573,7 @@ label@da
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9942,6 +10583,7 @@ label@da
 <tr><td>
 label@de
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -9967,6 +10609,7 @@ label@de-at
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -9976,6 +10619,7 @@ label@de-at
 <tr><td>
 label@de-ch
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10001,6 +10645,7 @@ label@diq
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10010,6 +10655,7 @@ label@diq
 <tr><td>
 label@dsb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10035,6 +10681,7 @@ label@dv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10044,6 +10691,7 @@ label@dv
 <tr><td>
 label@ee
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10069,6 +10717,7 @@ label@el
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10078,6 +10727,7 @@ label@el
 <tr><td>
 label@eml
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10115,6 +10765,7 @@ label@en
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10124,6 +10775,7 @@ label@en
 <tr><td>
 label@en-ca
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10149,6 +10801,7 @@ label@en-gb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10158,6 +10811,7 @@ label@en-gb
 <tr><td>
 label@eo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10183,6 +10837,7 @@ label@es
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10192,6 +10847,7 @@ label@es
 <tr><td>
 label@et
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10217,6 +10873,7 @@ label@eu
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10226,6 +10883,7 @@ label@eu
 <tr><td>
 label@ext
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10251,6 +10909,7 @@ label@fa
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10260,6 +10919,7 @@ label@fa
 <tr><td>
 label@fi
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10285,6 +10945,7 @@ label@fo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10294,6 +10955,7 @@ label@fo
 <tr><td>
 label@fr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10319,6 +10981,7 @@ label@frp
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10328,6 +10991,7 @@ label@frp
 <tr><td>
 label@frr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10353,6 +11017,7 @@ label@fur
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10362,6 +11027,7 @@ label@fur
 <tr><td>
 label@fy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10387,6 +11053,7 @@ label@ga
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10396,6 +11063,7 @@ label@ga
 <tr><td>
 label@gag
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10421,6 +11089,7 @@ label@gan
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10430,6 +11099,7 @@ label@gan
 <tr><td>
 label@gan-hans
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10455,6 +11125,7 @@ label@gan-hant
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10464,6 +11135,7 @@ label@gan-hant
 <tr><td>
 label@gd
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10489,6 +11161,7 @@ label@gl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10498,6 +11171,7 @@ label@gl
 <tr><td>
 label@glk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10523,6 +11197,7 @@ label@gn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10532,6 +11207,7 @@ label@gn
 <tr><td>
 label@gom
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10557,6 +11233,7 @@ label@got
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10566,6 +11243,7 @@ label@got
 <tr><td>
 label@grc
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10591,6 +11269,7 @@ label@gsw
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10600,6 +11279,7 @@ label@gsw
 <tr><td>
 label@gu
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10625,6 +11305,7 @@ label@gv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10634,6 +11315,7 @@ label@gv
 <tr><td>
 label@ha
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10659,6 +11341,7 @@ label@hak
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10668,6 +11351,7 @@ label@hak
 <tr><td>
 label@haw
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10693,6 +11377,7 @@ label@he
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10702,6 +11387,7 @@ label@he
 <tr><td>
 label@hi
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10727,6 +11413,7 @@ label@hif
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10736,6 +11423,7 @@ label@hif
 <tr><td>
 label@hr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10761,6 +11449,7 @@ label@hsb
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10770,6 +11459,7 @@ label@hsb
 <tr><td>
 label@ht
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10795,6 +11485,7 @@ label@hu
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10804,6 +11495,7 @@ label@hu
 <tr><td>
 label@hy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10829,6 +11521,7 @@ label@ia
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10838,6 +11531,7 @@ label@ia
 <tr><td>
 label@id
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10863,6 +11557,7 @@ label@ie
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10872,6 +11567,7 @@ label@ie
 <tr><td>
 label@ik
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10897,6 +11593,7 @@ label@ilo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10906,6 +11603,7 @@ label@ilo
 <tr><td>
 label@io
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10931,6 +11629,7 @@ label@is
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10940,6 +11639,7 @@ label@is
 <tr><td>
 label@it
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10965,6 +11665,7 @@ label@iu
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -10974,6 +11675,7 @@ label@iu
 <tr><td>
 label@ja
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -10999,6 +11701,7 @@ label@jam
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11008,6 +11711,7 @@ label@jam
 <tr><td>
 label@jbo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11033,6 +11737,7 @@ label@jv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11042,6 +11747,7 @@ label@jv
 <tr><td>
 label@ka
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11067,6 +11773,7 @@ label@kaa
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11076,6 +11783,7 @@ label@kaa
 <tr><td>
 label@kab
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11101,6 +11809,7 @@ label@kbd
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11110,6 +11819,7 @@ label@kbd
 <tr><td>
 label@kg
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11135,6 +11845,7 @@ label@kj
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11144,6 +11855,7 @@ label@kj
 <tr><td>
 label@kk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11169,6 +11881,7 @@ label@kk-arab
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11178,6 +11891,7 @@ label@kk-arab
 <tr><td>
 label@kk-cn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11203,6 +11917,7 @@ label@kk-cyrl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11212,6 +11927,7 @@ label@kk-cyrl
 <tr><td>
 label@kk-kz
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11237,6 +11953,7 @@ label@kk-latn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11246,6 +11963,7 @@ label@kk-latn
 <tr><td>
 label@kk-tr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11271,6 +11989,7 @@ label@kl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11280,6 +11999,7 @@ label@kl
 <tr><td>
 label@km
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11305,6 +12025,7 @@ label@kn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11314,6 +12035,7 @@ label@kn
 <tr><td>
 label@ko
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11339,6 +12061,7 @@ label@ko-kp
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11348,6 +12071,7 @@ label@ko-kp
 <tr><td>
 label@krc
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11373,6 +12097,7 @@ label@ksh
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11382,6 +12107,7 @@ label@ksh
 <tr><td>
 label@ku
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11407,6 +12133,7 @@ label@ku-arab
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11416,6 +12143,7 @@ label@ku-arab
 <tr><td>
 label@ku-latn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11441,6 +12169,7 @@ label@kv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11450,6 +12179,7 @@ label@kv
 <tr><td>
 label@kw
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11475,6 +12205,7 @@ label@ky
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11484,6 +12215,7 @@ label@ky
 <tr><td>
 label@la
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11509,6 +12241,7 @@ label@lad
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11518,6 +12251,7 @@ label@lad
 <tr><td>
 label@lb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11543,6 +12277,7 @@ label@lbe
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11552,6 +12287,7 @@ label@lbe
 <tr><td>
 label@lez
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11577,6 +12313,7 @@ label@li
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11586,6 +12323,7 @@ label@li
 <tr><td>
 label@lij
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11611,6 +12349,7 @@ label@lmo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11620,6 +12359,7 @@ label@lmo
 <tr><td>
 label@ln
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11645,6 +12385,7 @@ label@lo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11654,6 +12395,7 @@ label@lo
 <tr><td>
 label@lrc
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11679,6 +12421,7 @@ label@lt
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11688,6 +12431,7 @@ label@lt
 <tr><td>
 label@ltg
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11713,6 +12457,7 @@ label@lv
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11722,6 +12467,7 @@ label@lv
 <tr><td>
 label@lzh
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11747,6 +12493,7 @@ label@mai
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11756,6 +12503,7 @@ label@mai
 <tr><td>
 label@map-bms
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11781,6 +12529,7 @@ label@mdf
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11790,6 +12539,7 @@ label@mdf
 <tr><td>
 label@mg
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11815,6 +12565,7 @@ label@mhr
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11824,6 +12575,7 @@ label@mhr
 <tr><td>
 label@mi
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11849,6 +12601,7 @@ label@min
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11858,6 +12611,7 @@ label@min
 <tr><td>
 label@mk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11883,6 +12637,7 @@ label@ml
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11892,6 +12647,7 @@ label@ml
 <tr><td>
 label@mn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11917,6 +12673,7 @@ label@mo
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11926,6 +12683,7 @@ label@mo
 <tr><td>
 label@mr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11951,6 +12709,7 @@ label@mrj
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11960,6 +12719,7 @@ label@mrj
 <tr><td>
 label@ms
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11985,6 +12745,7 @@ label@mt
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -11994,6 +12755,7 @@ label@mt
 <tr><td>
 label@mwl
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12019,6 +12781,7 @@ label@my
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12028,6 +12791,7 @@ label@my
 <tr><td>
 label@myv
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12053,6 +12817,7 @@ label@mzn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12062,6 +12827,7 @@ label@mzn
 <tr><td>
 label@na
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12087,6 +12853,7 @@ label@nah
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12096,6 +12863,7 @@ label@nah
 <tr><td>
 label@nan
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12121,6 +12889,7 @@ label@nap
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12130,6 +12899,7 @@ label@nap
 <tr><td>
 label@nb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12155,6 +12925,7 @@ label@nds
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12164,6 +12935,7 @@ label@nds
 <tr><td>
 label@nds-nl
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12189,6 +12961,7 @@ label@ne
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12198,6 +12971,7 @@ label@ne
 <tr><td>
 label@new
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12231,6 +13005,7 @@ label@nl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12240,6 +13015,7 @@ label@nl
 <tr><td>
 label@nn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12265,6 +13041,7 @@ label@nov
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12274,6 +13051,7 @@ label@nov
 <tr><td>
 label@nrm
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12299,6 +13077,7 @@ label@nso
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12308,6 +13087,7 @@ label@nso
 <tr><td>
 label@ny
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12333,6 +13113,7 @@ label@oc
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12342,6 +13123,7 @@ label@oc
 <tr><td>
 label@olo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12367,6 +13149,7 @@ label@om
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12376,6 +13159,7 @@ label@om
 <tr><td>
 label@or
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12401,6 +13185,7 @@ label@os
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12410,6 +13195,7 @@ label@os
 <tr><td>
 label@pa
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12435,6 +13221,7 @@ label@pam
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12444,6 +13231,7 @@ label@pam
 <tr><td>
 label@pap
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12469,6 +13257,7 @@ label@pcd
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12478,6 +13267,7 @@ label@pcd
 <tr><td>
 label@pdc
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12503,6 +13293,7 @@ label@pih
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12512,6 +13303,7 @@ label@pih
 <tr><td>
 label@pl
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12537,6 +13329,7 @@ label@pms
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12546,6 +13339,7 @@ label@pms
 <tr><td>
 label@pnb
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12571,6 +13365,7 @@ label@ps
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12580,6 +13375,7 @@ label@ps
 <tr><td>
 label@pt
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12605,6 +13401,7 @@ label@pt-br
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12614,6 +13411,7 @@ label@pt-br
 <tr><td>
 label@qu
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12639,6 +13437,7 @@ label@rm
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12648,6 +13447,7 @@ label@rm
 <tr><td>
 label@rmy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12673,6 +13473,7 @@ label@rn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12682,6 +13483,7 @@ label@rn
 <tr><td>
 label@ro
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12707,6 +13509,7 @@ label@roa-tara
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12716,6 +13519,7 @@ label@roa-tara
 <tr><td>
 label@ru
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12741,6 +13545,7 @@ label@rue
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12750,6 +13555,7 @@ label@rue
 <tr><td>
 label@rup
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12775,6 +13581,7 @@ label@rw
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12784,6 +13591,7 @@ label@rw
 <tr><td>
 label@sa
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12809,6 +13617,7 @@ label@sah
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12818,6 +13627,7 @@ label@sah
 <tr><td>
 label@sc
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12843,6 +13653,7 @@ label@scn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12852,6 +13663,7 @@ label@scn
 <tr><td>
 label@sco
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12877,6 +13689,7 @@ label@sd
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12886,6 +13699,7 @@ label@sd
 <tr><td>
 label@se
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12911,6 +13725,7 @@ label@sg
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12920,6 +13735,7 @@ label@sg
 <tr><td>
 label@sgs
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12945,6 +13761,7 @@ label@sh
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12954,6 +13771,7 @@ label@sh
 <tr><td>
 label@si
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -12979,6 +13797,7 @@ label@sje
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -12988,6 +13807,7 @@ label@sje
 <tr><td>
 label@sk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13013,6 +13833,7 @@ label@sl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13022,6 +13843,7 @@ label@sl
 <tr><td>
 label@sm
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13047,6 +13869,7 @@ label@sma
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13056,6 +13879,7 @@ label@sma
 <tr><td>
 label@smj
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13081,6 +13905,7 @@ label@sn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13090,6 +13915,7 @@ label@sn
 <tr><td>
 label@so
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13115,6 +13941,7 @@ label@sq
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13124,6 +13951,7 @@ label@sq
 <tr><td>
 label@sr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13149,6 +13977,7 @@ label@sr-ec
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13158,6 +13987,7 @@ label@sr-ec
 <tr><td>
 label@sr-el
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13183,6 +14013,7 @@ label@srn
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13192,6 +14023,7 @@ label@srn
 <tr><td>
 label@ss
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13217,6 +14049,7 @@ label@st
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13226,6 +14059,7 @@ label@st
 <tr><td>
 label@stq
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13251,6 +14085,7 @@ label@su
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13260,6 +14095,7 @@ label@su
 <tr><td>
 label@sv
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13285,6 +14121,7 @@ label@sw
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13294,6 +14131,7 @@ label@sw
 <tr><td>
 label@szl
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13319,6 +14157,7 @@ label@ta
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13328,6 +14167,7 @@ label@ta
 <tr><td>
 label@tcy
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13353,6 +14193,7 @@ label@te
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13362,6 +14203,7 @@ label@te
 <tr><td>
 label@tet
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13387,6 +14229,7 @@ label@tg
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13396,6 +14239,7 @@ label@tg
 <tr><td>
 label@tg-latn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13421,6 +14265,7 @@ label@th
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13430,6 +14275,7 @@ label@th
 <tr><td>
 label@tk
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13455,6 +14301,7 @@ label@tl
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13464,6 +14311,7 @@ label@tl
 <tr><td>
 label@tn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13489,6 +14337,7 @@ label@to
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13498,6 +14347,7 @@ label@to
 <tr><td>
 label@tokipona
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13523,6 +14373,7 @@ label@tpi
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13532,6 +14383,7 @@ label@tpi
 <tr><td>
 label@tr
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13557,6 +14409,7 @@ label@tt
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13566,6 +14419,7 @@ label@tt
 <tr><td>
 label@tum
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13591,6 +14445,7 @@ label@ty
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13600,6 +14455,7 @@ label@ty
 <tr><td>
 label@tyv
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13625,6 +14481,7 @@ label@udm
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13634,6 +14491,7 @@ label@udm
 <tr><td>
 label@ug
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13659,6 +14517,7 @@ label@uk
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13668,6 +14527,7 @@ label@uk
 <tr><td>
 label@ur
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13693,6 +14553,7 @@ label@uz
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13702,6 +14563,7 @@ label@uz
 <tr><td>
 label@vec
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13727,6 +14589,7 @@ label@vep
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13736,6 +14599,7 @@ label@vep
 <tr><td>
 label@vi
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13761,6 +14625,7 @@ label@vls
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13770,6 +14635,7 @@ label@vls
 <tr><td>
 label@vo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13795,6 +14661,7 @@ label@vro
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13804,6 +14671,7 @@ label@vro
 <tr><td>
 label@wa
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13829,6 +14697,7 @@ label@war
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13838,6 +14707,7 @@ label@war
 <tr><td>
 label@wo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13863,6 +14733,7 @@ label@wuu
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13872,6 +14743,7 @@ label@wuu
 <tr><td>
 label@xal
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13897,6 +14769,7 @@ label@xh
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13906,6 +14779,7 @@ label@xh
 <tr><td>
 label@xmf
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13931,6 +14805,7 @@ label@yi
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13940,6 +14815,7 @@ label@yi
 <tr><td>
 label@yo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -13965,6 +14841,7 @@ label@yue
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13982,6 +14859,7 @@ label@za
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -13991,6 +14869,7 @@ label@za
 <tr><td>
 label@zea
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -14024,6 +14903,7 @@ label@zh
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -14033,6 +14913,7 @@ label@zh
 <tr><td>
 label@zh-cn
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -14058,6 +14939,7 @@ label@zh-hans
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -14067,6 +14949,7 @@ label@zh-hans
 <tr><td>
 label@zh-hant
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -14092,6 +14975,7 @@ label@zh-hk
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -14101,6 +14985,7 @@ label@zh-hk
 <tr><td>
 label@zh-mo
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -14126,6 +15011,7 @@ label@zh-my
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -14135,6 +15021,7 @@ label@zh-my
 <tr><td>
 label@zh-sg
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -14160,6 +15047,7 @@ label@zh-tw
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
  
@@ -14169,6 +15057,7 @@ label@zh-tw
 <tr><td>
 label@zu
 </td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -14217,6 +15106,11 @@ symbol
  
 20
 </td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
+ 
+20
+</td>
 <td>-</td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:orange">&#10007;</span>
@@ -14256,6 +15150,11 @@ unit
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
  
 768
+</td>
+<td>
+<span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>
+ 
+140
 </td>
 <td>
 <span style="padding: 0.1em;border: 1px solid black;background-color: #A4A4A4;color:green">&#10003;</span>

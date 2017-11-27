@@ -1,0 +1,3765 @@
+[
+  {
+    "quantKind": "http://sweetontology.net/humanDecision/DecisionMaker",
+    "parent": "http://sweetontology.net/prop/Role"
+  },
+  {
+    "quantKind": "http://sweetontology.net/humanEnvirConservation/Protection",
+    "parent": "http://sweetontology.net/prop/Role"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phen/RadiativeCooling"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phen/RadiativeHeating"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmo/Sunlight",
+    "parent": "http://sweetontology.net/phen/RadiativeHeating"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPrecipitation/Hurricane",
+    "parent": "http://sweetontology.net/phenAtmoPressure/TropicalCyclone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPrecipitation/HurricaneBand",
+    "parent": "http://sweetontology.net/phenAtmoPrecipitation/Hurricane"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPrecipitation/TropicalStorm",
+    "parent": "http://sweetontology.net/phenAtmoPressure/TropicalCyclone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPrecipitation/Typhoon",
+    "parent": "http://sweetontology.net/phenAtmoPressure/TropicalCyclone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/AtmosphericCyclone",
+    "parent": "http://sweetontology.net/phenFluidDynamics/Cyclone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/AtmosphericHighPressure",
+    "parent": "http://sweetontology.net/phenFluidDynamics/HighPressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/AtmosphericLowPressure",
+    "parent": "http://sweetontology.net/phenFluidDynamics/LowPressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/CutOffHigh",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericHighPressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/CutOffLow",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericLowPressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/ExtratropicalCyclone",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericCyclone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/KatallobaticCenter",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericLowPressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/Mesocyclone",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericCyclone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/Mesolow",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericLowPressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/MonsoonLow",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericLowPressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/PolarCyclone",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericCyclone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/PolarLow",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericLowPressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/SubtropicalCyclone",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericCyclone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/TropicalCyclone",
+    "parent": "http://sweetontology.net/phenAtmoPressure/AtmosphericCyclone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/TropicalUpperTroposphericTrough",
+    "parent": "http://sweetontology.net/phenAtmoPressure/TropicalCyclone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoSky/Sunlight",
+    "parent": "http://sweetontology.net/phen/RadiativeHeating"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/ActiveSolarEnergy",
+    "parent": "http://sweetontology.net/phenEnergy/SolarEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/ActiveSolarEnergy",
+    "parent": "http://sweetontology.net/phenEnergy/ThermalCollection"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/BinaryCycle",
+    "parent": "http://sweetontology.net/phenEnergy/GeothermalPowerProcess"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/Biopower",
+    "parent": "http://sweetontology.net/phenEnergy/RenewableEnergySource"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/ConcentratingSolarPower",
+    "parent": "http://sweetontology.net/phenEnergy/SolarEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/DrySteam",
+    "parent": "http://sweetontology.net/phenEnergy/GeothermalPowerProcess"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/Electricity",
+    "parent": "http://sweetontology.net/phenEnergy/EnergyForm"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/EnergyCollection",
+    "parent": "http://sweetontology.net/phenEnergy/EnergyForm"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/EnergyForm",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/EnergySource",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/FlashSteam",
+    "parent": "http://sweetontology.net/phenEnergy/GeothermalPowerProcess"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/Geothermal",
+    "parent": "http://sweetontology.net/phenEnergy/RenewableEnergySource"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/GeothermalPowerProcess",
+    "parent": "http://sweetontology.net/phenEnergy/RenewableEnergySource"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/PassiveSolarEnergy",
+    "parent": "http://sweetontology.net/phenEnergy/SolarEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/Photovoltaics",
+    "parent": "http://sweetontology.net/phenEnergy/SolarPower"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/RenewableEnergySource",
+    "parent": "http://sweetontology.net/phenEnergy/EnergySource"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/SolarEnergy",
+    "parent": "http://sweetontology.net/phenEnergy/RenewableEnergySource"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/SolarPower",
+    "parent": "http://sweetontology.net/phenEnergy/SolarEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/SolarThermalPower",
+    "parent": "http://sweetontology.net/phenEnergy/SolarPower"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/SolarThermalPower",
+    "parent": "http://sweetontology.net/phenEnergy/ThermalCollection"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/ThermalCollection",
+    "parent": "http://sweetontology.net/phenEnergy/EnergyCollection"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/WindEnergy",
+    "parent": "http://sweetontology.net/phenEnergy/RenewableEnergySource"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenFluidDynamics/Cyclone",
+    "parent": "http://sweetontology.net/phenFluidDynamics/LowPressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenFluidDynamics/Depression",
+    "parent": "http://sweetontology.net/phenFluidDynamics/LowPressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenFluidDynamics/HighPressure",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenFluidDynamics/LowPressure",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenFluidTransport/CounterGradientFlux",
+    "parent": "http://sweetontology.net/propQuantity/Flux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenFluidTransport/Surge",
+    "parent": "http://sweetontology.net/propQuantity/Flux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenGeol/CompositeProcess",
+    "parent": "http://sweetontology.net/reprSciProvenance/Genesis"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenGeol/Pedogenesis",
+    "parent": "http://sweetontology.net/reprSciProvenance/Genesis"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenGeol/StratigraphicSequence",
+    "parent": "http://sweetontology.net/reprSciProvenance/History"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenGeol/Unconformity",
+    "parent": "http://sweetontology.net/reprSciProvenance/History"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenPlanetClimate/ClimateAnomaly",
+    "parent": "http://sweetontology.net/propDifference/Anomaly"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenPlanetClimate/Drought",
+    "parent": "http://sweetontology.net/phenPlanetClimate/ClimateAnomaly"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenSolid/Cleavage",
+    "parent": "http://sweetontology.net/phenSolid/Crack"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenSolid/Crack",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Separation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenSolid/Fissure",
+    "parent": "http://sweetontology.net/phenSolid/Crack"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenSolid/Joint",
+    "parent": "http://sweetontology.net/phenSolid/Crack"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenSolid/Pore",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Separation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/procPhysical/Nucleosynthesis",
+    "parent": "http://sweetontology.net/reprSciProvenance/Genesis"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Accuracy",
+    "parent": "http://sweetontology.net/prop/Metric"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/AngularMotionProperty",
+    "parent": "http://sweetontology.net/prop/MotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/BiologicalProperty",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ChemicalProperty",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Distortion",
+    "parent": "http://sweetontology.net/prop/Error"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Efficiency",
+    "parent": "http://sweetontology.net/prop/Measure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticProperty",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Error",
+    "parent": "http://sweetontology.net/prop/Metric"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Fideltiy",
+    "parent": "http://sweetontology.net/prop/Measure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/FlowProperty",
+    "parent": "http://sweetontology.net/prop/SystemProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/FluidProperty",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/GeologicalProperty",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/HydrogeologicalProperty",
+    "parent": "http://sweetontology.net/prop/GeologicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Metric",
+    "parent": "http://sweetontology.net/prop/Measure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Precision",
+    "parent": "http://sweetontology.net/prop/Metric"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/RadiationMediumInteractionProperty",
+    "parent": "http://sweetontology.net/prop/ElectromagneticRadiationProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ReactionProperty",
+    "parent": "http://sweetontology.net/prop/ChemicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Role",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Sensitivity",
+    "parent": "http://sweetontology.net/prop/Measure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/StatisticalSummary",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/StockProperty",
+    "parent": "http://sweetontology.net/prop/SystemProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/SystemProperty",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/WaveProperty",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propBinary/BinaryProperty",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propBinary/Free",
+    "parent": "http://sweetontology.net/propBinary/BinaryProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propBinary/Polarity",
+    "parent": "http://sweetontology.net/prop/ChemicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propBinary/Polarity",
+    "parent": "http://sweetontology.net/propBinary/BinaryProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/Capacity",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/CoefficientOfHeatTransfer",
+    "parent": "http://sweetontology.net/propMass/MaterialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/CoefficientOfHeatTransfer",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/CoefficientOfThermalExpansion",
+    "parent": "http://sweetontology.net/propMass/MaterialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/CoefficientOfThermalExpansion",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/HeatCapacity",
+    "parent": "http://sweetontology.net/propCapacity/Capacity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/HeatCapacity",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/LinearThermalExpansion",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/MolarHeatCapacity",
+    "parent": "http://sweetontology.net/propCapacity/Capacity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/MolarHeatCapacity",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/SpecificHeat",
+    "parent": "http://sweetontology.net/propCapacity/Capacity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/SpecificHeat",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/VolumetricHeatCapacity",
+    "parent": "http://sweetontology.net/propCapacity/Capacity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/VolumetricHeatCapacity",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/VolumetricThermalExpansion",
+    "parent": "http://sweetontology.net/propCapacity/CoefficientOfThermalExpansion"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCategorical/CategoricalProperty",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCategorical/Category",
+    "parent": "http://sweetontology.net/propCategorical/CategoricalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCategorical/Characteristics",
+    "parent": "http://sweetontology.net/propCategorical/CategoricalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCategorical/Community",
+    "parent": "http://sweetontology.net/propCategorical/Group"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCategorical/Group",
+    "parent": "http://sweetontology.net/propCategorical/CategoricalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCategorical/Industry",
+    "parent": "http://sweetontology.net/propCategorical/CategoricalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCategorical/Name",
+    "parent": "http://sweetontology.net/propCategorical/CategoricalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCategorical/StandardIndustrialClassification",
+    "parent": "http://sweetontology.net/propCategorical/Industry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCategorical/Type",
+    "parent": "http://sweetontology.net/propCategorical/CategoricalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Capacitance",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/CationExchangeCapacity",
+    "parent": "http://sweetontology.net/propCharge/ExchangeCapacity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Charge",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ChargeDistribution",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ChargeDistribution",
+    "parent": "http://sweetontology.net/propSpace/SpatialDistribution"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/DielectricConstant",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricCharge",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricChargeDensity",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricCurrent",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricCurrentDensity",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricDipoleMoment",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricDipoleMoment",
+    "parent": "http://sweetontology.net/propQuantity/VectorQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricFieldStrength",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricFluxDensity",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricFluxDensity",
+    "parent": "http://sweetontology.net/propQuantity/Flux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricPotential",
+    "parent": "http://sweetontology.net/propQuantity/ScalarPotential"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ExchangeCapacity",
+    "parent": "http://sweetontology.net/prop/ReactionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Inductance",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticDipoleMoment",
+    "parent": "http://sweetontology.net/propCharge/MagneticMoment"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFieldStrength",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFlux",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFlux",
+    "parent": "http://sweetontology.net/propQuantity/Flux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFluxDensity",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFluxDensity",
+    "parent": "http://sweetontology.net/propQuantity/Flux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticMoment",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticMoment",
+    "parent": "http://sweetontology.net/propQuantity/VectorQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagnetiGradient",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Permeability",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Permittivity",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Abundance",
+    "parent": "http://sweetontology.net/propChemical/Composition"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Acidity",
+    "parent": "http://sweetontology.net/prop/ChemicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Alkalinity",
+    "parent": "http://sweetontology.net/prop/ChemicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/BedLoad",
+    "parent": "http://sweetontology.net/propChemical/Load"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/BiologicalOxygenDemand",
+    "parent": "http://sweetontology.net/propChemical/OxygenDemand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/CarbonateAlkalinity",
+    "parent": "http://sweetontology.net/propChemical/Alkalinity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/ChemicalOxygenDemand",
+    "parent": "http://sweetontology.net/propChemical/OxygenDemand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Composition",
+    "parent": "http://sweetontology.net/prop/ChemicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Constituent",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/DissolvedLoad",
+    "parent": "http://sweetontology.net/propChemical/Load"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/HplusConcentration",
+    "parent": "http://sweetontology.net/propQuantity/ChemicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/IonComposition",
+    "parent": "http://sweetontology.net/propChemical/Composition"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Load",
+    "parent": "http://sweetontology.net/propMass/Density"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/OxygenDemand",
+    "parent": "http://sweetontology.net/propMass/Density"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/pH",
+    "parent": "http://sweetontology.net/propQuantity/ChemicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Purity",
+    "parent": "http://sweetontology.net/prop/ChemicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Reactivity",
+    "parent": "http://sweetontology.net/prop/ReactionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/SaturationPoint",
+    "parent": "http://sweetontology.net/propChemical/SaturationProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/SaturationProperty",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/SodiumAdsorptionRatio",
+    "parent": "http://sweetontology.net/propIndex/WaterQualityIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Solubility",
+    "parent": "http://sweetontology.net/prop/ReactionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/SuspendedLoad",
+    "parent": "http://sweetontology.net/propChemical/Load"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/TotalAlkalinity",
+    "parent": "http://sweetontology.net/propChemical/Alkalinity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/TotalDissolvedSolids",
+    "parent": "http://sweetontology.net/propMass/Density"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/TotalSuspendedSolids",
+    "parent": "http://sweetontology.net/propMass/Density"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/WashLoad",
+    "parent": "http://sweetontology.net/propChemical/Load"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Zoomass",
+    "parent": "http://sweetontology.net/propMass/DryWeight"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Conductance",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Conductivity",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/ElectricalConductivity",
+    "parent": "http://sweetontology.net/propConductivity/Conductivity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/ElectricalConductivity",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/HallConductivity",
+    "parent": "http://sweetontology.net/propConductivity/ElectricalConductivity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/HydraulicConductivity",
+    "parent": "http://sweetontology.net/propConductivity/Conductivity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/HydraulicConductivity",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Impedance",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/PedersenConductivity",
+    "parent": "http://sweetontology.net/propConductivity/ElectricalConductivity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Resistance",
+    "parent": "http://sweetontology.net/propConductivity/Impedance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Resistivity",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/SpecificConductance",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/ThermalConductivity",
+    "parent": "http://sweetontology.net/propConductivity/Conductivity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/ThermalConductivity",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/AtomicNeutralNumberDensity",
+    "parent": "http://sweetontology.net/propCount/NeutralNumberDensity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/Fluence",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/MolecularNeutralNumberDensity",
+    "parent": "http://sweetontology.net/propCount/NeutralNumberDensity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/NeutralNumberDensity",
+    "parent": "http://sweetontology.net/propCount/NumberDensity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/NumberDensity",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/TotalElectronContent",
+    "parent": "http://sweetontology.net/propCount/NumberDensity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDifference/Amplitude",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDifference/Amplitude",
+    "parent": "http://sweetontology.net/propDifference/Deviation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDifference/Anomaly",
+    "parent": "http://sweetontology.net/propDifference/Deviation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDifference/Bias",
+    "parent": "http://sweetontology.net/propDifference/Deviation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDifference/Deviation",
+    "parent": "http://sweetontology.net/prop/Error"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDifference/SaturationDeficit",
+    "parent": "http://sweetontology.net/propChemical/SaturationProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDifference/Tolerance",
+    "parent": "http://sweetontology.net/propDifference/Deviation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Confluence",
+    "parent": "http://sweetontology.net/propDiffusivity/DiffusivityQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Diffluence",
+    "parent": "http://sweetontology.net/propDiffusivity/DiffusivityQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Diffusivity",
+    "parent": "http://sweetontology.net/propDiffusivity/DiffusivityQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/DiffusivityQuantity",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/EddyDiffusivity",
+    "parent": "http://sweetontology.net/propDiffusivity/Diffusivity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/KinematicViscosity",
+    "parent": "http://sweetontology.net/propDiffusivity/DiffusivityQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/ThermalDiffusivity",
+    "parent": "http://sweetontology.net/propDiffusivity/Diffusivity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/ThermalDiffusivity",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Transmissivity",
+    "parent": "http://sweetontology.net/propDiffusivity/DiffusivityQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/VelocityPotential",
+    "parent": "http://sweetontology.net/propDiffusivity/DiffusivityQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDimensionlessRatio/ChiSquareValue",
+    "parent": "http://sweetontology.net/propDimensionlessRatio/StatisticalScore"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDimensionlessRatio/ReducedChiSquareValue",
+    "parent": "http://sweetontology.net/propDimensionlessRatio/ChiSquareValue"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDimensionlessRatio/StatisticalScore",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDimensionlessRatio/tScore",
+    "parent": "http://sweetontology.net/propDimensionlessRatio/StatisticalScore"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDimensionlessRatio/ZScore",
+    "parent": "http://sweetontology.net/propDimensionlessRatio/StatisticalScore"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/AvailablePotentialEnergy",
+    "parent": "http://sweetontology.net/propEnergy/PotentialEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/BindingEnergy",
+    "parent": "http://sweetontology.net/propEnergy/ChemicalEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/BindingEnergy",
+    "parent": "http://sweetontology.net/propEnergy/PotentialEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/ChemicalEnergy",
+    "parent": "http://sweetontology.net/prop/ChemicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/ChemicalEnergy",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/ConvectiveInhibition",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Energy",
+    "parent": "http://sweetontology.net/propQuantity/ExtensiveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/EnergyDensity",
+    "parent": "http://sweetontology.net/propQuantity/IntensiveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Enthalpy",
+    "parent": "http://sweetontology.net/propEnergy/ChemicalEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Entropy",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/EvaporativeAvailablePotentialEnergy",
+    "parent": "http://sweetontology.net/propEnergy/AvailablePotentialEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Geopotential",
+    "parent": "http://sweetontology.net/propEnergy/GravitationalPotential"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/GibbsFreeEnergy",
+    "parent": "http://sweetontology.net/propEnergy/ChemicalEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/GravitationalPotential",
+    "parent": "http://sweetontology.net/propQuantity/ScalarPotential"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Hamiltonian",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Heat",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Heat",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/InternalEnergy",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/IonizationEnergy",
+    "parent": "http://sweetontology.net/propEnergy/ChemicalEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/IonizationEnergy",
+    "parent": "http://sweetontology.net/propEnergy/PotentialEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/KineticEnergy",
+    "parent": "http://sweetontology.net/prop/MotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/KineticEnergy",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Lagrangian",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/LatentHeat",
+    "parent": "http://sweetontology.net/propEnergy/Heat"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Luminosity",
+    "parent": "http://sweetontology.net/propEnergy/Power"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Luminosity",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/MatricPotential",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/MatricPotential",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/PotentialEnergy",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Power",
+    "parent": "http://sweetontology.net/propQuantity/ExtensiveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/RadiantEnergy",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/SensibleHeat",
+    "parent": "http://sweetontology.net/propEnergy/Heat"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/SpecificEnergy",
+    "parent": "http://sweetontology.net/propQuantity/IntensiveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/SpecificPotentialEnergy",
+    "parent": "http://sweetontology.net/propEnergy/SpecificEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/ThermochemicalEnergy",
+    "parent": "http://sweetontology.net/propEnergy/ChemicalEnergy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/TotalSoilWaterPotential",
+    "parent": "http://sweetontology.net/prop/HydrogeologicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Work",
+    "parent": "http://sweetontology.net/propEnergy/Energy"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/AbsorbedSolarRadiation",
+    "parent": "http://sweetontology.net/propEnergyFlux/SolarRadiation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Brightness",
+    "parent": "http://sweetontology.net/propEnergyFlux/Luminance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/BulkHeatFlux",
+    "parent": "http://sweetontology.net/propEnergyFlux/ThermalFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/CloudForcing"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/EnergyFlux",
+    "parent": "http://sweetontology.net/propQuantity/Flux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/EnergyFlux_Wm2",
+    "parent": "http://sweetontology.net/propEnergyFlux/EnergyFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/FluxDensity",
+    "parent": "http://sweetontology.net/propQuantity/Flux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Illuminance",
+    "parent": "http://sweetontology.net/propEnergyFlux/EnergyFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Insolation",
+    "parent": "http://sweetontology.net/propEnergyFlux/SolarRadiation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Irradiance",
+    "parent": "http://sweetontology.net/propEnergyFlux/FluxDensity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Irradiance",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Luminance",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/LuminousFlux",
+    "parent": "http://sweetontology.net/propEnergyFlux/EnergyFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/LuminousIntensity",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Opacity",
+    "parent": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/PoyntingVector",
+    "parent": "http://sweetontology.net/propEnergyFlux/FluxDensity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Radiance",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/RadiantFlux",
+    "parent": "http://sweetontology.net/propEnergyFlux/RadiativeForcing"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/RadiativeFlux",
+    "parent": "http://sweetontology.net/propEnergyFlux/EnergyFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/RadiativeForcing",
+    "parent": "http://sweetontology.net/propEnergyFlux/RadiantFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/SolarFlux",
+    "parent": "http://sweetontology.net/propEnergyFlux/RadiativeFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/SolarForcing"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/SolarRadiation",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/SpectralRadiance",
+    "parent": "http://sweetontology.net/propEnergyFlux/Radiance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/TerrestrialRadiation",
+    "parent": "http://sweetontology.net/propEnergyFlux/RadiativeFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/ThermalFlux",
+    "parent": "http://sweetontology.net/propEnergyFlux/EnergyFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/ThermalFlux",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Absorptance",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Absorptance",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Absorptivity",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Absorptivity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/AirSpaceRatio",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/AirSpaceRatio",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Albedo",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Albedo",
+    "parent": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/AvailableWaterCapacity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/AvailableWaterCapacity",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Bioavailability",
+    "parent": "http://sweetontology.net/prop/BiologicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Bioavailability",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/BivariateStatisticalSummary",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/BondAlbedo",
+    "parent": "http://sweetontology.net/propFraction/Albedo"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/CapacityFactor",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/CloudCover",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Coherence",
+    "parent": "http://sweetontology.net/propFraction/BivariateStatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/ConditionalProbability",
+    "parent": "http://sweetontology.net/propFraction/Probability"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Correlation",
+    "parent": "http://sweetontology.net/propFraction/BivariateStatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Covariance",
+    "parent": "http://sweetontology.net/propFraction/BivariateStatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/CrossCorrelation",
+    "parent": "http://sweetontology.net/propFraction/Correlation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/DegreeOfIonization",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/DifferentialWaterCapacity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/DifferentialWaterCapacity",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/EffectivePorosity",
+    "parent": "http://sweetontology.net/propFraction/Porosity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Efficiency",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Emissivity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Emissivity",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/FieldCapacity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/FPAR",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/FractionalQuantity",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Humidity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/JointProbability",
+    "parent": "http://sweetontology.net/propFraction/Probability"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Likelihood",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MarketShare",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MassFraction",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Metallicity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MixingRatio",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MoleConcentration",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MoleFraction",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MoleRatio",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/PartialCorrelation",
+    "parent": "http://sweetontology.net/propFraction/Correlation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/PearsonProductMomentCorrelation",
+    "parent": "http://sweetontology.net/propFraction/Correlation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Porosity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Porosity",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Probability",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/pValue",
+    "parent": "http://sweetontology.net/propFraction/Probability"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/RankCorrelation",
+    "parent": "http://sweetontology.net/propFraction/Correlation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Reflectance",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Reflectance",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Reflectivity",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Reflectivity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Refractivity",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Refractivity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/RelativeHumidity",
+    "parent": "http://sweetontology.net/propFraction/Humidity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/SaturationMixingRatio",
+    "parent": "http://sweetontology.net/propChemical/SaturationProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/SaturationMixingRatio",
+    "parent": "http://sweetontology.net/propFraction/MixingRatio"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/SpecificHumidity",
+    "parent": "http://sweetontology.net/propFraction/Humidity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Transmittance",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Transmittance",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Transparency",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Transparency",
+    "parent": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/VolumeFraction",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/VolumeMixingRatio",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/WaterHoldingCapacity",
+    "parent": "http://sweetontology.net/propFraction/FractionalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/WaterHoldingCapacity",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/CriticalPoint",
+    "parent": "http://sweetontology.net/propFunction/Threshold"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Decile",
+    "parent": "http://sweetontology.net/propFunction/Percentile"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Disturbance",
+    "parent": "http://sweetontology.net/prop/Error"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/ErrorBar",
+    "parent": "http://sweetontology.net/propQuantity/IntervalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Kurtosis",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Maximum",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Mean",
+    "parent": "http://sweetontology.net/propFunction/Moment"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Median",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/MidRange",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Minimum",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Mode",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Moment",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Peak",
+    "parent": "http://sweetontology.net/propFunction/Maximum"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Percentile",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Quartile",
+    "parent": "http://sweetontology.net/propFunction/Percentile"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Quintile",
+    "parent": "http://sweetontology.net/propFunction/Percentile"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Skewness",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Spread",
+    "parent": "http://sweetontology.net/propDifference/Deviation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/StandardDeviation",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/StandardDeviation",
+    "parent": "http://sweetontology.net/propFunction/Spread"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Threshold",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/TippingPoint",
+    "parent": "http://sweetontology.net/propFunction/CriticalPoint"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Variance",
+    "parent": "http://sweetontology.net/prop/StatisticalSummary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFunction/Variance",
+    "parent": "http://sweetontology.net/propFunction/Spread"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/AdaptiveCapacity",
+    "parent": "http://sweetontology.net/prop/Metric"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/AirQualityIndex",
+    "parent": "http://sweetontology.net/propIndex/EnvironmentalIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/AuroralBoundaryIndex",
+    "parent": "http://sweetontology.net/propIndex/GeomagneticIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/BlockingIndex",
+    "parent": "http://sweetontology.net/propIndex/Index"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/BoydenIndex",
+    "parent": "http://sweetontology.net/propIndex/Index"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/CirculationIndex",
+    "parent": "http://sweetontology.net/propIndex/Index"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/ClimateIndicator",
+    "parent": "http://sweetontology.net/propIndex/EnvironmentalIndicator"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/CoefficientOfHaze",
+    "parent": "http://sweetontology.net/propIndex/AirQualityIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/CommonSenseClimateIndex",
+    "parent": "http://sweetontology.net/propIndex/ClimateIndicator"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/ComputationalComplexity",
+    "parent": "http://sweetontology.net/prop/Metric"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/CropMoistureIndex",
+    "parent": "http://sweetontology.net/propIndex/HealthIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/DroughtIndex",
+    "parent": "http://sweetontology.net/propIndex/ClimateIndicator"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/EnvironmentalIndex",
+    "parent": "http://sweetontology.net/propIndex/Index"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/EnvironmentalIndicator",
+    "parent": "http://sweetontology.net/propIndex/Index"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/EnvironmentalPerformanceIndex",
+    "parent": "http://sweetontology.net/propIndex/EnvironmentalIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/EnvironmentalSustainabilityIndex",
+    "parent": "http://sweetontology.net/propIndex/EnvironmentalIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/FireWeatherIndex",
+    "parent": "http://sweetontology.net/propIndex/EnvironmentalIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/ForestFireDangerIndex",
+    "parent": "http://sweetontology.net/propIndex/EnvironmentalIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/GeomagneticIndex",
+    "parent": "http://sweetontology.net/propIndex/Index"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/HealthIndex",
+    "parent": "http://sweetontology.net/prop/BiologicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/HealthIndex",
+    "parent": "http://sweetontology.net/propIndex/Index"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/Hydropattern",
+    "parent": "http://sweetontology.net/propIndex/Index"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/Index",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/IndexDefinedByDifference",
+    "parent": "http://sweetontology.net/propIndex/Index"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/IndexOfBiologicalIntegrity",
+    "parent": "http://sweetontology.net/propIndex/EnvironmentalIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/KaplanSSTIndex",
+    "parent": "http://sweetontology.net/propIndex/Index"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/Kp",
+    "parent": "http://sweetontology.net/propIndex/GeomagneticIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/NaturalResourceManagementIndex",
+    "parent": "http://sweetontology.net/propIndex/EnvironmentalIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/NorthAtlanticOscillationIndex",
+    "parent": "http://sweetontology.net/propIndex/IndexDefinedByDifference"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/NorthPacificOscillationIndex",
+    "parent": "http://sweetontology.net/propIndex/IndexDefinedByDifference"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/PalmerDroughtSeverityIndex",
+    "parent": "http://sweetontology.net/propIndex/DroughtIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/PalmerHydrologicalDroughtIndex",
+    "parent": "http://sweetontology.net/propIndex/DroughtIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/PhysiologicalParameter",
+    "parent": "http://sweetontology.net/propIndex/HealthIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/PolarCapIndex",
+    "parent": "http://sweetontology.net/propIndex/GeomagneticIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/PsychologicalParameter",
+    "parent": "http://sweetontology.net/propIndex/HealthIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/RingelmannChart",
+    "parent": "http://sweetontology.net/propIndex/AirQualityIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/StandardizedPrecipitationIndex",
+    "parent": "http://sweetontology.net/propIndex/DroughtIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/StorageCoefficient",
+    "parent": "http://sweetontology.net/prop/HydrogeologicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/SurfaceMoistureIndex",
+    "parent": "http://sweetontology.net/propIndex/DroughtIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/Turbidity",
+    "parent": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/UVIndex",
+    "parent": "http://sweetontology.net/propIndex/AirQualityIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/Virulence",
+    "parent": "http://sweetontology.net/propIndex/HealthIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/VitalStatistics",
+    "parent": "http://sweetontology.net/propIndex/HealthIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/WaterQualityIndex",
+    "parent": "http://sweetontology.net/propIndex/EnvironmentalIndex"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/ZonalIndex",
+    "parent": "http://sweetontology.net/propIndex/IndexDefinedByDifference"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/BulkDensity",
+    "parent": "http://sweetontology.net/propMass/Density"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Consistence",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/ConsistenceProperty",
+    "parent": "http://sweetontology.net/propMass/MaterialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Density",
+    "parent": "http://sweetontology.net/propQuantity/IntensiveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Dosage",
+    "parent": "http://sweetontology.net/propMass/Mass"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/DryWeight",
+    "parent": "http://sweetontology.net/propMass/Mass"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Ductibility",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Elasticity",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Flexure",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Hardness",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Malleability",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Mass",
+    "parent": "http://sweetontology.net/propQuantity/ExtensiveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/MaterialProperty",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Moles",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/OpticalMass",
+    "parent": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Plasticity",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/PotentialDensity",
+    "parent": "http://sweetontology.net/propMass/Density"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Roughness",
+    "parent": "http://sweetontology.net/propMass/MaterialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/SigmaT",
+    "parent": "http://sweetontology.net/propMass/Density"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Softness",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Solidity",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/SolidProperty",
+    "parent": "http://sweetontology.net/propMass/MaterialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/SpecificVolume",
+    "parent": "http://sweetontology.net/propQuantity/IntensiveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/StrengthProperty",
+    "parent": "http://sweetontology.net/propMass/SolidProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Structure",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Texture",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/DarcyFlux",
+    "parent": "http://sweetontology.net/propMassFlux/MassFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/DifferentialFlux",
+    "parent": "http://sweetontology.net/propMassFlux/MassFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/EffectivePermeability",
+    "parent": "http://sweetontology.net/propMassFlux/Permeability"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/GrossPrimaryProductivity",
+    "parent": "http://sweetontology.net/propMassFlux/PrimaryProductivity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/IntrinsicPermeability",
+    "parent": "http://sweetontology.net/propMassFlux/Permeability"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/MassFlux",
+    "parent": "http://sweetontology.net/propQuantity/Flux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/NetPrimaryProductivity",
+    "parent": "http://sweetontology.net/propMassFlux/PrimaryProductivity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/Permeability",
+    "parent": "http://sweetontology.net/propMassFlux/MassFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/PermeabilityCoefficent",
+    "parent": "http://sweetontology.net/propMassFlux/Permeability"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/PrimaryProductivity",
+    "parent": "http://sweetontology.net/propMassFlux/Productivity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/Productivity",
+    "parent": "http://sweetontology.net/propMassFlux/MassFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/SpecificCapacity",
+    "parent": "http://sweetontology.net/propMassFlux/MassFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/SpecificDischarge",
+    "parent": "http://sweetontology.net/propMassFlux/MassFlux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMassFlux/SpecificPermeability",
+    "parent": "http://sweetontology.net/propMassFlux/Permeability"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/ActivityLevel",
+    "parent": "http://sweetontology.net/prop/SystemProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/ActivityLevel",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Color",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Condition",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/EducationalLevel",
+    "parent": "http://sweetontology.net/propOrdinal/Level"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/ElectromagneticSpectrum",
+    "parent": "http://sweetontology.net/propOrdinal/SpectralBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/FlareClass",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Gradation",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Impact",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Level",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Luster",
+    "parent": "http://sweetontology.net/propOrdinal/Color"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/MineralAssessment",
+    "parent": "http://sweetontology.net/propOrdinal/Level"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/OrdinalProperty",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Pigment",
+    "parent": "http://sweetontology.net/propOrdinal/Color"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/ProcessingLevel",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Qualifier",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Quality",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/SpectralBand",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/SpectralLine",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Streak",
+    "parent": "http://sweetontology.net/propOrdinal/Color"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/TemperatureRange",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/TrophicLevel",
+    "parent": "http://sweetontology.net/propOrdinal/Level"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Trust",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/Visibility",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/BarometricPressure",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/BulkModulus",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Compressibility",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/CompressiveStrength",
+    "parent": "http://sweetontology.net/propPressure/Strength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/DifferentialPressure",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/ExnerFunction",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/HydrostaticPressure",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/MomentumFlux",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/MomentumFlux",
+    "parent": "http://sweetontology.net/propQuantity/Flux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/PartialPressure",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Pressure",
+    "parent": "http://sweetontology.net/propQuantity/IntensiveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/PressureGradient",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/ShearModulus",
+    "parent": "http://sweetontology.net/propMass/MaterialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/ShearModulus",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/ShearStress",
+    "parent": "http://sweetontology.net/propPressure/Stress"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/StaticPressure",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Stiffness",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Stiffness",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Strength",
+    "parent": "http://sweetontology.net/propMass/StrengthProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Stress",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Suction",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/SurfaceTension",
+    "parent": "http://sweetontology.net/prop/FluidProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/SurfaceTension",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/TensileStrength",
+    "parent": "http://sweetontology.net/propPressure/Strength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/TensileStress",
+    "parent": "http://sweetontology.net/propPressure/Stress"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/TotalPressure",
+    "parent": "http://sweetontology.net/propPressure/Pressure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Viscosity",
+    "parent": "http://sweetontology.net/prop/FluidProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Viscosity",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/YoungsModulus",
+    "parent": "http://sweetontology.net/propMass/MaterialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/YoungsModulus",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/BiologicalQuantity",
+    "parent": "http://sweetontology.net/prop/BiologicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/BiologicalQuantity",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ChemicalQuantity",
+    "parent": "http://sweetontology.net/prop/ChemicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ChemicalQuantity",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "parent": "http://sweetontology.net/prop/ElectromagneticRadiationProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity",
+    "parent": "http://sweetontology.net/prop/ElectromagneticRadiationProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ExtensiveProperty",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/FieldStrength",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Flux",
+    "parent": "http://sweetontology.net/propQuantity/VectorQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Force",
+    "parent": "http://sweetontology.net/propQuantity/IntensiveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntensiveProperty",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntervalQuantity",
+    "parent": "http://sweetontology.net/propQuantity/ScientificQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "parent": "http://sweetontology.net/prop/PhysicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Potential",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "parent": "http://sweetontology.net/propQuantity/ScientificQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "parent": "http://sweetontology.net/prop/ElectromagneticRadiationProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScalarPotential",
+    "parent": "http://sweetontology.net/propQuantity/Potential"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/StokesParameters",
+    "parent": "http://sweetontology.net/propQuantity/VectorQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "parent": "http://sweetontology.net/prop/ThermodynamicProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorPotential",
+    "parent": "http://sweetontology.net/propQuantity/Potential"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorPotential",
+    "parent": "http://sweetontology.net/propQuantity/VectorQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "parent": "http://sweetontology.net/propQuantity/ScientificQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularAcceleration",
+    "parent": "http://sweetontology.net/prop/AngularMotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularAcceleration",
+    "parent": "http://sweetontology.net/propQuantity/VectorQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularMomentum",
+    "parent": "http://sweetontology.net/propSpeed/Momentum"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularVelocity",
+    "parent": "http://sweetontology.net/prop/AngularMotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularVelocity",
+    "parent": "http://sweetontology.net/propQuantity/VectorQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/CoriolisParameter",
+    "parent": "http://sweetontology.net/propTimeFrequency/Frequency"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Enstrophy",
+    "parent": "http://sweetontology.net/prop/AngularMotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Enstrophy",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/ErtelPotentialVorticity",
+    "parent": "http://sweetontology.net/propRotation/PotentialVorticity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Gyrofrequency",
+    "parent": "http://sweetontology.net/propTimeFrequency/Frequency"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/MomentOfInertia",
+    "parent": "http://sweetontology.net/prop/AngularMotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/MomentOfInertia",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/PotentialVorticity",
+    "parent": "http://sweetontology.net/prop/AngularMotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/PotentialVorticity",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Spin",
+    "parent": "http://sweetontology.net/prop/AngularMotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Torque",
+    "parent": "http://sweetontology.net/prop/AngularMotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Torque",
+    "parent": "http://sweetontology.net/propQuantity/VectorQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/AngularDistribution",
+    "parent": "http://sweetontology.net/propSpace/SpatialDistribution"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/Connectivity",
+    "parent": "http://sweetontology.net/propSpace/SpatialConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/Containment",
+    "parent": "http://sweetontology.net/propSpace/SpatialConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/Curvature",
+    "parent": "http://sweetontology.net/propSpace/SpatialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/LinearExtent",
+    "parent": "http://sweetontology.net/propSpace/SpatialMeasure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/Morphology",
+    "parent": "http://sweetontology.net/propSpace/SpatialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/OrbitalConfiguration",
+    "parent": "http://sweetontology.net/propSpace/SpatialConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/Shape",
+    "parent": "http://sweetontology.net/propSpace/SpatialConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialConfiguration",
+    "parent": "http://sweetontology.net/propSpace/SpatialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialDistribution",
+    "parent": "http://sweetontology.net/propSpace/SpatialConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialExtent",
+    "parent": "http://sweetontology.net/propSpace/LinearExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "parent": "http://sweetontology.net/prop/Measure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "parent": "http://sweetontology.net/propSpace/SpatialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialSource",
+    "parent": "http://sweetontology.net/propSpace/SpatialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDirection/Angle",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDirection/SolidAngle",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/CompactionCoefficient",
+    "parent": "http://sweetontology.net/propSpaceDistance/PerMeterQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/DebyeLength",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/DispersionCoeffienct",
+    "parent": "http://sweetontology.net/propMass/MaterialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Dispersivity",
+    "parent": "http://sweetontology.net/propMass/MaterialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Distance",
+    "parent": "http://sweetontology.net/propSpaceDistance/Length"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/DistanceRange",
+    "parent": "http://sweetontology.net/propQuantity/IntervalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/DistanceRange_km",
+    "parent": "http://sweetontology.net/propSpaceDistance/DistanceRange"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/ExtinctionCoefficient",
+    "parent": "http://sweetontology.net/propSpaceDistance/SpatialFrequency"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Fetch",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/GrainSize",
+    "parent": "http://sweetontology.net/propMass/ConsistenceProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Gyroradius",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Length",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Length",
+    "parent": "http://sweetontology.net/propSpace/SpatialExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/MeanFreePath",
+    "parent": "http://sweetontology.net/prop/MotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/MeanFreePath",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/MixingLength",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/ObukhovLength",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/PerMeterQuantity",
+    "parent": "http://sweetontology.net/propQuantity/Quantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/PulseLength",
+    "parent": "http://sweetontology.net/propSpaceDistance/Length"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Range",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/RossbyRadiusOfDeformation",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/ScatteringCoefficient",
+    "parent": "http://sweetontology.net/propSpaceDistance/SpatialFrequency"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Size",
+    "parent": "http://sweetontology.net/propSpace/SpatialExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/SizeRange",
+    "parent": "http://sweetontology.net/propSpace/SpatialExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/SizeRange_micron",
+    "parent": "http://sweetontology.net/propSpaceDistance/SizeRange"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/SpatialFrequency",
+    "parent": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/SpatialFrequency",
+    "parent": "http://sweetontology.net/propSpaceDistance/PerMeterQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Visibility",
+    "parent": "http://sweetontology.net/prop/RadiationMediumInteractionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Visibility",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength_cm",
+    "parent": "http://sweetontology.net/propSpaceDistance/Wavelength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength_nm",
+    "parent": "http://sweetontology.net/propSpaceDistance/Wavelength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/WavelengthBand",
+    "parent": "http://sweetontology.net/propQuantity/IntervalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/WavelengthBand_nm",
+    "parent": "http://sweetontology.net/propSpaceDistance/WavelengthBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/WaveNumber",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/WaveNumber",
+    "parent": "http://sweetontology.net/propSpaceDistance/PerMeterQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Altitude",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/BarometricAltitude",
+    "parent": "http://sweetontology.net/propSpaceHeight/Altitude"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Ceiling",
+    "parent": "http://sweetontology.net/propSpaceHeight/VerticalExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Crest",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/DampingDepth",
+    "parent": "http://sweetontology.net/propSpaceHeight/Depth"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Depth",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Depth",
+    "parent": "http://sweetontology.net/propSpaceHeight/VerticalExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/DepthRange",
+    "parent": "http://sweetontology.net/propQuantity/IntervalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/DepthRange_km",
+    "parent": "http://sweetontology.net/propSpaceHeight/DepthRange"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Drawdown",
+    "parent": "http://sweetontology.net/propSpaceHeight/Depth"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/DynamicTopography",
+    "parent": "http://sweetontology.net/propSpaceHeight/Topography"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Elevation",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/EstimatedCeiling",
+    "parent": "http://sweetontology.net/propSpaceHeight/Ceiling"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/FlightLevel",
+    "parent": "http://sweetontology.net/propSpaceHeight/Altitude"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Freeboard",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/GeopotentialHeight",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Height",
+    "parent": "http://sweetontology.net/propSpaceDistance/Distance"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Height",
+    "parent": "http://sweetontology.net/propSpaceHeight/VerticalExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/HeightRange",
+    "parent": "http://sweetontology.net/propQuantity/IntervalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/HeightRange_km",
+    "parent": "http://sweetontology.net/propSpaceHeight/HeightRange"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Level",
+    "parent": "http://sweetontology.net/propSpaceHeight/VerticalExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/MixingHeight",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/ScaleHeight",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SeaState",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SecchiDepth",
+    "parent": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SecchiDepth",
+    "parent": "http://sweetontology.net/propSpaceHeight/Depth"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SignificantHeight",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SkinDepth",
+    "parent": "http://sweetontology.net/propSpaceHeight/Depth"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/TopographicProminence",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Topography",
+    "parent": "http://sweetontology.net/propSpaceHeight/Height"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/UpperLevel",
+    "parent": "http://sweetontology.net/propSpaceHeight/Level"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/VerticalExtent",
+    "parent": "http://sweetontology.net/propSpace/SpatialExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceLocation/Center",
+    "parent": "http://sweetontology.net/propSpaceLocation/Location"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceLocation/CenterOfMass",
+    "parent": "http://sweetontology.net/propSpaceLocation/Center"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceLocation/ControlPoint",
+    "parent": "http://sweetontology.net/propSpaceLocation/Location"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceLocation/Epicenter",
+    "parent": "http://sweetontology.net/propSpaceLocation/Center"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceLocation/Focus",
+    "parent": "http://sweetontology.net/propSpaceLocation/Location"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceLocation/LagrangianPoint",
+    "parent": "http://sweetontology.net/propSpaceLocation/Location"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceLocation/Location",
+    "parent": "http://sweetontology.net/propSpace/SpatialProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceLocation/MirrorPoint",
+    "parent": "http://sweetontology.net/propSpaceLocation/Location"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceLocation/Nadir",
+    "parent": "http://sweetontology.net/propSpaceLocation/Location"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceLocation/SubsolarPoint",
+    "parent": "http://sweetontology.net/propSpaceLocation/Location"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/AngularExtent",
+    "parent": "http://sweetontology.net/propSpace/SpatialMeasure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Area",
+    "parent": "http://sweetontology.net/propSpace/SpatialMeasure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Capacity",
+    "parent": "http://sweetontology.net/propSpaceMultidimensional/Volume"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/CarbonFootprint",
+    "parent": "http://sweetontology.net/propSpaceMultidimensional/Footprint"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/CrossSection",
+    "parent": "http://sweetontology.net/propSpaceMultidimensional/Area"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/FieldOfView",
+    "parent": "http://sweetontology.net/propSpaceMultidimensional/AngularExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Footprint",
+    "parent": "http://sweetontology.net/propSpaceMultidimensional/Area"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/RadarCrossSection",
+    "parent": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/RadarCrossSection",
+    "parent": "http://sweetontology.net/propSpaceMultidimensional/CrossSection"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Resolution",
+    "parent": "http://sweetontology.net/propSpaceMultidimensional/AngularExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Volume",
+    "parent": "http://sweetontology.net/propSpace/SpatialMeasure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/AverageAnnualPrecipitation",
+    "parent": "http://sweetontology.net/propSpaceThickness/Precipitation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/AverageDrySeasonPrecipitation",
+    "parent": "http://sweetontology.net/propSpaceThickness/Precipitation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/AverageMonthlyPrecipitation",
+    "parent": "http://sweetontology.net/propSpaceThickness/Precipitation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/EquivalentThickness",
+    "parent": "http://sweetontology.net/propSpaceThickness/Thickness"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Evapotranspiration",
+    "parent": "http://sweetontology.net/propSpaceThickness/Thickness"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/FluidHead",
+    "parent": "http://sweetontology.net/prop/FluidProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/FluidHead",
+    "parent": "http://sweetontology.net/propSpaceThickness/Thickness"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/GaugeHeight",
+    "parent": "http://sweetontology.net/propSpaceThickness/WaterHeight"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/HalfPotentialEvapotranspiration",
+    "parent": "http://sweetontology.net/propSpaceThickness/Evapotranspiration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/HydraulicHead",
+    "parent": "http://sweetontology.net/propSpaceThickness/FluidHead"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/LakeStage",
+    "parent": "http://sweetontology.net/propSpaceThickness/StageHeight"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/LiquidWaterEquivalent",
+    "parent": "http://sweetontology.net/propSpaceThickness/WaterContent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/OpticalDepth",
+    "parent": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PotentialEvapotranspiration",
+    "parent": "http://sweetontology.net/propSpaceThickness/Evapotranspiration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitableWater",
+    "parent": "http://sweetontology.net/propSpaceThickness/WaterContent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Precipitation",
+    "parent": "http://sweetontology.net/propSpaceThickness/WaterContent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitationRange",
+    "parent": "http://sweetontology.net/propSpaceHeight/HeightRange"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitationRange",
+    "parent": "http://sweetontology.net/propSpaceThickness/Precipitation"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitationRange_cm",
+    "parent": "http://sweetontology.net/propSpaceThickness/PrecipitationRange"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PressureThickness",
+    "parent": "http://sweetontology.net/propSpaceThickness/Thickness"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/SnowCover",
+    "parent": "http://sweetontology.net/propSpaceThickness/Thickness"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Snowpack",
+    "parent": "http://sweetontology.net/propSpaceThickness/SnowCover"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/SnowWaterEquivalent",
+    "parent": "http://sweetontology.net/propSpaceThickness/LiquidWaterEquivalent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/StageHeight",
+    "parent": "http://sweetontology.net/propSpaceThickness/WaterHeight"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/StaticHead",
+    "parent": "http://sweetontology.net/propSpaceThickness/FluidHead"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/StreamStage",
+    "parent": "http://sweetontology.net/propSpaceThickness/StageHeight"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Thickness",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Thickness",
+    "parent": "http://sweetontology.net/propSpaceHeight/VerticalExtent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/TotalHead",
+    "parent": "http://sweetontology.net/propSpaceThickness/FluidHead"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/WaterContent",
+    "parent": "http://sweetontology.net/propSpaceThickness/Thickness"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/WaterHeight",
+    "parent": "http://sweetontology.net/propSpaceThickness/Thickness"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Acceleration",
+    "parent": "http://sweetontology.net/prop/MotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Acceleration",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Airspeed",
+    "parent": "http://sweetontology.net/propSpeed/Speed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/AlfvenVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/DopplerVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Drift",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/EscapeVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/GroundSpeed",
+    "parent": "http://sweetontology.net/propSpeed/Speed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/GroupVelocity",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/GroupVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Inertia",
+    "parent": "http://sweetontology.net/propSpeed/Momentum"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/IonVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/MagnetiCurvatureDrift",
+    "parent": "http://sweetontology.net/propQuantity/ElectromagneticQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/MagnetiCurvatureDrift",
+    "parent": "http://sweetontology.net/propSpeed/Drift"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Momentum",
+    "parent": "http://sweetontology.net/prop/MotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Momentum",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/NeutralVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Omega",
+    "parent": "http://sweetontology.net/propSpeed/VerticalVelocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/PhaseVelocity",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/PhaseVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/ProperMotion",
+    "parent": "http://sweetontology.net/propSpeed/Speed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/RadialVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/SeepageVelocity",
+    "parent": "http://sweetontology.net/prop/HydrogeologicalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/SeepageVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Speed",
+    "parent": "http://sweetontology.net/prop/MotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Speed",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/TangentialAcceleration",
+    "parent": "http://sweetontology.net/propSpeed/Acceleration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/TerminalVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/ThermalVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Velocity",
+    "parent": "http://sweetontology.net/prop/MotionProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Velocity",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/VerticalVelocity",
+    "parent": "http://sweetontology.net/propSpeed/Velocity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/WindShear",
+    "parent": "http://sweetontology.net/prop/FluidProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/WindSpeed",
+    "parent": "http://sweetontology.net/propSpeed/Speed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/AntennaTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/BoilingPoint",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/BrightnessTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/ColdestMonthTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DewPoint",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DewPointDepression",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DryBulbTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EffectiveTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/ElectronTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EquivalentPotentialTemperature",
+    "parent": "http://sweetontology.net/propTemperature/PotentialTemperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EquivalentTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/GlobalWarmingPotential",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/IonTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/KineticTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeanAnnualTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeanMonthlyTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeltingPoint",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/NeutralTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PotentialTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PseudoEquivalentPotentialTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PseudoEquivalentTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/StaticTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/Temperature",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/TemperatureRange",
+    "parent": "http://sweetontology.net/propQuantity/IntervalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/TotalTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/TriplePoint",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/VirtualPotentialTemperature",
+    "parent": "http://sweetontology.net/propTemperature/PotentialTemperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/VirtualTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WarmestMonthTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WetBulbPotentialTemperature",
+    "parent": "http://sweetontology.net/propTemperature/PotentialTemperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WetBulbTemperature",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WindChillIndex",
+    "parent": "http://sweetontology.net/propTemperature/Temperature"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/AutoConvectiveLapseRate",
+    "parent": "http://sweetontology.net/propTemperatureGradient/EnvironmentalLapseRate"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/DryAdiabaticLapseRate",
+    "parent": "http://sweetontology.net/propTemperatureGradient/LapseRate"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/EnvironmentalLapseRate",
+    "parent": "http://sweetontology.net/propTemperatureGradient/LapseRate"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/LapseRate",
+    "parent": "http://sweetontology.net/propTemperatureGradient/TemperatureHeightDerivative"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureDepthDerivative",
+    "parent": "http://sweetontology.net/propTemperatureGradient/TemperatureGradient"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureGradient",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureGradientRange",
+    "parent": "http://sweetontology.net/propQuantity/IntervalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureHeightDerivative",
+    "parent": "http://sweetontology.net/propTemperatureGradient/TemperatureGradient"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/ThermalProfile",
+    "parent": "http://sweetontology.net/propQuantity/ThermodynamicQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/AverageITCZDominanceDuration",
+    "parent": "http://sweetontology.net/propTime/ITCZDominanceDuration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/AverageSnowCoverDuration",
+    "parent": "http://sweetontology.net/propTime/SnowCoverDuration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/AverageWinterDuration",
+    "parent": "http://sweetontology.net/propTime/WinterDuration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/DoublingTime",
+    "parent": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/Duration",
+    "parent": "http://sweetontology.net/propTime/TemporalRange"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/EFoldingTime",
+    "parent": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/ITCZDominanceDuration",
+    "parent": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/MonthRange",
+    "parent": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/ResidenceTime",
+    "parent": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/SnowCoverDuration",
+    "parent": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/TemporalRange",
+    "parent": "http://sweetontology.net/propQuantity/IntervalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/Time",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/TimePeriod",
+    "parent": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/TimeStep",
+    "parent": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/WinterDuration",
+    "parent": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Bandwidth",
+    "parent": "http://sweetontology.net/prop/WaveProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Bandwidth",
+    "parent": "http://sweetontology.net/propTimeFrequency/Frequency"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/BruntVaisalaFrequency",
+    "parent": "http://sweetontology.net/propTimeFrequency/Frequency"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Cadence",
+    "parent": "http://sweetontology.net/propTimeFrequency/Frequency"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Frequency",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/FrequencyBand",
+    "parent": "http://sweetontology.net/propQuantity/IntervalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/FrequencyBand_MHz",
+    "parent": "http://sweetontology.net/propTimeFrequency/FrequencyBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Incidence",
+    "parent": "http://sweetontology.net/propTimeFrequency/Frequency"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmAtmoBoundaryLayer/Cap",
+    "parent": "http://sweetontology.net/propSpaceHeight/Level"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmAtmoWeather/AdiabaticCondensationLevel",
+    "parent": "http://sweetontology.net/realmAtmoWeather/CondensationLevel"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmAtmoWeather/CondensationLevel",
+    "parent": "http://sweetontology.net/propSpaceHeight/Level"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmAtmoWeather/ConvectiveCondensationLevel",
+    "parent": "http://sweetontology.net/realmAtmoWeather/CondensationLevel"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/A",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateClassification"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/B",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateClassification"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/C",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateClassification"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/ClimateClassification",
+    "parent": "http://sweetontology.net/propCategorical/Category"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/ClimateZoneType",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateClassification"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/D",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateClassification"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/DesertClimateZone",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateZoneType"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/Doldrums",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateZoneType"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/DryWinterClimate",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateClassification"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/E",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateClassification"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/Equator",
+    "parent": "http://sweetontology.net/realmClimateZone/TropicalClimateZone"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/IntertropicalConvergenceZone",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateZoneType"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/MarineClimate",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateClassification"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/RainShadow",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateZoneType"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/SubtropicalClimateZone",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateZoneType"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/TropicalClimateZone",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateZoneType"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/WetSummerClimate",
+    "parent": "http://sweetontology.net/realmClimateZone/ClimateClassification"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/WetSummerDryWinterClimate",
+    "parent": "http://sweetontology.net/realmClimateZone/DryWinterClimate"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmClimateZone/WetSummerDryWinterClimate",
+    "parent": "http://sweetontology.net/realmClimateZone/WetSummerClimate"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/ArmoredRelictInclusion",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Inclusion"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/ArmouredRelictCrystal",
+    "parent": "http://sweetontology.net/realmGeolConstituent/ParticulateConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Chadacryst",
+    "parent": "http://sweetontology.net/realmGeolConstituent/ParticulateConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/ClastSupportingOrthomatrix",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Orthomatrix"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Clot",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Corona",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/CorrosionRim",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Corona"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/CrystallineFramework",
+    "parent": "http://sweetontology.net/realmGeolConstituent/ParticulateConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Dropstone",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Epimatrix",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Matrix"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/FloatingClast",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/GranularFramework",
+    "parent": "http://sweetontology.net/realmGeolConstituent/ParticulateConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Groundmass",
+    "parent": "http://sweetontology.net/realmGeolConstituent/RockConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Inclusion",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/InterstitialConstituent",
+    "parent": "http://sweetontology.net/realmGeolConstituent/RockConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Irregular",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/KelyphiticRim",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Corona"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Layer",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Matrix",
+    "parent": "http://sweetontology.net/realmGeolConstituent/RockConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Megacryst",
+    "parent": "http://sweetontology.net/realmGeolConstituent/ParticulateConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Oikocryst",
+    "parent": "http://sweetontology.net/realmGeolConstituent/ParticulateConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Orthomatrix",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Matrix"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Overgrowth",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/ParticulateConstituent",
+    "parent": "http://sweetontology.net/realmGeolConstituent/RockConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Phenoclast",
+    "parent": "http://sweetontology.net/realmGeolConstituent/ParticulateConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Phenocryst",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Megacryst"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Porphyroblast",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Megacryst"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Porphyroclast",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Megacryst"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Protomatrix",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Matrix"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Pseudomatrix",
+    "parent": "http://sweetontology.net/realmGeolConstituent/Matrix"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/RockConstituent",
+    "parent": "http://sweetontology.net/propChemical/Constituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/SedimentaryRockCement",
+    "parent": "http://sweetontology.net/realmGeolConstituent/RockConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/SmallConcretion",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration",
+    "parent": "http://sweetontology.net/realmGeolConstituent/RockConstituent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Vein",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Vug",
+    "parent": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolContinental/ContinentalMargin",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Margin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmHydro/SeepageFace",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Boundary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmLandCoastal/CoastalMargin",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Margin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmLandVolcanic/Fumarole",
+    "parent": "http://sweetontology.net/realmLandVolcanic/Vent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmLandVolcanic/Geothermal",
+    "parent": "http://sweetontology.net/propEnergy/Heat"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmLandVolcanic/Geyser",
+    "parent": "http://sweetontology.net/realmLandVolcanic/Vent"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmLandVolcanic/Vent",
+    "parent": "http://sweetontology.net/phenSolid/Crack"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFeature/OceanArea",
+    "parent": "http://sweetontology.net/propSpaceMultidimensional/Area"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFeature/OceanDepth",
+    "parent": "http://sweetontology.net/propSpaceHeight/Depth"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFeature/OceanVolume",
+    "parent": "http://sweetontology.net/propSpaceMultidimensional/Volume"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFloor/ColdSeep",
+    "parent": "http://sweetontology.net/phenSolid/Fissure"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFloor/HydrothermalVent",
+    "parent": "http://sweetontology.net/realmLandVolcanic/Geyser"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/Austral",
+    "parent": "http://sweetontology.net/realmRegion/SouthLatitudeBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/Borealis",
+    "parent": "http://sweetontology.net/realmRegion/NorthLatitudeBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/LatitudeBand",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/LatitudeLine",
+    "parent": "http://sweetontology.net/propQuantity/PhysicalQuantity"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/NorthernHemisphere",
+    "parent": "http://sweetontology.net/realmRegion/NorthLatitudeBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/NorthLatitudeBand",
+    "parent": "http://sweetontology.net/realmRegion/LatitudeBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/NorthLatitudeLine",
+    "parent": "http://sweetontology.net/realmRegion/LatitudeLine"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/SouthernHemisphere",
+    "parent": "http://sweetontology.net/realmRegion/SouthLatitudeBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/SouthLatitudeBand",
+    "parent": "http://sweetontology.net/realmRegion/LatitudeBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/SouthLatitudeLine",
+    "parent": "http://sweetontology.net/realmRegion/LatitudeLine"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprSciProvenance/Chronology",
+    "parent": "http://sweetontology.net/reprSciProvenance/History"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprSciProvenance/Genesis",
+    "parent": "http://sweetontology.net/reprSciProvenance/History"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprSciProvenance/History",
+    "parent": "http://sweetontology.net/prop/Property"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprSciProvenance/Provenance",
+    "parent": "http://sweetontology.net/reprSciProvenance/History"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprSciProvenance/Sequence",
+    "parent": "http://sweetontology.net/reprSciProvenance/History"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprTimeSeason/ColdestMonth",
+    "parent": "http://sweetontology.net/propTime/Time"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprTimeSeason/WarmestMonth",
+    "parent": "http://sweetontology.net/propTime/Time"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateDataProcessing/Level1",
+    "parent": "http://sweetontology.net/propOrdinal/ProcessingLevel"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateDataProcessing/Level2",
+    "parent": "http://sweetontology.net/propOrdinal/ProcessingLevel"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateDataProcessing/Level3",
+    "parent": "http://sweetontology.net/propOrdinal/ProcessingLevel"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateDataProcessing/Level4",
+    "parent": "http://sweetontology.net/propOrdinal/ProcessingLevel"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateEnergyFlux/AClass",
+    "parent": "http://sweetontology.net/propOrdinal/FlareClass"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateEnergyFlux/BClass",
+    "parent": "http://sweetontology.net/propOrdinal/FlareClass"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateEnergyFlux/CClass",
+    "parent": "http://sweetontology.net/propOrdinal/FlareClass"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateEnergyFlux/MClass",
+    "parent": "http://sweetontology.net/propOrdinal/FlareClass"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateEnergyFlux/XClass",
+    "parent": "http://sweetontology.net/propOrdinal/FlareClass"
+  },
+  {
+    "quantKind": "http://sweetontology.net/statePhysical/RainState",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRole/ConductionRole",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRole/ConductionRole",
+    "parent": "http://sweetontology.net/stateRole/PhysicalRole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRole/PhysicalRole",
+    "parent": "http://sweetontology.net/prop/Role"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRole/ProvenanceRole",
+    "parent": "http://sweetontology.net/prop/Role"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleBiological/Autotroph",
+    "parent": "http://sweetontology.net/stateRoleBiological/BiologicalRole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleBiological/BiologicalRole",
+    "parent": "http://sweetontology.net/prop/Role"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleBiological/Chemoautotroph",
+    "parent": "http://sweetontology.net/stateRoleBiological/Autotroph"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleBiological/Chemoheterotroph",
+    "parent": "http://sweetontology.net/stateRoleBiological/Heterotroph"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleBiological/Consumer",
+    "parent": "http://sweetontology.net/stateRoleBiological/BiologicalRole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleBiological/Habitat",
+    "parent": "http://sweetontology.net/stateRoleBiological/BiologicalRole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleBiological/Heterotroph",
+    "parent": "http://sweetontology.net/stateRoleBiological/BiologicalRole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleBiological/Photoautotroph",
+    "parent": "http://sweetontology.net/stateRoleBiological/Autotroph"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleBiological/Photoheterotroph",
+    "parent": "http://sweetontology.net/stateRoleBiological/Heterotroph"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleBiological/Producer",
+    "parent": "http://sweetontology.net/stateRoleBiological/BiologicalRole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleChemical/ChemicalRole",
+    "parent": "http://sweetontology.net/prop/Role"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleGeographic/Barrier",
+    "parent": "http://sweetontology.net/stateRoleGeographic/GeographicRole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleGeographic/Boundary",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Barrier"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleGeographic/Collector",
+    "parent": "http://sweetontology.net/stateRoleGeographic/GeographicRole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleGeographic/GeographicRole",
+    "parent": "http://sweetontology.net/prop/Role"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleGeographic/Highway",
+    "parent": "http://sweetontology.net/stateRoleGeographic/GeographicRole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleGeographic/Margin",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Boundary"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleGeographic/Obstruction",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Barrier"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleGeographic/Periphery",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Margin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleGeographic/Separation",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Barrier"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleGeographic/Tributary",
+    "parent": "http://sweetontology.net/stateRoleGeographic/Collector"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleRepresentative/RepresentativeRole",
+    "parent": "http://sweetontology.net/prop/Role"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateRoleRepresentative/RepresentativeRole",
+    "parent": "http://sweetontology.net/propOrdinal/OrdinalProperty"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Antumbra",
+    "parent": "http://sweetontology.net/stateSpaceConfiguration/Shadow"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Bottom",
+    "parent": "http://sweetontology.net/propFunction/Minimum"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Flank",
+    "parent": "http://sweetontology.net/propSpace/SpatialConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Juxtaposition",
+    "parent": "http://sweetontology.net/propSpace/SpatialConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Penumbra",
+    "parent": "http://sweetontology.net/stateSpaceConfiguration/Shadow"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Projection",
+    "parent": "http://sweetontology.net/propSpace/SpatialConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Relief",
+    "parent": "http://sweetontology.net/stateSpaceConfiguration/Projection"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Shadow",
+    "parent": "http://sweetontology.net/stateSpaceConfiguration/Projection"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Side",
+    "parent": "http://sweetontology.net/propSpace/SpatialConfiguration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Top",
+    "parent": "http://sweetontology.net/propFunction/Maximum"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpaceConfiguration/Umbra",
+    "parent": "http://sweetontology.net/stateSpaceConfiguration/Shadow"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpectralBand/Bolometric",
+    "parent": "http://sweetontology.net/stateSpectralBand/BroadSpectrum"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpectralBand/BroadSpectrum",
+    "parent": "http://sweetontology.net/propOrdinal/SpectralBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpectralBand/Monochromatic",
+    "parent": "http://sweetontology.net/stateSpectralBand/NarrowSpectrum"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpectralBand/NarrowSpectrum",
+    "parent": "http://sweetontology.net/propOrdinal/SpectralBand"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpectralBand/Polychromatic",
+    "parent": "http://sweetontology.net/stateSpectralBand/BroadSpectrum"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateTime/Age",
+    "parent": "http://sweetontology.net/stateTime/GeologicTimeUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateTime/Eon",
+    "parent": "http://sweetontology.net/stateTime/GeologicTimeUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateTime/Epoch",
+    "parent": "http://sweetontology.net/stateTime/GeologicTimeUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateTime/Era",
+    "parent": "http://sweetontology.net/stateTime/GeologicTimeUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateTime/GeologicTimeUnit",
+    "parent": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateTime/Period",
+    "parent": "http://sweetontology.net/stateTime/GeologicTimeUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateTime/Supereon",
+    "parent": "http://sweetontology.net/stateTime/GeologicTimeUnit"
+  }
+]

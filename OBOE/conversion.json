@@ -3,25 +3,19 @@
     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
     "convOffset": 0,
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared",
-    "convFactor": "4046.85642"
+    "convFactor": "4046.8564"
   },
   {
     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
     "convOffset": 0,
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared",
-    "convFactor": "4046.8564"
+    "convFactor": "4046.85642"
   },
   {
     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Angstrom",
     "convOffset": 0,
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
     "convFactor": "0.0000000001"
-  },
-  {
-    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilopascal",
-    "convOffset": 0,
-    "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Bar",
-    "convFactor": 100
   },
   {
     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Bushel",
@@ -114,13 +108,13 @@
     "convFactor": "1.8288"
   },
   {
-    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#FootGoldCoast",
+    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Foot",
     "convOffset": 0,
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
     "convFactor": "0.3048"
   },
   {
-    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Foot",
+    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#FootGoldCoast",
     "convOffset": 0,
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
     "convFactor": "0.3048"
@@ -182,6 +176,12 @@
     "convOffset": 0,
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
     "convFactor": 1000
+  },
+  {
+    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilopascal",
+    "convOffset": 0,
+    "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Bar",
+    "convFactor": 100
   },
   {
     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Kilosecond",
@@ -370,15 +370,15 @@
     "convFactor": 1000
   },
   {
-    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#YardIndian",
-    "convOffset": 0,
-    "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
-    "convFactor": "0.914399"
-  },
-  {
     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Yard",
     "convOffset": 0,
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
     "convFactor": "0.914398"
+  },
+  {
+    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#YardIndian",
+    "convOffset": 0,
+    "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Meter",
+    "convFactor": "0.914399"
   }
 ]

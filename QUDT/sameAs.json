@@ -1,1363 +1,159 @@
 [
   {
-    "sameAs": "http://dbpedia.org/resource/Quad",
-    "object": "http://qudt.org/vocab/unit#Quad"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Metre",
-    "object": "http://qudt.org/vocab/unit#Meter"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Lux",
-    "object": "http://qudt.org/vocab/unit#Lux"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Planck_density",
-    "object": "http://qudt.org/vocab/unit#PlanckDensity"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Astronomical_unit",
-    "object": "http://qudt.org/vocab/unit#AstronomicalUnit"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Gal",
-    "object": "http://qudt.org/vocab/unit#Gal"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Myanma_kyat",
-    "object": "http://qudt.org/vocab/unit#Kyat"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Foot-pound_force",
-    "object": "http://qudt.org/vocab/unit#FootPoundForce"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Maxwell",
-    "object": "http://qudt.org/vocab/unit#Maxwell"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Furlong",
-    "object": "http://qudt.org/vocab/unit#Furlong"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/RAD",
-    "object": "http://qudt.org/vocab/unit#Rad"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kilogram-force",
-    "object": "http://qudt.org/vocab/unit#KilogramForce"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Moldovan_leu",
-    "object": "http://qudt.org/vocab/unit#MoldovanLeu"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Singapore_dollar",
-    "object": "http://qudt.org/vocab/unit#SingaporeDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Colony-forming_unit",
-    "object": "http://qudt.org/vocab/unit#ColonyFormingUnit"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Square_metre",
-    "object": "http://qudt.org/vocab/unit#SquareMeter"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Joule",
-    "object": "http://qudt.org/vocab/unit#Joule"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Cuban_peso",
-    "object": "http://qudt.org/vocab/unit#CubanPeso"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Egyptian_pound",
-    "object": "http://qudt.org/vocab/unit#EgyptianPound"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Zambian_kwacha",
-    "object": "http://qudt.org/vocab/unit#ZambianKwacha"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Ethiopian_birr",
-    "object": "http://qudt.org/vocab/unit#EthiopianBirr"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Abohm",
-    "object": "http://qudt.org/vocab/unit#Abohm"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kilogram",
-    "object": "http://qudt.org/vocab/unit#Kilogram"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Loti",
-    "object": "http://qudt.org/vocab/unit#Loti"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Deci-",
-    "object": "http://qudt.org/vocab/unit#Deci"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Serbian_dinar",
-    "object": "http://qudt.org/vocab/unit#SerbianDinar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Slovak_koruna",
-    "object": "http://qudt.org/vocab/unit#SlovakKoruna"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Ban",
-    "object": "http://qudt.org/vocab/unit#Ban"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Aruban_florin",
-    "object": "http://qudt.org/vocab/unit#ArubanGuilder"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Macedonian_denar",
-    "object": "http://qudt.org/vocab/unit#Denar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Som",
-    "object": "http://qudt.org/vocab/unit#Som"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Bushel",
-    "object": "http://qudt.org/vocab/unit#Bushel"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Mauritanian_ouguiya",
-    "object": "http://qudt.org/vocab/unit#Ouguiya"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Celsius",
-    "object": "http://qudt.org/vocab/unit#DegreeCelsius"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Zimbabwean_dollar",
-    "object": "http://qudt.org/vocab/unit#ZimbabweDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Saudi_riyal",
-    "object": "http://qudt.org/vocab/unit#SaudiRiyal"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Maltese_lira",
-    "object": "http://qudt.org/vocab/unit#MalteseLira"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pascal_%28unit%29",
-    "object": "http://qudt.org/vocab/unit#KiloPascal"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Thai_baht",
-    "object": "http://qudt.org/vocab/unit#Baht"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Foot-candle",
-    "object": "http://qudt.org/vocab/unit#FootCandle"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Gon",
-    "object": "http://qudt.org/vocab/unit#Gon"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Bermudian_dollar",
-    "object": "http://qudt.org/vocab/unit#BermudaDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Newton_metre",
-    "object": "http://qudt.org/vocab/unit#NewtonMeter"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Jamaican_dollar",
-    "object": "http://qudt.org/vocab/unit#JamaicanDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Planck_angular_frequency",
-    "object": "http://qudt.org/vocab/unit#PlanckFrequency"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Bahamian_dollar",
-    "object": "http://qudt.org/vocab/unit#BahamianDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Inch_of_water",
-    "object": "http://qudt.org/vocab/unit#InchOfWater"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Hectare",
-    "object": "http://qudt.org/vocab/unit#Hectare"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Belarusian_ruble",
-    "object": "http://qudt.org/vocab/unit#BelarussianRuble"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kilo",
-    "object": "http://qudt.org/vocab/unit#Kilo"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kazakhstani_tenge",
-    "object": "http://qudt.org/vocab/unit#Tenge"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Rod",
-    "object": "http://qudt.org/vocab/unit#Rod"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Solomon_Islands_dollar",
-    "object": "http://qudt.org/vocab/unit#SolomonIslandsDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Miles_per_hour",
-    "object": "http://qudt.org/vocab/unit#MilePerHour"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Bulgarian_lev",
-    "object": "http://qudt.org/vocab/unit#BulgarianLev"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Atto",
-    "object": "http://qudt.org/vocab/unit#Atto"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Mozambican_metical",
-    "object": "http://qudt.org/vocab/unit#Metical"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Nicaraguan_c%C3%B3rdoba",
-    "object": "http://qudt.org/vocab/unit#CordobaOro"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Micro",
-    "object": "http://qudt.org/vocab/unit#Micro"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Bar",
-    "object": "http://qudt.org/vocab/unit#Bar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Mach",
-    "object": "http://qudt.org/vocab/unit#Mach"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Fijian_dollar",
-    "object": "http://qudt.org/vocab/unit#FijiDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Sri_Lankan_rupee",
-    "object": "http://qudt.org/vocab/unit#SriLankaRupee"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Chain",
-    "object": "http://qudt.org/vocab/unit#Chain"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/South_African_rand",
-    "object": "http://qudt.org/vocab/unit#SouthAfricanRand"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Statvolt",
-    "object": "http://qudt.org/vocab/unit#Statvolt"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Costa_Rican_col%C3%B3n",
-    "object": "http://qudt.org/vocab/unit#CostaRicanColon"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Farad",
-    "object": "http://qudt.org/vocab/unit#PicoFarad"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Farad",
-    "object": "http://qudt.org/vocab/unit#Farad"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Farad",
-    "object": "http://qudt.org/vocab/unit#NanoFarad"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Swazi_lilangeni",
-    "object": "http://qudt.org/vocab/unit#Lilangeni"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Denier",
-    "object": "http://qudt.org/vocab/unit#Denier"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Milli-",
-    "object": "http://qudt.org/vocab/unit#Milli"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Centimetre_of_water",
-    "object": "http://qudt.org/vocab/unit#CentimeterOfWater"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Czech_koruna",
-    "object": "http://qudt.org/vocab/unit#CzechKoruna"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Turkish_lira",
-    "object": "http://qudt.org/vocab/unit#NewTurkishLira"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Watt",
-    "object": "http://qudt.org/vocab/unit#Watt"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Watt",
-    "object": "http://qudt.org/vocab/unit#Kilowatt"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Gilbert",
-    "object": "http://qudt.org/vocab/unit#Gilbert"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kuwaiti_dinar",
-    "object": "http://qudt.org/vocab/unit#KuwaitiDinar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Iraqi_dinar",
-    "object": "http://qudt.org/vocab/unit#IraqiDinar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pataca",
-    "object": "http://qudt.org/vocab/unit#Pataca"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Candle",
-    "object": "http://qudt.org/vocab/unit#Candle"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Zetta-",
-    "object": "http://qudt.org/vocab/unit#Zetta"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Abcoulomb",
-    "object": "http://qudt.org/vocab/unit#Abcoulomb"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Saint_Helena_pound",
-    "object": "http://qudt.org/vocab/unit#SaintHelenaPound"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Hertz",
-    "object": "http://qudt.org/vocab/unit#Hertz"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Hertz",
-    "object": "http://qudt.org/vocab/unit#GigaHertz"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Dominican_peso",
-    "object": "http://qudt.org/vocab/unit#DominicanPeso"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Weber",
-    "object": "http://qudt.org/vocab/unit#Weber"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Centi-",
-    "object": "http://qudt.org/vocab/unit#Centi"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Electron_volt",
-    "object": "http://qudt.org/vocab/unit#ElectronVolt"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Moroccan_dirham",
-    "object": "http://qudt.org/vocab/unit#MoroccanDirham"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Swedish_krona",
-    "object": "http://qudt.org/vocab/unit#SwedishKrona"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Mauritian_rupee",
-    "object": "http://qudt.org/vocab/unit#MauritiusRupee"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Ugandan_shilling",
-    "object": "http://qudt.org/vocab/unit#UgandaShilling"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Bahraini_dinar",
-    "object": "http://qudt.org/vocab/unit#BahrainiDinar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Knot",
-    "object": "http://qudt.org/vocab/unit#Knot"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Quetzal",
-    "object": "http://qudt.org/vocab/unit#Quetzal"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/New_Taiwan_dollar",
-    "object": "http://qudt.org/vocab/unit#NewTaiwanDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Candela",
-    "object": "http://qudt.org/vocab/unit#Candela"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Mongolian_t%C3%B6gr%C3%B6g",
-    "object": "http://qudt.org/vocab/unit#Tugrik"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Yemeni_rial",
-    "object": "http://qudt.org/vocab/unit#YemeniRial"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Yard",
-    "object": "http://qudt.org/vocab/unit#Yard"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Manat",
-    "object": "http://qudt.org/vocab/unit#Manat"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Lempira",
-    "object": "http://qudt.org/vocab/unit#Lempira"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Planck_pressure",
-    "object": "http://qudt.org/vocab/unit#PlanckPressure"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kenyan_shilling",
-    "object": "http://qudt.org/vocab/unit#KenyanShilling"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Hecto-",
-    "object": "http://qudt.org/vocab/unit#Hecto"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Byte",
-    "object": "http://qudt.org/vocab/unit#Byte"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Lebanese_pound",
-    "object": "http://qudt.org/vocab/unit#LebanesePound"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Millimetre",
-    "object": "http://qudt.org/vocab/unit#Millimeter"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kilowatt_hour",
-    "object": "http://qudt.org/vocab/unit#Kilowatthour"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kilowatt_hour",
-    "object": "http://qudt.org/vocab/unit#Watthour"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pound-force",
-    "object": "http://qudt.org/vocab/unit#PoundForce"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Liberian_dollar",
-    "object": "http://qudt.org/vocab/unit#LiberianDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Stilb",
-    "object": "http://qudt.org/vocab/unit#Stilb"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Hong_Kong_dollar",
-    "object": "http://qudt.org/vocab/unit#HongKongDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Cereal",
-    "object": "http://qudt.org/vocab/unit#Grain"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Cypriot_pound",
-    "object": "http://qudt.org/vocab/unit#CyprusPound"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Riel",
-    "object": "http://qudt.org/vocab/unit#Riel"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Russian_ruble",
-    "object": "http://qudt.org/vocab/unit#RussianRuble"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Nakfa",
-    "object": "http://qudt.org/vocab/unit#Nakfa"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Lek",
-    "object": "http://qudt.org/vocab/unit#Lek"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Newton",
-    "object": "http://qudt.org/vocab/unit#Newton"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kelvin",
-    "object": "http://qudt.org/vocab/unit#Kelvin"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Icelandic_kr%C3%B3na",
-    "object": "http://qudt.org/vocab/unit#IcelandKrona"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pennyweight",
-    "object": "http://qudt.org/vocab/unit#PennyWeight"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Barbadian_dollar",
-    "object": "http://qudt.org/vocab/unit#BarbadosDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Poundal",
-    "object": "http://qudt.org/vocab/unit#Poundal"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Relative_static_permittivity",
-    "object": "http://qudt.org/vocab/unit#RelativePermittivity"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Revolution",
-    "object": "http://qudt.org/vocab/unit#Revolution"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Cayman_Islands_dollar",
-    "object": "http://qudt.org/vocab/unit#CaymanIslandsDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Afghani",
-    "object": "http://qudt.org/vocab/unit#Afghani"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Israeli_new_sheqel",
-    "object": "http://qudt.org/vocab/unit#NewIsraeliShekel"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Enrico_Fermi",
-    "object": "http://qudt.org/vocab/unit#Fermi"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Cord",
-    "object": "http://qudt.org/vocab/unit#Cord"
-  },
-  {
     "sameAs": "http://dbpedia.org/resource/%C3%85ngstr%C3%B6m",
     "object": "http://qudt.org/vocab/unit#Angstrom"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Planck_energy",
-    "object": "http://qudt.org/vocab/unit#PlanckEnergy"
+    "sameAs": "http://dbpedia.org/resource/1_%28number%29",
+    "object": "http://qudt.org/vocab/unit#Unitless"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Tanzanian_shilling",
-    "object": "http://qudt.org/vocab/unit#TanzanianShilling"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Canadian_dollar",
-    "object": "http://qudt.org/vocab/unit#CanadianDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Gibraltar_pound",
-    "object": "http://qudt.org/vocab/unit#GibraltarPound"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Comorian_franc",
-    "object": "http://qudt.org/vocab/unit#ComoroFranc"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Slug",
-    "object": "http://qudt.org/vocab/unit#Slug"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Peta",
-    "object": "http://qudt.org/vocab/unit#Peta"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Calorie",
-    "object": "http://qudt.org/vocab/unit#Kilocalorie"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Atomic_mass_unit",
-    "object": "http://qudt.org/vocab/unit#UnifiedAtomicMassUnit"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Grad",
-    "object": "http://qudt.org/vocab/unit#Grad"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Argentine_peso",
-    "object": "http://qudt.org/vocab/unit#ArgentinePeso"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Bhutanese_ngultrum",
-    "object": "http://qudt.org/vocab/unit#Ngultrum"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Curie",
-    "object": "http://qudt.org/vocab/unit#Curie"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Poise",
-    "object": "http://qudt.org/vocab/unit#Poise"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Hour",
-    "object": "http://qudt.org/vocab/unit#Hour"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Ampere",
-    "object": "http://qudt.org/vocab/unit#Ampere"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Debye",
-    "object": "http://qudt.org/vocab/unit#Debye"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Burundian_franc",
-    "object": "http://qudt.org/vocab/unit#BurundianFranc"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Inch_of_mercury",
-    "object": "http://qudt.org/vocab/unit#InchOfMercury"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Abfarad",
-    "object": "http://qudt.org/vocab/unit#Abfarad"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Foot_%28length%29",
-    "object": "http://qudt.org/vocab/unit#Foot"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Tongan_pa%CA%BBanga",
-    "object": "http://qudt.org/vocab/unit#Paanga"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Angolan_kwanza",
-    "object": "http://qudt.org/vocab/unit#Kwanza"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Guyanese_dollar",
-    "object": "http://qudt.org/vocab/unit#GuyanaDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Samoan_tala",
-    "object": "http://qudt.org/vocab/unit#SamoanTala"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Jordanian_dinar",
-    "object": "http://qudt.org/vocab/unit#JordanianDinar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/International_unit",
-    "object": "http://qudt.org/vocab/unit#InternationalUnit"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Mega",
-    "object": "http://qudt.org/vocab/unit#Mega"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Nepalese_rupee",
-    "object": "http://qudt.org/vocab/unit#NepaleseRupee"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Hartree",
-    "object": "http://qudt.org/vocab/unit#Hartree"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Special_Drawing_Rights",
-    "object": "http://qudt.org/vocab/unit#SpecialDrawingRights"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Planck_current",
-    "object": "http://qudt.org/vocab/unit#PlanckCurrent"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Biot",
-    "object": "http://qudt.org/vocab/unit#Biot"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Syrian_pound",
-    "object": "http://qudt.org/vocab/unit#SyrianPound"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Haitian_gourde",
-    "object": "http://qudt.org/vocab/unit#HaitiGourde"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/New_Zealand_dollar",
-    "object": "http://qudt.org/vocab/unit#NewZealandDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Nat",
-    "object": "http://qudt.org/vocab/unit#Nat"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Ohm",
-    "object": "http://qudt.org/vocab/unit#Ohm"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Estonian_kroon",
-    "object": "http://qudt.org/vocab/unit#Kroon"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Belize_dollar",
-    "object": "http://qudt.org/vocab/unit#BelizeDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Barn",
-    "object": "http://qudt.org/vocab/unit#Barn"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Colombian_peso",
-    "object": "http://qudt.org/vocab/unit#ColombianPeso"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Ukrainian_hryvnia",
-    "object": "http://qudt.org/vocab/unit#Hryvnia"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Planck_power",
-    "object": "http://qudt.org/vocab/unit#PlanckPower"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Philippine_peso",
-    "object": "http://qudt.org/vocab/unit#PhilippinePeso"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pico",
-    "object": "http://qudt.org/vocab/unit#Pico"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Are",
-    "object": "http://qudt.org/vocab/unit#Are"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Percentage",
-    "object": "http://qudt.org/vocab/unit#Percent"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Steradian",
-    "object": "http://qudt.org/vocab/unit#Steradian"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Roentgen",
-    "object": "http://qudt.org/vocab/unit#Roentgen"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/South_Korean_won",
-    "object": "http://qudt.org/vocab/unit#SouthKoreanWon"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Millisecond",
-    "object": "http://qudt.org/vocab/unit#MilliSecond"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Tunisian_dinar",
-    "object": "http://qudt.org/vocab/unit#TunisianDinar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Centimetre",
-    "object": "http://qudt.org/vocab/unit#Centimeter"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Giga-",
-    "object": "http://qudt.org/vocab/unit#Giga"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Micrometer",
-    "object": "http://qudt.org/vocab/unit#Micrometer"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Mexican_peso",
-    "object": "http://qudt.org/vocab/unit#MexicanPeso"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/North_Korean_won",
-    "object": "http://qudt.org/vocab/unit#NorthKoreanWon"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Tablespoon",
-    "object": "http://qudt.org/vocab/unit#Tablespoon"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Iranian_rial",
-    "object": "http://qudt.org/vocab/unit#IranianRial"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Yocto-",
-    "object": "http://qudt.org/vocab/unit#Yocto"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pascal",
-    "object": "http://qudt.org/vocab/unit#Pascal"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Vanuatu_vatu",
-    "object": "http://qudt.org/vocab/unit#Vatu"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Relative_permeability",
-    "object": "http://qudt.org/vocab/unit#RelativePermeability"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Decibel",
-    "object": "http://qudt.org/vocab/unit#Decibel"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Carat",
-    "object": "http://qudt.org/vocab/unit#Carat"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Tesla",
-    "object": "http://qudt.org/vocab/unit#Tesla"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Volt",
-    "object": "http://qudt.org/vocab/unit#Volt"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Tajikistani_somoni",
-    "object": "http://qudt.org/vocab/unit#Somoni"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Foot_per_second",
-    "object": "http://qudt.org/vocab/unit#FootPerSecond"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Lithuanian_litas",
-    "object": "http://qudt.org/vocab/unit#LithuanianLitas"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Gamma",
-    "object": "http://qudt.org/vocab/unit#Gamma"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Somali_shilling",
-    "object": "http://qudt.org/vocab/unit#SomaliShilling"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Horsepower",
-    "object": "http://qudt.org/vocab/unit#Horsepower"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Siemens_%28unit%29",
-    "object": "http://qudt.org/vocab/unit#Mho"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Brunei_dollar",
-    "object": "http://qudt.org/vocab/unit#BruneiDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Ghanaian_cedi",
-    "object": "http://qudt.org/vocab/unit#Cedi"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Abhenry",
-    "object": "http://qudt.org/vocab/unit#Abhenry"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Australian_dollar",
-    "object": "http://qudt.org/vocab/unit#AustralianDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Grade",
-    "object": "http://qudt.org/vocab/unit#Grade"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Peruvian_nuevo_sol",
-    "object": "http://qudt.org/vocab/unit#NuevoSol"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/St%C3%A8re",
-    "object": "http://qudt.org/vocab/unit#Stere"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Bangladeshi_taka",
-    "object": "http://qudt.org/vocab/unit#BangladeshiTaka"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Planck_time",
-    "object": "http://qudt.org/vocab/unit#PlanckTime"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Indonesian_rupiah",
-    "object": "http://qudt.org/vocab/unit#Rupiah"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Teaspoon",
-    "object": "http://qudt.org/vocab/unit#Teaspoon"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Tex",
-    "object": "http://qudt.org/vocab/unit#Tex"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Libyan_dinar",
-    "object": "http://qudt.org/vocab/unit#LibyanDinar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Nigerian_naira",
-    "object": "http://qudt.org/vocab/unit#Naira"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Tera",
-    "object": "http://qudt.org/vocab/unit#Tera"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pounds_per_square_inch",
-    "object": "http://qudt.org/vocab/unit#PoundForcePerSquareInch"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Cubic_metre",
-    "object": "http://qudt.org/vocab/unit#CubicMeter"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pica",
-    "object": "http://qudt.org/vocab/unit#Pica"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Planck_force",
-    "object": "http://qudt.org/vocab/unit#PlanckForce"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Malaysian_ringgit",
-    "object": "http://qudt.org/vocab/unit#MalaysianRinggit"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Swiss_franc",
-    "object": "http://qudt.org/vocab/unit#SwissFranc"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Qatari_riyal",
-    "object": "http://qudt.org/vocab/unit#QatariRial"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Balboa",
-    "object": "http://qudt.org/vocab/unit#Balboa"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Planck_length",
-    "object": "http://qudt.org/vocab/unit#PlanckLength"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Katal",
-    "object": "http://qudt.org/vocab/unit#Katal"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Djiboutian_franc",
-    "object": "http://qudt.org/vocab/unit#DjiboutiFranc"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Bolivian_boliviano",
-    "object": "http://qudt.org/vocab/unit#Boliviano"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Abvolt",
-    "object": "http://qudt.org/vocab/unit#Abvolt"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Armenian_dram",
-    "object": "http://qudt.org/vocab/unit#ArmenianDram"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Omani_rial",
-    "object": "http://qudt.org/vocab/unit#OmaniRial"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kip",
-    "object": "http://qudt.org/vocab/unit#Kip"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Inch",
-    "object": "http://qudt.org/vocab/unit#Inch"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Planck_mass",
-    "object": "http://qudt.org/vocab/unit#PlanckMass"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Rwandan_franc",
-    "object": "http://qudt.org/vocab/unit#RwandaFranc"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Statcoulomb",
-    "object": "http://qudt.org/vocab/unit#Statcoulomb"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Radian",
-    "object": "http://qudt.org/vocab/unit#Radian"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Surinamese_dollar",
-    "object": "http://qudt.org/vocab/unit#SurinamDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Lumen",
-    "object": "http://qudt.org/vocab/unit#Lumen"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Indian_rupee",
-    "object": "http://qudt.org/vocab/unit#IndianRupee"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Lari",
-    "object": "http://qudt.org/vocab/unit#Lari"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Oersted",
-    "object": "http://qudt.org/vocab/unit#Oersted"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Launch",
-    "object": "http://qudt.org/vocab/unit#Launch"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Seychellois_rupee",
-    "object": "http://qudt.org/vocab/unit#SeychellesRupee"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Brazilian_real",
-    "object": "http://qudt.org/vocab/unit#BrazilianReal"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Candlepower",
-    "object": "http://qudt.org/vocab/unit#Candlepower"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Exa-",
-    "object": "http://qudt.org/vocab/unit#Exa"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Danish_krone",
-    "object": "http://qudt.org/vocab/unit#DanishKrone"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Chilean_peso",
-    "object": "http://qudt.org/vocab/unit#ChileanPeso"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Phot",
-    "object": "http://qudt.org/vocab/unit#Phot"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Gauss_%28unit%29",
-    "object": "http://qudt.org/vocab/unit#Gauss"
+    "sameAs": "http://dbpedia.org/resource/1_E-6_s",
+    "object": "http://qudt.org/vocab/unit#MicroSecond"
   },
   {
     "sameAs": "http://dbpedia.org/resource/Abampere",
     "object": "http://qudt.org/vocab/unit#Abampere"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Maldivian_rufiyaa",
-    "object": "http://qudt.org/vocab/unit#Rufiyaa"
+    "sameAs": "http://dbpedia.org/resource/Abcoulomb",
+    "object": "http://qudt.org/vocab/unit#Abcoulomb"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Pound_per_hour",
-    "object": "http://qudt.org/vocab/unit#PoundPerHour"
+    "sameAs": "http://dbpedia.org/resource/Abfarad",
+    "object": "http://qudt.org/vocab/unit#Abfarad"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Netherlands_Antillean_guilder",
-    "object": "http://qudt.org/vocab/unit#NetherlandsAntillianGuilder"
+    "sameAs": "http://dbpedia.org/resource/Abhenry",
+    "object": "http://qudt.org/vocab/unit#Abhenry"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Gram",
-    "object": "http://qudt.org/vocab/unit#Gram"
+    "sameAs": "http://dbpedia.org/resource/Abohm",
+    "object": "http://qudt.org/vocab/unit#Abohm"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Euro",
-    "object": "http://qudt.org/vocab/unit#Euro"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Sievert",
-    "object": "http://qudt.org/vocab/unit#Sievert"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Sudanese_pound",
-    "object": "http://qudt.org/vocab/unit#SudanesePound"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Yotta-",
-    "object": "http://qudt.org/vocab/unit#Yotta"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Nano",
-    "object": "http://qudt.org/vocab/unit#Nano"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Latvian_lats",
-    "object": "http://qudt.org/vocab/unit#LatvianLats"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kina",
-    "object": "http://qudt.org/vocab/unit#Kina"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Mole_%28unit%29",
-    "object": "http://qudt.org/vocab/unit#Mole"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Congolese_franc",
-    "object": "http://qudt.org/vocab/unit#FrancCongolais"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Namibian_dollar",
-    "object": "http://qudt.org/vocab/unit#NamibianDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Japanese_yen",
-    "object": "http://qudt.org/vocab/unit#JapaneseYen"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Light-year",
-    "object": "http://qudt.org/vocab/unit#LightYear"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Coulomb",
-    "object": "http://qudt.org/vocab/unit#Coulomb"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Femto-",
-    "object": "http://qudt.org/vocab/unit#Femto"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Breathing",
-    "object": "http://qudt.org/vocab/unit#Breath"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Dobra",
-    "object": "http://qudt.org/vocab/unit#Dobra"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pula",
-    "object": "http://qudt.org/vocab/unit#Pula"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Guaran%C3%AD",
-    "object": "http://qudt.org/vocab/unit#Guarani"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/East_Caribbean_dollar",
-    "object": "http://qudt.org/vocab/unit#EastCaribbeanDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Planck_momentum",
-    "object": "http://qudt.org/vocab/unit#PlanckMomentum"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Shake",
-    "object": "http://qudt.org/vocab/unit#Shake"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Erg",
-    "object": "http://qudt.org/vocab/unit#Erg"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pound_sterling",
-    "object": "http://qudt.org/vocab/unit#PoundSterling"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Fathom",
-    "object": "http://qudt.org/vocab/unit#Fathom"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Polish_z%C5%82oty",
-    "object": "http://qudt.org/vocab/unit#Zloty"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Torr",
-    "object": "http://qudt.org/vocab/unit#Torr"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Torr",
-    "object": "http://qudt.org/vocab/unit#MillimeterOfMercury"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Bit",
-    "object": "http://qudt.org/vocab/unit#Bit"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Norwegian_krone",
-    "object": "http://qudt.org/vocab/unit#NorwegianKrone"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Dyne",
-    "object": "http://qudt.org/vocab/unit#Dyne"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Henry",
-    "object": "http://qudt.org/vocab/unit#Henry"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Stokes",
-    "object": "http://qudt.org/vocab/unit#Stokes"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Algerian_dinar",
-    "object": "http://qudt.org/vocab/unit#AlgerianDinar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kilometre",
-    "object": "http://qudt.org/vocab/unit#Kilometer"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Dalton",
-    "object": "http://qudt.org/vocab/unit#Dalton"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Dioptre",
-    "object": "http://qudt.org/vocab/unit#Diopter"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Atomic_number",
-    "object": "http://qudt.org/vocab/unit#AtomicNumber"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Deca",
-    "object": "http://qudt.org/vocab/unit#Deca"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Hungarian_forint",
-    "object": "http://qudt.org/vocab/unit#Forint"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Grey",
-    "object": "http://qudt.org/vocab/unit#Gray"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Renminbi",
-    "object": "http://qudt.org/vocab/unit#YuanRenminbi"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Day",
-    "object": "http://qudt.org/vocab/unit#Day"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Uzbekistani_som",
-    "object": "http://qudt.org/vocab/unit#UzbekistanSom"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Guinean_franc",
-    "object": "http://qudt.org/vocab/unit#GuineaFranc"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Franklin",
-    "object": "http://qudt.org/vocab/unit#Franklin"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Sierra_Leonean_leone",
-    "object": "http://qudt.org/vocab/unit#Leone"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Zepto-",
-    "object": "http://qudt.org/vocab/unit#Zepto"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Litre",
-    "object": "http://qudt.org/vocab/unit#Liter"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Second",
-    "object": "http://qudt.org/vocab/unit#SecondTime"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Croatian_kuna",
-    "object": "http://qudt.org/vocab/unit#CroatianKuna"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Malagasy_ariary",
-    "object": "http://qudt.org/vocab/unit#MalagasyAriary"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Pakistani_rupee",
-    "object": "http://qudt.org/vocab/unit#PakistanRupee"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/United_Arab_Emirates_dirham",
-    "object": "http://qudt.org/vocab/unit#UAEDirham"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Gambian_dalasi",
-    "object": "http://qudt.org/vocab/unit#Dalasi"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Becquerel",
-    "object": "http://qudt.org/vocab/unit#Becquerel"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Trinidad_and_Tobago_dollar",
-    "object": "http://qudt.org/vocab/unit#TrinidadAndTobagoDollar"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Barrel",
-    "object": "http://qudt.org/vocab/unit#Barrel"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Tonne",
-    "object": "http://qudt.org/vocab/unit#MetricTon"
-  },
-  {
-    "sameAs": "http://dbpedia.org/resource/Kilometres_per_hour",
-    "object": "http://qudt.org/vocab/unit#KilometerPerHour"
+    "sameAs": "http://dbpedia.org/resource/Abvolt",
+    "object": "http://qudt.org/vocab/unit#Abvolt"
   },
   {
     "sameAs": "http://dbpedia.org/resource/Acre",
     "object": "http://qudt.org/vocab/unit#Acre"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Ton_of_refrigeration",
-    "object": "http://qudt.org/vocab/unit#TonOfRefrigeration"
+    "sameAs": "http://dbpedia.org/resource/Afghani",
+    "object": "http://qudt.org/vocab/unit#Afghani"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Algerian_dinar",
+    "object": "http://qudt.org/vocab/unit#AlgerianDinar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Ampere",
+    "object": "http://qudt.org/vocab/unit#Ampere"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Angolan_kwanza",
+    "object": "http://qudt.org/vocab/unit#Kwanza"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Are",
+    "object": "http://qudt.org/vocab/unit#Are"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Argentine_peso",
+    "object": "http://qudt.org/vocab/unit#ArgentinePeso"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Armenian_dram",
+    "object": "http://qudt.org/vocab/unit#ArmenianDram"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Aruban_florin",
+    "object": "http://qudt.org/vocab/unit#ArubanGuilder"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Astronomical_unit",
+    "object": "http://qudt.org/vocab/unit#AstronomicalUnit"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Atomic_mass_unit",
+    "object": "http://qudt.org/vocab/unit#UnifiedAtomicMassUnit"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Atomic_number",
+    "object": "http://qudt.org/vocab/unit#AtomicNumber"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Atto",
+    "object": "http://qudt.org/vocab/unit#Atto"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Australian_dollar",
+    "object": "http://qudt.org/vocab/unit#AustralianDollar"
   },
   {
     "sameAs": "http://dbpedia.org/resource/Azerbaijani_manat",
     "object": "http://qudt.org/vocab/unit#AzerbaijanianManat"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Lambert",
-    "object": "http://qudt.org/vocab/unit#Lambert"
+    "sameAs": "http://dbpedia.org/resource/Bahamian_dollar",
+    "object": "http://qudt.org/vocab/unit#BahamianDollar"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Falkland_Islands_pound",
-    "object": "http://qudt.org/vocab/unit#FalklandIslandsPound"
+    "sameAs": "http://dbpedia.org/resource/Bahraini_dinar",
+    "object": "http://qudt.org/vocab/unit#BahrainiDinar"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Uruguayan_peso",
-    "object": "http://qudt.org/vocab/unit#UruguayPeso"
+    "sameAs": "http://dbpedia.org/resource/Balboa",
+    "object": "http://qudt.org/vocab/unit#Balboa"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Siemens",
-    "object": "http://qudt.org/vocab/unit#Siemens"
+    "sameAs": "http://dbpedia.org/resource/Ban",
+    "object": "http://qudt.org/vocab/unit#Ban"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Cape_Verdean_escudo",
-    "object": "http://qudt.org/vocab/unit#CapeVerdeEscudo"
+    "sameAs": "http://dbpedia.org/resource/Bangladeshi_taka",
+    "object": "http://qudt.org/vocab/unit#BangladeshiTaka"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Thermal_conductivity",
-    "object": "http://qudt.org/vocab/unit#Clo"
+    "sameAs": "http://dbpedia.org/resource/Bar",
+    "object": "http://qudt.org/vocab/unit#Bar"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Binary_prefix",
-    "object": "http://qudt.org/vocab/unit#Gibi"
+    "sameAs": "http://dbpedia.org/resource/Bar_%28unit%29",
+    "object": "http://qudt.org/vocab/unit#Millibar"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Binary_prefix",
-    "object": "http://qudt.org/vocab/unit#Pebi"
+    "sameAs": "http://dbpedia.org/resource/Barbadian_dollar",
+    "object": "http://qudt.org/vocab/unit#BarbadosDollar"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Binary_prefix",
-    "object": "http://qudt.org/vocab/unit#Yobi"
+    "sameAs": "http://dbpedia.org/resource/Barn",
+    "object": "http://qudt.org/vocab/unit#Barn"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Binary_prefix",
-    "object": "http://qudt.org/vocab/unit#Mebi"
+    "sameAs": "http://dbpedia.org/resource/Barrel",
+    "object": "http://qudt.org/vocab/unit#Barrel"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Becquerel",
+    "object": "http://qudt.org/vocab/unit#Becquerel"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Belarusian_ruble",
+    "object": "http://qudt.org/vocab/unit#BelarussianRuble"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Belize_dollar",
+    "object": "http://qudt.org/vocab/unit#BelizeDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Bermudian_dollar",
+    "object": "http://qudt.org/vocab/unit#BermudaDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Bhutanese_ngultrum",
+    "object": "http://qudt.org/vocab/unit#Ngultrum"
   },
   {
     "sameAs": "http://dbpedia.org/resource/Binary_prefix",
@@ -1365,7 +161,19 @@
   },
   {
     "sameAs": "http://dbpedia.org/resource/Binary_prefix",
-    "object": "http://qudt.org/vocab/unit#Zebi"
+    "object": "http://qudt.org/vocab/unit#Gibi"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Binary_prefix",
+    "object": "http://qudt.org/vocab/unit#Kibi"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Binary_prefix",
+    "object": "http://qudt.org/vocab/unit#Mebi"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Binary_prefix",
+    "object": "http://qudt.org/vocab/unit#Pebi"
   },
   {
     "sameAs": "http://dbpedia.org/resource/Binary_prefix",
@@ -1373,39 +181,427 @@
   },
   {
     "sameAs": "http://dbpedia.org/resource/Binary_prefix",
-    "object": "http://qudt.org/vocab/unit#Kibi"
+    "object": "http://qudt.org/vocab/unit#Yobi"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Metre",
-    "object": "http://qudt.org/vocab/unit#Femtometer"
+    "sameAs": "http://dbpedia.org/resource/Binary_prefix",
+    "object": "http://qudt.org/vocab/unit#Zebi"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Faraday_constant",
-    "object": "http://qudt.org/vocab/unit#Faraday"
+    "sameAs": "http://dbpedia.org/resource/Biot",
+    "object": "http://qudt.org/vocab/unit#Biot"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Bar_%28unit%29",
-    "object": "http://qudt.org/vocab/unit#Millibar"
+    "sameAs": "http://dbpedia.org/resource/Bit",
+    "object": "http://qudt.org/vocab/unit#Bit"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Radian_per_second",
-    "object": "http://qudt.org/vocab/unit#RadianPerMinute"
+    "sameAs": "http://dbpedia.org/resource/Bolivian_boliviano",
+    "object": "http://qudt.org/vocab/unit#Boliviano"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Micro-g_environment",
-    "object": "http://qudt.org/vocab/unit#Microgravity"
+    "sameAs": "http://dbpedia.org/resource/Bosnia_and_Herzegovina_convertible_mark",
+    "object": "http://qudt.org/vocab/unit#ConvertibleMark"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Brazilian_real",
+    "object": "http://qudt.org/vocab/unit#BrazilianReal"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Breathing",
+    "object": "http://qudt.org/vocab/unit#Breath"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Brunei_dollar",
+    "object": "http://qudt.org/vocab/unit#BruneiDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Bulgarian_lev",
+    "object": "http://qudt.org/vocab/unit#BulgarianLev"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Burundian_franc",
+    "object": "http://qudt.org/vocab/unit#BurundianFranc"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Bushel",
+    "object": "http://qudt.org/vocab/unit#Bushel"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Byte",
+    "object": "http://qudt.org/vocab/unit#Byte"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Calorie",
+    "object": "http://qudt.org/vocab/unit#Kilocalorie"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Canadian_dollar",
+    "object": "http://qudt.org/vocab/unit#CanadianDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Candela",
+    "object": "http://qudt.org/vocab/unit#Candela"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Candle",
+    "object": "http://qudt.org/vocab/unit#Candle"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Candlepower",
+    "object": "http://qudt.org/vocab/unit#Candlepower"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Cape_Verdean_escudo",
+    "object": "http://qudt.org/vocab/unit#CapeVerdeEscudo"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Carat",
+    "object": "http://qudt.org/vocab/unit#Carat"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Cayman_Islands_dollar",
+    "object": "http://qudt.org/vocab/unit#CaymanIslandsDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Celsius",
+    "object": "http://qudt.org/vocab/unit#DegreeCelsius"
   },
   {
     "sameAs": "http://dbpedia.org/resource/Celsius",
     "object": "http://qudt.org/vocab/unit#DegreeCentigrade"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/REM",
-    "object": "http://qudt.org/vocab/unit#Rem"
+    "sameAs": "http://dbpedia.org/resource/Centi-",
+    "object": "http://qudt.org/vocab/unit#Centi"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Centimetre",
+    "object": "http://qudt.org/vocab/unit#Centimeter"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Centimetre_of_water",
+    "object": "http://qudt.org/vocab/unit#CentimeterOfWater"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Cereal",
+    "object": "http://qudt.org/vocab/unit#Grain"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Chain",
+    "object": "http://qudt.org/vocab/unit#Chain"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Chilean_peso",
+    "object": "http://qudt.org/vocab/unit#ChileanPeso"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Colombian_peso",
+    "object": "http://qudt.org/vocab/unit#ColombianPeso"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Colony-forming_unit",
+    "object": "http://qudt.org/vocab/unit#ColonyFormingUnit"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Comorian_franc",
+    "object": "http://qudt.org/vocab/unit#ComoroFranc"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Congolese_franc",
+    "object": "http://qudt.org/vocab/unit#FrancCongolais"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Cord",
+    "object": "http://qudt.org/vocab/unit#Cord"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Costa_Rican_col%C3%B3n",
+    "object": "http://qudt.org/vocab/unit#CostaRicanColon"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Coulomb",
+    "object": "http://qudt.org/vocab/unit#Coulomb"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Croatian_kuna",
+    "object": "http://qudt.org/vocab/unit#CroatianKuna"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Cuban_peso",
+    "object": "http://qudt.org/vocab/unit#CubanPeso"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Cubic_metre",
+    "object": "http://qudt.org/vocab/unit#CubicMeter"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Curie",
+    "object": "http://qudt.org/vocab/unit#Curie"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Cypriot_pound",
+    "object": "http://qudt.org/vocab/unit#CyprusPound"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Czech_koruna",
+    "object": "http://qudt.org/vocab/unit#CzechKoruna"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Dalton",
+    "object": "http://qudt.org/vocab/unit#Dalton"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Danish_krone",
+    "object": "http://qudt.org/vocab/unit#DanishKrone"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Day",
+    "object": "http://qudt.org/vocab/unit#Day"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Debye",
+    "object": "http://qudt.org/vocab/unit#Debye"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Deca",
+    "object": "http://qudt.org/vocab/unit#Deca"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Deci-",
+    "object": "http://qudt.org/vocab/unit#Deci"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Decibel",
+    "object": "http://qudt.org/vocab/unit#Decibel"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Denier",
+    "object": "http://qudt.org/vocab/unit#Denier"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Dioptre",
+    "object": "http://qudt.org/vocab/unit#Diopter"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Djiboutian_franc",
+    "object": "http://qudt.org/vocab/unit#DjiboutiFranc"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Dobra",
+    "object": "http://qudt.org/vocab/unit#Dobra"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Dominican_peso",
+    "object": "http://qudt.org/vocab/unit#DominicanPeso"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Dyne",
+    "object": "http://qudt.org/vocab/unit#Dyne"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/East_Caribbean_dollar",
+    "object": "http://qudt.org/vocab/unit#EastCaribbeanDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Egyptian_pound",
+    "object": "http://qudt.org/vocab/unit#EgyptianPound"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Electron_volt",
+    "object": "http://qudt.org/vocab/unit#ElectronVolt"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Enrico_Fermi",
+    "object": "http://qudt.org/vocab/unit#Fermi"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Erg",
+    "object": "http://qudt.org/vocab/unit#Erg"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Estonian_kroon",
+    "object": "http://qudt.org/vocab/unit#Kroon"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Ethiopian_birr",
+    "object": "http://qudt.org/vocab/unit#EthiopianBirr"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Euro",
+    "object": "http://qudt.org/vocab/unit#Euro"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Exa-",
+    "object": "http://qudt.org/vocab/unit#Exa"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Falkland_Islands_pound",
+    "object": "http://qudt.org/vocab/unit#FalklandIslandsPound"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Farad",
+    "object": "http://qudt.org/vocab/unit#Farad"
   },
   {
     "sameAs": "http://dbpedia.org/resource/Farad",
     "object": "http://qudt.org/vocab/unit#MicroFarad"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Farad",
+    "object": "http://qudt.org/vocab/unit#NanoFarad"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Farad",
+    "object": "http://qudt.org/vocab/unit#PicoFarad"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Faraday_constant",
+    "object": "http://qudt.org/vocab/unit#Faraday"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Fathom",
+    "object": "http://qudt.org/vocab/unit#Fathom"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Femto-",
+    "object": "http://qudt.org/vocab/unit#Femto"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Fijian_dollar",
+    "object": "http://qudt.org/vocab/unit#FijiDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Flight",
+    "object": "http://qudt.org/vocab/unit#Flight"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Foot_%28length%29",
+    "object": "http://qudt.org/vocab/unit#Foot"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Foot_per_second",
+    "object": "http://qudt.org/vocab/unit#FootPerSecond"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Foot-candle",
+    "object": "http://qudt.org/vocab/unit#FootCandle"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Foot-pound_force",
+    "object": "http://qudt.org/vocab/unit#FootPoundForce"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Franklin",
+    "object": "http://qudt.org/vocab/unit#Franklin"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Furlong",
+    "object": "http://qudt.org/vocab/unit#Furlong"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Gal",
+    "object": "http://qudt.org/vocab/unit#Gal"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Gambian_dalasi",
+    "object": "http://qudt.org/vocab/unit#Dalasi"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Gamma",
+    "object": "http://qudt.org/vocab/unit#Gamma"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Gauss_%28unit%29",
+    "object": "http://qudt.org/vocab/unit#Gauss"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Ghanaian_cedi",
+    "object": "http://qudt.org/vocab/unit#Cedi"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Gibraltar_pound",
+    "object": "http://qudt.org/vocab/unit#GibraltarPound"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Giga-",
+    "object": "http://qudt.org/vocab/unit#Giga"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Gilbert",
+    "object": "http://qudt.org/vocab/unit#Gilbert"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Gon",
+    "object": "http://qudt.org/vocab/unit#Gon"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Grad",
+    "object": "http://qudt.org/vocab/unit#Grad"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Grade",
+    "object": "http://qudt.org/vocab/unit#Grade"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Gram",
+    "object": "http://qudt.org/vocab/unit#Gram"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Gravitation",
+    "object": "http://qudt.org/vocab/unit#Gravity"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Grey",
+    "object": "http://qudt.org/vocab/unit#Gray"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Guaran%C3%AD",
+    "object": "http://qudt.org/vocab/unit#Guarani"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Guinean_franc",
+    "object": "http://qudt.org/vocab/unit#GuineaFranc"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Guyanese_dollar",
+    "object": "http://qudt.org/vocab/unit#GuyanaDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Haitian_gourde",
+    "object": "http://qudt.org/vocab/unit#HaitiGourde"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Hartree",
+    "object": "http://qudt.org/vocab/unit#Hartree"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Hectare",
+    "object": "http://qudt.org/vocab/unit#Hectare"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Hecto-",
+    "object": "http://qudt.org/vocab/unit#Hecto"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Henry",
+    "object": "http://qudt.org/vocab/unit#Henry"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Henry_%28unit%29",
+    "object": "http://qudt.org/vocab/unit#MicroHenry"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Henry_%28unit%29",
+    "object": "http://qudt.org/vocab/unit#MilliHenry"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Hertz",
+    "object": "http://qudt.org/vocab/unit#GigaHertz"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Hertz",
+    "object": "http://qudt.org/vocab/unit#Hertz"
   },
   {
     "sameAs": "http://dbpedia.org/resource/Hertz",
@@ -1416,43 +612,847 @@
     "object": "http://qudt.org/vocab/unit#MegaHertz"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Henry_%28unit%29",
-    "object": "http://qudt.org/vocab/unit#MilliHenry"
+    "sameAs": "http://dbpedia.org/resource/Hong_Kong_dollar",
+    "object": "http://qudt.org/vocab/unit#HongKongDollar"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Henry_%28unit%29",
-    "object": "http://qudt.org/vocab/unit#MicroHenry"
+    "sameAs": "http://dbpedia.org/resource/Horsepower",
+    "object": "http://qudt.org/vocab/unit#Horsepower"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Flight",
-    "object": "http://qudt.org/vocab/unit#Flight"
+    "sameAs": "http://dbpedia.org/resource/Hour",
+    "object": "http://qudt.org/vocab/unit#Hour"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Poise",
-    "object": "http://qudt.org/vocab/unit#Centipoise"
+    "sameAs": "http://dbpedia.org/resource/Hungarian_forint",
+    "object": "http://qudt.org/vocab/unit#Forint"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Person",
-    "object": "http://qudt.org/vocab/unit#Person"
+    "sameAs": "http://dbpedia.org/resource/Icelandic_kr%C3%B3na",
+    "object": "http://qudt.org/vocab/unit#IcelandKrona"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Inch",
+    "object": "http://qudt.org/vocab/unit#Inch"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Inch_of_mercury",
+    "object": "http://qudt.org/vocab/unit#InchOfMercury"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Inch_of_water",
+    "object": "http://qudt.org/vocab/unit#InchOfWater"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Indian_rupee",
+    "object": "http://qudt.org/vocab/unit#IndianRupee"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Indonesian_rupiah",
+    "object": "http://qudt.org/vocab/unit#Rupiah"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/International_unit",
+    "object": "http://qudt.org/vocab/unit#InternationalUnit"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Iranian_rial",
+    "object": "http://qudt.org/vocab/unit#IranianRial"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Iraqi_dinar",
+    "object": "http://qudt.org/vocab/unit#IraqiDinar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Israeli_new_sheqel",
+    "object": "http://qudt.org/vocab/unit#NewIsraeliShekel"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Jamaican_dollar",
+    "object": "http://qudt.org/vocab/unit#JamaicanDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Japanese_yen",
+    "object": "http://qudt.org/vocab/unit#JapaneseYen"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Jordanian_dinar",
+    "object": "http://qudt.org/vocab/unit#JordanianDinar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Joule",
+    "object": "http://qudt.org/vocab/unit#Joule"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Katal",
+    "object": "http://qudt.org/vocab/unit#Katal"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kazakhstani_tenge",
+    "object": "http://qudt.org/vocab/unit#Tenge"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kelvin",
+    "object": "http://qudt.org/vocab/unit#Kelvin"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kenyan_shilling",
+    "object": "http://qudt.org/vocab/unit#KenyanShilling"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kilo",
+    "object": "http://qudt.org/vocab/unit#Kilo"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kilogram",
+    "object": "http://qudt.org/vocab/unit#Kilogram"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kilogram-force",
+    "object": "http://qudt.org/vocab/unit#KilogramForce"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kilometre",
+    "object": "http://qudt.org/vocab/unit#Kilometer"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kilometres_per_hour",
+    "object": "http://qudt.org/vocab/unit#KilometerPerHour"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kilowatt_hour",
+    "object": "http://qudt.org/vocab/unit#Kilowatthour"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kilowatt_hour",
+    "object": "http://qudt.org/vocab/unit#Watthour"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kina",
+    "object": "http://qudt.org/vocab/unit#Kina"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kip",
+    "object": "http://qudt.org/vocab/unit#Kip"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Knot",
+    "object": "http://qudt.org/vocab/unit#Knot"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Kuwaiti_dinar",
+    "object": "http://qudt.org/vocab/unit#KuwaitiDinar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Lambert",
+    "object": "http://qudt.org/vocab/unit#Lambert"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Lari",
+    "object": "http://qudt.org/vocab/unit#Lari"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Latvian_lats",
+    "object": "http://qudt.org/vocab/unit#LatvianLats"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Launch",
+    "object": "http://qudt.org/vocab/unit#Launch"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Lebanese_pound",
+    "object": "http://qudt.org/vocab/unit#LebanesePound"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Lek",
+    "object": "http://qudt.org/vocab/unit#Lek"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Lempira",
+    "object": "http://qudt.org/vocab/unit#Lempira"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Liberian_dollar",
+    "object": "http://qudt.org/vocab/unit#LiberianDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Libyan_dinar",
+    "object": "http://qudt.org/vocab/unit#LibyanDinar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Light-year",
+    "object": "http://qudt.org/vocab/unit#LightYear"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Lithuanian_litas",
+    "object": "http://qudt.org/vocab/unit#LithuanianLitas"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Litre",
+    "object": "http://qudt.org/vocab/unit#Liter"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Loti",
+    "object": "http://qudt.org/vocab/unit#Loti"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Lumen",
+    "object": "http://qudt.org/vocab/unit#Lumen"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Lux",
+    "object": "http://qudt.org/vocab/unit#Lux"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Macedonian_denar",
+    "object": "http://qudt.org/vocab/unit#Denar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Mach",
+    "object": "http://qudt.org/vocab/unit#Mach"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Malagasy_ariary",
+    "object": "http://qudt.org/vocab/unit#MalagasyAriary"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Malaysian_ringgit",
+    "object": "http://qudt.org/vocab/unit#MalaysianRinggit"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Maldivian_rufiyaa",
+    "object": "http://qudt.org/vocab/unit#Rufiyaa"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Maltese_lira",
+    "object": "http://qudt.org/vocab/unit#MalteseLira"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Manat",
+    "object": "http://qudt.org/vocab/unit#Manat"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Mauritanian_ouguiya",
+    "object": "http://qudt.org/vocab/unit#Ouguiya"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Mauritian_rupee",
+    "object": "http://qudt.org/vocab/unit#MauritiusRupee"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Maxwell",
+    "object": "http://qudt.org/vocab/unit#Maxwell"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Mega",
+    "object": "http://qudt.org/vocab/unit#Mega"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Metre",
+    "object": "http://qudt.org/vocab/unit#Femtometer"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Metre",
+    "object": "http://qudt.org/vocab/unit#Meter"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Mexican_peso",
+    "object": "http://qudt.org/vocab/unit#MexicanPeso"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Micro",
+    "object": "http://qudt.org/vocab/unit#Micro"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Micro-g_environment",
+    "object": "http://qudt.org/vocab/unit#Microgravity"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Micrometer",
+    "object": "http://qudt.org/vocab/unit#Micrometer"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Miles_per_hour",
+    "object": "http://qudt.org/vocab/unit#MilePerHour"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Milli-",
+    "object": "http://qudt.org/vocab/unit#Milli"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Millimetre",
+    "object": "http://qudt.org/vocab/unit#Millimeter"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Millisecond",
+    "object": "http://qudt.org/vocab/unit#MilliSecond"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Moldovan_leu",
+    "object": "http://qudt.org/vocab/unit#MoldovanLeu"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Mole_%28unit%29",
+    "object": "http://qudt.org/vocab/unit#Mole"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Mongolian_t%C3%B6gr%C3%B6g",
+    "object": "http://qudt.org/vocab/unit#Tugrik"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Moroccan_dirham",
+    "object": "http://qudt.org/vocab/unit#MoroccanDirham"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Mozambican_metical",
+    "object": "http://qudt.org/vocab/unit#Metical"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Myanma_kyat",
+    "object": "http://qudt.org/vocab/unit#Kyat"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Nakfa",
+    "object": "http://qudt.org/vocab/unit#Nakfa"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Namibian_dollar",
+    "object": "http://qudt.org/vocab/unit#NamibianDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Nano",
+    "object": "http://qudt.org/vocab/unit#Nano"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Nat",
+    "object": "http://qudt.org/vocab/unit#Nat"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Nepalese_rupee",
+    "object": "http://qudt.org/vocab/unit#NepaleseRupee"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Netherlands_Antillean_guilder",
+    "object": "http://qudt.org/vocab/unit#NetherlandsAntillianGuilder"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/New_Taiwan_dollar",
+    "object": "http://qudt.org/vocab/unit#NewTaiwanDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/New_Zealand_dollar",
+    "object": "http://qudt.org/vocab/unit#NewZealandDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Newton",
+    "object": "http://qudt.org/vocab/unit#Newton"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Newton_metre",
+    "object": "http://qudt.org/vocab/unit#NewtonMeter"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Nicaraguan_c%C3%B3rdoba",
+    "object": "http://qudt.org/vocab/unit#CordobaOro"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Nigerian_naira",
+    "object": "http://qudt.org/vocab/unit#Naira"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/North_Korean_won",
+    "object": "http://qudt.org/vocab/unit#NorthKoreanWon"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Norwegian_krone",
+    "object": "http://qudt.org/vocab/unit#NorwegianKrone"
   },
   {
     "sameAs": "http://dbpedia.org/resource/Number",
     "object": "http://qudt.org/vocab/unit#Number"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/1_E-6_s",
-    "object": "http://qudt.org/vocab/unit#MicroSecond"
+    "sameAs": "http://dbpedia.org/resource/Oersted",
+    "object": "http://qudt.org/vocab/unit#Oersted"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Bosnia_and_Herzegovina_convertible_mark",
-    "object": "http://qudt.org/vocab/unit#ConvertibleMark"
+    "sameAs": "http://dbpedia.org/resource/Ohm",
+    "object": "http://qudt.org/vocab/unit#Ohm"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/1_%28number%29",
-    "object": "http://qudt.org/vocab/unit#Unitless"
+    "sameAs": "http://dbpedia.org/resource/Omani_rial",
+    "object": "http://qudt.org/vocab/unit#OmaniRial"
   },
   {
-    "sameAs": "http://dbpedia.org/resource/Gravitation",
-    "object": "http://qudt.org/vocab/unit#Gravity"
+    "sameAs": "http://dbpedia.org/resource/Pakistani_rupee",
+    "object": "http://qudt.org/vocab/unit#PakistanRupee"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pascal",
+    "object": "http://qudt.org/vocab/unit#Pascal"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pascal_%28unit%29",
+    "object": "http://qudt.org/vocab/unit#KiloPascal"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pataca",
+    "object": "http://qudt.org/vocab/unit#Pataca"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pennyweight",
+    "object": "http://qudt.org/vocab/unit#PennyWeight"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Percentage",
+    "object": "http://qudt.org/vocab/unit#Percent"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Person",
+    "object": "http://qudt.org/vocab/unit#Person"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Peruvian_nuevo_sol",
+    "object": "http://qudt.org/vocab/unit#NuevoSol"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Peta",
+    "object": "http://qudt.org/vocab/unit#Peta"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Philippine_peso",
+    "object": "http://qudt.org/vocab/unit#PhilippinePeso"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Phot",
+    "object": "http://qudt.org/vocab/unit#Phot"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pica",
+    "object": "http://qudt.org/vocab/unit#Pica"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pico",
+    "object": "http://qudt.org/vocab/unit#Pico"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_angular_frequency",
+    "object": "http://qudt.org/vocab/unit#PlanckFrequency"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_current",
+    "object": "http://qudt.org/vocab/unit#PlanckCurrent"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_density",
+    "object": "http://qudt.org/vocab/unit#PlanckDensity"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_energy",
+    "object": "http://qudt.org/vocab/unit#PlanckEnergy"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_force",
+    "object": "http://qudt.org/vocab/unit#PlanckForce"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_length",
+    "object": "http://qudt.org/vocab/unit#PlanckLength"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_mass",
+    "object": "http://qudt.org/vocab/unit#PlanckMass"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_momentum",
+    "object": "http://qudt.org/vocab/unit#PlanckMomentum"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_power",
+    "object": "http://qudt.org/vocab/unit#PlanckPower"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_pressure",
+    "object": "http://qudt.org/vocab/unit#PlanckPressure"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Planck_time",
+    "object": "http://qudt.org/vocab/unit#PlanckTime"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Poise",
+    "object": "http://qudt.org/vocab/unit#Centipoise"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Poise",
+    "object": "http://qudt.org/vocab/unit#Poise"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Polish_z%C5%82oty",
+    "object": "http://qudt.org/vocab/unit#Zloty"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pound_per_hour",
+    "object": "http://qudt.org/vocab/unit#PoundPerHour"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pound_sterling",
+    "object": "http://qudt.org/vocab/unit#PoundSterling"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pound-force",
+    "object": "http://qudt.org/vocab/unit#PoundForce"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Poundal",
+    "object": "http://qudt.org/vocab/unit#Poundal"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pounds_per_square_inch",
+    "object": "http://qudt.org/vocab/unit#PoundForcePerSquareInch"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Pula",
+    "object": "http://qudt.org/vocab/unit#Pula"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Qatari_riyal",
+    "object": "http://qudt.org/vocab/unit#QatariRial"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Quad",
+    "object": "http://qudt.org/vocab/unit#Quad"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Quetzal",
+    "object": "http://qudt.org/vocab/unit#Quetzal"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/RAD",
+    "object": "http://qudt.org/vocab/unit#Rad"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Radian",
+    "object": "http://qudt.org/vocab/unit#Radian"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Radian_per_second",
+    "object": "http://qudt.org/vocab/unit#RadianPerMinute"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Relative_permeability",
+    "object": "http://qudt.org/vocab/unit#RelativePermeability"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Relative_static_permittivity",
+    "object": "http://qudt.org/vocab/unit#RelativePermittivity"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/REM",
+    "object": "http://qudt.org/vocab/unit#Rem"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Renminbi",
+    "object": "http://qudt.org/vocab/unit#YuanRenminbi"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Revolution",
+    "object": "http://qudt.org/vocab/unit#Revolution"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Riel",
+    "object": "http://qudt.org/vocab/unit#Riel"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Rod",
+    "object": "http://qudt.org/vocab/unit#Rod"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Roentgen",
+    "object": "http://qudt.org/vocab/unit#Roentgen"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Russian_ruble",
+    "object": "http://qudt.org/vocab/unit#RussianRuble"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Rwandan_franc",
+    "object": "http://qudt.org/vocab/unit#RwandaFranc"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Saint_Helena_pound",
+    "object": "http://qudt.org/vocab/unit#SaintHelenaPound"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Samoan_tala",
+    "object": "http://qudt.org/vocab/unit#SamoanTala"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Saudi_riyal",
+    "object": "http://qudt.org/vocab/unit#SaudiRiyal"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Second",
+    "object": "http://qudt.org/vocab/unit#SecondTime"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Serbian_dinar",
+    "object": "http://qudt.org/vocab/unit#SerbianDinar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Seychellois_rupee",
+    "object": "http://qudt.org/vocab/unit#SeychellesRupee"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Shake",
+    "object": "http://qudt.org/vocab/unit#Shake"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Siemens",
+    "object": "http://qudt.org/vocab/unit#Siemens"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Siemens_%28unit%29",
+    "object": "http://qudt.org/vocab/unit#Mho"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Sierra_Leonean_leone",
+    "object": "http://qudt.org/vocab/unit#Leone"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Sievert",
+    "object": "http://qudt.org/vocab/unit#Sievert"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Singapore_dollar",
+    "object": "http://qudt.org/vocab/unit#SingaporeDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Slovak_koruna",
+    "object": "http://qudt.org/vocab/unit#SlovakKoruna"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Slug",
+    "object": "http://qudt.org/vocab/unit#Slug"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Solomon_Islands_dollar",
+    "object": "http://qudt.org/vocab/unit#SolomonIslandsDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Som",
+    "object": "http://qudt.org/vocab/unit#Som"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Somali_shilling",
+    "object": "http://qudt.org/vocab/unit#SomaliShilling"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/South_African_rand",
+    "object": "http://qudt.org/vocab/unit#SouthAfricanRand"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/South_Korean_won",
+    "object": "http://qudt.org/vocab/unit#SouthKoreanWon"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Special_Drawing_Rights",
+    "object": "http://qudt.org/vocab/unit#SpecialDrawingRights"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Square_metre",
+    "object": "http://qudt.org/vocab/unit#SquareMeter"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Sri_Lankan_rupee",
+    "object": "http://qudt.org/vocab/unit#SriLankaRupee"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/St%C3%A8re",
+    "object": "http://qudt.org/vocab/unit#Stere"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Statcoulomb",
+    "object": "http://qudt.org/vocab/unit#Statcoulomb"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Statvolt",
+    "object": "http://qudt.org/vocab/unit#Statvolt"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Steradian",
+    "object": "http://qudt.org/vocab/unit#Steradian"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Stilb",
+    "object": "http://qudt.org/vocab/unit#Stilb"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Stokes",
+    "object": "http://qudt.org/vocab/unit#Stokes"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Sudanese_pound",
+    "object": "http://qudt.org/vocab/unit#SudanesePound"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Surinamese_dollar",
+    "object": "http://qudt.org/vocab/unit#SurinamDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Swazi_lilangeni",
+    "object": "http://qudt.org/vocab/unit#Lilangeni"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Swedish_krona",
+    "object": "http://qudt.org/vocab/unit#SwedishKrona"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Swiss_franc",
+    "object": "http://qudt.org/vocab/unit#SwissFranc"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Syrian_pound",
+    "object": "http://qudt.org/vocab/unit#SyrianPound"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Tablespoon",
+    "object": "http://qudt.org/vocab/unit#Tablespoon"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Tajikistani_somoni",
+    "object": "http://qudt.org/vocab/unit#Somoni"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Tanzanian_shilling",
+    "object": "http://qudt.org/vocab/unit#TanzanianShilling"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Teaspoon",
+    "object": "http://qudt.org/vocab/unit#Teaspoon"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Tera",
+    "object": "http://qudt.org/vocab/unit#Tera"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Tesla",
+    "object": "http://qudt.org/vocab/unit#Tesla"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Tex",
+    "object": "http://qudt.org/vocab/unit#Tex"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Thai_baht",
+    "object": "http://qudt.org/vocab/unit#Baht"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Thermal_conductivity",
+    "object": "http://qudt.org/vocab/unit#Clo"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Ton_of_refrigeration",
+    "object": "http://qudt.org/vocab/unit#TonOfRefrigeration"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Tongan_pa%CA%BBanga",
+    "object": "http://qudt.org/vocab/unit#Paanga"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Tonne",
+    "object": "http://qudt.org/vocab/unit#MetricTon"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Torr",
+    "object": "http://qudt.org/vocab/unit#MillimeterOfMercury"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Torr",
+    "object": "http://qudt.org/vocab/unit#Torr"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Trinidad_and_Tobago_dollar",
+    "object": "http://qudt.org/vocab/unit#TrinidadAndTobagoDollar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Tunisian_dinar",
+    "object": "http://qudt.org/vocab/unit#TunisianDinar"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Turkish_lira",
+    "object": "http://qudt.org/vocab/unit#NewTurkishLira"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Ugandan_shilling",
+    "object": "http://qudt.org/vocab/unit#UgandaShilling"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Ukrainian_hryvnia",
+    "object": "http://qudt.org/vocab/unit#Hryvnia"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/United_Arab_Emirates_dirham",
+    "object": "http://qudt.org/vocab/unit#UAEDirham"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Uruguayan_peso",
+    "object": "http://qudt.org/vocab/unit#UruguayPeso"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Uzbekistani_som",
+    "object": "http://qudt.org/vocab/unit#UzbekistanSom"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Vanuatu_vatu",
+    "object": "http://qudt.org/vocab/unit#Vatu"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Volt",
+    "object": "http://qudt.org/vocab/unit#Volt"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Watt",
+    "object": "http://qudt.org/vocab/unit#Kilowatt"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Watt",
+    "object": "http://qudt.org/vocab/unit#Watt"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Weber",
+    "object": "http://qudt.org/vocab/unit#Weber"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Yard",
+    "object": "http://qudt.org/vocab/unit#Yard"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Yemeni_rial",
+    "object": "http://qudt.org/vocab/unit#YemeniRial"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Yocto-",
+    "object": "http://qudt.org/vocab/unit#Yocto"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Yotta-",
+    "object": "http://qudt.org/vocab/unit#Yotta"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Zambian_kwacha",
+    "object": "http://qudt.org/vocab/unit#ZambianKwacha"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Zepto-",
+    "object": "http://qudt.org/vocab/unit#Zepto"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Zetta-",
+    "object": "http://qudt.org/vocab/unit#Zetta"
+  },
+  {
+    "sameAs": "http://dbpedia.org/resource/Zimbabwean_dollar",
+    "object": "http://qudt.org/vocab/unit#ZimbabweDollar"
   }
 ]

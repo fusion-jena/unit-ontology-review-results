@@ -6,75 +6,88 @@
     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
     "convOffset": 0,
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared",
-    "convFactor": "4046.85642"
+    "convFactor": "4046.8564"
    },
    {
     "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
     "convOffset": 0,
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared",
-    "convFactor": "4046.8564"
+    "convFactor": "4046.85642"
    }
   ]
  ],
  "OM": [
   [
    {
-    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
-    "convOffset": 0,
-    "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
-    "convFactor": 1000
-   },
-   {
     "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
     "convOffset": 0,
     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
     "convFactor": "1.0e-3"
+   },
+   {
+    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
+    "convOffset": 0,
+    "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
+    "convFactor": 1000
    }
   ]
  ],
  "OM2": [
   [
    {
-    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
-    "convOffset": 0,
-    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
-    "convFactor": 1000
-   },
-   {
     "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
     "convOffset": 0,
     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
     "convFactor": 0.001
+   },
+   {
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
+    "convOffset": 0,
+    "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
+    "convFactor": 1000
    }
   ]
  ],
  "QU": [],
  "QUDT": [],
  "SWEET": [],
+ "SWEET3": [],
  "UO": [],
  "WD": [
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q25932175",
-    "convFactor": "0.197",
-    "unit2": "http://www.wikidata.org/entity/Q25343"
+    "unit1": "http://www.wikidata.org/entity/Q1172583",
+    "convFactor": "16",
+    "unit2": "http://www.wikidata.org/entity/Q2121867"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q25932175",
-    "convFactor": "0.231",
-    "unit2": "http://www.wikidata.org/entity/Q25343"
+    "unit1": "http://www.wikidata.org/entity/Q2121867",
+    "convFactor": "0.0625",
+    "unit2": "http://www.wikidata.org/entity/Q1172583"
    }
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q16859309",
-    "convFactor": "1.355818",
-    "unit2": "http://www.wikidata.org/entity/Q215571"
+    "unit1": "http://www.wikidata.org/entity/Q1172583",
+    "convFactor": "4",
+    "unit2": "http://www.wikidata.org/entity/Q4514998"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q215571",
-    "convFactor": "0.737562",
-    "unit2": "http://www.wikidata.org/entity/Q16859309"
+    "unit1": "http://www.wikidata.org/entity/Q4514998",
+    "convFactor": "0.25",
+    "unit2": "http://www.wikidata.org/entity/Q1172583"
+   }
+  ],
+  [
+   {
+    "unit1": "http://www.wikidata.org/entity/Q12122300",
+    "convFactor": "2",
+    "unit2": "http://www.wikidata.org/entity/Q207733"
+   },
+   {
+    "unit1": "http://www.wikidata.org/entity/Q207733",
+    "convFactor": "0.5",
+    "unit2": "http://www.wikidata.org/entity/Q12122300"
    }
   ],
   [
@@ -96,22 +109,53 @@
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q1811",
-    "convFactor": "149597870691",
-    "unit2": "http://www.wikidata.org/entity/Q11573"
+    "unit1": "http://www.wikidata.org/entity/Q1434123",
+    "convFactor": "3.5516328125",
+    "unit2": "http://www.wikidata.org/entity/Q2332346"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q1811",
-    "convFactor": "149597870700",
-    "unit2": "http://www.wikidata.org/entity/Q11573"
+    "unit1": "http://www.wikidata.org/entity/Q1434123",
+    "convFactor": "3.6966911953125",
+    "unit2": "http://www.wikidata.org/entity/Q2332346"
    }
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q1645966",
-    "convFactor": "186",
-    "unit2": "http://www.wikidata.org/entity/Q11573"
+    "unit1": "http://www.wikidata.org/entity/Q1434123",
+    "convFactor": "60",
+    "unit2": "http://www.wikidata.org/entity/Q1637963"
    },
+   {
+    "unit1": "http://www.wikidata.org/entity/Q1637963",
+    "convFactor": "0.0166666",
+    "unit2": "http://www.wikidata.org/entity/Q1434123"
+   }
+  ],
+  [
+   {
+    "unit1": "http://www.wikidata.org/entity/Q1573593",
+    "convFactor": "20",
+    "unit2": "http://www.wikidata.org/entity/Q693944"
+   },
+   {
+    "unit1": "http://www.wikidata.org/entity/Q693944",
+    "convFactor": "0.05",
+    "unit2": "http://www.wikidata.org/entity/Q1573593"
+   }
+  ],
+  [
+   {
+    "unit1": "http://www.wikidata.org/entity/Q1637963",
+    "convFactor": "0.05919388388",
+    "unit2": "http://www.wikidata.org/entity/Q2332346"
+   },
+   {
+    "unit1": "http://www.wikidata.org/entity/Q1637963",
+    "convFactor": "0.0616115199219",
+    "unit2": "http://www.wikidata.org/entity/Q2332346"
+   }
+  ],
+  [
    {
     "unit1": "http://www.wikidata.org/entity/Q1645966",
     "convFactor": "177.3",
@@ -134,121 +178,49 @@
    },
    {
     "unit1": "http://www.wikidata.org/entity/Q1645966",
+    "convFactor": "186",
+    "unit2": "http://www.wikidata.org/entity/Q11573"
+   },
+   {
+    "unit1": "http://www.wikidata.org/entity/Q1645966",
     "convFactor": "192.28",
     "unit2": "http://www.wikidata.org/entity/Q11573"
    }
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q26267971",
-    "convFactor": "1.515",
+    "unit1": "http://www.wikidata.org/entity/Q16859309",
+    "convFactor": "1.355818",
+    "unit2": "http://www.wikidata.org/entity/Q215571"
+   },
+   {
+    "unit1": "http://www.wikidata.org/entity/Q215571",
+    "convFactor": "0.737562",
+    "unit2": "http://www.wikidata.org/entity/Q16859309"
+   }
+  ],
+  [
+   {
+    "unit1": "http://www.wikidata.org/entity/Q1811",
+    "convFactor": "149597870691",
     "unit2": "http://www.wikidata.org/entity/Q11573"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q26267971",
-    "convFactor": "1.818",
+    "unit1": "http://www.wikidata.org/entity/Q1811",
+    "convFactor": "149597870700",
     "unit2": "http://www.wikidata.org/entity/Q11573"
    }
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q483261",
-    "convFactor": "0.0000000000000000000000000016605388",
-    "unit2": "http://www.wikidata.org/entity/Q11570"
+    "unit1": "http://www.wikidata.org/entity/Q2018709",
+    "convFactor": "0.002",
+    "unit2": "http://www.wikidata.org/entity/Q207733"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q483261",
-    "convFactor": "0.00000000000000000000000000166053904",
-    "unit2": "http://www.wikidata.org/entity/Q11570"
-   }
-  ],
-  [
-   {
-    "unit1": "http://www.wikidata.org/entity/Q1434123",
-    "convFactor": "3.5516328125",
-    "unit2": "http://www.wikidata.org/entity/Q2332346"
-   },
-   {
-    "unit1": "http://www.wikidata.org/entity/Q1434123",
-    "convFactor": "3.6966911953125",
-    "unit2": "http://www.wikidata.org/entity/Q2332346"
-   }
-  ],
-  [
-   {
-    "unit1": "http://www.wikidata.org/entity/Q25395697",
-    "convFactor": "10",
-    "unit2": "http://www.wikidata.org/entity/Q4079241"
-   },
-   {
-    "unit1": "http://www.wikidata.org/entity/Q4079241",
-    "convFactor": "0.1",
-    "unit2": "http://www.wikidata.org/entity/Q25395697"
-   }
-  ],
-  [
-   {
-    "unit1": "http://www.wikidata.org/entity/Q1637963",
-    "convFactor": "0.05919388388",
-    "unit2": "http://www.wikidata.org/entity/Q2332346"
-   },
-   {
-    "unit1": "http://www.wikidata.org/entity/Q1637963",
-    "convFactor": "0.0616115199219",
-    "unit2": "http://www.wikidata.org/entity/Q2332346"
-   }
-  ],
-  [
-   {
-    "unit1": "http://www.wikidata.org/entity/Q25831005",
-    "convFactor": "0.26",
-    "unit2": "http://www.wikidata.org/entity/Q11582"
-   },
-   {
-    "unit1": "http://www.wikidata.org/entity/Q25831005",
-    "convFactor": "0.272",
-    "unit2": "http://www.wikidata.org/entity/Q11582"
-   }
-  ],
-  [
-   {
-    "unit1": "http://www.wikidata.org/entity/Q25909383",
-    "convFactor": "0.095",
-    "unit2": "http://www.wikidata.org/entity/Q35852"
-   },
-   {
-    "unit1": "http://www.wikidata.org/entity/Q25909383",
-    "convFactor": "0.0875",
-    "unit2": "http://www.wikidata.org/entity/Q35852"
-   },
-   {
-    "unit1": "http://www.wikidata.org/entity/Q25909383",
-    "convFactor": "0.1027",
-    "unit2": "http://www.wikidata.org/entity/Q35852"
-   }
-  ],
-  [
-   {
-    "unit1": "http://www.wikidata.org/entity/Q1434123",
-    "convFactor": "60",
-    "unit2": "http://www.wikidata.org/entity/Q1637963"
-   },
-   {
-    "unit1": "http://www.wikidata.org/entity/Q1637963",
-    "convFactor": "0.0166666",
-    "unit2": "http://www.wikidata.org/entity/Q1434123"
-   }
-  ],
-  [
-   {
-    "unit1": "http://www.wikidata.org/entity/Q25915415",
-    "convFactor": "0.5",
-    "unit2": "http://www.wikidata.org/entity/Q251545"
-   },
-   {
-    "unit1": "http://www.wikidata.org/entity/Q251545",
-    "convFactor": "2",
-    "unit2": "http://www.wikidata.org/entity/Q25915415"
+    "unit1": "http://www.wikidata.org/entity/Q207733",
+    "convFactor": "500",
+    "unit2": "http://www.wikidata.org/entity/Q2018709"
    }
   ],
   [
@@ -277,67 +249,67 @@
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q7235735",
-    "convFactor": "30.8",
-    "unit2": "http://www.wikidata.org/entity/Q174728"
+    "unit1": "http://www.wikidata.org/entity/Q23893259",
+    "convFactor": "100000",
+    "unit2": "http://www.wikidata.org/entity/Q23893296"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q7235735",
-    "convFactor": "29.57",
-    "unit2": "http://www.wikidata.org/entity/Q174728"
-   },
-   {
-    "unit1": "http://www.wikidata.org/entity/Q7235735",
-    "convFactor": "32.05",
-    "unit2": "http://www.wikidata.org/entity/Q174728"
+    "unit1": "http://www.wikidata.org/entity/Q23893296",
+    "convFactor": "0.00001",
+    "unit2": "http://www.wikidata.org/entity/Q23893259"
    }
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q12122300",
+    "unit1": "http://www.wikidata.org/entity/Q251545",
     "convFactor": "2",
-    "unit2": "http://www.wikidata.org/entity/Q207733"
+    "unit2": "http://www.wikidata.org/entity/Q25915415"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q207733",
+    "unit1": "http://www.wikidata.org/entity/Q25915415",
     "convFactor": "0.5",
-    "unit2": "http://www.wikidata.org/entity/Q12122300"
+    "unit2": "http://www.wikidata.org/entity/Q251545"
    }
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q4514998",
-    "convFactor": "0.25",
-    "unit2": "http://www.wikidata.org/entity/Q1172583"
+    "unit1": "http://www.wikidata.org/entity/Q25395697",
+    "convFactor": "10",
+    "unit2": "http://www.wikidata.org/entity/Q4079241"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q1172583",
-    "convFactor": "4",
-    "unit2": "http://www.wikidata.org/entity/Q4514998"
+    "unit1": "http://www.wikidata.org/entity/Q4079241",
+    "convFactor": "0.1",
+    "unit2": "http://www.wikidata.org/entity/Q25395697"
    }
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q207733",
-    "convFactor": "500",
-    "unit2": "http://www.wikidata.org/entity/Q2018709"
+    "unit1": "http://www.wikidata.org/entity/Q25831005",
+    "convFactor": "0.26",
+    "unit2": "http://www.wikidata.org/entity/Q11582"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q2018709",
-    "convFactor": "0.002",
-    "unit2": "http://www.wikidata.org/entity/Q207733"
+    "unit1": "http://www.wikidata.org/entity/Q25831005",
+    "convFactor": "0.272",
+    "unit2": "http://www.wikidata.org/entity/Q11582"
    }
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q1172583",
-    "convFactor": "16",
-    "unit2": "http://www.wikidata.org/entity/Q2121867"
+    "unit1": "http://www.wikidata.org/entity/Q25909383",
+    "convFactor": "0.0875",
+    "unit2": "http://www.wikidata.org/entity/Q35852"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q2121867",
-    "convFactor": "0.0625",
-    "unit2": "http://www.wikidata.org/entity/Q1172583"
+    "unit1": "http://www.wikidata.org/entity/Q25909383",
+    "convFactor": "0.095",
+    "unit2": "http://www.wikidata.org/entity/Q35852"
+   },
+   {
+    "unit1": "http://www.wikidata.org/entity/Q25909383",
+    "convFactor": "0.1027",
+    "unit2": "http://www.wikidata.org/entity/Q35852"
    }
   ],
   [
@@ -354,26 +326,55 @@
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q693944",
-    "convFactor": "0.05",
-    "unit2": "http://www.wikidata.org/entity/Q1573593"
+    "unit1": "http://www.wikidata.org/entity/Q25932175",
+    "convFactor": "0.197",
+    "unit2": "http://www.wikidata.org/entity/Q25343"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q1573593",
-    "convFactor": "20",
-    "unit2": "http://www.wikidata.org/entity/Q693944"
+    "unit1": "http://www.wikidata.org/entity/Q25932175",
+    "convFactor": "0.231",
+    "unit2": "http://www.wikidata.org/entity/Q25343"
    }
   ],
   [
    {
-    "unit1": "http://www.wikidata.org/entity/Q23893259",
-    "convFactor": "100000",
-    "unit2": "http://www.wikidata.org/entity/Q23893296"
+    "unit1": "http://www.wikidata.org/entity/Q26267971",
+    "convFactor": "1.515",
+    "unit2": "http://www.wikidata.org/entity/Q11573"
    },
    {
-    "unit1": "http://www.wikidata.org/entity/Q23893296",
-    "convFactor": "0.00001",
-    "unit2": "http://www.wikidata.org/entity/Q23893259"
+    "unit1": "http://www.wikidata.org/entity/Q26267971",
+    "convFactor": "1.818",
+    "unit2": "http://www.wikidata.org/entity/Q11573"
+   }
+  ],
+  [
+   {
+    "unit1": "http://www.wikidata.org/entity/Q483261",
+    "convFactor": "0.0000000000000000000000000016605388",
+    "unit2": "http://www.wikidata.org/entity/Q11570"
+   },
+   {
+    "unit1": "http://www.wikidata.org/entity/Q483261",
+    "convFactor": "0.00000000000000000000000000166053904",
+    "unit2": "http://www.wikidata.org/entity/Q11570"
+   }
+  ],
+  [
+   {
+    "unit1": "http://www.wikidata.org/entity/Q7235735",
+    "convFactor": "29.57",
+    "unit2": "http://www.wikidata.org/entity/Q174728"
+   },
+   {
+    "unit1": "http://www.wikidata.org/entity/Q7235735",
+    "convFactor": "30.8",
+    "unit2": "http://www.wikidata.org/entity/Q174728"
+   },
+   {
+    "unit1": "http://www.wikidata.org/entity/Q7235735",
+    "convFactor": "32.05",
+    "unit2": "http://www.wikidata.org/entity/Q174728"
    }
   ]
  ]

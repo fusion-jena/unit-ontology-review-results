@@ -1,0 +1,1958 @@
+[
+  {
+    "quantKind": "http://sweetontology.net/prop/AngularMotionProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/AngularMotionProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/BiologicalProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Biology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ChemicalProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/FluidProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/GeologicalProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Geology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/HydrogeologicalProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Geology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/HydrogeologicalProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Hydrology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/RadiationMediumInteractionProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ReactionProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/WaveProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propBinary/Polarity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/Capacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/CoefficientOfHeatTransfer",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/CoefficientOfHeatTransfer",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/CoefficientOfThermalExpansion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/CoefficientOfThermalExpansion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/HeatCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/HeatCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/LinearThermalExpansion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/LinearThermalExpansion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/MolarHeatCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/MolarHeatCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/SpecificHeat",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/SpecificHeat",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/VolumetricHeatCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/VolumetricHeatCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/VolumetricThermalExpansion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/VolumetricThermalExpansion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Capacitance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/CationExchangeCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Charge",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ChargeDistribution",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/DielectricConstant",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricCharge",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricChargeDensity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricCurrent",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricCurrentDensity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricDipoleMoment",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricFieldStrength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricFluxDensity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricPotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ExchangeCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Inductance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticDipoleMoment",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFieldStrength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFlux",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFluxDensity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticMoment",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagnetiGradient",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Permeability",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Permittivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Abundance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Acidity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Alkalinity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/CarbonateAlkalinity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Composition",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Constituent",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/HplusConcentration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/IonComposition",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/pH",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Purity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Reactivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Solubility",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/TotalAlkalinity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Conductance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Conductivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/ElectricalConductivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/HallConductivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/HydraulicConductivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Impedance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/PedersenConductivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Resistance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Resistivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/SpecificConductance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/ThermalConductivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/ThermalConductivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDifference/Amplitude",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Confluence",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Diffluence",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Diffusivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/DiffusivityQuantity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/EddyDiffusivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/KinematicViscosity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/ThermalDiffusivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/ThermalDiffusivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Transmissivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/VelocityPotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/BindingEnergy",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/ChemicalEnergy",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Enthalpy",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Geopotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/GibbsFreeEnergy",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/GravitationalPotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Heat",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Heat",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/IonizationEnergy",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/KineticEnergy",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/KineticEnergy",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/LatentHeat",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/LatentHeat",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Luminosity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/MatricPotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/SensibleHeat",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/SensibleHeat",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/ThermochemicalEnergy",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/TotalSoilWaterPotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Geology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/TotalSoilWaterPotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Hydrology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/AbsorbedSolarRadiation",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Brightness",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/BulkHeatFlux",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/BulkHeatFlux",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Insolation",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Irradiance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Luminance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/LuminousIntensity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Opacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Radiance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/SolarRadiation",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/SpectralRadiance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/ThermalFlux",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/ThermalFlux",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Absorptance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Absorptivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/AirSpaceRatio",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Albedo",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/AvailableWaterCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Bioavailability",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Biology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/BondAlbedo",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/DifferentialWaterCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/EffectivePorosity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Emissivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Porosity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Reflectance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Reflectivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Refractivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Transmittance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Transparency",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/WaterHoldingCapacity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/CropMoistureIndex",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Biology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/HealthIndex",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Biology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/PhysiologicalParameter",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Biology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/PsychologicalParameter",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Biology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/StorageCoefficient",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Geology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/StorageCoefficient",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Hydrology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/Turbidity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/Virulence",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Biology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/VitalStatistics",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Biology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Consistence",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/ConsistenceProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Ductibility",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Elasticity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Flexure",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Hardness",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Malleability",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/MaterialProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/OpticalMass",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Plasticity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Roughness",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Softness",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Solidity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/SolidProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/StrengthProperty",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Structure",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Texture",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/ElectromagneticSpectrum",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/FlareClass",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/SpectralBand",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propOrdinal/SpectralLine",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/BulkModulus",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Compressibility",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/CompressiveStrength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/PressureGradient",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/ShearModulus",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Stiffness",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Strength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/SurfaceTension",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/TensileStrength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Viscosity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/YoungsModulus",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/BiologicalQuantity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Biology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ChemicalQuantity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Chemistry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/FieldStrength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Potential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScalarPotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorPotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularAcceleration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularAcceleration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularMomentum",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularMomentum",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/CoriolisParameter",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Enstrophy",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Enstrophy",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/ErtelPotentialVorticity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/ErtelPotentialVorticity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Gyrofrequency",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/MomentOfInertia",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/MomentOfInertia",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/PotentialVorticity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/PotentialVorticity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Spin",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Spin",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Torque",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Torque",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/DebyeLength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/DispersionCoeffienct",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Dispersivity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Distance",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/ExtinctionCoefficient",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Fetch",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/GrainSize",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Gyroradius",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Length",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/MeanFreePath",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/MeanFreePath",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/MixingLength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/ObukhovLength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/PulseLength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Range",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/RossbyRadiusOfDeformation",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/ScatteringCoefficient",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/SpatialFrequency",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Visibility",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength_cm",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength_nm",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/WaveNumber",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Altitude",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/BarometricAltitude",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Crest",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/DampingDepth",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Depth",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Drawdown",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/DynamicTopography",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Elevation",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/FlightLevel",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Freeboard",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/GeopotentialHeight",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Height",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/MixingHeight",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/ScaleHeight",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SeaState",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SecchiDepth",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SignificantHeight",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SkinDepth",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/TopographicProminence",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Topography",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/RadarCrossSection",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/AverageAnnualPrecipitation",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/AverageDrySeasonPrecipitation",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/AverageMonthlyPrecipitation",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/EquivalentThickness",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Evapotranspiration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/FluidHead",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/GaugeHeight",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/HalfPotentialEvapotranspiration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/HydraulicHead",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/LakeStage",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/LiquidWaterEquivalent",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/OpticalDepth",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PotentialEvapotranspiration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitableWater",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Precipitation",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitationRange",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitationRange_cm",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PressureThickness",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/SnowCover",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Snowpack",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/SnowWaterEquivalent",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/StageHeight",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/StaticHead",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/StreamStage",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Thickness",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/TotalHead",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/WaterContent",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/WaterHeight",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Acceleration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Acceleration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Airspeed",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Airspeed",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/AlfvenVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/AlfvenVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/DopplerVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/DopplerVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Drift",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Drift",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/EscapeVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/EscapeVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/GroundSpeed",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/GroundSpeed",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/GroupVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/GroupVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Inertia",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Inertia",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/IonVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/IonVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/MagnetiCurvatureDrift",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/MagnetiCurvatureDrift",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Momentum",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Momentum",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/NeutralVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/NeutralVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Omega",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Omega",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/PhaseVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/PhaseVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/ProperMotion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/ProperMotion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/RadialVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/RadialVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/SeepageVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/SeepageVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Geology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/SeepageVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Hydrology"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/SeepageVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Speed",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Speed",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/TangentialAcceleration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/TangentialAcceleration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/TerminalVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/TerminalVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/ThermalVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/ThermalVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Velocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Velocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/VerticalVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/VerticalVelocity",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/WindShear",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/WindSpeed",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Dynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/WindSpeed",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/AntennaTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/AntennaTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/BoilingPoint",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/BoilingPoint",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/BrightnessTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/BrightnessTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/ColdestMonthTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/ColdestMonthTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DewPoint",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DewPoint",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DewPointDepression",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DewPointDepression",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DryBulbTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DryBulbTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EffectiveTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EffectiveTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/ElectronTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/ElectronTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EquivalentPotentialTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EquivalentPotentialTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EquivalentTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EquivalentTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/GlobalWarmingPotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/GlobalWarmingPotential",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/IonTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/IonTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/KineticTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/KineticTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeanAnnualTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeanAnnualTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeanMonthlyTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeanMonthlyTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeltingPoint",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeltingPoint",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/NeutralTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/NeutralTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PotentialTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PotentialTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PseudoEquivalentPotentialTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PseudoEquivalentPotentialTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PseudoEquivalentTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PseudoEquivalentTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/StaticTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/StaticTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/Temperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/Temperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/TotalTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/TotalTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/TriplePoint",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/TriplePoint",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/VirtualPotentialTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/VirtualPotentialTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/VirtualTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/VirtualTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WarmestMonthTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WarmestMonthTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WetBulbPotentialTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WetBulbPotentialTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WetBulbTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WetBulbTemperature",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WindChillIndex",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WindChillIndex",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/AutoConvectiveLapseRate",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/AutoConvectiveLapseRate",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/DryAdiabaticLapseRate",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/DryAdiabaticLapseRate",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/EnvironmentalLapseRate",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/EnvironmentalLapseRate",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/LapseRate",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/LapseRate",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureDepthDerivative",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureDepthDerivative",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureGradient",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureGradient",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureHeightDerivative",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureHeightDerivative",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/ThermalProfile",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/ThermalProfile",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/Time",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Bandwidth",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/BruntVaisalaFrequency",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Cadence",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Frequency",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Incidence",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/ArmoredRelictInclusion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/ArmouredRelictCrystal",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Chadacryst",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/ClastSupportingOrthomatrix",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Clot",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Corona",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/CorrosionRim",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/CrystallineFramework",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Dropstone",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Epimatrix",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/FloatingClast",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/GranularFramework",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Groundmass",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Inclusion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/InterstitialConstituent",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Irregular",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/KelyphiticRim",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Layer",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Matrix",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Megacryst",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Oikocryst",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Orthomatrix",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Overgrowth",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/ParticulateConstituent",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Phenoclast",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Phenocryst",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Porphyroblast",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Porphyroclast",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Protomatrix",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Pseudomatrix",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/RockConstituent",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/SedimentaryRockCement",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/SmallConcretion",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/StructuralConfiguration",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Vein",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmGeolConstituent/Vug",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmLandVolcanic/Geothermal",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmLandVolcanic/Geothermal",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Thermodynamics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFeature/OceanDepth",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/Austral",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/Borealis",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/LatitudeBand",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/LatitudeLine",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/NorthernHemisphere",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/NorthLatitudeBand",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/NorthLatitudeLine",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/SouthernHemisphere",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/SouthLatitudeBand",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/SouthLatitudeLine",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprTimeSeason/ColdestMonth",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprTimeSeason/WarmestMonth",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateEnergyFlux/AClass",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateEnergyFlux/BClass",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateEnergyFlux/CClass",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateEnergyFlux/MClass",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateEnergyFlux/XClass",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpectralBand/Bolometric",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpectralBand/BroadSpectrum",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpectralBand/Monochromatic",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpectralBand/NarrowSpectrum",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  },
+  {
+    "quantKind": "http://sweetontology.net/stateSpectralBand/Polychromatic",
+    "appField": "http://sweetontology.net/humanKnowledgeDomain/Physics"
+  }
+]

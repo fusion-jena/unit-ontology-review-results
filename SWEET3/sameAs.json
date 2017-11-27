@@ -1,0 +1,2814 @@
+[
+  {
+    "sameAs": "http://sweetontology.net/humanAgriculture/Beekeeping",
+    "object": "http://sweetontology.net/humanAgriculture/Apiculture"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanCommerce/OnSite",
+    "object": "http://sweetontology.net/humanCommerce/InSitu"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanCommerce/ResourceExtraction",
+    "object": "http://sweetontology.net/humanCommerce/Extraction"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanDecision/DecisionSupportSystem",
+    "object": "http://sweetontology.net/humanDecision/DSS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanDecision/Optimize",
+    "object": "http://sweetontology.net/humanDecision/Optimization"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirAssessment/CarbonNeutrality",
+    "object": "http://sweetontology.net/humanEnvirAssessment/CarbonNeutral"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirAssessment/ContinousEmissionMonitoringSystem",
+    "object": "http://sweetontology.net/humanEnvirAssessment/CEMS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirAssessment/HealthRiskAssessment",
+    "object": "http://sweetontology.net/humanEnvirAssessment/HRA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirAssessment/NewSourceReview",
+    "object": "http://sweetontology.net/humanEnvirAssessment/NSR"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirAssessment/NoObservedAdverseEffectLevel",
+    "object": "http://sweetontology.net/humanEnvirAssessment/NOAEL"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirAssessment/NoObservedEffectLevel",
+    "object": "http://sweetontology.net/humanEnvirAssessment/NOEL"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirAssessment/UnitRiskFactor",
+    "object": "http://sweetontology.net/humanEnvirAssessment/URF"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirConservation/Sustainable",
+    "object": "http://sweetontology.net/humanEnvirConservation/Sustainability"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirControl/BestAvailablControlTechnology",
+    "object": "http://sweetontology.net/humanEnvirControl/BACT"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirControl/MaximumAchievableControlTechnology",
+    "object": "http://sweetontology.net/humanEnvirControl/MACT"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/AcceptableDailyIntake",
+    "object": "http://sweetontology.net/humanEnvirStandards/ADI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/AirborneToxicControlMeasure",
+    "object": "http://sweetontology.net/humanEnvirStandards/ATCM"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/AmbientAirQualityStandard",
+    "object": "http://sweetontology.net/humanEnvirStandards/AAQS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/EnvironmentalProtectionAgency",
+    "object": "http://sweetontology.net/humanEnvirStandards/EPA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/FederalCleanAirAct",
+    "object": "http://sweetontology.net/humanEnvirStandards/FCAA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/FishAndWildlifeService",
+    "object": "http://sweetontology.net/humanEnvirStandards/FWS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/MarineLifeManagementAct",
+    "object": "http://sweetontology.net/humanEnvirStandards/MLMA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/NationalEmissionStandardsForHazardousAirPollutant",
+    "object": "http://sweetontology.net/humanEnvirStandards/NESHAP"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/NationalEnvironmentalProtectionAct",
+    "object": "http://sweetontology.net/humanEnvirStandards/NEPA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/NationalForestManagementAct",
+    "object": "http://sweetontology.net/humanEnvirStandards/NFMA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/NationalForestService",
+    "object": "http://sweetontology.net/humanEnvirStandards/NFS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/NewSourcePerformanceStandard",
+    "object": "http://sweetontology.net/humanEnvirStandards/NSPS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/PollutantStandardsIndex",
+    "object": "http://sweetontology.net/humanEnvirStandards/PSI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/PreventionOfSignificantDeteriorization",
+    "object": "http://sweetontology.net/humanEnvirStandards/PSD"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/ReferenceExposureConcentration",
+    "object": "http://sweetontology.net/humanEnvirStandards/REC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/ReferenceExposureLevel",
+    "object": "http://sweetontology.net/humanEnvirStandards/REL"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/ResourceConservationAndRecoveryAct",
+    "object": "http://sweetontology.net/humanEnvirStandards/RCRA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanEnvirStandards/RfD",
+    "object": "http://sweetontology.net/humanEnvirStandards/ReferenceDose"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanJurisdiction/Civilian",
+    "object": "http://sweetontology.net/humanJurisdiction/Civil"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanJurisdiction/CombinedStatisticalArea",
+    "object": "http://sweetontology.net/humanJurisdiction/CSA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanJurisdiction/FederalGoverningBody",
+    "object": "http://sweetontology.net/humanJurisdiction/Federal"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanJurisdiction/MetropolitanStatisticalArea",
+    "object": "http://sweetontology.net/humanJurisdiction/MSA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanJurisdiction/SpecialAdministrationRegion",
+    "object": "http://sweetontology.net/humanJurisdiction/SAR"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanJurisdiction/StandardMetropolitanStatisticalArea",
+    "object": "http://sweetontology.net/humanJurisdiction/SMSA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanKnowledgeDomain/Geodetics",
+    "object": "http://sweetontology.net/humanKnowledgeDomain/Geodesy"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanKnowledgeDomain/GeodeticScience",
+    "object": "http://sweetontology.net/humanKnowledgeDomain/Geodesy"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanKnowledgeDomain/Oceanography",
+    "object": "http://sweetontology.net/humanKnowledgeDomain/MarineScience"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanKnowledgeDomain/Planetology",
+    "object": "http://sweetontology.net/humanKnowledgeDomain/PlanetaryScience"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanResearch/Investigation",
+    "object": "http://sweetontology.net/humanResearch/Investigate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanResearch/Monitoring",
+    "object": "http://sweetontology.net/humanResearch/Monitor"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanResearch/Observe",
+    "object": "http://sweetontology.net/humanResearch/Observation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanTechReadiness/TechnologyReadinessLevel",
+    "object": "http://sweetontology.net/humanTechReadiness/TRL"
+  },
+  {
+    "sameAs": "http://sweetontology.net/humanTransportation/FederalAviationAdministration",
+    "object": "http://sweetontology.net/humanTransportation/FAA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matr/BiodegradableDissolvedOrganicCarbon",
+    "object": "http://sweetontology.net/matr/BDOC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matr/ChemicalSubstance",
+    "object": "http://sweetontology.net/matr/Chemical"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matr/DissolvedOrganicCarbon",
+    "object": "http://sweetontology.net/matr/DOC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matr/DissolvedOxygen",
+    "object": "http://sweetontology.net/matr/DO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matr/InorganicSubstance",
+    "object": "http://sweetontology.net/matr/Inorganic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matr/Mixture",
+    "object": "http://sweetontology.net/matr/MixedChemicalSubstance"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrAerosol/CloudCondensationNuclei",
+    "object": "http://sweetontology.net/matrAerosol/CCN"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrAerosol/Soot",
+    "object": "http://sweetontology.net/matrAerosol/BlackCarbon"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrBiomass/IndicatorSpecies",
+    "object": "http://sweetontology.net/matrBiomass/Bioindicator"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/BromineChloride",
+    "object": "http://sweetontology.net/matrCompound/BrCl"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/BromineMonoxide",
+    "object": "http://sweetontology.net/matrCompound/BrO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/BromineNitrate",
+    "object": "http://sweetontology.net/matrCompound/BrNO3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/CarbonDioxide",
+    "object": "http://sweetontology.net/matrCompound/CO2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/CarbonMonoxide",
+    "object": "http://sweetontology.net/matrCompound/CO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/CarbonylSulfide",
+    "object": "http://sweetontology.net/matrCompound/COS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/ClO",
+    "object": "http://sweetontology.net/matrCompound/ChlorineMonoxide"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/ClO2",
+    "object": "http://sweetontology.net/matrCompound/ChlorineDioxide"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/ClONO2",
+    "object": "http://sweetontology.net/matrCompound/ChlorineNitrate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/Compound",
+    "object": "http://sweetontology.net/matrCompound/ChemicalCompound"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/DichlorinePeroxide",
+    "object": "http://sweetontology.net/matrCompound/Cl2O2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/H2CO3",
+    "object": "http://sweetontology.net/matrCompound/CarbonicAcid"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/Hematite",
+    "object": "http://sweetontology.net/matrCompound/Fe2.3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/HydrobromousAcid",
+    "object": "http://sweetontology.net/matrCompound/HBrO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/HydrochlorousAcid",
+    "object": "http://sweetontology.net/matrCompound/HOCl"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/HydrogenBromide",
+    "object": "http://sweetontology.net/matrCompound/HBr"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/HydrogenFluoride",
+    "object": "http://sweetontology.net/matrCompound/HF"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/HydrogenOxides",
+    "object": "http://sweetontology.net/matrCompound/HOx"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/HydrogenPeroxide",
+    "object": "http://sweetontology.net/matrCompound/H2O2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/Hydroperoxyl",
+    "object": "http://sweetontology.net/matrCompound/HO2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/HypochlorousAcid",
+    "object": "http://sweetontology.net/matrCompound/HClO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/IronOxide",
+    "object": "http://sweetontology.net/matrCompound/Fe2.3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/Magnetite",
+    "object": "http://sweetontology.net/matrCompound/Fe3O4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/N2O5",
+    "object": "http://sweetontology.net/matrCompound/DinitrogenPentoxide"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/NH3",
+    "object": "http://sweetontology.net/matrCompound/Ammonia"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/NitrateRadical",
+    "object": "http://sweetontology.net/matrCompound/NO3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/NitricAcid",
+    "object": "http://sweetontology.net/matrCompound/HNO3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/NitricAcidTrihydrate",
+    "object": "http://sweetontology.net/matrCompound/NAT"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/NitricOxide",
+    "object": "http://sweetontology.net/matrCompound/NO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/NitrogenDioxide",
+    "object": "http://sweetontology.net/matrCompound/NO2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/NitrogenMonoxide",
+    "object": "http://sweetontology.net/matrCompound/NO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/NitrogenOxide",
+    "object": "http://sweetontology.net/matrCompound/NOx"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/NitrousAcid",
+    "object": "http://sweetontology.net/matrCompound/HNO2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/NitrousOxide",
+    "object": "http://sweetontology.net/matrCompound/N2O"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/OH",
+    "object": "http://sweetontology.net/matrCompound/Hydroxyl"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/PerchloricAcid",
+    "object": "http://sweetontology.net/matrCompound/HClO4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/PeroxynitricAcid",
+    "object": "http://sweetontology.net/matrCompound/HNO4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/Phosphate",
+    "object": "http://sweetontology.net/matrCompound/PO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/Rust",
+    "object": "http://sweetontology.net/matrCompound/Fe2.3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/Salt",
+    "object": "http://sweetontology.net/matrCompound/NaCl"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/Silica",
+    "object": "http://sweetontology.net/matrCompound/SiO2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/SiliconDioxide",
+    "object": "http://sweetontology.net/matrCompound/SiO2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/Sulfate",
+    "object": "http://sweetontology.net/matrCompound/SO4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/SulfurDioxide",
+    "object": "http://sweetontology.net/matrCompound/SO2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/SulfuricAcid",
+    "object": "http://sweetontology.net/matrCompound/H2SO4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/SulfurOxide",
+    "object": "http://sweetontology.net/matrCompound/SOx"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrCompound/Water",
+    "object": "http://sweetontology.net/matrCompound/H2O"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Aluminum",
+    "object": "http://sweetontology.net/matrElement/Al"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Argon",
+    "object": "http://sweetontology.net/matrElement/Ar"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/As",
+    "object": "http://sweetontology.net/matrElement/Arsenic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Beryllium",
+    "object": "http://sweetontology.net/matrElement/Be"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Boron",
+    "object": "http://sweetontology.net/matrElement/B"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Bromine",
+    "object": "http://sweetontology.net/matrElement/Br"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Calcium",
+    "object": "http://sweetontology.net/matrElement/Ca"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Carbon",
+    "object": "http://sweetontology.net/matrElement/C"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Cd",
+    "object": "http://sweetontology.net/matrElement/Cadmium"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Chromium",
+    "object": "http://sweetontology.net/matrElement/Ch"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Cl",
+    "object": "http://sweetontology.net/matrElement/Chlorine"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Cu",
+    "object": "http://sweetontology.net/matrElement/Copper"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Element",
+    "object": "http://sweetontology.net/matrElement/ChemicalElement"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Fluorine",
+    "object": "http://sweetontology.net/matrElement/F"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Halogen",
+    "object": "http://sweetontology.net/matrElement/Ha"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Helium",
+    "object": "http://sweetontology.net/matrElement/He"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Hydrogen",
+    "object": "http://sweetontology.net/matrElement/H"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Iodine",
+    "object": "http://sweetontology.net/matrElement/I"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Iron",
+    "object": "http://sweetontology.net/matrElement/Fe"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Lithium",
+    "object": "http://sweetontology.net/matrElement/Li"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Mercury",
+    "object": "http://sweetontology.net/matrElement/Hg"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Mg",
+    "object": "http://sweetontology.net/matrElement/Magnesium"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Mn",
+    "object": "http://sweetontology.net/matrElement/Manganese"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Molybdenum",
+    "object": "http://sweetontology.net/matrElement/Mo"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Neon",
+    "object": "http://sweetontology.net/matrElement/Ne"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Nitrogen",
+    "object": "http://sweetontology.net/matrElement/N"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Oxygen",
+    "object": "http://sweetontology.net/matrElement/O"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Pb",
+    "object": "http://sweetontology.net/matrElement/Lead"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Phosphorus",
+    "object": "http://sweetontology.net/matrElement/P"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Potassium",
+    "object": "http://sweetontology.net/matrElement/K"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Rn",
+    "object": "http://sweetontology.net/matrElement/Radon"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Sb",
+    "object": "http://sweetontology.net/matrElement/Antimony"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Silicon",
+    "object": "http://sweetontology.net/matrElement/Si"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Sodium",
+    "object": "http://sweetontology.net/matrElement/Na"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Sulfur",
+    "object": "http://sweetontology.net/matrElement/S"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Thorium",
+    "object": "http://sweetontology.net/matrElement/Th"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElement/Zinc",
+    "object": "http://sweetontology.net/matrElement/Zi"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElementalMolecule/O2",
+    "object": "http://sweetontology.net/matrElementalMolecule/MolecularOxygen"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrElementalMolecule/Ozone",
+    "object": "http://sweetontology.net/matrElementalMolecule/O3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrEquipment/Communications",
+    "object": "http://sweetontology.net/matrEquipment/Communication"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrEquipment/Reception",
+    "object": "http://sweetontology.net/matrEquipment/Receive"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrEquipment/Transmit",
+    "object": "http://sweetontology.net/matrEquipment/Transmission"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrInstrument/GlobalPositioningSystem",
+    "object": "http://sweetontology.net/matrInstrument/GPS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrInstrument/Instrument",
+    "object": "http://sweetontology.net/matrInstrument/Device"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIon/Carbonate",
+    "object": "http://sweetontology.net/matrIon/CO3minusminus"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIon/HCO3minus",
+    "object": "http://sweetontology.net/matrIon/Bicarbonite"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIon/HydrogenCarbonate",
+    "object": "http://sweetontology.net/matrIon/HCO3minus"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIon/NH4plus",
+    "object": "http://sweetontology.net/matrIon/Ammonium"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIon/Nitrate",
+    "object": "http://sweetontology.net/matrIon/NO3minus"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIon/Nitrite",
+    "object": "http://sweetontology.net/matrIon/NO2minus"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIsotope/H2",
+    "object": "http://sweetontology.net/matrIsotope/D"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIsotope/H2",
+    "object": "http://sweetontology.net/matrIsotope/Deuterium"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIsotope/Radioisotope",
+    "object": "http://sweetontology.net/matrIsotope/Nuclide"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIsotope/Radionuclide",
+    "object": "http://sweetontology.net/matrIsotope/Radioisotope"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIsotope/T",
+    "object": "http://sweetontology.net/matrIsotope/H3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrIsotope/Tritium",
+    "object": "http://sweetontology.net/matrIsotope/H3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrMicrobiota/Algal",
+    "object": "http://sweetontology.net/matrMicrobiota/Algae"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrNaturalResource/Petroleum",
+    "object": "http://sweetontology.net/matrNaturalResource/CrudeOil"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/C12H10",
+    "object": "http://sweetontology.net/matrOrganicCompound/Acenaphthene"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/C12H8",
+    "object": "http://sweetontology.net/matrOrganicCompound/Acenaphthylene"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/C2F4Br2",
+    "object": "http://sweetontology.net/matrOrganicCompound/C2Br2F4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/C3H4O",
+    "object": "http://sweetontology.net/matrOrganicCompound/Acrolein"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/C4H10",
+    "object": "http://sweetontology.net/matrOrganicCompound/Butane"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/C6H6",
+    "object": "http://sweetontology.net/matrOrganicCompound/Benzene"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/C6H6",
+    "object": "http://sweetontology.net/matrOrganicCompound/Benzol"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/CalciumCarbonate",
+    "object": "http://sweetontology.net/matrOrganicCompound/CaCO3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/CarbonTetrafluoride",
+    "object": "http://sweetontology.net/matrOrganicCompound/CF4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/CarbonTetrafluoromethane",
+    "object": "http://sweetontology.net/matrOrganicCompound/CF4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/CH2CHCN",
+    "object": "http://sweetontology.net/matrOrganicCompound/Acrylonitrile"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/CH3CN",
+    "object": "http://sweetontology.net/matrOrganicCompound/Acetonitrile"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Chlorofluorocarbon",
+    "object": "http://sweetontology.net/matrOrganicCompound/CFC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Dibromotetrafluoroethane",
+    "object": "http://sweetontology.net/matrOrganicCompound/C2Br2F4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Dichlorodifluoromethane",
+    "object": "http://sweetontology.net/matrOrganicCompound/CCl2F2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/DimethylSulfide",
+    "object": "http://sweetontology.net/matrOrganicCompound/C2H6S"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/DMS",
+    "object": "http://sweetontology.net/matrOrganicCompound/C2H6S"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Ethane",
+    "object": "http://sweetontology.net/matrOrganicCompound/C2H6"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/EthanoicAcid",
+    "object": "http://sweetontology.net/matrOrganicCompound/CH3COOH"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Ethanol",
+    "object": "http://sweetontology.net/matrOrganicCompound/C2H6O"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Ethene",
+    "object": "http://sweetontology.net/matrOrganicCompound/C2H4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Fluorocarbon",
+    "object": "http://sweetontology.net/matrOrganicCompound/FC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Formaldehyde",
+    "object": "http://sweetontology.net/matrOrganicCompound/CH2O"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/FormicAcid",
+    "object": "http://sweetontology.net/matrOrganicCompound/CH2O2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Freon12",
+    "object": "http://sweetontology.net/matrOrganicCompound/CCl2F2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Freon14",
+    "object": "http://sweetontology.net/matrOrganicCompound/CF4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/GasHydrate",
+    "object": "http://sweetontology.net/matrOrganicCompound/ClathrateHydrate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Halon1202",
+    "object": "http://sweetontology.net/matrOrganicCompound/CBrF2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Halon1211",
+    "object": "http://sweetontology.net/matrOrganicCompound/CF2ClBr"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Halon1301",
+    "object": "http://sweetontology.net/matrOrganicCompound/CBrF3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Halon2402",
+    "object": "http://sweetontology.net/matrOrganicCompound/C2Br2F4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Hexachlorocyclohexane",
+    "object": "http://sweetontology.net/matrOrganicCompound/HCH"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Hydrocarbon",
+    "object": "http://sweetontology.net/matrOrganicCompound/HC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Hydrochlorofluorocarbon",
+    "object": "http://sweetontology.net/matrOrganicCompound/HCFC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/HydrogenCyanide",
+    "object": "http://sweetontology.net/matrOrganicCompound/HCN"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Isoprene",
+    "object": "http://sweetontology.net/matrOrganicCompound/C5H8"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Methane",
+    "object": "http://sweetontology.net/matrOrganicCompound/CH4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/MethaneHydrate",
+    "object": "http://sweetontology.net/matrOrganicCompound/MethaneClathrate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/MethaneIce",
+    "object": "http://sweetontology.net/matrOrganicCompound/MethaneClathrate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/MethanoicAcid",
+    "object": "http://sweetontology.net/matrOrganicCompound/CH2O2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/MethylCyanide",
+    "object": "http://sweetontology.net/matrOrganicCompound/CH3CN"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/MethylTertButylEther",
+    "object": "http://sweetontology.net/matrOrganicCompound/C5H12O"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/MTBE",
+    "object": "http://sweetontology.net/matrOrganicCompound/C5H12O"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/NonMethaneHydrocarbon",
+    "object": "http://sweetontology.net/matrOrganicCompound/NMHC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/NonMethaneVolatileOrganicCompound",
+    "object": "http://sweetontology.net/matrOrganicCompound/NMVOC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/OCS",
+    "object": "http://sweetontology.net/matrOrganicCompound/CarbonylSulfide"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/PAN",
+    "object": "http://sweetontology.net/matrOrganicCompound/C2H3NO5"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/PCB153",
+    "object": "http://sweetontology.net/matrOrganicCompound/Hexachlorobiphenyl"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/PeroxyacetylNitrate",
+    "object": "http://sweetontology.net/matrOrganicCompound/C2H3NO5"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/PolychlorinatedBiphenyl",
+    "object": "http://sweetontology.net/matrOrganicCompound/PCB"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Propane",
+    "object": "http://sweetontology.net/matrOrganicCompound/C3H8"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Propene",
+    "object": "http://sweetontology.net/matrOrganicCompound/C3H6"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Toluene",
+    "object": "http://sweetontology.net/matrOrganicCompound/C7H8"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/VolatileOrganicCompound",
+    "object": "http://sweetontology.net/matrOrganicCompound/VOC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrOrganicCompound/Xylene",
+    "object": "http://sweetontology.net/matrOrganicCompound/C8H10"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrRockIgneous/PlutonicRock",
+    "object": "http://sweetontology.net/matrRockIgneous/Pluton"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrWater/IceParticle",
+    "object": "http://sweetontology.net/matrWater/IceCrystal"
+  },
+  {
+    "sameAs": "http://sweetontology.net/matrWater/WaterVapor",
+    "object": "http://sweetontology.net/matrWater/Steam"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phen/AtmosphereOceanExchange",
+    "object": "http://sweetontology.net/phen/AirSeaExchange"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phen/Occurrence",
+    "object": "http://sweetontology.net/phen/Event"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phen/RadiativeCooling",
+    "object": "http://sweetontology.net/phen/RadiationalCooling"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phen/RadiativeHeating",
+    "object": "http://sweetontology.net/phen/RadiationalHeating"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmo/WeatherCondition",
+    "object": "http://sweetontology.net/phenAtmo/Weather"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoCloud/FoehnWall",
+    "object": "http://sweetontology.net/phenAtmoCloud/FoehnCloud"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoCloud/Moazagotl",
+    "object": "http://sweetontology.net/phenAtmoCloud/FoehnCloud"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoFog/OrographicFog",
+    "object": "http://sweetontology.net/phenAtmoFog/MountainFog"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoPrecipitation/LakeEffectSnowstorm",
+    "object": "http://sweetontology.net/phenAtmoPrecipitation/LakeEffectSnow"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoPrecipitation/Rainfall",
+    "object": "http://sweetontology.net/phenAtmoPrecipitation/Rain"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoPrecipitation/Sleet",
+    "object": "http://sweetontology.net/phenAtmoPrecipitation/IcePellet"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoPressure/TropicalUpperTroposphericTrough",
+    "object": "http://sweetontology.net/phenAtmoPressure/TUTT"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoSky/MagneticSubstorm",
+    "object": "http://sweetontology.net/phenAtmoSky/AuroralSubstorm"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoSky/OzoneHole",
+    "object": "http://sweetontology.net/phenAtmoSky/OzoneDepletion"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoTransport/AcidHaze",
+    "object": "http://sweetontology.net/phenAtmoTransport/AcidFog"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoTransport/Washout",
+    "object": "http://sweetontology.net/phenAtmoTransport/Rainout"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoWind/JetStreamWind",
+    "object": "http://sweetontology.net/phenAtmoWind/JetStream"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoWind/WalkerCirculation",
+    "object": "http://sweetontology.net/phenAtmoWind/WalkerCell"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoWind/WindGust",
+    "object": "http://sweetontology.net/phenAtmoWind/Gust"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoWindMesoscale/Foehn",
+    "object": "http://sweetontology.net/phenAtmoWindMesoscale/ChinookWind"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenAtmoWindMesoscale/MackerelGale",
+    "object": "http://sweetontology.net/phenAtmoWindMesoscale/MackerelBreeze"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenCryo/Glaciation",
+    "object": "http://sweetontology.net/phenCryo/Glacial"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenCryo/IceCalving",
+    "object": "http://sweetontology.net/phenCryo/Calving"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenCycle/ElNinoSouthernOscillation",
+    "object": "http://sweetontology.net/phenCycle/ENSO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenCycle/NorthAtlanticOscillation",
+    "object": "http://sweetontology.net/phenCycle/NAO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenCycle/PacificDecadalOscillation",
+    "object": "http://sweetontology.net/phenCycle/PDO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenCycle/QuasiBiennialOscillation",
+    "object": "http://sweetontology.net/phenCycle/QBO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenCycle/SouthernOscillation",
+    "object": "http://sweetontology.net/phenCycle/ENSO"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenCycleMaterial/HydrologicalCycle",
+    "object": "http://sweetontology.net/phenCycleMaterial/HydrologicCycle"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenCycleMaterial/WaterCycle",
+    "object": "http://sweetontology.net/phenCycleMaterial/HydrologicCycle"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenEnergy/PowerSource",
+    "object": "http://sweetontology.net/phenEnergy/Electricity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenEnvirImpact/OzoneHole",
+    "object": "http://sweetontology.net/phenEnvirImpact/OzoneDepletion"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenEnvirImpact/SpeciesExtinction",
+    "object": "http://sweetontology.net/phenEnvirImpact/Extinction"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenFluidDynamics/CapillaryAction",
+    "object": "http://sweetontology.net/phenFluidDynamics/Capillary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenFluidDynamics/Ridge",
+    "object": "http://sweetontology.net/phenFluidDynamics/HighPressure"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenFluidInstability/Lifting",
+    "object": "http://sweetontology.net/phenFluidInstability/Lift"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenFluidTransport/HemisphericTransportOfAirPollutants",
+    "object": "http://sweetontology.net/phenFluidTransport/HTAP"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeol/GeospherePhenomena",
+    "object": "http://sweetontology.net/phenGeol/GeologicalPhenomena"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeol/RockCycleProcess",
+    "object": "http://sweetontology.net/phenGeol/RockCycle"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolGeomorphology/Reptation",
+    "object": "http://sweetontology.net/phenGeolGeomorphology/Creep"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolSeismicity/Lwave",
+    "object": "http://sweetontology.net/phenGeolSeismicity/LoveWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolSeismicity/PrimaryWave",
+    "object": "http://sweetontology.net/phenGeolSeismicity/PWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolSeismicity/SecondaryWave",
+    "object": "http://sweetontology.net/phenGeolSeismicity/SWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolTectonic/IsostaticRebound",
+    "object": "http://sweetontology.net/phenGeolTectonic/IsostaticAdjustment"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolTectonic/TectonicProcess",
+    "object": "http://sweetontology.net/phenGeolTectonic/TectonicForce"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolVolcano/MantleThermalPlume",
+    "object": "http://sweetontology.net/phenGeolVolcano/MantlePlume"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolVolcano/PeleeanEruption",
+    "object": "http://sweetontology.net/phenGeolVolcano/NueeArdenteEruption"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolVolcano/SteamBlastEruption",
+    "object": "http://sweetontology.net/phenGeolVolcano/PhreaticEruption"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolVolcano/VolcanicPhenomena",
+    "object": "http://sweetontology.net/phenGeolVolcano/VolcanicActivity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenGeolVolcano/Vulcanism",
+    "object": "http://sweetontology.net/phenGeolVolcano/Volcanism"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenHelio/MagneticStorm",
+    "object": "http://sweetontology.net/phenHelio/GeomagneticStorm"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenHelio/MagneticSubstorm",
+    "object": "http://sweetontology.net/phenHelio/AuroralSubstorm"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenHydro/Percolation",
+    "object": "http://sweetontology.net/phenHydro/Percolate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenMixing/Diffusion",
+    "object": "http://sweetontology.net/phenMixing/Diffuse"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenMixing/Mixing",
+    "object": "http://sweetontology.net/phenMixing/Mix"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenOceanCoastal/LongshoreDrift",
+    "object": "http://sweetontology.net/phenOceanCoastal/LittoralDrift"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenOceanDynamics/LongshoreCurrent",
+    "object": "http://sweetontology.net/phenOceanDynamics/LittoralCurrent"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenOceanDynamics/ModeEddy",
+    "object": "http://sweetontology.net/phenOceanDynamics/MesoscaleEddy"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenOceanDynamics/Tsunami",
+    "object": "http://sweetontology.net/phenOceanDynamics/TidalWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenPlanetClimate/ClimateAverage",
+    "object": "http://sweetontology.net/phenPlanetClimate/Climate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenPlanetClimate/ClimaticAnomaly",
+    "object": "http://sweetontology.net/phenPlanetClimate/ClimateAnomaly"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenPlanetClimate/ClimaticAverage",
+    "object": "http://sweetontology.net/phenPlanetClimate/Climate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenPlanetClimate/ClimatologicalAverage",
+    "object": "http://sweetontology.net/phenPlanetClimate/Climate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenReaction/Flaring",
+    "object": "http://sweetontology.net/phenReaction/Flare"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSolid/Clumping",
+    "object": "http://sweetontology.net/phenSolid/Clump"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSolid/Coalescence",
+    "object": "http://sweetontology.net/phenSolid/Accretion"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSolid/Deformation",
+    "object": "http://sweetontology.net/phenSolid/Deform"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSolid/Disintegration",
+    "object": "http://sweetontology.net/phenSolid/Disintegrate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSolid/Erosion",
+    "object": "http://sweetontology.net/phenSolid/Erode"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSolid/FaultLine",
+    "object": "http://sweetontology.net/phenSolid/Fault"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSolid/PoreSpace",
+    "object": "http://sweetontology.net/phenSolid/Pore"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSolid/Stretch",
+    "object": "http://sweetontology.net/phenSolid/Elongate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSolid/Stretch",
+    "object": "http://sweetontology.net/phenSolid/Elongation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSolid/Subsidence",
+    "object": "http://sweetontology.net/phenSolid/Subside"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenStar/CoronalMassEjection",
+    "object": "http://sweetontology.net/phenStar/CME"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenStar/Granule",
+    "object": "http://sweetontology.net/phenStar/Granulation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSystem/Decrease",
+    "object": "http://sweetontology.net/phenSystem/Decline"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSystem/Drop",
+    "object": "http://sweetontology.net/phenSystem/Decrease"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSystem/Fall",
+    "object": "http://sweetontology.net/phenSystem/Decrease"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSystem/Reduction",
+    "object": "http://sweetontology.net/phenSystem/Decrease"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSystem/Rise",
+    "object": "http://sweetontology.net/phenSystem/Increase"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSystemComplexity/Emergent",
+    "object": "http://sweetontology.net/phenSystemComplexity/Emergence"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSystemComplexity/EmergentPhenomenon",
+    "object": "http://sweetontology.net/phenSystemComplexity/Emergent"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenSystemComplexity/Transforming",
+    "object": "http://sweetontology.net/phenSystemComplexity/Transformation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenWave/Acoustics",
+    "object": "http://sweetontology.net/phenWave/AcousticWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenWave/AcousticWave",
+    "object": "http://sweetontology.net/phenWave/Acoustic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenWave/GravityWave",
+    "object": "http://sweetontology.net/phenWave/GravitationalWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenWave/InertialWave",
+    "object": "http://sweetontology.net/phenWave/InertiaWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenWave/InternalWave",
+    "object": "http://sweetontology.net/phenWave/InternalGravityWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenWave/RossbyWave",
+    "object": "http://sweetontology.net/phenWave/PlanetaryWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenWave/Sound",
+    "object": "http://sweetontology.net/phenWave/AcousticWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenWave/SoundWave",
+    "object": "http://sweetontology.net/phenWave/AcousticWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/phenWaveNoise/Resonant",
+    "object": "http://sweetontology.net/phenWaveNoise/Resonance"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procChemical/ChemicalReaction",
+    "object": "http://sweetontology.net/procChemical/ChemicalProcess"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procChemical/Photolysis",
+    "object": "http://sweetontology.net/procChemical/Photodecomposition"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procChemical/Photolysis",
+    "object": "http://sweetontology.net/procChemical/Photodissociation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procChemical/Reaction",
+    "object": "http://sweetontology.net/procChemical/ChemicalProcess"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procChemical/Solvation",
+    "object": "http://sweetontology.net/procChemical/Dissolution"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procPhysical/CoriolisForce",
+    "object": "http://sweetontology.net/procPhysical/CoriolisEffect"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procPhysical/ElectricCurrent",
+    "object": "http://sweetontology.net/procPhysical/Current"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procPhysical/Expansion",
+    "object": "http://sweetontology.net/procPhysical/Expanding"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procPhysical/Gravity",
+    "object": "http://sweetontology.net/procPhysical/GravitationalForce"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procPhysical/GravityForce",
+    "object": "http://sweetontology.net/procPhysical/Gravity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procPhysical/Induction",
+    "object": "http://sweetontology.net/procPhysical/ElectromagneticInduction"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procStateChange/StateChange",
+    "object": "http://sweetontology.net/procStateChange/PhaseTransition"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procWave/ElectromagneticWave",
+    "object": "http://sweetontology.net/procWave/ElectromagneticRadiation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procWave/Extinction",
+    "object": "http://sweetontology.net/procWave/Attenuation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/procWave/WavePropagation",
+    "object": "http://sweetontology.net/procWave/Propagation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propCapacity/SpecificHeatCapacity",
+    "object": "http://sweetontology.net/propCapacity/SpecificHeat"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propCapacity/ThermalExpansionCoefficient",
+    "object": "http://sweetontology.net/propCapacity/CoefficientOfThermalExpansion"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propCategorical/Classification",
+    "object": "http://sweetontology.net/propCategorical/Category"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propCategorical/Description",
+    "object": "http://sweetontology.net/propCategorical/Characteristics"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propCategorical/StandardIndustrialClassification",
+    "object": "http://sweetontology.net/propCategorical/SIC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propChemical/Alkalinity",
+    "object": "http://sweetontology.net/propChemical/Alkalic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propChemical/Alkalinity",
+    "object": "http://sweetontology.net/propChemical/Alkaline"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propChemical/Basic",
+    "object": "http://sweetontology.net/propChemical/Alkalinity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propChemical/Basicity",
+    "object": "http://sweetontology.net/propChemical/Alkalinity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propChemical/BiologicalOxygenDemand",
+    "object": "http://sweetontology.net/propChemical/BiochemicalOxygenDemand"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propChemical/BiologicalOxygenDemand",
+    "object": "http://sweetontology.net/propChemical/BOD"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propChemical/ChemicalOxygenDemand",
+    "object": "http://sweetontology.net/propChemical/COD"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propChemical/SodiumAdsorptionRatio",
+    "object": "http://sweetontology.net/propChemical/SAR"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propChemical/SuspensionLoad",
+    "object": "http://sweetontology.net/propChemical/SuspendedLoad"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propDifference/NormalizedDifferenceVegetationIndex",
+    "object": "http://sweetontology.net/propDifference/NDVI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propDimensionlessRatio/HydraulicGradient",
+    "object": "http://sweetontology.net/propDimensionlessRatio/DarcySlope"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propEnergy/HeatEnergy",
+    "object": "http://sweetontology.net/propEnergy/Heat"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propEnergy/IonizationPotential",
+    "object": "http://sweetontology.net/propEnergy/IonizationEnergy"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propEnergy/ThermalEnergy",
+    "object": "http://sweetontology.net/propEnergy/Heat"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propEnergyFlux/Intensity",
+    "object": "http://sweetontology.net/propEnergyFlux/FluxDensity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propEnergyFlux/Opacity",
+    "object": "http://sweetontology.net/propEnergyFlux/AbsorptionCoefficient"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propEnergyFlux/SpecificIntensity",
+    "object": "http://sweetontology.net/propEnergyFlux/Brightness"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propEnergyFlux/ThermalFlux",
+    "object": "http://sweetontology.net/propEnergyFlux/HeatFlow"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propEnergyFlux/ThermalFlux",
+    "object": "http://sweetontology.net/propEnergyFlux/HeatFlux"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propFraction/Emittance",
+    "object": "http://sweetontology.net/propFraction/Emissivity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propFraction/FractionPhotosyntheticActiveRadiation",
+    "object": "http://sweetontology.net/propFraction/FPAR"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propFraction/MoleConcentration",
+    "object": "http://sweetontology.net/propFraction/MolarConcentration"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propFraction/Porousness",
+    "object": "http://sweetontology.net/propFraction/Porosity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propFunction/CriticalPoint",
+    "object": "http://sweetontology.net/propFunction/CriticalLevel"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propFunction/Mean",
+    "object": "http://sweetontology.net/propFunction/Average"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propFunction/TimeMean",
+    "object": "http://sweetontology.net/propFunction/TemporalAverage"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propFunction/TimeMean",
+    "object": "http://sweetontology.net/propFunction/TemporalMean"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propFunction/TimeMean",
+    "object": "http://sweetontology.net/propFunction/TimeAverage"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propFunction/TippingPoint",
+    "object": "http://sweetontology.net/propFunction/FlippingPoint"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/BenthicIndex",
+    "object": "http://sweetontology.net/propIndex/BIBI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/BenthicIndexOfBiologicalIntegrity",
+    "object": "http://sweetontology.net/propIndex/BenthicIndex"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/CoefficientOfHaze",
+    "object": "http://sweetontology.net/propIndex/COH"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/EnvironmentalPerformanceIndex",
+    "object": "http://sweetontology.net/propIndex/EPI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/EnvironmentalSustainabilityIndex",
+    "object": "http://sweetontology.net/propIndex/ESI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/GeomagneticIndex",
+    "object": "http://sweetontology.net/propIndex/AkasofuEpsilon"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/GeophysicalIndex",
+    "object": "http://sweetontology.net/propIndex/GeomagneticIndex"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/IndexOfBiologicalIntegrity",
+    "object": "http://sweetontology.net/propIndex/IBI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/IndexOfBioticIntegrity",
+    "object": "http://sweetontology.net/propIndex/IndexOfBiologicalIntegrity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/NaturalResourceManagementIndex",
+    "object": "http://sweetontology.net/propIndex/NRMI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/PalmerDroughtSeverityIndex",
+    "object": "http://sweetontology.net/propIndex/PalmerDroughtIndex"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/PalmerDroughtSeverityIndex",
+    "object": "http://sweetontology.net/propIndex/PDI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/PalmerDroughtSeverityIndex",
+    "object": "http://sweetontology.net/propIndex/PDSI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/PalmerHydrologicalDroughtIndex",
+    "object": "http://sweetontology.net/propIndex/PHDI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/PolarCapIndex",
+    "object": "http://sweetontology.net/propIndex/PC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/Storativity",
+    "object": "http://sweetontology.net/propIndex/StorageCoefficient"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propIndex/SurfaceMoistureIndex",
+    "object": "http://sweetontology.net/propIndex/SMI"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propMass/Consistency",
+    "object": "http://sweetontology.net/propMass/Consistence"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propMass/Dose",
+    "object": "http://sweetontology.net/propMass/Dosage"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propMass/MassConcentration",
+    "object": "http://sweetontology.net/propMass/Density"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propMass/Solidness",
+    "object": "http://sweetontology.net/propMass/Solidity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propMassFlux/GrossPrimaryProductivity",
+    "object": "http://sweetontology.net/propMassFlux/GPP"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propMassFlux/NetPrimaryProductivity",
+    "object": "http://sweetontology.net/propMassFlux/NPP"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propOrdinal/Trust",
+    "object": "http://sweetontology.net/propOrdinal/Belief"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propPressure/BarometricPressure",
+    "object": "http://sweetontology.net/propPressure/AirPressure"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propPressure/BarometricPressure",
+    "object": "http://sweetontology.net/propPressure/AtmosphericPressure"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propPressure/TensileStress",
+    "object": "http://sweetontology.net/propPressure/NormalStress"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propPressure/Viscosity",
+    "object": "http://sweetontology.net/propPressure/DynamicViscosity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propPressure/YoungsModulus",
+    "object": "http://sweetontology.net/propPressure/ModulusOfElasticity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propQuantity/BudgetEquation",
+    "object": "http://sweetontology.net/propQuantity/BalanceEquation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propQuantity/BudgetEquation",
+    "object": "http://sweetontology.net/propQuantity/Budget"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propQuantity/Quantity",
+    "object": "http://sweetontology.net/propQuantity/QuantitativeProperty"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propRotation/Gyrofrequency",
+    "object": "http://sweetontology.net/propRotation/CyclotronFrequency"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpace/SpatialConfiguration",
+    "object": "http://sweetontology.net/propSpace/Configuration"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceDirection/Direction",
+    "object": "http://sweetontology.net/propSpaceDirection/Bearing"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceDirection/Inclination",
+    "object": "http://sweetontology.net/propSpaceDirection/Direction"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceDirection/Inward",
+    "object": "http://sweetontology.net/propSpaceDirection/Incoming"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceDirection/Outward",
+    "object": "http://sweetontology.net/propSpaceDirection/Outgoing"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceDistance/DebyeScreeningLength",
+    "object": "http://sweetontology.net/propSpaceDistance/DebyeLength"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceDistance/ExtinctionCoefficient",
+    "object": "http://sweetontology.net/propSpaceDistance/AttenuationCoefficient"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceDistance/Gyroradius",
+    "object": "http://sweetontology.net/propSpaceDistance/CyclotronRadius"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceDistance/LarmorRadius",
+    "object": "http://sweetontology.net/propSpaceDistance/Gyroradius"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceHeight/Elevation",
+    "object": "http://sweetontology.net/propSpaceHeight/Altitude"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceLocation/Focus",
+    "object": "http://sweetontology.net/propSpaceLocation/Focii"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceLocation/Position",
+    "object": "http://sweetontology.net/propSpaceLocation/Location"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceMultidimensional/CrossSectionalArea",
+    "object": "http://sweetontology.net/propSpaceMultidimensional/CrossSection"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceThickness/LiquidWaterEquivalent",
+    "object": "http://sweetontology.net/propSpaceThickness/LWE"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceThickness/OpticalThickness",
+    "object": "http://sweetontology.net/propSpaceThickness/OpticalDepth"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propSpaceThickness/SnowWaterEquivalent",
+    "object": "http://sweetontology.net/propSpaceThickness/SWE"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propTemperature/DewPointTemperature",
+    "object": "http://sweetontology.net/propTemperature/DewPoint"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propTemperature/WindChillIndex",
+    "object": "http://sweetontology.net/propTemperature/WindChill"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propTemperatureGradient/ThermalGradient",
+    "object": "http://sweetontology.net/propTemperatureGradient/TemperatureGradient"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propTime/DurationDescription",
+    "object": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propTime/Episodic",
+    "object": "http://sweetontology.net/propTime/Episode"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propTime/TimeInterval",
+    "object": "http://sweetontology.net/propTime/Duration"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propTime/TimeRange",
+    "object": "http://sweetontology.net/propTime/TemporalRange"
+  },
+  {
+    "sameAs": "http://sweetontology.net/propTimeFrequency/Tendency",
+    "object": "http://sweetontology.net/propTimeFrequency/Rate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realm/PlanetaryLayer",
+    "object": "http://sweetontology.net/realm/GlobalPlanetaryLayer"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realm/PlanetarySurfaceLevel",
+    "object": "http://sweetontology.net/realm/PlanetaryBoundary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realm/Subaerial",
+    "object": "http://sweetontology.net/realm/PlanetarySurface"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmAstroHelio/VanAllenBelt",
+    "object": "http://sweetontology.net/realmAstroHelio/RadiationBelt"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmAtmo/OzoneLayer",
+    "object": "http://sweetontology.net/realmAtmo/MiddleAtmosphere"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmAtmo/TemperatureInversionLayer",
+    "object": "http://sweetontology.net/realmAtmo/InversionLayer"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmAtmoBoundaryLayer/BoundaryLayer",
+    "object": "http://sweetontology.net/realmAtmoBoundaryLayer/AtmosphericBoundaryLayer"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmAtmoBoundaryLayer/PlanetaryBoundaryLayer",
+    "object": "http://sweetontology.net/realmAtmoBoundaryLayer/BoundaryLayer"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmAtmoWeather/LevelOfFreeConvection",
+    "object": "http://sweetontology.net/realmAtmoWeather/LFC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/BW",
+    "object": "http://sweetontology.net/realmClimateZone/Arid"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/BW",
+    "object": "http://sweetontology.net/realmClimateZone/AridClimate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/ColdMidlatitudeDesertClimate",
+    "object": "http://sweetontology.net/realmClimateZone/BWk"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/ColdMidlatitudeSteppeClimate",
+    "object": "http://sweetontology.net/realmClimateZone/BSk"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/DryClimate",
+    "object": "http://sweetontology.net/realmClimateZone/B"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/HotLowLatitudeDesertClimate",
+    "object": "http://sweetontology.net/realmClimateZone/BWh"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/HotLowLatitudeSteppeClimate",
+    "object": "http://sweetontology.net/realmClimateZone/BSh"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/IceCapClimate",
+    "object": "http://sweetontology.net/realmClimateZone/EF"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/IntertropicalConvergenceZone",
+    "object": "http://sweetontology.net/realmClimateZone/ITCZ"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/PolarMarineClimate",
+    "object": "http://sweetontology.net/realmClimateZone/EM"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/SemiAridClimate",
+    "object": "http://sweetontology.net/realmClimateZone/BS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/TemperateClimate",
+    "object": "http://sweetontology.net/realmClimateZone/C"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/TropicalClimate",
+    "object": "http://sweetontology.net/realmClimateZone/A"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/TropicalMonsoonClimate",
+    "object": "http://sweetontology.net/realmClimateZone/Am"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/TropicalRainForestClimate",
+    "object": "http://sweetontology.net/realmClimateZone/Af"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/TropicalSavannaClimate",
+    "object": "http://sweetontology.net/realmClimateZone/Aw"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmClimateZone/TundraClimate",
+    "object": "http://sweetontology.net/realmClimateZone/ET"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmCryo/IceFloe",
+    "object": "http://sweetontology.net/realmCryo/Floe"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmCryo/Snout",
+    "object": "http://sweetontology.net/realmCryo/GlacierTerminus"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmEarthReference/InternationalGeomagneticReferenceField",
+    "object": "http://sweetontology.net/realmEarthReference/IGRF"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmGeol/GuttenburgDiscontinuity",
+    "object": "http://sweetontology.net/realmGeol/CoreMantleBoundary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmGeol/Moho",
+    "object": "http://sweetontology.net/realmGeol/CrustMantleBoundary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmGeol/Mohorovi_i_Discontinuity",
+    "object": "http://sweetontology.net/realmGeol/Moho"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmGeol/SkinLayer",
+    "object": "http://sweetontology.net/realmGeol/Crust"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmGeol/SolidEarth",
+    "object": "http://sweetontology.net/realm/Geosphere"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmGeol/UpperMantleFlowing",
+    "object": "http://sweetontology.net/realmGeol/Asthenosphere"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmGeol/UpperMantleRigid",
+    "object": "http://sweetontology.net/realmGeol/Mesosphere"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmGeolOceanic/Submarine",
+    "object": "http://sweetontology.net/realmGeolOceanic/OceanicLithosphere"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmGeolOrogen/RearArc",
+    "object": "http://sweetontology.net/realmGeolOrogen/BackArc"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmGeolOrogen/RetroArc",
+    "object": "http://sweetontology.net/realmGeolOrogen/BackArc"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmHydro/Dyke",
+    "object": "http://sweetontology.net/realmHydro/Dike"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmHydro/Embankment",
+    "object": "http://sweetontology.net/realmHydro/Dike"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmHydro/FloodBank",
+    "object": "http://sweetontology.net/realmHydro/Dike"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmHydro/Levee",
+    "object": "http://sweetontology.net/realmHydro/Dike"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmHydro/RaisedBank",
+    "object": "http://sweetontology.net/realmHydro/Dike"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmHydro/VadoseZone",
+    "object": "http://sweetontology.net/realmHydro/UnsaturatedZone"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmHydro/WaterTableAquifer",
+    "object": "http://sweetontology.net/realmHydro/UnconfinedAquifer"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmHydroBody/Fjord",
+    "object": "http://sweetontology.net/realmHydroBody/Fiord"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmHydroBody/WaterBodyBoundary",
+    "object": "http://sweetontology.net/realmHydroBody/CarbonateCompensationLevel"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandAeolian/Eolian",
+    "object": "http://sweetontology.net/realmLandAeolian/Aeolian"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandAeolian/SandDune",
+    "object": "http://sweetontology.net/realmLandAeolian/Dune"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandCoastal/CoastalRegion",
+    "object": "http://sweetontology.net/realmLandCoastal/Coastal"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandCoastal/DeltaBar",
+    "object": "http://sweetontology.net/realmLandCoastal/Bar"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandCoastal/IntertidalZone",
+    "object": "http://sweetontology.net/realmLandCoastal/Intertidal"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandCoastal/Littoral",
+    "object": "http://sweetontology.net/realmLandCoastal/IntertidalZone"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandCoastal/LittoralZone",
+    "object": "http://sweetontology.net/realmLandCoastal/IntertidalZone"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandCoastal/RiparianZone",
+    "object": "http://sweetontology.net/realmLandCoastal/Riparian"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandCoastal/Shoreline",
+    "object": "http://sweetontology.net/realmLandCoastal/Shore"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandCoastal/TidePool",
+    "object": "http://sweetontology.net/realmLandCoastal/IntertidalZone"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandCoastal/WaveCutPlatform",
+    "object": "http://sweetontology.net/realmLandCoastal/ShorePlatform"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandFluvial/Playa",
+    "object": "http://sweetontology.net/realmLandFluvial/DryLake"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandFluvial/SaltLake",
+    "object": "http://sweetontology.net/realmLandFluvial/Playa"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandFluvial/Watershed",
+    "object": "http://sweetontology.net/realmLandFluvial/DrainageBasin"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandform/LandRegion",
+    "object": "http://sweetontology.net/realmLandform/Land"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandform/LandSurface",
+    "object": "http://sweetontology.net/realmLandform/Land"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandform/SurfaceRegion",
+    "object": "http://sweetontology.net/realmLandform/Land"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandGlacial/Moraine",
+    "object": "http://sweetontology.net/realmLandGlacial/GlacialMoraine"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandGlacial/TillPlain",
+    "object": "http://sweetontology.net/realmLandGlacial/Till"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandOrographic/Orography",
+    "object": "http://sweetontology.net/realmLandOrographic/Mountain"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandOrographic/Orography",
+    "object": "http://sweetontology.net/realmLandOrographic/Orographic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandProtected/MarineProtectedArea",
+    "object": "http://sweetontology.net/realmLandProtected/MPA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandProtected/Parkland",
+    "object": "http://sweetontology.net/realmLandProtected/Park"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandTectonic/ConvergentMargin",
+    "object": "http://sweetontology.net/realmLandTectonic/ConvergentBoundary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandTectonic/ConvergentPlateBoundary",
+    "object": "http://sweetontology.net/realmLandTectonic/ConvergentBoundary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandTectonic/DivergentPlateBoundary",
+    "object": "http://sweetontology.net/realmLandTectonic/DivergentBoundary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandTectonic/FractureZone",
+    "object": "http://sweetontology.net/realmLandTectonic/FaultZone"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandTectonic/LargeIgneousProvince",
+    "object": "http://sweetontology.net/realmLandTectonic/LIP"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandTectonic/TransformMargin",
+    "object": "http://sweetontology.net/realmLandTectonic/TransformBoundary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandTectonic/TransformPlateBoundary",
+    "object": "http://sweetontology.net/realmLandTectonic/TransformBoundary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandVolcanic/CompoundVolcano",
+    "object": "http://sweetontology.net/realmLandVolcanic/CompositeVolcano"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandVolcanic/SubmarineVolcano",
+    "object": "http://sweetontology.net/realmLandVolcanic/SubaqueousVolcano"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmLandVolcanic/VolcanicChain",
+    "object": "http://sweetontology.net/realmLandVolcanic/VolcanicArc"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmOcean/Abyssal",
+    "object": "http://sweetontology.net/realmOcean/Abyss"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmOcean/PhoticZone",
+    "object": "http://sweetontology.net/realmOcean/EuphoticZone"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmOceanFloor/DeepSeaTrench",
+    "object": "http://sweetontology.net/realmOceanFloor/AbyssalTrench"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmOceanFloor/Seabed",
+    "object": "http://sweetontology.net/realmOceanFloor/SeaFloor"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmOceanFloor/SeaFloor",
+    "object": "http://sweetontology.net/realmOceanFloor/OceanFloor"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmRegion/Subtropics",
+    "object": "http://sweetontology.net/realmRegion/Subtropical"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmRegion/Tropical",
+    "object": "http://sweetontology.net/realmRegion/LowLatitude"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmRegion/Tropics",
+    "object": "http://sweetontology.net/realmRegion/LowLatitude"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmSoil/Gelisol",
+    "object": "http://sweetontology.net/realmSoil/Cryosol"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmSoil/OrganicMatter",
+    "object": "http://sweetontology.net/realmSoil/O_Horizon"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmSoil/ParentRock",
+    "object": "http://sweetontology.net/realmSoil/C_Horizon"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmSoil/Subsoil",
+    "object": "http://sweetontology.net/realmSoil/B_Horizon"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmSoil/Substratum",
+    "object": "http://sweetontology.net/realmSoil/Substrata"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmSoil/Topsoil",
+    "object": "http://sweetontology.net/realmSoil/A_Horizon"
+  },
+  {
+    "sameAs": "http://sweetontology.net/realmSoil/Topsoil",
+    "object": "http://sweetontology.net/realmSoil/SurfaceSoil"
+  },
+  {
+    "sameAs": "http://sweetontology.net/repr/Coordinate",
+    "object": "http://sweetontology.net/repr/Component"
+  },
+  {
+    "sameAs": "http://sweetontology.net/repr/Scale",
+    "object": "http://sweetontology.net/repr/MeasurementScale"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataProduct/Archiving",
+    "object": "http://sweetontology.net/reprDataProduct/Archive"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataProduct/ClimateDataRecord",
+    "object": "http://sweetontology.net/reprDataProduct/CDR"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataProduct/Curation",
+    "object": "http://sweetontology.net/reprDataProduct/Curate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataProduct/EarthScienceDataRecord",
+    "object": "http://sweetontology.net/reprDataProduct/ESDR"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataProduct/Scaling",
+    "object": "http://sweetontology.net/reprDataProduct/ScaleFactor"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataService/Accessing",
+    "object": "http://sweetontology.net/reprDataService/Access"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataService/Discovery",
+    "object": "http://sweetontology.net/reprDataService/Discover"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataService/DiscoveryService",
+    "object": "http://sweetontology.net/reprDataService/Discover"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataService/OPeNDAP",
+    "object": "http://sweetontology.net/reprDataService/DODS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataService/Reformat",
+    "object": "http://sweetontology.net/reprDataService/FormatConversion"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataService/Reformatting",
+    "object": "http://sweetontology.net/reprDataService/Reformat"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Animation",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Animate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Assimilation",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Assimilate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Classifier",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Classification"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Classify",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Classification"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Clustering",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Cluster"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Fitting",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Fit"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/FourierTransform",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/FourierAnalysis"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Interpolation",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Interpolate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Reanalyze",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Reanalysis"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Reconstruction",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Reconstruct"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/SpectralAnalysis",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/FrequencyDomainAnalysis"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Spectrum",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/PowerSpectrum"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Training",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Train"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceAnalysis/Visualize",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Visualization"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceGeospatial/Geolocation",
+    "object": "http://sweetontology.net/reprDataServiceGeospatial/Geolocate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceGeospatial/Georeferencing",
+    "object": "http://sweetontology.net/reprDataServiceGeospatial/Georeference"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceGeospatial/LocationBasedService",
+    "object": "http://sweetontology.net/reprDataServiceGeospatial/LBS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceGeospatial/Mapping",
+    "object": "http://sweetontology.net/reprDataServiceGeospatial/Map"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceGeospatial/Regridding",
+    "object": "http://sweetontology.net/reprDataServiceGeospatial/Regrid"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceGeospatial/WebCoverageServer",
+    "object": "http://sweetontology.net/reprDataServiceGeospatial/WCS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceGeospatial/WebFeatureServer",
+    "object": "http://sweetontology.net/reprDataServiceGeospatial/WFS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceGeospatial/WebMapServer",
+    "object": "http://sweetontology.net/reprDataServiceGeospatial/WMS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceReduction/Mining",
+    "object": "http://sweetontology.net/reprDataServiceReduction/DataMining"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceReduction/Normalize",
+    "object": "http://sweetontology.net/reprDataServiceReduction/Normalization"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceValidation/Calibration",
+    "object": "http://sweetontology.net/reprDataServiceValidation/Calibrate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceValidation/Mask",
+    "object": "http://sweetontology.net/reprDataServiceValidation/BinaryMask"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprDataServiceValidation/Verify",
+    "object": "http://sweetontology.net/reprDataServiceValidation/Verification"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMath/Multiset",
+    "object": "http://sweetontology.net/reprMath/Bag"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMath/Seq",
+    "object": "http://sweetontology.net/reprMath/Order"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMath/Sequence",
+    "object": "http://sweetontology.net/reprMath/Seq"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/cdf",
+    "object": "http://sweetontology.net/reprMathFunction/ProbabilityDistributionFunction"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/ChiSquareDistribution",
+    "object": "http://sweetontology.net/reprMathFunction/ChiSquare"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/Continuous",
+    "object": "http://sweetontology.net/reprMathFunction/Continuity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/Discontinuous",
+    "object": "http://sweetontology.net/reprMathFunction/Discontinuity"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/DiscreteFunction",
+    "object": "http://sweetontology.net/reprMathFunction/Discrete"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/Linear",
+    "object": "http://sweetontology.net/reprMathFunction/Affine"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/NormalDistribution",
+    "object": "http://sweetontology.net/reprMathFunction/Normal"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/pdf",
+    "object": "http://sweetontology.net/reprMathFunction/ProbabilityDensityFunction"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/Profile",
+    "object": "http://sweetontology.net/reprMathFunction/Horizon"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/SquareWave",
+    "object": "http://sweetontology.net/reprMathFunction/BoxCar"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunction/VerticalProfile",
+    "object": "http://sweetontology.net/reprMathFunction/Profile"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunctionOrthogonal/FourierFunction",
+    "object": "http://sweetontology.net/reprMathFunctionOrthogonal/Fourier"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathFunctionOrthogonal/SphericalHarmonicFunction",
+    "object": "http://sweetontology.net/reprMathFunctionOrthogonal/SphericalHarmonic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathGraph/Cycle",
+    "object": "http://sweetontology.net/reprMathGraph/Circuit"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathGraph/DirectedGraph",
+    "object": "http://sweetontology.net/reprMathGraph/Digraph"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathGraph/Vertex",
+    "object": "http://sweetontology.net/reprMathGraph/Node"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathGraph/Vertice",
+    "object": "http://sweetontology.net/reprMathGraph/Vertex"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathOperation/Differentiation",
+    "object": "http://sweetontology.net/reprMathOperation/Derivative"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathOperation/Integration",
+    "object": "http://sweetontology.net/reprMathOperation/Integral"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathOperation/Product",
+    "object": "http://sweetontology.net/reprMathOperation/Multiplication"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathOperation/Quotient",
+    "object": "http://sweetontology.net/reprMathOperation/Division"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathOperation/Subtraction",
+    "object": "http://sweetontology.net/reprMathOperation/Difference"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathOperation/Summation",
+    "object": "http://sweetontology.net/reprMathOperation/Sum"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathSolution/Simulate",
+    "object": "http://sweetontology.net/reprMathSolution/Emulate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathSolution/Simulation",
+    "object": "http://sweetontology.net/reprMathSolution/Simulate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathStatistics/AnalysisOfVariance",
+    "object": "http://sweetontology.net/reprMathStatistics/ANOVA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprMathStatistics/OrdinaryLeastSquares",
+    "object": "http://sweetontology.net/reprMathStatistics/OLS"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciComponent/Background",
+    "object": "http://sweetontology.net/reprSciComponent/Ambient"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciComponent/Storage",
+    "object": "http://sweetontology.net/reprSciComponent/Reservoir"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciComponent/SystemComponent",
+    "object": "http://sweetontology.net/reprSciComponent/Component"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciModel/GeneralCirculationModel",
+    "object": "http://sweetontology.net/reprSciModel/GCM"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciModel/Parameterization",
+    "object": "http://sweetontology.net/reprDataServiceAnalysis/Parameterize"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciModel/Prediction",
+    "object": "http://sweetontology.net/reprSciModel/Predict"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciModel/ScientificModel",
+    "object": "http://sweetontology.net/reprSciModel/Model"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciModel/Theory",
+    "object": "http://sweetontology.net/reprSciModel/Theoretical"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciProvenance/VariableMapping",
+    "object": "http://sweetontology.net/reprSciProvenance/Crosswalk"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciUnits/megahertz",
+    "object": "http://sweetontology.net/reprSciUnits/MHz"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciUnits/metre",
+    "object": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSciUnits/micron",
+    "object": "http://sweetontology.net/reprSciUnits/micrometer"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceCoordinate/Height",
+    "object": "http://sweetontology.net/reprSpaceCoordinate/Elevation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceCoordinate/RightAscension",
+    "object": "http://sweetontology.net/reprSpaceCoordinate/RA"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceCoordinate/VerticalCoordinate",
+    "object": "http://sweetontology.net/reprSpaceCoordinate/Vertical"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceDirection/Downward",
+    "object": "http://sweetontology.net/reprSpaceDirection/Down"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceDirection/Eastward",
+    "object": "http://sweetontology.net/reprSpaceDirection/East"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceDirection/Leeward",
+    "object": "http://sweetontology.net/reprSpaceDirection/Lee"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceDirection/Northward",
+    "object": "http://sweetontology.net/reprSpaceDirection/North"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceDirection/Perpendicular",
+    "object": "http://sweetontology.net/reprSpaceDirection/Normal"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceDirection/Southward",
+    "object": "http://sweetontology.net/reprSpaceDirection/South"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceDirection/Transverse",
+    "object": "http://sweetontology.net/reprSpaceDirection/Perpendicular"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceDirection/Upward",
+    "object": "http://sweetontology.net/reprSpaceDirection/Up"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceDirection/Westward",
+    "object": "http://sweetontology.net/reprSpaceDirection/West"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceGeometry/ConicSection",
+    "object": "http://sweetontology.net/reprSpaceGeometry/Conic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceGeometry/Family",
+    "object": "http://sweetontology.net/reprSpaceGeometry/Cluster"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceGeometry/Point",
+    "object": "http://sweetontology.net/reprSpaceGeometry/GeometricalObject_0D"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceGeometry/Swarm",
+    "object": "http://sweetontology.net/reprSpaceGeometry/Cluster"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprSpaceGeometry/Trajectory",
+    "object": "http://sweetontology.net/reprSpaceGeometry/Path"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprTime/TemporalEntity",
+    "object": "http://sweetontology.net/reprTime/Duration"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprTime/TimeReference",
+    "object": "http://sweetontology.net/reprTime/TemporalReference"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprTime/UniversalTime",
+    "object": "http://sweetontology.net/reprTime/UT"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprTimeDay/Nocturnal",
+    "object": "http://sweetontology.net/reprTimeDay/Nighttime"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprTimeSeason/Fall",
+    "object": "http://sweetontology.net/reprTimeSeason/Autumn"
+  },
+  {
+    "sameAs": "http://sweetontology.net/reprTimeSeason/FallEquinox",
+    "object": "http://sweetontology.net/reprTimeSeason/AutumnalEquinox"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateBiological/Deceased",
+    "object": "http://sweetontology.net/stateBiological/Dead"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateBiological/Live",
+    "object": "http://sweetontology.net/stateBiological/Alive"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateBiological/Living",
+    "object": "http://sweetontology.net/stateBiological/Live"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateChemical/Anoxic",
+    "object": "http://sweetontology.net/stateChemical/Anoxia"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateChemical/Hypoxic",
+    "object": "http://sweetontology.net/stateChemical/Hypoxia"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateChemical/Potable",
+    "object": "http://sweetontology.net/stateChemical/Potability"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateChemical/RadioactiveDecay",
+    "object": "http://sweetontology.net/stateChemical/Radioactive"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateChemical/Radioactivity",
+    "object": "http://sweetontology.net/stateChemical/Radioactive"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateChemical/Saturated",
+    "object": "http://sweetontology.net/stateChemical/Saturate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateChemical/Saturation",
+    "object": "http://sweetontology.net/stateChemical/Saturate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateDataProcessing/Level1",
+    "object": "http://sweetontology.net/stateDataProcessing/L1"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateDataProcessing/Level2",
+    "object": "http://sweetontology.net/stateDataProcessing/L2"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateDataProcessing/Level3",
+    "object": "http://sweetontology.net/stateDataProcessing/L3"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateDataProcessing/Level4",
+    "object": "http://sweetontology.net/stateDataProcessing/L4"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateFluid/Stratified",
+    "object": "http://sweetontology.net/stateFluid/Stratification"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateOrdinal/Middle",
+    "object": "http://sweetontology.net/stateOrdinal/Intermediate"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateOrdinal/Middle",
+    "object": "http://sweetontology.net/stateOrdinal/Medium"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateOrdinal/Slightly",
+    "object": "http://sweetontology.net/stateOrdinal/Slight"
+  },
+  {
+    "sameAs": "http://sweetontology.net/statePhysical/IonizedState",
+    "object": "http://sweetontology.net/statePhysical/Ionized"
+  },
+  {
+    "sameAs": "http://sweetontology.net/statePhysical/Isostatic",
+    "object": "http://sweetontology.net/statePhysical/Isostacy"
+  },
+  {
+    "sameAs": "http://sweetontology.net/statePhysical/Moist",
+    "object": "http://sweetontology.net/statePhysical/Humid"
+  },
+  {
+    "sameAs": "http://sweetontology.net/statePhysical/NeutralState",
+    "object": "http://sweetontology.net/statePhysical/Neutral"
+  },
+  {
+    "sameAs": "http://sweetontology.net/statePhysical/NormalMode",
+    "object": "http://sweetontology.net/statePhysical/FreeOscillation"
+  },
+  {
+    "sameAs": "http://sweetontology.net/statePhysical/Solid",
+    "object": "http://sweetontology.net/statePhysical/Frozen"
+  },
+  {
+    "sameAs": "http://sweetontology.net/statePhysical/Vapor",
+    "object": "http://sweetontology.net/statePhysical/Gas"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRealm/Aloft",
+    "object": "http://sweetontology.net/stateRealm/Airborne"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRealm/Geological",
+    "object": "http://sweetontology.net/stateRealm/Geologic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRole/Keystone",
+    "object": "http://sweetontology.net/stateRole/Key"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleBiological/ToxicAirContaminant",
+    "object": "http://sweetontology.net/stateRoleBiological/TAC"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleBiological/Toxin",
+    "object": "http://sweetontology.net/stateRoleBiological/Toxic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleGeographic/Edge",
+    "object": "http://sweetontology.net/stateRoleGeographic/Boundary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleGeographic/Face",
+    "object": "http://sweetontology.net/stateRoleGeographic/Boundary"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleGeographic/Periphery",
+    "object": "http://sweetontology.net/stateRoleGeographic/Fringe"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleImpact/Disasterous",
+    "object": "http://sweetontology.net/stateRoleImpact/Disaster"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleRepresentative/Anomaly",
+    "object": "http://sweetontology.net/stateRoleRepresentative/Anomalous"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleTrust/Certainty",
+    "object": "http://sweetontology.net/stateRoleTrust/Certain"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleTrust/Predictivee",
+    "object": "http://sweetontology.net/stateRoleTrust/Predictable"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleTrust/Researched",
+    "object": "http://sweetontology.net/stateRoleTrust/Investigated"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleTrust/Risky",
+    "object": "http://sweetontology.net/stateRoleTrust/Risk"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleTrust/Trustworthy",
+    "object": "http://sweetontology.net/stateRoleTrust/Trusted"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateRoleTrust/Uncertainty",
+    "object": "http://sweetontology.net/stateRoleTrust/Uncertain"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSolid/Crystalline",
+    "object": "http://sweetontology.net/stateSolid/Crystal"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSolid/CrystalStructure",
+    "object": "http://sweetontology.net/stateSolid/Crystal"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSolid/Hardened",
+    "object": "http://sweetontology.net/stateSolid/Hard"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSolid/Softened",
+    "object": "http://sweetontology.net/stateSolid/Soft"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpace/Near",
+    "object": "http://sweetontology.net/stateSpace/Close"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpace/Nearby",
+    "object": "http://sweetontology.net/stateSpace/Near"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Anisotropy",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Anisotropic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Asymmetry",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Asymmetric"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Bottom",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Basal"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Bottom",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Base"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Floor",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Bottom"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Imbrication",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Imbricated"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Interconnected",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Connected"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Isotropy",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Isotropic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Symmetry",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Symmetric"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Top",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Rim"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceConfiguration/Trapped",
+    "object": "http://sweetontology.net/stateSpaceConfiguration/Confined"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceScale/GlobalScale",
+    "object": "http://sweetontology.net/stateSpaceScale/Global"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceScale/Microscale",
+    "object": "http://sweetontology.net/stateSpaceScale/Local"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceScale/Microscale",
+    "object": "http://sweetontology.net/stateSpaceScale/LocalScale"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceScale/Regional",
+    "object": "http://sweetontology.net/stateSpaceScale/Mesoscale"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpaceScale/RegionalScale",
+    "object": "http://sweetontology.net/stateSpaceScale/Mesoscale"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpectralBand/BroadSpectrum",
+    "object": "http://sweetontology.net/stateSpectralBand/BroadBand"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpectralBand/LongWave",
+    "object": "http://sweetontology.net/stateSpectralBand/Infrared"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpectralBand/NarrowSpectrum",
+    "object": "http://sweetontology.net/stateSpectralBand/BandLimited"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpectralBand/NarrowSpectrum",
+    "object": "http://sweetontology.net/stateSpectralBand/NarrowBand"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpectralBand/Ultraviolet",
+    "object": "http://sweetontology.net/stateSpectralBand/ShortWave"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpectralBand/Ultraviolet",
+    "object": "http://sweetontology.net/stateSpectralBand/UV"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSpectralBand/WhiteLight",
+    "object": "http://sweetontology.net/stateSpectralBand/BroadSpectrum"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSystem/Balanced",
+    "object": "http://sweetontology.net/stateSystem/Balance"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSystem/Chaotic",
+    "object": "http://sweetontology.net/stateSystem/Chaos"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSystem/Stable",
+    "object": "http://sweetontology.net/stateSystem/Stability"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSystem/TimeDependent",
+    "object": "http://sweetontology.net/stateSystem/Dynamic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSystem/TimeVarying",
+    "object": "http://sweetontology.net/stateSystem/Dynamic"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateSystem/Unstable",
+    "object": "http://sweetontology.net/stateSystem/Instability"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateThermodynamic/DryAdiabatic",
+    "object": "http://sweetontology.net/stateThermodynamic/DryAdiabat"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateThermodynamic/LocalThermodynamicEquilibrium",
+    "object": "http://sweetontology.net/stateThermodynamic/LTE"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateThermodynamic/Tepid",
+    "object": "http://sweetontology.net/stateThermodynamic/Lukewarm"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateTimeFrequency/Diurnal",
+    "object": "http://sweetontology.net/stateTimeFrequency/Daily"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateTimeFrequency/Yearly",
+    "object": "http://sweetontology.net/stateTimeFrequency/Annual"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateVisibility/Sunny",
+    "object": "http://sweetontology.net/stateVisibility/Clear"
+  },
+  {
+    "sameAs": "http://sweetontology.net/stateVisibility/Sunshine",
+    "object": "http://sweetontology.net/stateVisibility/Sunny"
+  }
+]

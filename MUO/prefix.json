@@ -1,69 +1,9 @@
 [
   {
-    "label": "yotta",
-    "factor": "1e24",
+    "label": "atto",
+    "factor": "1e-18",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yotta"
-  },
-  {
-    "label": "zetta",
-    "factor": "1e21",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zetta"
-  },
-  {
-    "label": "exa",
-    "factor": "1e18",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/exa"
-  },
-  {
-    "label": "peta",
-    "factor": "1e15",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/peta"
-  },
-  {
-    "label": "tera",
-    "factor": "1e12",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tera"
-  },
-  {
-    "label": "giga",
-    "factor": "1e9",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/giga"
-  },
-  {
-    "label": "mega",
-    "factor": "1e6",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mega"
-  },
-  {
-    "label": "kilo",
-    "factor": "1e3",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kilo"
-  },
-  {
-    "label": "hecto",
-    "factor": "1e2",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/hecto"
-  },
-  {
-    "label": "deka",
-    "factor": "1e1",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deka"
-  },
-  {
-    "label": "deci",
-    "factor": "1e-1",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deci"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/atto"
   },
   {
     "label": "centi",
@@ -72,28 +12,22 @@
     "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/centi"
   },
   {
-    "label": "milli",
-    "factor": "1e-3",
+    "label": "deci",
+    "factor": "1e-1",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/milli"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deci"
   },
   {
-    "label": "micro",
-    "factor": "1e-6",
+    "label": "deka",
+    "factor": "1e1",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/micro"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deka"
   },
   {
-    "label": "nano",
-    "factor": "1e-9",
+    "label": "exa",
+    "factor": "1e18",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/nano"
-  },
-  {
-    "label": "pico",
-    "factor": "1e-12",
-    "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/pico"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/exa"
   },
   {
     "label": "femto",
@@ -102,22 +36,22 @@
     "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/femto"
   },
   {
-    "label": "atto",
-    "factor": "1e-18",
+    "label": "gibi",
+    "factor": "1073741824",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/atto"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/gibi"
   },
   {
-    "label": "zepto",
-    "factor": "1e-21",
+    "label": "giga",
+    "factor": "1e9",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zepto"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/giga"
   },
   {
-    "label": "yocto",
-    "factor": "1e-24",
+    "label": "hecto",
+    "factor": "1e2",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yocto"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/hecto"
   },
   {
     "label": "kibi",
@@ -126,21 +60,87 @@
     "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kibi"
   },
   {
+    "label": "kilo",
+    "factor": "1e3",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kilo"
+  },
+  {
     "label": "mebi",
     "factor": "1048576",
     "labelLang": "en",
     "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mebi"
   },
   {
-    "label": "gibi",
-    "factor": "1073741824",
+    "label": "mega",
+    "factor": "1e6",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/gibi"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mega"
+  },
+  {
+    "label": "micro",
+    "factor": "1e-6",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/micro"
+  },
+  {
+    "label": "milli",
+    "factor": "1e-3",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/milli"
+  },
+  {
+    "label": "nano",
+    "factor": "1e-9",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/nano"
+  },
+  {
+    "label": "peta",
+    "factor": "1e15",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/peta"
+  },
+  {
+    "label": "pico",
+    "factor": "1e-12",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/pico"
   },
   {
     "label": "tebi",
     "factor": "1099511627776",
     "labelLang": "en",
     "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tebi"
+  },
+  {
+    "label": "tera",
+    "factor": "1e12",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tera"
+  },
+  {
+    "label": "yocto",
+    "factor": "1e-24",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yocto"
+  },
+  {
+    "label": "yotta",
+    "factor": "1e24",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yotta"
+  },
+  {
+    "label": "zepto",
+    "factor": "1e-21",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zepto"
+  },
+  {
+    "label": "zetta",
+    "factor": "1e21",
+    "labelLang": "en",
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zetta"
   }
 ]

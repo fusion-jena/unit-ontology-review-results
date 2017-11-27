@@ -1,5 +1,29 @@
 [
  {
+  "onto": "SWEET",
+  "label": "level",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Level",
+   "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level"
+  ]
+ },
+ {
+  "onto": "SWEET3",
+  "label": "level",
+  "objs": [
+   "http://sweetontology.net/propOrdinal/Level",
+   "http://sweetontology.net/propSpaceHeight/Level"
+  ]
+ },
+ {
+  "onto": "OM2",
+  "label": "luminous intensity",
+  "objs": [
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/LuminousIntensity",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousIntensityInAGivenDirectionOfASourceThatEmitsMonochromaticRadiationOfFrequency540e12HertzAndThatHasARadiantIntensityInThatDirectionOf1683WattPerSteradian"
+  ]
+ },
+ {
   "onto": "QUDT",
   "label": "plane angle",
   "objs": [
@@ -27,24 +51,8 @@
   "onto": "WD",
   "label": "temperature",
   "objs": [
-   "http://www.wikidata.org/entity/Q264647",
-   "http://www.wikidata.org/entity/Q11466"
-  ]
- },
- {
-  "onto": "OM2",
-  "label": "luminous intensity",
-  "objs": [
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/LuminousIntensity",
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousIntensityInAGivenDirectionOfASourceThatEmitsMonochromaticRadiationOfFrequency540e12HertzAndThatHasARadiantIntensityInThatDirectionOf1683WattPerSteradian"
-  ]
- },
- {
-  "onto": "SWEET",
-  "label": "level",
-  "objs": [
-   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Level",
-   "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Level"
+   "http://www.wikidata.org/entity/Q11466",
+   "http://www.wikidata.org/entity/Q264647"
   ]
  },
  {
@@ -56,12 +64,28 @@
   ]
  },
  {
+  "onto": "OM",
+  "label": "b magnitude",
+  "objs": [
+   "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude",
+   "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude"
+  ]
+ },
+ {
+  "onto": "OM2",
+  "label": "b magnitude",
+  "objs": [
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/bMagnitude",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude"
+  ]
+ },
+ {
   "onto": "WD",
   "label": "depth",
   "objs": [
-   "http://www.wikidata.org/entity/Q930412",
+   "http://www.wikidata.org/entity/Q1792720",
    "http://www.wikidata.org/entity/Q181591",
-   "http://www.wikidata.org/entity/Q1792720"
+   "http://www.wikidata.org/entity/Q930412"
   ]
  },
  {
@@ -74,10 +98,18 @@
  },
  {
   "onto": "WD",
+  "label": "entropy",
+  "objs": [
+   "http://www.wikidata.org/entity/Q45003",
+   "http://www.wikidata.org/entity/Q5380792"
+  ]
+ },
+ {
+  "onto": "WD",
   "label": "height",
   "objs": [
-   "http://www.wikidata.org/entity/Q208826",
-   "http://www.wikidata.org/entity/Q10623719"
+   "http://www.wikidata.org/entity/Q10623719",
+   "http://www.wikidata.org/entity/Q208826"
   ]
  },
  {
@@ -89,19 +121,19 @@
   ]
  },
  {
-  "onto": "WD",
-  "label": "entropy",
-  "objs": [
-   "http://www.wikidata.org/entity/Q5380792",
-   "http://www.wikidata.org/entity/Q45003"
-  ]
- },
- {
   "onto": "SWEET",
   "label": "permeability",
   "objs": [
    "http://sweet.jpl.nasa.gov/2.3/propCharge.owl#Permeability",
    "http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl#Permeability"
+  ]
+ },
+ {
+  "onto": "SWEET3",
+  "label": "permeability",
+  "objs": [
+   "http://sweetontology.net/propCharge/Permeability",
+   "http://sweetontology.net/propMassFlux/Permeability"
   ]
  },
  {
@@ -114,58 +146,42 @@
  },
  {
   "onto": "OM",
-  "label": "B magnitude",
+  "label": "u magnitude",
   "objs": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
-   "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude"
+   "http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude",
+   "http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude"
   ]
  },
  {
   "onto": "OM2",
-  "label": "B magnitude",
+  "label": "u magnitude",
   "objs": [
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/bMagnitude"
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/UMagnitude"
   ]
  },
  {
   "onto": "OM",
-  "label": "U magnitude",
+  "label": "v magnitude",
   "objs": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude",
-   "http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude"
+   "http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude",
+   "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude"
   ]
  },
  {
   "onto": "OM2",
-  "label": "U magnitude",
+  "label": "v magnitude",
   "objs": [
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/UMagnitude",
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude"
-  ]
- },
- {
-  "onto": "OM",
-  "label": "V magnitude",
-  "objs": [
-   "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude",
-   "http://www.wurvoc.org/vocabularies/om-1.8/v_magnitude"
-  ]
- },
- {
-  "onto": "OM2",
-  "label": "V magnitude",
-  "objs": [
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
-   "http://www.ontology-of-units-of-measure.org/resource/om-2/vMagnitude"
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/vMagnitude",
+   "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude"
   ]
  },
  {
   "onto": "WD",
   "label": "concentration",
   "objs": [
-   "http://www.wikidata.org/entity/Q3686031",
-   "http://www.wikidata.org/entity/Q12549812"
+   "http://www.wikidata.org/entity/Q12549812",
+   "http://www.wikidata.org/entity/Q3686031"
   ]
  },
  {
@@ -177,11 +193,11 @@
   ]
  },
  {
-  "onto": "SWEET",
-  "label": "geothermal",
+  "onto": "SWEET3",
+  "label": "Capacity",
   "objs": [
-   "http://sweet.jpl.nasa.gov/2.3/phenEnergy.owl#Geothermal",
-   "http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl#Geothermal"
+   "http://sweetontology.net/propCapacity/Capacity",
+   "http://sweetontology.net/propSpaceMultidimensional/Capacity"
   ]
  },
  {
@@ -193,11 +209,43 @@
   ]
  },
  {
+  "onto": "SWEET3",
+  "label": "sunlight",
+  "objs": [
+   "http://sweetontology.net/phenAtmo/Sunlight",
+   "http://sweetontology.net/phenAtmoSky/Sunlight"
+  ]
+ },
+ {
+  "onto": "SWEET",
+  "label": "geothermal",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/phenEnergy.owl#Geothermal",
+   "http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl#Geothermal"
+  ]
+ },
+ {
+  "onto": "SWEET3",
+  "label": "geothermal",
+  "objs": [
+   "http://sweetontology.net/phenEnergy/Geothermal",
+   "http://sweetontology.net/realmLandVolcanic/Geothermal"
+  ]
+ },
+ {
   "onto": "SWEET",
   "label": "efficiency",
   "objs": [
    "http://sweet.jpl.nasa.gov/2.3/prop.owl#Efficiency",
    "http://sweet.jpl.nasa.gov/2.3/propFraction.owl#Efficiency"
+  ]
+ },
+ {
+  "onto": "SWEET3",
+  "label": "efficiency",
+  "objs": [
+   "http://sweetontology.net/prop/Efficiency",
+   "http://sweetontology.net/propFraction/Efficiency"
   ]
  },
  {
@@ -210,6 +258,22 @@
  },
  {
   "onto": "SWEET",
+  "label": "temperature range",
+  "objs": [
+   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#TemperatureRange",
+   "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TemperatureRange"
+  ]
+ },
+ {
+  "onto": "SWEET3",
+  "label": "temperature range",
+  "objs": [
+   "http://sweetontology.net/propOrdinal/TemperatureRange",
+   "http://sweetontology.net/propTemperature/TemperatureRange"
+  ]
+ },
+ {
+  "onto": "SWEET",
   "label": "visibility",
   "objs": [
    "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#Visibility",
@@ -217,11 +281,11 @@
   ]
  },
  {
-  "onto": "SWEET",
-  "label": "temperature range",
+  "onto": "SWEET3",
+  "label": "visibility",
   "objs": [
-   "http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl#TemperatureRange",
-   "http://sweet.jpl.nasa.gov/2.3/propTemperature.owl#TemperatureRange"
+   "http://sweetontology.net/propOrdinal/Visibility",
+   "http://sweetontology.net/propSpaceDistance/Visibility"
   ]
  },
  {
@@ -234,27 +298,10 @@
  },
  {
   "onto": "WD",
-  "label": "red shift",
+  "label": "redshift",
   "objs": [
-   "http://www.wikidata.org/entity/Q76250",
-   "http://www.wikidata.org/entity/P1090"
-  ]
- },
- {
-  "onto": "WD",
-  "label": "flight",
-  "objs": [
-   "http://www.wikidata.org/entity/Q206021",
-   "http://www.wikidata.org/entity/Q15921555",
-   "http://www.wikidata.org/entity/Q16746864"
-  ]
- },
- {
-  "onto": "WD",
-  "label": "equivalent dose",
-  "objs": [
-   "http://www.wikidata.org/entity/Q256106",
-   "http://www.wikidata.org/entity/Q15855957"
+   "http://www.wikidata.org/entity/P1090",
+   "http://www.wikidata.org/entity/Q76250"
   ]
  },
  {
@@ -267,18 +314,35 @@
  },
  {
   "onto": "WD",
-  "label": "non-mechanical work (physics, thermodynamics)",
+  "label": "equivalent dose",
   "objs": [
-   "http://www.wikidata.org/entity/Q28599240",
-   "http://www.wikidata.org/entity/Q28555555"
+   "http://www.wikidata.org/entity/Q15855957",
+   "http://www.wikidata.org/entity/Q256106"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "flight",
+  "objs": [
+   "http://www.wikidata.org/entity/Q15921555",
+   "http://www.wikidata.org/entity/Q16746864",
+   "http://www.wikidata.org/entity/Q206021"
   ]
  },
  {
   "onto": "WD",
   "label": "maximum speed",
   "objs": [
-   "http://www.wikidata.org/entity/Q28809136",
-   "http://www.wikidata.org/entity/Q20973478"
+   "http://www.wikidata.org/entity/Q20973478",
+   "http://www.wikidata.org/entity/Q28809136"
+  ]
+ },
+ {
+  "onto": "WD",
+  "label": "mechanical work (physics, thermodynamics)",
+  "objs": [
+   "http://www.wikidata.org/entity/Q28555555",
+   "http://www.wikidata.org/entity/Q28599240"
   ]
  }
 ]

@@ -1,0 +1,4114 @@
+[
+  {
+    "quantKind": "http://sweetontology.net/phen/RadiativeCooling",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phen/RadiativeHeating",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmo/Sunlight",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPrecipitation/Hurricane",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPrecipitation/HurricaneBand",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPrecipitation/TropicalStorm",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPrecipitation/Typhoon",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/AtmosphericCyclone",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/AtmosphericHighPressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/AtmosphericLowPressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/CutOffHigh",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/CutOffLow",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/ExtratropicalCyclone",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/KatallobaticCenter",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/Mesocyclone",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/Mesolow",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/MonsoonLow",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/PolarCyclone",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/PolarLow",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/SubtropicalCyclone",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/TropicalCyclone",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoPressure/TropicalUpperTroposphericTrough",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenAtmoSky/Sunlight",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/ActiveSolarEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/BinaryCycle",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/Biopower",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/ConcentratingSolarPower",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/DrySteam",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/Electricity",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/EnergyCollection",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/EnergyForm",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/EnergySource",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/FlashSteam",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/Geothermal",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/GeothermalPowerProcess",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/PassiveSolarEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/Photovoltaics",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/RenewableEnergySource",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/SolarEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/SolarPower",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/SolarThermalPower",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/ThermalCollection",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenEnergy/WindEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenFluidDynamics/Cyclone",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenFluidDynamics/Depression",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenFluidDynamics/HighPressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/phenFluidDynamics/LowPressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/AngularMotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/AngularMotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMeterSquaredPerSecondKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/AngularMotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/AngularMotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/BiologicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ChemicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ChemicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/ampere"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/candela"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/candelaPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/coulomb"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/dimensionlessUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/farad"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/faradPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/FTU"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/henry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/henryPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerTesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/siemens"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/tesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/voltPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/watt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradianPerWavelength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ElectromagneticRadiationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/weber"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/FluidProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/FluidProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/FluidProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/pascalSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/GeologicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/HydrogeologicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "unit": "http://sweetontology.net/reprSciUnits/micron"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km2"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km3"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Measure",
+    "unit": "http://sweetontology.net/reprSciUnits/radian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramMeterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramRadianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMeterSquaredPerSecondKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/MotionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/ampere"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/candela"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/candelaPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/coulomb"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/dimensionlessUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/farad"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/faradPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/FTU"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/henry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/henryPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogramPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterCubedPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMolePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerTesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramMeterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramRadianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/ohm"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/ohmMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/pascalSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMeterSquaredPerSecondKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perPascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/second"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/siemens"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/tesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/volt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/voltPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/watt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradianPerWavelength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/PhysicalProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/weber"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/ampere"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/candela"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/candelaPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/coulomb"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/dimensionlessUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/farad"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/faradPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/FTU"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/henry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/henryPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogramPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterCubedPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMolePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerTesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramMeterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramRadianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/lumen"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/lux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubedPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/MHz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/micron"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km2"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km3"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/mole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/newton"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/ohm"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/ohmMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/pascalSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/perKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMeterSquaredPerSecondKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/perPascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/radian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/second"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/siemens"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/steradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/tesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/volt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/voltPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/watt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradianPerWavelength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/Property",
+    "unit": "http://sweetontology.net/reprSciUnits/weber"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/RadiationMediumInteractionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ReactionProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogramPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterCubedPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMolePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/ThermodynamicProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/WaveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/WaveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/WaveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/WaveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/WaveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/WaveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/WaveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/prop/WaveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/Capacity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/Capacity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogramPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/Capacity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterCubedPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/Capacity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMolePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/CoefficientOfHeatTransfer",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/CoefficientOfThermalExpansion",
+    "unit": "http://sweetontology.net/reprSciUnits/perKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/HeatCapacity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/LinearThermalExpansion",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/MolarHeatCapacity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMolePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/SpecificHeat",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogramPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/VolumetricHeatCapacity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterCubedPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCapacity/VolumetricThermalExpansion",
+    "unit": "http://sweetontology.net/reprSciUnits/perKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Capacitance",
+    "unit": "http://sweetontology.net/reprSciUnits/farad"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/CationExchangeCapacity",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/DielectricConstant",
+    "unit": "http://sweetontology.net/reprSciUnits/dimensionlessUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricCharge",
+    "unit": "http://sweetontology.net/reprSciUnits/coulomb"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricChargeDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricCurrent",
+    "unit": "http://sweetontology.net/reprSciUnits/ampere"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricCurrentDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricDipoleMoment",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricFieldStrength",
+    "unit": "http://sweetontology.net/reprSciUnits/voltPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricFluxDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ElectricPotential",
+    "unit": "http://sweetontology.net/reprSciUnits/volt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/ExchangeCapacity",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Inductance",
+    "unit": "http://sweetontology.net/reprSciUnits/henry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticDipoleMoment",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerTesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFieldStrength",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFlux",
+    "unit": "http://sweetontology.net/reprSciUnits/weber"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticFluxDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/tesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/MagneticMoment",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerTesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Permeability",
+    "unit": "http://sweetontology.net/reprSciUnits/henryPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCharge/Permittivity",
+    "unit": "http://sweetontology.net/reprSciUnits/faradPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/BedLoad",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/BiologicalOxygenDemand",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/ChemicalOxygenDemand",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/DissolvedLoad",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Load",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/OxygenDemand",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/SaturationProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/SuspendedLoad",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/TotalDissolvedSolids",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/TotalSuspendedSolids",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/WashLoad",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propChemical/Zoomass",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Conductance",
+    "unit": "http://sweetontology.net/reprSciUnits/siemens"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Conductivity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Conductivity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Conductivity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/ElectricalConductivity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/HallConductivity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/HydraulicConductivity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Impedance",
+    "unit": "http://sweetontology.net/reprSciUnits/ohm"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/PedersenConductivity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Resistance",
+    "unit": "http://sweetontology.net/reprSciUnits/ohm"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/Resistivity",
+    "unit": "http://sweetontology.net/reprSciUnits/ohmMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/SpecificConductance",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propConductivity/ThermalConductivity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/AtomicNeutralNumberDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/Fluence",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/MolecularNeutralNumberDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/NeutralNumberDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/NumberDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propCount/TotalElectronContent",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Confluence",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Diffluence",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Diffusivity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/DiffusivityQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/EddyDiffusivity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/KinematicViscosity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/ThermalDiffusivity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/Transmissivity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propDiffusivity/VelocityPotential",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/AvailablePotentialEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/BindingEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/ChemicalEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/ConvectiveInhibition",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Energy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/EnergyDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Enthalpy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Entropy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/EvaporativeAvailablePotentialEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Geopotential",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/GibbsFreeEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/GravitationalPotential",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Hamiltonian",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Heat",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/InternalEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/IonizationEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/KineticEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Lagrangian",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/LatentHeat",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Luminosity",
+    "unit": "http://sweetontology.net/reprSciUnits/watt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/MatricPotential",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/PotentialEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Power",
+    "unit": "http://sweetontology.net/reprSciUnits/watt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/RadiantEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/SensibleHeat",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/SpecificEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/SpecificPotentialEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/ThermochemicalEnergy",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergy/Work",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Brightness",
+    "unit": "http://sweetontology.net/reprSciUnits/candelaPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Brightness",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradianPerWavelength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/CloudForcing",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/EnergyFlux",
+    "unit": "http://sweetontology.net/reprSciUnits/lumen"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/EnergyFlux",
+    "unit": "http://sweetontology.net/reprSciUnits/lux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/EnergyFlux",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/EnergyFlux_Wm2",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/FluxDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Illuminance",
+    "unit": "http://sweetontology.net/reprSciUnits/lux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Irradiance",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Luminance",
+    "unit": "http://sweetontology.net/reprSciUnits/candelaPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Luminance",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradianPerWavelength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/LuminousFlux",
+    "unit": "http://sweetontology.net/reprSciUnits/lumen"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/LuminousIntensity",
+    "unit": "http://sweetontology.net/reprSciUnits/candela"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Opacity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/PoyntingVector",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/Radiance",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/RadiantFlux",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/RadiativeFlux",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/RadiativeForcing",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/SolarFlux",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/SolarForcing",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/SpectralRadiance",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propEnergyFlux/TerrestrialRadiation",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Absorptance",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Absorptivity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/AirSpaceRatio",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Albedo",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/AvailableWaterCapacity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Bioavailability",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/BondAlbedo",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/CapacityFactor",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/CloudCover",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/ConditionalProbability",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/DegreeOfIonization",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/DifferentialWaterCapacity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/EffectivePorosity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Efficiency",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Emissivity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/FieldCapacity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/FPAR",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/FractionalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Humidity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/JointProbability",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Likelihood",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MarketShare",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MassFraction",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Metallicity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MixingRatio",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MoleConcentration",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MoleFraction",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/MoleRatio",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Porosity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Probability",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/pValue",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Reflectance",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Reflectivity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Refractivity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/RelativeHumidity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/SaturationMixingRatio",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/SpecificHumidity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Transmittance",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/Transparency",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/VolumeFraction",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/VolumeMixingRatio",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propFraction/WaterHoldingCapacity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propIndex/Turbidity",
+    "unit": "http://sweetontology.net/reprSciUnits/FTU"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/BulkDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/ConsistenceProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/ConsistenceProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/ConsistenceProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Density",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Dosage",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/DryWeight",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Mass",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/MaterialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/MaterialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/MaterialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/MaterialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/MaterialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/perKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/MaterialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/Moles",
+    "unit": "http://sweetontology.net/reprSciUnits/mole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/OpticalMass",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/PotentialDensity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/SigmaT",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/SolidProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/SpecificVolume",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubedPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propMass/StrengthProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/BarometricPressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Compressibility",
+    "unit": "http://sweetontology.net/reprSciUnits/perPascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/DifferentialPressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/ExnerFunction",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/HydrostaticPressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/MomentumFlux",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/PartialPressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Pressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/ShearStress",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/StaticPressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Stiffness",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Stress",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Suction",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/SurfaceTension",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/TensileStress",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/TotalPressure",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propPressure/Viscosity",
+    "unit": "http://sweetontology.net/reprSciUnits/pascalSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/ampere"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulomb"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/dimensionlessUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/farad"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/faradPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/henry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/henryPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerTesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemens"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/tesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/voltPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/weber"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/candela"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/candelaPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/watt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ElectromagneticRadiationQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradianPerWavelength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ExtensiveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ExtensiveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ExtensiveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/watt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Flux",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Flux",
+    "unit": "http://sweetontology.net/reprSciUnits/lumen"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Flux",
+    "unit": "http://sweetontology.net/reprSciUnits/lux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Flux",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Flux",
+    "unit": "http://sweetontology.net/reprSciUnits/tesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Flux",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Flux",
+    "unit": "http://sweetontology.net/reprSciUnits/weber"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Force",
+    "unit": "http://sweetontology.net/reprSciUnits/newton"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntensiveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntensiveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntensiveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntensiveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubedPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntensiveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/newton"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntensiveProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntervalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntervalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntervalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/MHz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntervalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/IntervalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogramPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterCubedPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMolePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramMeterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramRadianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/ohm"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/ohmMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/pascalSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMeterSquaredPerSecondKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perPascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/second"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/volt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/PhysicalQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Potential",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Potential",
+    "unit": "http://sweetontology.net/reprSciUnits/volt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/ampere"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/candela"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/candelaPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulomb"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/dimensionlessUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/farad"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/faradPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/FTU"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/henry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/henryPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogramPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterCubedPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMolePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerTesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramMeterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramRadianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubedPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/mole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/newton"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/ohm"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/ohmMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/pascalSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMeterSquaredPerSecondKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perPascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/radian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/second"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemens"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/steradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/tesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/volt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/voltPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/watt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradianPerWavelength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/Quantity",
+    "unit": "http://sweetontology.net/reprSciUnits/weber"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/dimensionlessUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/FTU"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/RadiationMediumInteractionQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScalarPotential",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScalarPotential",
+    "unit": "http://sweetontology.net/reprSciUnits/volt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/ampere"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/amperePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/candela"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/candelaPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulomb"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/dimensionlessUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/farad"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/faradPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/FTU"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/henry"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/henryPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogramPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterCubedPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMolePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerTesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramMeterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramPerMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramRadianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/lumen"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/lux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubedPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/MHz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/mole"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/newton"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/normalizedUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/ohm"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/ohmMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/pascalSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMeterSquaredPerSecondKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perPascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/radian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/second"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemens"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerKilogram"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/siemensPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/steradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/tesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/volt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/voltPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/watt"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerSteradianPerWavelength"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ScientificQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/weber"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerKilogramPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMeterCubedPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerMolePerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquaredPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/ThermodynamicQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquaredPerKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/coulombPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/joulePerTesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/lumen"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/lux"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/pascal"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/tesla"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/wattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propQuantity/VectorQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/weber"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularAcceleration",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularMomentum",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramMeterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularMomentum",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramRadianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/AngularVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/radianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/CoriolisParameter",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/CoriolisParameter",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/ErtelPotentialVorticity",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMeterSquaredPerSecondKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Gyrofrequency",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Gyrofrequency",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/PotentialVorticity",
+    "unit": "http://sweetontology.net/reprSciUnits/perKilogramMeterSquaredPerSecondKelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propRotation/Torque",
+    "unit": "http://sweetontology.net/reprSciUnits/newtonMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/LinearExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/LinearExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/LinearExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/LinearExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/micron"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/LinearExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/micron"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "unit": "http://sweetontology.net/reprSciUnits/micron"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km2"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km3"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialMeasure",
+    "unit": "http://sweetontology.net/reprSciUnits/radian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/micron"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km2"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km3"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpace/SpatialProperty",
+    "unit": "http://sweetontology.net/reprSciUnits/radian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDirection/Angle",
+    "unit": "http://sweetontology.net/reprSciUnits/radian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDirection/SolidAngle",
+    "unit": "http://sweetontology.net/reprSciUnits/steradian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/CompactionCoefficient",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/DebyeLength",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Distance",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Distance",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Distance",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Distance",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/DistanceRange",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/DistanceRange_km",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/ExtinctionCoefficient",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Fetch",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Gyroradius",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Length",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Length",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Length",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Length",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/MeanFreePath",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/MixingLength",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/ObukhovLength",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/PerMeterQuantity",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/PulseLength",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Range",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/RossbyRadiusOfDeformation",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/ScatteringCoefficient",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Size",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/SizeRange",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/SizeRange",
+    "unit": "http://sweetontology.net/reprSciUnits/micron"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/SizeRange_micron",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/SizeRange_micron",
+    "unit": "http://sweetontology.net/reprSciUnits/micron"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/SpatialFrequency",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Visibility",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength_cm",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength_cm",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength_nm",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/Wavelength_nm",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/WavelengthBand",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/WavelengthBand_nm",
+    "unit": "http://sweetontology.net/reprSciUnits/nanometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceDistance/WaveNumber",
+    "unit": "http://sweetontology.net/reprSciUnits/perMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Altitude",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/BarometricAltitude",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Ceiling",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Crest",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/DampingDepth",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Depth",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Depth",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/DepthRange",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/DepthRange_km",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Drawdown",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/DynamicTopography",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Elevation",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/EstimatedCeiling",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/FlightLevel",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Freeboard",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/GeopotentialHeight",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Height",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/HeightRange",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/HeightRange",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/HeightRange_km",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Level",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/MixingHeight",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/ScaleHeight",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SeaState",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SecchiDepth",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SignificantHeight",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/SkinDepth",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/TopographicProminence",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/Topography",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/UpperLevel",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/VerticalExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/VerticalExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceHeight/VerticalExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/AngularExtent",
+    "unit": "http://sweetontology.net/reprSciUnits/radian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Area",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Area",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km2"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Capacity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/CarbonFootprint",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/CrossSection",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/FieldOfView",
+    "unit": "http://sweetontology.net/reprSciUnits/radian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Footprint",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/RadarCrossSection",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Resolution",
+    "unit": "http://sweetontology.net/reprSciUnits/radian"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Volume",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceMultidimensional/Volume",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km3"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/AverageAnnualPrecipitation",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/AverageDrySeasonPrecipitation",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/AverageMonthlyPrecipitation",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/EquivalentThickness",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Evapotranspiration",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/FluidHead",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/GaugeHeight",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/HalfPotentialEvapotranspiration",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/HydraulicHead",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/LakeStage",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/LiquidWaterEquivalent",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/OpticalDepth",
+    "unit": "http://sweetontology.net/reprSciUnits/dimensionlessUnit"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PotentialEvapotranspiration",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitableWater",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Precipitation",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Precipitation",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitationRange",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitationRange",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitationRange_cm",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PrecipitationRange_cm",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/PressureThickness",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/SnowCover",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Snowpack",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/SnowWaterEquivalent",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/StageHeight",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/StaticHead",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/StreamStage",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Thickness",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/Thickness",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/TotalHead",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/WaterContent",
+    "unit": "http://sweetontology.net/reprSciUnits/centimeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/WaterContent",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpaceThickness/WaterHeight",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Acceleration",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Airspeed",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/AlfvenVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/DopplerVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Drift",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/EscapeVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/GroundSpeed",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/GroupVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Inertia",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramMeterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/IonVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/MagnetiCurvatureDrift",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Momentum",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramMeterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Momentum",
+    "unit": "http://sweetontology.net/reprSciUnits/kilogramRadianPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/NeutralVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Omega",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/PhaseVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/ProperMotion",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/RadialVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/SeepageVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Speed",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/TangentialAcceleration",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecondSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/TerminalVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/ThermalVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/Velocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/VerticalVelocity",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propSpeed/WindSpeed",
+    "unit": "http://sweetontology.net/reprSciUnits/meterPerSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/AntennaTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/BoilingPoint",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/BrightnessTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/ColdestMonthTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DewPoint",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DewPointDepression",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/DryBulbTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EffectiveTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/ElectronTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EquivalentPotentialTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/EquivalentTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/GlobalWarmingPotential",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/IonTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/KineticTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeanAnnualTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeanMonthlyTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/MeltingPoint",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/NeutralTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PotentialTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PseudoEquivalentPotentialTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/PseudoEquivalentTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/StaticTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/Temperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/TotalTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/TriplePoint",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/VirtualPotentialTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/VirtualTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WarmestMonthTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WetBulbPotentialTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WetBulbTemperature",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperature/WindChillIndex",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvin"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/AutoConvectiveLapseRate",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/DryAdiabaticLapseRate",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/EnvironmentalLapseRate",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/LapseRate",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureDepthDerivative",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureGradient",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTemperatureGradient/TemperatureHeightDerivative",
+    "unit": "http://sweetontology.net/reprSciUnits/kelvinPerMeter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/Duration",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/MonthRange",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/TemporalRange",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/Time",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTime/Time",
+    "unit": "http://sweetontology.net/reprSciUnits/second"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Bandwidth",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Bandwidth",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/BruntVaisalaFrequency",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/BruntVaisalaFrequency",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Cadence",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Cadence",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Frequency",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Frequency",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/FrequencyBand",
+    "unit": "http://sweetontology.net/reprSciUnits/MHz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/FrequencyBand_MHz",
+    "unit": "http://sweetontology.net/reprSciUnits/MHz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Incidence",
+    "unit": "http://sweetontology.net/reprSciUnits/hertz"
+  },
+  {
+    "quantKind": "http://sweetontology.net/propTimeFrequency/Incidence",
+    "unit": "http://sweetontology.net/reprSciUnits/perSecond"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmAtmoBoundaryLayer/Cap",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmAtmoWeather/AdiabaticCondensationLevel",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmAtmoWeather/CondensationLevel",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmAtmoWeather/ConvectiveCondensationLevel",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmLandVolcanic/Geothermal",
+    "unit": "http://sweetontology.net/reprSciUnits/joule"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFeature/OceanArea",
+    "unit": "http://sweetontology.net/reprSciUnits/meterSquared"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFeature/OceanArea",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km2"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFeature/OceanDepth",
+    "unit": "http://sweetontology.net/reprSciUnits/kilometer"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFeature/OceanDepth",
+    "unit": "http://sweetontology.net/reprSciUnits/meter"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFeature/OceanVolume",
+    "unit": "http://sweetontology.net/reprSciUnits/meterCubed"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmOceanFeature/OceanVolume",
+    "unit": "http://sweetontology.net/reprSciUnits/million_km3"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/Austral",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/Borealis",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/LatitudeBand",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/LatitudeLine",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/NorthernHemisphere",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/NorthLatitudeBand",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/NorthLatitudeLine",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/SouthernHemisphere",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/SouthLatitudeBand",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/realmRegion/SouthLatitudeLine",
+    "unit": "http://sweetontology.net/reprSciUnits/degrees"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprTimeSeason/ColdestMonth",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprTimeSeason/ColdestMonth",
+    "unit": "http://sweetontology.net/reprSciUnits/second"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprTimeSeason/WarmestMonth",
+    "unit": "http://sweetontology.net/reprSciUnits/month"
+  },
+  {
+    "quantKind": "http://sweetontology.net/reprTimeSeason/WarmestMonth",
+    "unit": "http://sweetontology.net/reprSciUnits/second"
+  }
+]

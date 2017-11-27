@@ -156,10 +156,6 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquared"
   },
   {
-    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralIrradiance",
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquared"
-  },
-  {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Length",
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Angstrom"
   },
@@ -396,12 +392,16 @@
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquaredPerSteradian"
   },
   {
-    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralRadiance",
-    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquaredPerSteradian"
-  },
-  {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#RadionucleotideActivity",
     "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Becquerel"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralIrradiance",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquared"
+  },
+  {
+    "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#SpectralRadiance",
+    "unit": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#WattPerMeterSquaredPerSteradian"
   },
   {
     "quantKind": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-characteristics.owl#Speed",

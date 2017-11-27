@@ -4,104 +4,6 @@
   "values": [
    {
     "__type": "SemPrefix",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/pebi",
-    "ontology": "OM",
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "pebi"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "pebi"
-      ]
-     },
-     "nl": {
-      "__type": "Set",
-      "values": [
-       "pebi"
-      ]
-     }
-    },
-    "dispLabel": "pebi",
-    "factor": 1125899906842624,
-    "raw": {
-     "labelLang": "en",
-     "label": "pebi",
-     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/pebi",
-     "factor": 1125899906842624
-    }
-   },
-   {
-    "__type": "SemPrefix",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/pebi",
-    "ontology": "OM2",
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "pebi"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "pebi"
-      ]
-     },
-     "nl": {
-      "__type": "Set",
-      "values": [
-       "pebi"
-      ]
-     }
-    },
-    "dispLabel": "pebi",
-    "factor": 1125899906842624,
-    "raw": {
-     "labelLang": "en",
-     "label": "pebi",
-     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/pebi",
-     "factor": 1125899906842624
-    }
-   },
-   {
-    "__type": "SemPrefix",
-    "uri": "http://qudt.org/vocab/unit#Pebi",
-    "ontology": "QUDT",
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "pebi"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "pebi"
-      ]
-     }
-    },
-    "dispLabel": "Pebi",
-    "factor": 125899906842624,
-    "raw": {
-     "labelLang": "",
-     "label": "Pebi",
-     "prefix": "http://qudt.org/vocab/unit#Pebi",
-     "factor": "125899906842624"
-    }
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemPrefix",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/exbi",
     "ontology": "OM",
     "labels": {
@@ -191,6 +93,104 @@
      "label": "Exbi",
      "prefix": "http://qudt.org/vocab/unit#Exbi",
      "factor": "152921504606846976"
+    }
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemPrefix",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/pebi",
+    "ontology": "OM",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     }
+    },
+    "dispLabel": "pebi",
+    "factor": 1125899906842624,
+    "raw": {
+     "labelLang": "en",
+     "label": "pebi",
+     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/pebi",
+     "factor": 1125899906842624
+    }
+   },
+   {
+    "__type": "SemPrefix",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/pebi",
+    "ontology": "OM2",
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     }
+    },
+    "dispLabel": "pebi",
+    "factor": 1125899906842624,
+    "raw": {
+     "labelLang": "en",
+     "label": "pebi",
+     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/pebi",
+     "factor": 1125899906842624
+    }
+   },
+   {
+    "__type": "SemPrefix",
+    "uri": "http://qudt.org/vocab/unit#Pebi",
+    "ontology": "QUDT",
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "pebi"
+      ]
+     }
+    },
+    "dispLabel": "Pebi",
+    "factor": 125899906842624,
+    "raw": {
+     "labelLang": "",
+     "label": "Pebi",
+     "prefix": "http://qudt.org/vocab/unit#Pebi",
+     "factor": "125899906842624"
     }
    }
   ]

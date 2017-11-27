@@ -7,107 +7,11 @@
   "system": [],
   "unit": [
    {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon",
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere",
     "lang": "en",
     "labels": [
-     "gon",
-     "grade"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1",
-    "lang": "en",
-    "labels": [
-     "Gunter's chain",
-     "Surveyor's chain"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain",
-    "lang": "en",
-    "labels": [
-     "Ramden's chain",
-     "Engineer's chain"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight",
-    "lang": "en",
-    "labels": [
-     "short hundredweight",
-     "U.S. hundredweight"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight",
-    "lang": "en",
-    "labels": [
-     "British hundredweight",
-     "long hunderdweight"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton",
-    "lang": "en",
-    "labels": [
-     "short ton",
-     "U.S. ton"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton",
-    "lang": "en",
-    "labels": [
-     "long ton",
-     "British ton"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/stone",
-    "lang": "en",
-    "labels": [
-     "stone",
-     "British stone"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2",
-    "lang": "en",
-    "labels": [
-     "dram",
-     "drachm"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/pied",
-    "lang": "en",
-    "labels": [
-     "pied",
-     "French foot"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/pouce",
-    "lang": "en",
-    "labels": [
-     "pouce",
-     "French inch"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/ligne",
-    "lang": "en",
-    "labels": [
-     "ligne",
-     "French line"
-    ]
-   },
-   {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/didot",
-    "lang": "en",
-    "labels": [
-     "didot",
-     "Didot's point"
+     "Charrière",
+     "french"
     ]
    },
    {
@@ -119,11 +23,107 @@
     ]
    },
    {
-    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/gauge-of-catheters/Charriere",
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/didot",
     "lang": "en",
     "labels": [
-     "Charrière",
-     "french"
+     "didot",
+     "Didot's point"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/Gunter_s-chain-1",
+    "lang": "en",
+    "labels": [
+     "Gunter's chain",
+     "Surveyor's chain"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/ligne",
+    "lang": "en",
+    "labels": [
+     "French line",
+     "ligne"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/pied",
+    "lang": "en",
+    "labels": [
+     "French foot",
+     "pied"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/pouce",
+    "lang": "en",
+    "labels": [
+     "French inch",
+     "pouce"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/length/Ramden_s-chain",
+    "lang": "en",
+    "labels": [
+     "Engineer's chain",
+     "Ramden's chain"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/dram-2",
+    "lang": "en",
+    "labels": [
+     "drachm",
+     "dram"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-hunderdweight",
+    "lang": "en",
+    "labels": [
+     "British hundredweight",
+     "long hunderdweight"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/long-ton",
+    "lang": "en",
+    "labels": [
+     "British ton",
+     "long ton"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-hundredweight",
+    "lang": "en",
+    "labels": [
+     "short hundredweight",
+     "U.S. hundredweight"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/short-ton",
+    "lang": "en",
+    "labels": [
+     "short ton",
+     "U.S. ton"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/mass/stone",
+    "lang": "en",
+    "labels": [
+     "British stone",
+     "stone"
+    ]
+   },
+   {
+    "uri": "http://purl.oclc.org/NET/muo/ucum/unit/plane-angle/gon",
+    "lang": "en",
+    "labels": [
+     "gon",
+     "grade"
     ]
    }
   ]
@@ -169,6 +169,14 @@
   "unit": []
  },
  "SWEET": {
+  "appField": [],
+  "dimension": [],
+  "prefix": [],
+  "quantKind": [],
+  "system": [],
+  "unit": []
+ },
+ "SWEET3": {
   "appField": [],
   "dimension": [],
   "prefix": [],

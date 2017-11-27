@@ -5,600 +5,1039 @@
    "values": [
     {
      "__type": "SemUnit",
-     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-flux-density/Tesla",
+     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/arbitrary/international-unit",
      "ontology": "MUO",
      "labels": {
       "en": {
        "__type": "Set",
        "values": [
-        "tesla"
+        "international",
+        "-unit international",
+        "-unitinternational"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
-        "tesla"
+        "-unit international",
+        "-unitinternational"
        ]
       }
      },
-     "dispLabel": "Tesla",
+     "dispLabel": "international unit",
      "isPrefixed": false,
      "raw": null
     },
     {
      "__type": "SemUnit",
-     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/tesla",
+     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/International_Unit",
      "ontology": "OM",
      "labels": {
       "en": {
        "__type": "Set",
        "values": [
-        "tesla"
+        "international"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
-        "tesla"
-       ]
-      },
-      "nl": {
-       "__type": "Set",
-       "values": [
-        "tesla"
+        "international"
        ]
       }
      },
-     "dispLabel": "tesla",
+     "dispLabel": "International Unit",
      "isPrefixed": false,
      "raw": null
     },
     {
      "__type": "SemUnit",
-     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
+     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/InternationalUnit",
      "ontology": "OM2",
      "labels": {
       "en": {
        "__type": "Set",
        "values": [
-        "tesla"
+        "international"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
-        "tesla"
-       ]
-      },
-      "nl": {
-       "__type": "Set",
-       "values": [
-        "tesla"
+        "international"
        ]
       }
      },
-     "dispLabel": "tesla",
+     "dispLabel": "International Unit",
      "isPrefixed": false,
      "raw": null
     },
     {
      "__type": "SemUnit",
-     "uri": "http://purl.oclc.org/NET/ssnx/qu/unit#tesla",
-     "ontology": "QU",
-     "labels": {
-      "": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      }
-     },
-     "dispLabel": "tesla",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://qudt.org/vocab/unit#Tesla",
+     "uri": "http://qudt.org/vocab/unit#InternationalUnit",
      "ontology": "QUDT",
      "labels": {
       "": {
        "__type": "Set",
        "values": [
-        "tesla"
+        "international"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
-        "tesla"
+        "international"
        ]
       }
      },
-     "dispLabel": "Tesla",
+     "dispLabel": "International Unit",
      "isPrefixed": false,
      "raw": null
     },
     {
      "__type": "SemUnit",
-     "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#tesla",
-     "ontology": "SWEET",
-     "labels": {
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      }
-     },
-     "dispLabel": "tesla",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://purl.obolibrary.org/obo/UO_0000228",
-     "ontology": "UO",
-     "labels": {
-      "": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "uo 0000228",
-        "uo0000228"
-       ]
-      }
-     },
-     "dispLabel": "tesla",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://www.wikidata.org/entity/Q163343",
+     "uri": "http://www.wikidata.org/entity/Q835916",
      "ontology": "WD",
      "labels": {
-      "yue": {
+      "vi": {
        "__type": "Set",
        "values": [
-        "特斯拉"
+        "đơn vị quốc tế",
+        "đơnvịquốctế"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
-        "q163343"
-       ]
-      },
-      "ar": {
-       "__type": "Set",
-       "values": [
-        "تسلا"
-       ]
-      },
-      "az": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "be-tarask": {
-       "__type": "Set",
-       "values": [
-        "тэсла"
-       ]
-      },
-      "bs": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "cs": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "da": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "de": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "fa": {
-       "__type": "Set",
-       "values": [
-        "تسلا"
-       ]
-      },
-      "gl": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "hr": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "ko": {
-       "__type": "Set",
-       "values": [
-        "테슬라"
-       ]
-      },
-      "pt": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "sk": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "sl": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "sv": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "tr": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "uk": {
-       "__type": "Set",
-       "values": [
-        "тесла"
-       ]
-      },
-      "zh": {
-       "__type": "Set",
-       "values": [
-        "特斯拉"
-       ]
-      },
-      "bg": {
-       "__type": "Set",
-       "values": [
-        "тесла"
-       ]
-      },
-      "mk": {
-       "__type": "Set",
-       "values": [
-        "тесла"
-       ]
-      },
-      "ca": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "he": {
-       "__type": "Set",
-       "values": [
-        "טסלה"
-       ]
-      },
-      "eu": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "ast": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "be": {
-       "__type": "Set",
-       "values": [
-        "тэсла"
-       ]
-      },
-      "bo": {
-       "__type": "Set",
-       "values": [
-        "ཐེ་སླ།"
-       ]
-      },
-      "cy": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "el": {
-       "__type": "Set",
-       "values": [
-        "τέσλα"
-       ]
-      },
-      "en": {
-       "__type": "Set",
-       "values": [
-        "tesla",
-        "q163343"
+        "q835916"
        ]
       },
       "eo": {
        "__type": "Set",
        "values": [
-        "teslo"
-       ]
-      },
-      "es": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "et": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "fi": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "fr": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "ga": {
-       "__type": "Set",
-       "values": [
-        "teisle"
-       ]
-      },
-      "hi": {
-       "__type": "Set",
-       "values": [
-        "टैस्ला"
-       ]
-      },
-      "hu": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "hy": {
-       "__type": "Set",
-       "values": [
-        "տեսլա"
-       ]
-      },
-      "id": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "is": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "it": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "ka": {
-       "__type": "Set",
-       "values": [
-        "ტესლა"
-       ]
-      },
-      "kk": {
-       "__type": "Set",
-       "values": [
-        "тесла"
-       ]
-      },
-      "lt": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "lv": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "mn": {
-       "__type": "Set",
-       "values": [
-        "тесла"
-       ]
-      },
-      "mt": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "nb": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "nl": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "nn": {
-       "__type": "Set",
-       "values": [
-        "eininga tesla",
-        "einingatesla"
-       ]
-      },
-      "pl": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "pms": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "ro": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "ru": {
-       "__type": "Set",
-       "values": [
-        "тесла"
-       ]
-      },
-      "sco": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "sh": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "sq": {
-       "__type": "Set",
-       "values": [
-        "tesla"
-       ]
-      },
-      "sr": {
-       "__type": "Set",
-       "values": [
-        "тесла"
-       ]
-      },
-      "sr-ec": {
-       "__type": "Set",
-       "values": [
-        "тесла"
+        "internacia unuo",
+        "internaciaunuo"
        ]
       },
       "sr-el": {
        "__type": "Set",
        "values": [
-        "tesla"
+        "internacionalna jedinica",
+        "internacionalnajedinica"
        ]
       },
-      "uz": {
+      "nn": {
        "__type": "Set",
        "values": [
-        "tesla"
+        "internasjonal eining",
+        "internasjonaleining"
        ]
       },
-      "vi": {
+      "en": {
        "__type": "Set",
        "values": [
-        "tesla"
+        "international",
+        "q835916"
+       ]
+      },
+      "en-ca": {
+       "__type": "Set",
+       "values": [
+        "international"
+       ]
+      },
+      "en-gb": {
+       "__type": "Set",
+       "values": [
+        "international"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "internationale eenheid",
+        "internationaleeenheid"
+       ]
+      },
+      "de": {
+       "__type": "Set",
+       "values": [
+        "internationale"
+       ]
+      },
+      "de-ch": {
+       "__type": "Set",
+       "values": [
+        "internationale"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "internationell enhet",
+        "internationellenhet"
+       ]
+      },
+      "pl": {
+       "__type": "Set",
+       "values": [
+        "iu"
+       ]
+      },
+      "fi": {
+       "__type": "Set",
+       "values": [
+        "kansainvälinen yksikkö",
+        "kansainvälinenyksikkö"
+       ]
+      },
+      "cs": {
+       "__type": "Set",
+       "values": [
+        "mezinárodní"
+       ]
+      },
+      "hu": {
+       "__type": "Set",
+       "values": [
+        "nemzetközi egység",
+        "nemzetköziegység"
+       ]
+      },
+      "id": {
+       "__type": "Set",
+       "values": [
+        "satuan internasional",
+        "satuaninternasional"
+       ]
+      },
+      "es": {
+       "__type": "Set",
+       "values": [
+        "unidad internacional",
+        "unidadinternacional"
+       ]
+      },
+      "pt": {
+       "__type": "Set",
+       "values": [
+        "unidades internacionais",
+        "unidadesinternacionais"
+       ]
+      },
+      "pt-br": {
+       "__type": "Set",
+       "values": [
+        "unidades internacionais",
+        "unidadesinternacionais"
+       ]
+      },
+      "it": {
+       "__type": "Set",
+       "values": [
+        "unità internazionale",
+        "unitàinternazionale"
+       ]
+      },
+      "ca": {
+       "__type": "Set",
+       "values": [
+        "unitat internacional",
+        "unitatinternacional"
+       ]
+      },
+      "fr": {
+       "__type": "Set",
+       "values": [
+        "unité internationale",
+        "unitéinternationale"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "интернационална јединица",
+        "интернационалнајединица"
+       ]
+      },
+      "sr-ec": {
+       "__type": "Set",
+       "values": [
+        "интернационална јединица",
+        "интернационалнајединица"
+       ]
+      },
+      "mk": {
+       "__type": "Set",
+       "values": [
+        "меѓународна единица",
+        "меѓународнаединица"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "международная единица",
+        "международнаяединица"
+       ]
+      },
+      "uk": {
+       "__type": "Set",
+       "values": [
+        "мо"
+       ]
+      },
+      "hy": {
+       "__type": "Set",
+       "values": [
+        "միջազգային միավոր",
+        "միջազգայինմիավոր"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "وحدة دولية",
+        "وحدةدولية"
+       ]
+      },
+      "fa": {
+       "__type": "Set",
+       "values": [
+        "یکای بین‌المللی",
+        "یکایبین‌المللی"
+       ]
+      },
+      "bho": {
+       "__type": "Set",
+       "values": [
+        "अंतरराष्ट्रीय इकाई",
+        "अंतरराष्ट्रीयइकाई"
+       ]
+      },
+      "ta": {
+       "__type": "Set",
+       "values": [
+        "அனைத்துலக அலகு",
+        "அனைத்துலகஅலகு"
+       ]
+      },
+      "th": {
+       "__type": "Set",
+       "values": [
+        "หน่วยสากล"
+       ]
+      },
+      "ko": {
+       "__type": "Set",
+       "values": [
+        "국제 단위",
+        "국제단위"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "国际单位"
        ]
       },
       "zh-cn": {
        "__type": "Set",
        "values": [
-        "特斯拉"
+        "国际单位"
        ]
       },
       "zh-hans": {
        "__type": "Set",
        "values": [
-        "特斯拉"
+        "国际单位"
        ]
       },
-      "zh-hant": {
+      "zh-my": {
        "__type": "Set",
        "values": [
-        "特斯拉"
-       ]
-      },
-      "zh-hk": {
-       "__type": "Set",
-       "values": [
-        "忒斯拉"
+        "国际单位"
        ]
       },
       "zh-sg": {
        "__type": "Set",
        "values": [
-        "特斯拉"
-       ]
-      },
-      "zh-tw": {
-       "__type": "Set",
-       "values": [
-        "特斯拉"
+        "国际单位"
        ]
       },
       "ja": {
        "__type": "Set",
        "values": [
-        "テスラ"
+        "国際単位"
+       ]
+      },
+      "yue": {
+       "__type": "Set",
+       "values": [
+        "國際單位"
+       ]
+      },
+      "zh-hant": {
+       "__type": "Set",
+       "values": [
+        "國際單位"
+       ]
+      },
+      "zh-hk": {
+       "__type": "Set",
+       "values": [
+        "國際單位"
+       ]
+      },
+      "zh-mo": {
+       "__type": "Set",
+       "values": [
+        "國際單位"
+       ]
+      },
+      "zh-tw": {
+       "__type": "Set",
+       "values": [
+        "國際單位"
        ]
       }
      },
-     "dispLabel": "tesla",
+     "dispLabel": "International unit",
+     "isPrefixed": false,
+     "raw": null
+    }
+   ]
+  },
+  "dims": [
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/mass-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "mass",
+         "mass-"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "mass-"
+        ]
+       },
+       "nl": {
+        "__type": "Set",
+        "values": [
+         "massadimensie"
+        ]
+       }
+      },
+      "dispLabel": "mass dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/mass-Dimension",
+      "ontology": "OM2",
+      "dimVector": [
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "mass",
+         "mass-"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "mass-"
+        ]
+       },
+       "nl": {
+        "__type": "Set",
+        "values": [
+         "massadimensie"
+        ]
+       }
+      },
+      "dispLabel": "mass dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#Mass",
+      "ontology": "QUDT",
+      "dimVector": [
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "": {
+        "__type": "Set",
+        "values": [
+         "mass"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "mass"
+        ]
+       }
+      },
+      "dispLabel": "Mass",
+      "raw": null
+     }
+    ]
+   },
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/amount_of_substance-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "amount of substance",
+         "amountofsubstance",
+         "amount of substance-",
+         "amountofsubstance-"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "amount of substance-",
+         "amountofsubstance-"
+        ]
+       },
+       "nl": {
+        "__type": "Set",
+        "values": [
+         "stofhoeveelheiddimensie"
+        ]
+       }
+      },
+      "dispLabel": "amount of substance dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/amountOfSubstance-Dimension",
+      "ontology": "OM2",
+      "dimVector": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "amount of substance",
+         "amountofsubstance",
+         "amount of substance-",
+         "amountofsubstance-"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "amount of substance-",
+         "amountofsubstance-"
+        ]
+       },
+       "nl": {
+        "__type": "Set",
+        "values": [
+         "stofhoeveelheiddimensie"
+        ]
+       }
+      },
+      "dispLabel": "amount of substance dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#AmountOfSubstance",
+      "ontology": "QUDT",
+      "dimVector": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ],
+      "labels": {
+       "": {
+        "__type": "Set",
+        "values": [
+         "amount of substance",
+         "amountofsubstance"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "amount of substance",
+         "amountofsubstance"
+        ]
+       }
+      },
+      "dispLabel": "Amount of Substance",
+      "raw": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": {
+   "__type": "SynSet",
+   "values": [
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-flux-density/Gauss",
+     "ontology": "MUO",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      }
+     },
+     "dispLabel": "Gauss",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/gauss",
+     "ontology": "OM",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      }
+     },
+     "dispLabel": "gauss",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/gauss",
+     "ontology": "OM2",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      }
+     },
+     "dispLabel": "gauss",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://qudt.org/vocab/unit#Gauss",
+     "ontology": "QUDT",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      }
+     },
+     "dispLabel": "Gauss",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q177493",
+     "ontology": "WD",
+     "labels": {
+      "pl": {
+       "__type": "Set",
+       "values": [
+        "gaus"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "q177493"
+       ]
+      },
+      "eo": {
+       "__type": "Set",
+       "values": [
+        "gaŭso"
+       ]
+      },
+      "ca": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "en": {
+       "__type": "Set",
+       "values": [
+        "gauss",
+        "q177493"
+       ]
+      },
+      "es": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "fr": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "it": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "nb": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "nn": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "ast": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "cs": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "da": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "de-ch": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "en-ca": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "en-gb": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "et": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "eu": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "hr": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "hu": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "id": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "pms": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "pt": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "pt-br": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "tr": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "uz": {
+       "__type": "Set",
+       "values": [
+        "gauss"
+       ]
+      },
+      "de": {
+       "__type": "Set",
+       "values": [
+        "gauß"
+       ]
+      },
+      "lb": {
+       "__type": "Set",
+       "values": [
+        "gauß"
+       ]
+      },
+      "sl": {
+       "__type": "Set",
+       "values": [
+        "gavs"
+       ]
+      },
+      "el": {
+       "__type": "Set",
+       "values": [
+        "γκάους"
+       ]
+      },
+      "mk": {
+       "__type": "Set",
+       "values": [
+        "гаус"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "гаус"
+       ]
+      },
+      "bg": {
+       "__type": "Set",
+       "values": [
+        "гаус"
+       ]
+      },
+      "uk": {
+       "__type": "Set",
+       "values": [
+        "гаус"
+       ]
+      },
+      "be": {
+       "__type": "Set",
+       "values": [
+        "гаус"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "гаусс"
+       ]
+      },
+      "kk": {
+       "__type": "Set",
+       "values": [
+        "гаусс"
+       ]
+      },
+      "ka": {
+       "__type": "Set",
+       "values": [
+        "გაუსი"
+       ]
+      },
+      "he": {
+       "__type": "Set",
+       "values": [
+        "גאוס"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "غاوس"
+       ]
+      },
+      "fa": {
+       "__type": "Set",
+       "values": [
+        "گاوس"
+       ]
+      },
+      "hi": {
+       "__type": "Set",
+       "values": [
+        "गॉस इकाई",
+        "गॉसइकाई"
+       ]
+      },
+      "th": {
+       "__type": "Set",
+       "values": [
+        "เกาส์"
+       ]
+      },
+      "ko": {
+       "__type": "Set",
+       "values": [
+        "가우스"
+       ]
+      },
+      "ja": {
+       "__type": "Set",
+       "values": [
+        "ガウス"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "高斯"
+       ]
+      }
+     },
+     "dispLabel": "gauss",
      "isPrefixed": false,
      "raw": null
     }
@@ -827,401 +1266,616 @@
    "values": [
     {
      "__type": "SemUnit",
-     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-flux-density/Gauss",
+     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-flux-density/Tesla",
      "ontology": "MUO",
      "labels": {
       "en": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       }
      },
-     "dispLabel": "Gauss",
+     "dispLabel": "Tesla",
      "isPrefixed": false,
      "raw": null
     },
     {
      "__type": "SemUnit",
-     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/gauss",
+     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/tesla",
      "ontology": "OM",
      "labels": {
       "en": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "nl": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       }
      },
-     "dispLabel": "gauss",
+     "dispLabel": "tesla",
      "isPrefixed": false,
      "raw": null
     },
     {
      "__type": "SemUnit",
-     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/gauss",
+     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/tesla",
      "ontology": "OM2",
      "labels": {
       "en": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "nl": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       }
      },
-     "dispLabel": "gauss",
+     "dispLabel": "tesla",
      "isPrefixed": false,
      "raw": null
     },
     {
      "__type": "SemUnit",
-     "uri": "http://qudt.org/vocab/unit#Gauss",
+     "uri": "http://purl.oclc.org/NET/ssnx/qu/unit#tesla",
+     "ontology": "QU",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      }
+     },
+     "dispLabel": "tesla",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://qudt.org/vocab/unit#Tesla",
      "ontology": "QUDT",
      "labels": {
       "": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       }
      },
-     "dispLabel": "Gauss",
+     "dispLabel": "Tesla",
      "isPrefixed": false,
      "raw": null
     },
     {
      "__type": "SemUnit",
-     "uri": "http://www.wikidata.org/entity/Q177493",
-     "ontology": "WD",
+     "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#tesla",
+     "ontology": "SWEET",
      "labels": {
-      "el": {
+      "_uri": {
        "__type": "Set",
        "values": [
-        "γκάους"
+        "tesla"
+       ]
+      }
+     },
+     "dispLabel": "tesla",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://sweetontology.net/reprSciUnits/tesla",
+     "ontology": "SWEET3",
+     "labels": {
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      }
+     },
+     "dispLabel": "tesla",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.obolibrary.org/obo/UO_0000228",
+     "ontology": "UO",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "tesla"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
-        "q177493"
+        "uo 0000228",
+        "uo0000228"
        ]
-      },
-      "en-ca": {
+      }
+     },
+     "dispLabel": "tesla",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q163343",
+     "ontology": "WD",
+     "labels": {
+      "nn": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "eininga tesla",
+        "einingatesla"
        ]
       },
-      "en-gb": {
+      "_uri": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "q163343"
+       ]
+      },
+      "ga": {
+       "__type": "Set",
+       "values": [
+        "teisle"
        ]
       },
       "ca": {
        "__type": "Set",
        "values": [
-        "gauss"
-       ]
-      },
-      "ar": {
-       "__type": "Set",
-       "values": [
-        "غاوس"
-       ]
-      },
-      "ast": {
-       "__type": "Set",
-       "values": [
-        "gauss"
-       ]
-      },
-      "be": {
-       "__type": "Set",
-       "values": [
-        "гаус"
-       ]
-      },
-      "bg": {
-       "__type": "Set",
-       "values": [
-        "гаус"
-       ]
-      },
-      "cs": {
-       "__type": "Set",
-       "values": [
-        "gauss"
-       ]
-      },
-      "da": {
-       "__type": "Set",
-       "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "en": {
        "__type": "Set",
        "values": [
-        "gauss",
-        "q177493"
-       ]
-      },
-      "eo": {
-       "__type": "Set",
-       "values": [
-        "gaŭso"
+        "tesla",
+        "q163343"
        ]
       },
       "es": {
        "__type": "Set",
        "values": [
-        "gauss"
-       ]
-      },
-      "et": {
-       "__type": "Set",
-       "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "eu": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
-      "fa": {
+      "fi": {
        "__type": "Set",
        "values": [
-        "گاوس"
+        "tesla"
        ]
       },
       "fr": {
        "__type": "Set",
        "values": [
-        "gauss"
-       ]
-      },
-      "he": {
-       "__type": "Set",
-       "values": [
-        "גאוס"
-       ]
-      },
-      "hi": {
-       "__type": "Set",
-       "values": [
-        "गॉस इकाई",
-        "गॉसइकाई"
-       ]
-      },
-      "hr": {
-       "__type": "Set",
-       "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "hu": {
        "__type": "Set",
        "values": [
-        "gauss"
-       ]
-      },
-      "id": {
-       "__type": "Set",
-       "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "it": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
-      "ja": {
+      "lv": {
        "__type": "Set",
        "values": [
-        "ガウス"
+        "tesla"
        ]
       },
-      "kk": {
+      "mt": {
        "__type": "Set",
        "values": [
-        "гаусс"
-       ]
-      },
-      "ko": {
-       "__type": "Set",
-       "values": [
-        "가우스"
-       ]
-      },
-      "lb": {
-       "__type": "Set",
-       "values": [
-        "gauß"
-       ]
-      },
-      "mk": {
-       "__type": "Set",
-       "values": [
-        "гаус"
+        "tesla"
        ]
       },
       "nb": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "nl": {
        "__type": "Set",
        "values": [
-        "gauss"
-       ]
-      },
-      "nn": {
-       "__type": "Set",
-       "values": [
-        "gauss"
+        "tesla"
        ]
       },
       "pl": {
        "__type": "Set",
        "values": [
-        "gaus"
+        "tesla"
        ]
       },
-      "pms": {
+      "sco": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
-      "pt": {
+      "ast": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
-      "ru": {
+      "az": {
        "__type": "Set",
        "values": [
-        "гаусс"
+        "tesla"
        ]
       },
-      "sl": {
+      "bs": {
        "__type": "Set",
        "values": [
-        "gavs"
+        "tesla"
        ]
       },
-      "sr": {
+      "cs": {
        "__type": "Set",
        "values": [
-        "гаус"
+        "tesla"
        ]
       },
-      "sv": {
+      "cy": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "tesla"
        ]
       },
-      "th": {
+      "da": {
        "__type": "Set",
        "values": [
-        "เกาส์"
-       ]
-      },
-      "tr": {
-       "__type": "Set",
-       "values": [
-        "gauss"
-       ]
-      },
-      "uz": {
-       "__type": "Set",
-       "values": [
-        "gauss"
-       ]
-      },
-      "zh": {
-       "__type": "Set",
-       "values": [
-        "高斯"
-       ]
-      },
-      "pt-br": {
-       "__type": "Set",
-       "values": [
-        "gauss"
-       ]
-      },
-      "ka": {
-       "__type": "Set",
-       "values": [
-        "გაუსი"
+        "tesla"
        ]
       },
       "de": {
        "__type": "Set",
        "values": [
-        "gauß"
+        "tesla"
+       ]
+      },
+      "et": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "gl": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "hr": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "id": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "is": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "lt": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "pms": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "pt": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "ro": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "sh": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "sk": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "sl": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "sq": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "sr-el": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "tr": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "uz": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "vi": {
+       "__type": "Set",
+       "values": [
+        "tesla"
+       ]
+      },
+      "eo": {
+       "__type": "Set",
+       "values": [
+        "teslo"
+       ]
+      },
+      "el": {
+       "__type": "Set",
+       "values": [
+        "τέσλα"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "тесла"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "тесла"
+       ]
+      },
+      "bg": {
+       "__type": "Set",
+       "values": [
+        "тесла"
+       ]
+      },
+      "kk": {
+       "__type": "Set",
+       "values": [
+        "тесла"
+       ]
+      },
+      "mk": {
+       "__type": "Set",
+       "values": [
+        "тесла"
+       ]
+      },
+      "mn": {
+       "__type": "Set",
+       "values": [
+        "тесла"
+       ]
+      },
+      "sr-ec": {
+       "__type": "Set",
+       "values": [
+        "тесла"
        ]
       },
       "uk": {
        "__type": "Set",
        "values": [
-        "гаус"
+        "тесла"
        ]
       },
-      "de-ch": {
+      "be-tarask": {
        "__type": "Set",
        "values": [
-        "gauss"
+        "тэсла"
+       ]
+      },
+      "be": {
+       "__type": "Set",
+       "values": [
+        "тэсла"
+       ]
+      },
+      "ka": {
+       "__type": "Set",
+       "values": [
+        "ტესლა"
+       ]
+      },
+      "hy": {
+       "__type": "Set",
+       "values": [
+        "տեսլա"
+       ]
+      },
+      "he": {
+       "__type": "Set",
+       "values": [
+        "טסלה"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "تسلا"
+       ]
+      },
+      "fa": {
+       "__type": "Set",
+       "values": [
+        "تسلا"
+       ]
+      },
+      "hi": {
+       "__type": "Set",
+       "values": [
+        "टैस्ला"
+       ]
+      },
+      "bo": {
+       "__type": "Set",
+       "values": [
+        "ཐེ་སླ།"
+       ]
+      },
+      "ko": {
+       "__type": "Set",
+       "values": [
+        "테슬라"
+       ]
+      },
+      "ja": {
+       "__type": "Set",
+       "values": [
+        "テスラ"
+       ]
+      },
+      "zh-hk": {
+       "__type": "Set",
+       "values": [
+        "忒斯拉"
+       ]
+      },
+      "yue": {
+       "__type": "Set",
+       "values": [
+        "特斯拉"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "特斯拉"
+       ]
+      },
+      "zh-cn": {
+       "__type": "Set",
+       "values": [
+        "特斯拉"
+       ]
+      },
+      "zh-hans": {
+       "__type": "Set",
+       "values": [
+        "特斯拉"
+       ]
+      },
+      "zh-hant": {
+       "__type": "Set",
+       "values": [
+        "特斯拉"
+       ]
+      },
+      "zh-sg": {
+       "__type": "Set",
+       "values": [
+        "特斯拉"
+       ]
+      },
+      "zh-tw": {
+       "__type": "Set",
+       "values": [
+        "特斯拉"
        ]
       }
      },
-     "dispLabel": "gauss",
+     "dispLabel": "tesla",
      "isPrefixed": false,
      "raw": null
     }
@@ -1525,29 +2179,16 @@
      "uri": "http://www.wikidata.org/entity/Q1413142",
      "ontology": "WD",
      "labels": {
-      "hy": {
+      "de": {
        "__type": "Set",
        "values": [
-        "հիլբերտ"
+        "gilbert"
        ]
       },
       "_uri": {
        "__type": "Set",
        "values": [
         "q1413142"
-       ]
-      },
-      "zh": {
-       "__type": "Set",
-       "values": [
-        "吉伯 單位",
-        "吉伯單位"
-       ]
-      },
-      "ar": {
-       "__type": "Set",
-       "values": [
-        "غيلبرت"
        ]
       },
       "en": {
@@ -1563,22 +2204,10 @@
         "gilbert"
        ]
       },
-      "de": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      },
       "nn": {
        "__type": "Set",
        "values": [
         "gilbert"
-       ]
-      },
-      "ru": {
-       "__type": "Set",
-       "values": [
-        "гильберт"
        ]
       },
       "bg": {
@@ -1587,10 +2216,35 @@
         "гилбърт"
        ]
       },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "гильберт"
+       ]
+      },
       "uk": {
        "__type": "Set",
        "values": [
         "гільберт"
+       ]
+      },
+      "hy": {
+       "__type": "Set",
+       "values": [
+        "հիլբերտ"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "غيلبرت"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "吉伯 單位",
+        "吉伯單位"
        ]
       }
      },
@@ -1739,1194 +2393,6 @@
        }
       },
       "dispLabel": "Magnetomotive Force",
-      "raw": null
-     }
-    ]
-   }
-  ]
- },
- {
-  "unit": {
-   "__type": "SynSet",
-   "values": [
-    {
-     "__type": "SemUnit",
-     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/arbitrary/international-unit",
-     "ontology": "MUO",
-     "labels": {
-      "en": {
-       "__type": "Set",
-       "values": [
-        "international",
-        "-unit international",
-        "-unitinternational"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "-unit international",
-        "-unitinternational"
-       ]
-      }
-     },
-     "dispLabel": "international unit",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/International_Unit",
-     "ontology": "OM",
-     "labels": {
-      "en": {
-       "__type": "Set",
-       "values": [
-        "international"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "international"
-       ]
-      }
-     },
-     "dispLabel": "International Unit",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/InternationalUnit",
-     "ontology": "OM2",
-     "labels": {
-      "en": {
-       "__type": "Set",
-       "values": [
-        "international"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "international"
-       ]
-      }
-     },
-     "dispLabel": "International Unit",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://qudt.org/vocab/unit#InternationalUnit",
-     "ontology": "QUDT",
-     "labels": {
-      "": {
-       "__type": "Set",
-       "values": [
-        "international"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "international"
-       ]
-      }
-     },
-     "dispLabel": "International Unit",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://www.wikidata.org/entity/Q835916",
-     "ontology": "WD",
-     "labels": {
-      "pl": {
-       "__type": "Set",
-       "values": [
-        "iu"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "q835916"
-       ]
-      },
-      "ar": {
-       "__type": "Set",
-       "values": [
-        "وحدة دولية",
-        "وحدةدولية"
-       ]
-      },
-      "bho": {
-       "__type": "Set",
-       "values": [
-        "अंतरराष्ट्रीय इकाई",
-        "अंतरराष्ट्रीयइकाई"
-       ]
-      },
-      "ca": {
-       "__type": "Set",
-       "values": [
-        "unitat internacional",
-        "unitatinternacional"
-       ]
-      },
-      "cs": {
-       "__type": "Set",
-       "values": [
-        "mezinárodní"
-       ]
-      },
-      "de": {
-       "__type": "Set",
-       "values": [
-        "internationale"
-       ]
-      },
-      "de-ch": {
-       "__type": "Set",
-       "values": [
-        "internationale"
-       ]
-      },
-      "en": {
-       "__type": "Set",
-       "values": [
-        "international",
-        "q835916"
-       ]
-      },
-      "en-ca": {
-       "__type": "Set",
-       "values": [
-        "international"
-       ]
-      },
-      "en-gb": {
-       "__type": "Set",
-       "values": [
-        "international"
-       ]
-      },
-      "eo": {
-       "__type": "Set",
-       "values": [
-        "internacia unuo",
-        "internaciaunuo"
-       ]
-      },
-      "es": {
-       "__type": "Set",
-       "values": [
-        "unidad internacional",
-        "unidadinternacional"
-       ]
-      },
-      "fa": {
-       "__type": "Set",
-       "values": [
-        "یکای بین‌المللی",
-        "یکایبین‌المللی"
-       ]
-      },
-      "fi": {
-       "__type": "Set",
-       "values": [
-        "kansainvälinen yksikkö",
-        "kansainvälinenyksikkö"
-       ]
-      },
-      "fr": {
-       "__type": "Set",
-       "values": [
-        "unité internationale",
-        "unitéinternationale"
-       ]
-      },
-      "hu": {
-       "__type": "Set",
-       "values": [
-        "nemzetközi egység",
-        "nemzetköziegység"
-       ]
-      },
-      "hy": {
-       "__type": "Set",
-       "values": [
-        "միջազգային միավոր",
-        "միջազգայինմիավոր"
-       ]
-      },
-      "id": {
-       "__type": "Set",
-       "values": [
-        "satuan internasional",
-        "satuaninternasional"
-       ]
-      },
-      "it": {
-       "__type": "Set",
-       "values": [
-        "unità internazionale",
-        "unitàinternazionale"
-       ]
-      },
-      "ja": {
-       "__type": "Set",
-       "values": [
-        "国際単位"
-       ]
-      },
-      "ko": {
-       "__type": "Set",
-       "values": [
-        "국제 단위",
-        "국제단위"
-       ]
-      },
-      "mk": {
-       "__type": "Set",
-       "values": [
-        "меѓународна единица",
-        "меѓународнаединица"
-       ]
-      },
-      "nl": {
-       "__type": "Set",
-       "values": [
-        "internationale eenheid",
-        "internationaleeenheid"
-       ]
-      },
-      "nn": {
-       "__type": "Set",
-       "values": [
-        "internasjonal eining",
-        "internasjonaleining"
-       ]
-      },
-      "pt": {
-       "__type": "Set",
-       "values": [
-        "unidades internacionais",
-        "unidadesinternacionais"
-       ]
-      },
-      "pt-br": {
-       "__type": "Set",
-       "values": [
-        "unidades internacionais",
-        "unidadesinternacionais"
-       ]
-      },
-      "ru": {
-       "__type": "Set",
-       "values": [
-        "международная единица",
-        "международнаяединица"
-       ]
-      },
-      "sr": {
-       "__type": "Set",
-       "values": [
-        "интернационална јединица",
-        "интернационалнајединица"
-       ]
-      },
-      "sr-ec": {
-       "__type": "Set",
-       "values": [
-        "интернационална јединица",
-        "интернационалнајединица"
-       ]
-      },
-      "sr-el": {
-       "__type": "Set",
-       "values": [
-        "internacionalna jedinica",
-        "internacionalnajedinica"
-       ]
-      },
-      "sv": {
-       "__type": "Set",
-       "values": [
-        "internationell enhet",
-        "internationellenhet"
-       ]
-      },
-      "ta": {
-       "__type": "Set",
-       "values": [
-        "அனைத்துலக அலகு",
-        "அனைத்துலகஅலகு"
-       ]
-      },
-      "th": {
-       "__type": "Set",
-       "values": [
-        "หน่วยสากล"
-       ]
-      },
-      "uk": {
-       "__type": "Set",
-       "values": [
-        "мо"
-       ]
-      },
-      "vi": {
-       "__type": "Set",
-       "values": [
-        "đơn vị quốc tế",
-        "đơnvịquốctế"
-       ]
-      },
-      "yue": {
-       "__type": "Set",
-       "values": [
-        "國際單位"
-       ]
-      },
-      "zh": {
-       "__type": "Set",
-       "values": [
-        "国际单位"
-       ]
-      },
-      "zh-cn": {
-       "__type": "Set",
-       "values": [
-        "国际单位"
-       ]
-      },
-      "zh-hans": {
-       "__type": "Set",
-       "values": [
-        "国际单位"
-       ]
-      },
-      "zh-hant": {
-       "__type": "Set",
-       "values": [
-        "國際單位"
-       ]
-      },
-      "zh-hk": {
-       "__type": "Set",
-       "values": [
-        "國際單位"
-       ]
-      },
-      "zh-mo": {
-       "__type": "Set",
-       "values": [
-        "國際單位"
-       ]
-      },
-      "zh-my": {
-       "__type": "Set",
-       "values": [
-        "国际单位"
-       ]
-      },
-      "zh-sg": {
-       "__type": "Set",
-       "values": [
-        "国际单位"
-       ]
-      },
-      "zh-tw": {
-       "__type": "Set",
-       "values": [
-        "國際單位"
-       ]
-      }
-     },
-     "dispLabel": "International unit",
-     "isPrefixed": false,
-     "raw": null
-    }
-   ]
-  },
-  "dims": [
-   {
-    "__type": "SynSet",
-    "values": [
-     {
-      "__type": "SemDimension",
-      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/mass-dimension",
-      "ontology": "OM",
-      "dimVector": [
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "en": {
-        "__type": "Set",
-        "values": [
-         "mass",
-         "mass-"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "mass-"
-        ]
-       },
-       "nl": {
-        "__type": "Set",
-        "values": [
-         "massadimensie"
-        ]
-       }
-      },
-      "dispLabel": "mass dimension",
-      "raw": null
-     },
-     {
-      "__type": "SemDimension",
-      "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/mass-Dimension",
-      "ontology": "OM2",
-      "dimVector": [
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "en": {
-        "__type": "Set",
-        "values": [
-         "mass",
-         "mass-"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "mass-"
-        ]
-       },
-       "nl": {
-        "__type": "Set",
-        "values": [
-         "massadimensie"
-        ]
-       }
-      },
-      "dispLabel": "mass dimension",
-      "raw": null
-     },
-     {
-      "__type": "SemDimension",
-      "uri": "http://qudt.org/vocab/quantity#Mass",
-      "ontology": "QUDT",
-      "dimVector": [
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "": {
-        "__type": "Set",
-        "values": [
-         "mass"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "mass"
-        ]
-       }
-      },
-      "dispLabel": "Mass",
-      "raw": null
-     }
-    ]
-   },
-   {
-    "__type": "SynSet",
-    "values": [
-     {
-      "__type": "SemDimension",
-      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/amount_of_substance-dimension",
-      "ontology": "OM",
-      "dimVector": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ],
-      "labels": {
-       "en": {
-        "__type": "Set",
-        "values": [
-         "amount of substance",
-         "amountofsubstance",
-         "amount of substance-",
-         "amountofsubstance-"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "amount of substance-",
-         "amountofsubstance-"
-        ]
-       },
-       "nl": {
-        "__type": "Set",
-        "values": [
-         "stofhoeveelheiddimensie"
-        ]
-       }
-      },
-      "dispLabel": "amount of substance dimension",
-      "raw": null
-     },
-     {
-      "__type": "SemDimension",
-      "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/amountOfSubstance-Dimension",
-      "ontology": "OM2",
-      "dimVector": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ],
-      "labels": {
-       "en": {
-        "__type": "Set",
-        "values": [
-         "amount of substance",
-         "amountofsubstance",
-         "amount of substance-",
-         "amountofsubstance-"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "amount of substance-",
-         "amountofsubstance-"
-        ]
-       },
-       "nl": {
-        "__type": "Set",
-        "values": [
-         "stofhoeveelheiddimensie"
-        ]
-       }
-      },
-      "dispLabel": "amount of substance dimension",
-      "raw": null
-     },
-     {
-      "__type": "SemDimension",
-      "uri": "http://qudt.org/vocab/quantity#AmountOfSubstance",
-      "ontology": "QUDT",
-      "dimVector": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ],
-      "labels": {
-       "": {
-        "__type": "Set",
-        "values": [
-         "amount of substance",
-         "amountofsubstance"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "amount of substance",
-         "amountofsubstance"
-        ]
-       }
-      },
-      "dispLabel": "Amount of Substance",
-      "raw": null
-     }
-    ]
-   }
-  ]
- },
- {
-  "unit": {
-   "__type": "SynSet",
-   "values": [
-    {
-     "__type": "SemUnit",
-     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/newton_metre",
-     "ontology": "OM",
-     "labels": {
-      "en": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      },
-      "nl": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      }
-     },
-     "dispLabel": "newton metre",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/newtonMetre",
-     "ontology": "OM2",
-     "labels": {
-      "en": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      },
-      "nl": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      }
-     },
-     "dispLabel": "newton metre",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonMetre",
-     "ontology": "QU",
-     "labels": {
-      "": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      }
-     },
-     "dispLabel": "newton metre",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://qudt.org/vocab/unit#NewtonMeter",
-     "ontology": "QUDT",
-     "labels": {
-      "": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      }
-     },
-     "dispLabel": "Newton Meter",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#newtonMeter",
-     "ontology": "SWEET",
-     "labels": {
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      }
-     },
-     "dispLabel": "newton meter",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://www.wikidata.org/entity/Q215571",
-     "ontology": "WD",
-     "labels": {
-      "pt": {
-       "__type": "Set",
-       "values": [
-        "newton-metro"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "q215571"
-       ]
-      },
-      "ru": {
-       "__type": "Set",
-       "values": [
-        "ньютон-метр"
-       ]
-      },
-      "sk": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      },
-      "sr": {
-       "__type": "Set",
-       "values": [
-        "њутнметар"
-       ]
-      },
-      "sv": {
-       "__type": "Set",
-       "values": [
-        "newtonmeter"
-       ]
-      },
-      "vls": {
-       "__type": "Set",
-       "values": [
-        "newtonmeter"
-       ]
-      },
-      "zh": {
-       "__type": "Set",
-       "values": [
-        "牛頓米"
-       ]
-      },
-      "zh-cn": {
-       "__type": "Set",
-       "values": [
-        "牛顿米"
-       ]
-      },
-      "zh-hans": {
-       "__type": "Set",
-       "values": [
-        "牛顿米"
-       ]
-      },
-      "zh-hant": {
-       "__type": "Set",
-       "values": [
-        "牛頓米"
-       ]
-      },
-      "zh-hk": {
-       "__type": "Set",
-       "values": [
-        "牛頓米"
-       ]
-      },
-      "zh-sg": {
-       "__type": "Set",
-       "values": [
-        "牛顿米"
-       ]
-      },
-      "zh-tw": {
-       "__type": "Set",
-       "values": [
-        "牛頓米"
-       ]
-      },
-      "ca": {
-       "__type": "Set",
-       "values": [
-        "newton-meter"
-       ]
-      },
-      "th": {
-       "__type": "Set",
-       "values": [
-        "นิวตันเมตร"
-       ]
-      },
-      "ar": {
-       "__type": "Set",
-       "values": [
-        "نيوتن متر",
-        "نيوتنمتر"
-       ]
-      },
-      "bg": {
-       "__type": "Set",
-       "values": [
-        "нютон-метър"
-       ]
-      },
-      "cs": {
-       "__type": "Set",
-       "values": [
-        "newton metr",
-        "newtonmetr"
-       ]
-      },
-      "cy": {
-       "__type": "Set",
-       "values": [
-        "newton-metr"
-       ]
-      },
-      "da": {
-       "__type": "Set",
-       "values": [
-        "newtonmeter"
-       ]
-      },
-      "de": {
-       "__type": "Set",
-       "values": [
-        "newtonmeter"
-       ]
-      },
-      "el": {
-       "__type": "Set",
-       "values": [
-        "νιουτόμετρο"
-       ]
-      },
-      "en": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter",
-        "q215571"
-       ]
-      },
-      "es": {
-       "__type": "Set",
-       "values": [
-        "newton metro",
-        "newtonmetro"
-       ]
-      },
-      "et": {
-       "__type": "Set",
-       "values": [
-        "njuutonmeeter"
-       ]
-      },
-      "fa": {
-       "__type": "Set",
-       "values": [
-        "نیوتون-متر"
-       ]
-      },
-      "fi": {
-       "__type": "Set",
-       "values": [
-        "newtonmetri"
-       ]
-      },
-      "fr": {
-       "__type": "Set",
-       "values": [
-        "newton-mètre"
-       ]
-      },
-      "hy": {
-       "__type": "Set",
-       "values": [
-        "նյուտոն-մետր"
-       ]
-      },
-      "it": {
-       "__type": "Set",
-       "values": [
-        "newton per metro",
-        "newtonpermetro"
-       ]
-      },
-      "ja": {
-       "__type": "Set",
-       "values": [
-        "ニュートンメートル"
-       ]
-      },
-      "ko": {
-       "__type": "Set",
-       "values": [
-        "뉴턴 미터",
-        "뉴턴미터"
-       ]
-      },
-      "ku": {
-       "__type": "Set",
-       "values": [
-        "mitirê newton",
-        "mitirênewton"
-       ]
-      },
-      "ku-arab": {
-       "__type": "Set",
-       "values": [
-        "مترێ نەوتۆن",
-        "مترێنەوتۆن"
-       ]
-      },
-      "ku-latn": {
-       "__type": "Set",
-       "values": [
-        "mitirê newton",
-        "mitirênewton"
-       ]
-      },
-      "lt": {
-       "__type": "Set",
-       "values": [
-        "niutonmetras"
-       ]
-      },
-      "mk": {
-       "__type": "Set",
-       "values": [
-        "њутнметар"
-       ]
-      },
-      "ms": {
-       "__type": "Set",
-       "values": [
-        "newton meter",
-        "newtonmeter"
-       ]
-      },
-      "nb": {
-       "__type": "Set",
-       "values": [
-        "newtonmeter"
-       ]
-      },
-      "nl": {
-       "__type": "Set",
-       "values": [
-        "newtonmeter"
-       ]
-      },
-      "nn": {
-       "__type": "Set",
-       "values": [
-        "newtonmeter"
-       ]
-      },
-      "pl": {
-       "__type": "Set",
-       "values": [
-        "niutonometr"
-       ]
-      }
-     },
-     "dispLabel": "newton metre",
-     "isPrefixed": false,
-     "raw": null
-    }
-   ]
-  },
-  "dims": [
-   {
-    "__type": "SynSet",
-    "values": [
-     {
-      "__type": "SemDimension",
-      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/energy-dimension",
-      "ontology": "OM",
-      "dimVector": [
-       2,
-       1,
-       -2,
-       0,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "en": {
-        "__type": "Set",
-        "values": [
-         "energy",
-         "energy-"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "energy-"
-        ]
-       }
-      },
-      "dispLabel": "energy dimension",
-      "raw": null
-     },
-     {
-      "__type": "SemDimension",
-      "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/energy-Dimension",
-      "ontology": "OM2",
-      "dimVector": [
-       2,
-       1,
-       -2,
-       0,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "en": {
-        "__type": "Set",
-        "values": [
-         "energy",
-         "energy-"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "energy-"
-        ]
-       }
-      },
-      "dispLabel": "energy dimension",
-      "raw": null
-     },
-     {
-      "__type": "SemDimension",
-      "uri": "http://qudt.org/vocab/quantity#EnergyAndWork",
-      "ontology": "QUDT",
-      "dimVector": [
-       2,
-       1,
-       -2,
-       0,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "": {
-        "__type": "Set",
-        "values": [
-         "energy and work",
-         "energyandwork"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "energy and work",
-         "energyandwork"
-        ]
-       }
-      },
-      "dispLabel": "Energy and Work",
-      "raw": null
-     }
-    ]
-   },
-   {
-    "__type": "SynSet",
-    "values": [
-     {
-      "__type": "SemDimension",
-      "uri": "http://qudt.org/vocab/quantity#Torque",
-      "ontology": "QUDT",
-      "dimVector": [
-       2,
-       1,
-       -2,
-       0,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "": {
-        "__type": "Set",
-        "values": [
-         "torque"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "torque"
-        ]
-       }
-      },
-      "dispLabel": "Torque",
       "raw": null
      }
     ]
@@ -3228,6 +2694,573 @@
        }
       },
       "dispLabel": "Magnetic Field",
+      "raw": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": {
+   "__type": "SynSet",
+   "values": [
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/newton_metre",
+     "ontology": "OM",
+     "labels": {
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      },
+      "en": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      }
+     },
+     "dispLabel": "newton metre",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/newtonMetre",
+     "ontology": "OM2",
+     "labels": {
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      },
+      "en": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      }
+     },
+     "dispLabel": "newton metre",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/ssnx/qu/unit#newtonMetre",
+     "ontology": "QU",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      }
+     },
+     "dispLabel": "newton metre",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://qudt.org/vocab/unit#NewtonMeter",
+     "ontology": "QUDT",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      }
+     },
+     "dispLabel": "Newton Meter",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#newtonMeter",
+     "ontology": "SWEET",
+     "labels": {
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      }
+     },
+     "dispLabel": "newton meter",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://sweetontology.net/reprSciUnits/newtonMeter",
+     "ontology": "SWEET3",
+     "labels": {
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      }
+     },
+     "dispLabel": "newton meter",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q215571",
+     "ontology": "WD",
+     "labels": {
+      "ku": {
+       "__type": "Set",
+       "values": [
+        "mitirê newton",
+        "mitirênewton"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "q215571"
+       ]
+      },
+      "ku-latn": {
+       "__type": "Set",
+       "values": [
+        "mitirê newton",
+        "mitirênewton"
+       ]
+      },
+      "ms": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      },
+      "sk": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter"
+       ]
+      },
+      "cs": {
+       "__type": "Set",
+       "values": [
+        "newton metr",
+        "newtonmetr"
+       ]
+      },
+      "en": {
+       "__type": "Set",
+       "values": [
+        "newton meter",
+        "newtonmeter",
+        "q215571"
+       ]
+      },
+      "es": {
+       "__type": "Set",
+       "values": [
+        "newton metro",
+        "newtonmetro"
+       ]
+      },
+      "it": {
+       "__type": "Set",
+       "values": [
+        "newton per metro",
+        "newtonpermetro"
+       ]
+      },
+      "cy": {
+       "__type": "Set",
+       "values": [
+        "newton-metr"
+       ]
+      },
+      "ca": {
+       "__type": "Set",
+       "values": [
+        "newton-meter"
+       ]
+      },
+      "fr": {
+       "__type": "Set",
+       "values": [
+        "newton-mètre"
+       ]
+      },
+      "pt": {
+       "__type": "Set",
+       "values": [
+        "newton-metro"
+       ]
+      },
+      "nb": {
+       "__type": "Set",
+       "values": [
+        "newtonmeter"
+       ]
+      },
+      "da": {
+       "__type": "Set",
+       "values": [
+        "newtonmeter"
+       ]
+      },
+      "de": {
+       "__type": "Set",
+       "values": [
+        "newtonmeter"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "newtonmeter"
+       ]
+      },
+      "nn": {
+       "__type": "Set",
+       "values": [
+        "newtonmeter"
+       ]
+      },
+      "sv": {
+       "__type": "Set",
+       "values": [
+        "newtonmeter"
+       ]
+      },
+      "vls": {
+       "__type": "Set",
+       "values": [
+        "newtonmeter"
+       ]
+      },
+      "fi": {
+       "__type": "Set",
+       "values": [
+        "newtonmetri"
+       ]
+      },
+      "lt": {
+       "__type": "Set",
+       "values": [
+        "niutonmetras"
+       ]
+      },
+      "pl": {
+       "__type": "Set",
+       "values": [
+        "niutonometr"
+       ]
+      },
+      "et": {
+       "__type": "Set",
+       "values": [
+        "njuutonmeeter"
+       ]
+      },
+      "el": {
+       "__type": "Set",
+       "values": [
+        "νιουτόμετρο"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "ньютон-метр"
+       ]
+      },
+      "bg": {
+       "__type": "Set",
+       "values": [
+        "нютон-метър"
+       ]
+      },
+      "sr": {
+       "__type": "Set",
+       "values": [
+        "њутнметар"
+       ]
+      },
+      "mk": {
+       "__type": "Set",
+       "values": [
+        "њутнметар"
+       ]
+      },
+      "hy": {
+       "__type": "Set",
+       "values": [
+        "նյուտոն-մետր"
+       ]
+      },
+      "ku-arab": {
+       "__type": "Set",
+       "values": [
+        "مترێ نەوتۆن",
+        "مترێنەوتۆن"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "نيوتن متر",
+        "نيوتنمتر"
+       ]
+      },
+      "fa": {
+       "__type": "Set",
+       "values": [
+        "نیوتون-متر"
+       ]
+      },
+      "th": {
+       "__type": "Set",
+       "values": [
+        "นิวตันเมตร"
+       ]
+      },
+      "ko": {
+       "__type": "Set",
+       "values": [
+        "뉴턴 미터",
+        "뉴턴미터"
+       ]
+      },
+      "ja": {
+       "__type": "Set",
+       "values": [
+        "ニュートンメートル"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "牛頓米"
+       ]
+      },
+      "zh-hant": {
+       "__type": "Set",
+       "values": [
+        "牛頓米"
+       ]
+      },
+      "zh-hk": {
+       "__type": "Set",
+       "values": [
+        "牛頓米"
+       ]
+      },
+      "zh-tw": {
+       "__type": "Set",
+       "values": [
+        "牛頓米"
+       ]
+      },
+      "zh-cn": {
+       "__type": "Set",
+       "values": [
+        "牛顿米"
+       ]
+      },
+      "zh-hans": {
+       "__type": "Set",
+       "values": [
+        "牛顿米"
+       ]
+      },
+      "zh-sg": {
+       "__type": "Set",
+       "values": [
+        "牛顿米"
+       ]
+      }
+     },
+     "dispLabel": "newton metre",
+     "isPrefixed": false,
+     "raw": null
+    }
+   ]
+  },
+  "dims": [
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/energy-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       2,
+       1,
+       -2,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "energy",
+         "energy-"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "energy-"
+        ]
+       }
+      },
+      "dispLabel": "energy dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/energy-Dimension",
+      "ontology": "OM2",
+      "dimVector": [
+       2,
+       1,
+       -2,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "energy",
+         "energy-"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "energy-"
+        ]
+       }
+      },
+      "dispLabel": "energy dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#EnergyAndWork",
+      "ontology": "QUDT",
+      "dimVector": [
+       2,
+       1,
+       -2,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "": {
+        "__type": "Set",
+        "values": [
+         "energy and work",
+         "energyandwork"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "energy and work",
+         "energyandwork"
+        ]
+       }
+      },
+      "dispLabel": "Energy and Work",
+      "raw": null
+     }
+    ]
+   },
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#Torque",
+      "ontology": "QUDT",
+      "dimVector": [
+       2,
+       1,
+       -2,
+       0,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "": {
+        "__type": "Set",
+        "values": [
+         "torque"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "torque"
+        ]
+       }
+      },
+      "dispLabel": "Torque",
       "raw": null
      }
     ]

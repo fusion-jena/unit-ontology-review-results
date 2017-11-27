@@ -118,10 +118,11 @@
     li[data-onto="MUO"]:before    { background-color: #1f77b4; }
     li[data-onto="OBOE"]:before   { background-color: #ff7f0e; }
     li[data-onto="OM"]:before     { background-color: #2ca02c; }
-    li[data-onto="OM2"]:before    { background-color: #bcbd22; }
+    li[data-onto="OM2"]:before    { background-color: #98df8a; }
     li[data-onto="QU"]:before     { background-color: #d62728; }
     li[data-onto="QUDT"]:before   { background-color: #9467bd; }
     li[data-onto="SWEET"]:before  { background-color: #8c564b; }
+    li[data-onto="SWEET3"]:before { background-color: #c49c94; }
     li[data-onto="UO"]:before     { background-color: #e377c2; }
     li[data-onto="WD"]:before     { background-color: #17becf; }
     
@@ -150,6 +151,7 @@
         <li data-onto="QU">QU
         <li data-onto="QUDT">QUDT
         <li data-onto="SWEET">SWEET
+        <li data-onto="SWEET3">SWEET3
         <li data-onto="UO">UO
         <li data-onto="WD">WD
       </ul>
@@ -189,7 +191,7 @@ http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared
 &rarr;
 </span> : 
 factor: 
-4046.85642
+4046.8564
  | 
 offset: 
 0
@@ -198,7 +200,7 @@ offset:
 &rarr;
 </span> : 
 factor: 
-4046.8564
+4046.85642
  | 
 offset: 
 0
@@ -208,14 +210,14 @@ offset:
 OM
 </ul></h2><ul>
 <li data-onto="OM">
-kilogram
+gram
  ( 
-http://www.wurvoc.org/vocabularies/om-1.8/kilogram
+http://www.wurvoc.org/vocabularies/om-1.8/gram
  )
 <br>&harr;<br>
-gram
+kilogram
 ( 
-http://www.wurvoc.org/vocabularies/om-1.8/gram
+http://www.wurvoc.org/vocabularies/om-1.8/kilogram
  )
 <ul>
 <li>
@@ -223,7 +225,7 @@ http://www.wurvoc.org/vocabularies/om-1.8/gram
 &rarr;
 </span> : 
 factor: 
-1000
+1.0e-3
  | 
 offset: 
 0
@@ -232,7 +234,7 @@ offset:
 &larr;
 </span> : 
 factor: 
-1.0e-3
+1000
  | 
 offset: 
 0
@@ -242,14 +244,14 @@ offset:
 OM2
 </ul></h2><ul>
 <li data-onto="OM2">
-kilogram
+gram
  ( 
-http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram
+http://www.ontology-of-units-of-measure.org/resource/om-2/gram
  )
 <br>&harr;<br>
-gram
+kilogram
 ( 
-http://www.ontology-of-units-of-measure.org/resource/om-2/gram
+http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram
  )
 <ul>
 <li>
@@ -257,7 +259,7 @@ http://www.ontology-of-units-of-measure.org/resource/om-2/gram
 &rarr;
 </span> : 
 factor: 
-1000
+0.001
  | 
 offset: 
 0
@@ -266,7 +268,7 @@ offset:
 &larr;
 </span> : 
 factor: 
-0.001
+1000
  | 
 offset: 
 0
@@ -276,14 +278,14 @@ offset:
 WD
 </ul></h2><ul>
 <li data-onto="WD">
-square cubit
+arshin
  ( 
-http://www.wikidata.org/entity/Q25932175
+http://www.wikidata.org/entity/Q1172583
  )
 <br>&harr;<br>
-square metre
+vershok
 ( 
-http://www.wikidata.org/entity/Q25343
+http://www.wikidata.org/entity/Q2121867
  )
 <ul>
 <li>
@@ -291,37 +293,7 @@ http://www.wikidata.org/entity/Q25343
 &rarr;
 </span> : 
 factor: 
-0.197
- | 
-offset: 
-
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-0.231
- | 
-offset: 
-
-</ul>
-<li data-onto="WD">
-pound-foot
- ( 
-http://www.wikidata.org/entity/Q16859309
- )
-<br>&harr;<br>
-newton metre
-( 
-http://www.wikidata.org/entity/Q215571
- )
-<ul>
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-1.355818
+16
  | 
 offset: 
 
@@ -330,7 +302,67 @@ offset:
 &larr;
 </span> : 
 factor: 
-0.737562
+0.0625
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+arshin
+ ( 
+http://www.wikidata.org/entity/Q1172583
+ )
+<br>&harr;<br>
+четверть
+( 
+http://www.wikidata.org/entity/Q4514998
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+4
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.25
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+межевая верста
+ ( 
+http://www.wikidata.org/entity/Q12122300
+ )
+<br>&harr;<br>
+verst
+( 
+http://www.wikidata.org/entity/Q207733
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+2
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.5
  | 
 offset: 
 
@@ -375,14 +407,14 @@ offset:
 
 </ul>
 <li data-onto="WD">
-astronomical unit
+fluid dram
  ( 
-http://www.wikidata.org/entity/Q1811
+http://www.wikidata.org/entity/Q1434123
  )
 <br>&harr;<br>
-metre
+millilitre
 ( 
-http://www.wikidata.org/entity/Q11573
+http://www.wikidata.org/entity/Q2332346
  )
 <ul>
 <li>
@@ -390,7 +422,7 @@ http://www.wikidata.org/entity/Q11573
 &rarr;
 </span> : 
 factor: 
-149597870691
+3.5516328125
  | 
 offset: 
 
@@ -399,7 +431,97 @@ offset:
 &rarr;
 </span> : 
 factor: 
-149597870700
+3.6966911953125
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+fluid dram
+ ( 
+http://www.wikidata.org/entity/Q1434123
+ )
+<br>&harr;<br>
+minim
+( 
+http://www.wikidata.org/entity/Q1637963
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+60
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.0166666
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+scruple
+ ( 
+http://www.wikidata.org/entity/Q1573593
+ )
+<br>&harr;<br>
+grain
+( 
+http://www.wikidata.org/entity/Q693944
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+20
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.05
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+minim
+ ( 
+http://www.wikidata.org/entity/Q1637963
+ )
+<br>&harr;<br>
+millilitre
+( 
+http://www.wikidata.org/entity/Q2332346
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.05919388388
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.0616115199219
  | 
 offset: 
 
@@ -415,15 +537,6 @@ metre
 http://www.wikidata.org/entity/Q11573
  )
 <ul>
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-186
- | 
-offset: 
-
 <li>
 <span style="font-size: 150%;">
 &rarr;
@@ -465,15 +578,54 @@ offset:
 &rarr;
 </span> : 
 factor: 
+186
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
 192.28
  | 
 offset: 
 
 </ul>
 <li data-onto="WD">
-hiro
+pound-foot
  ( 
-http://www.wikidata.org/entity/Q26267971
+http://www.wikidata.org/entity/Q16859309
+ )
+<br>&harr;<br>
+newton metre
+( 
+http://www.wikidata.org/entity/Q215571
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+1.355818
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&larr;
+</span> : 
+factor: 
+0.737562
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+astronomical unit
+ ( 
+http://www.wikidata.org/entity/Q1811
  )
 <br>&harr;<br>
 metre
@@ -486,7 +638,7 @@ http://www.wikidata.org/entity/Q11573
 &rarr;
 </span> : 
 factor: 
-1.515
+149597870691
  | 
 offset: 
 
@@ -495,20 +647,20 @@ offset:
 &rarr;
 </span> : 
 factor: 
-1.818
+149597870700
  | 
 offset: 
 
 </ul>
 <li data-onto="WD">
-atomic mass unit
+sazhen
  ( 
-http://www.wikidata.org/entity/Q483261
+http://www.wikidata.org/entity/Q2018709
  )
 <br>&harr;<br>
-kilogram
+verst
 ( 
-http://www.wikidata.org/entity/Q11570
+http://www.wikidata.org/entity/Q207733
  )
 <ul>
 <li>
@@ -516,67 +668,7 @@ http://www.wikidata.org/entity/Q11570
 &rarr;
 </span> : 
 factor: 
-0.0000000000000000000000000016605388
- | 
-offset: 
-
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-0.00000000000000000000000000166053904
- | 
-offset: 
-
-</ul>
-<li data-onto="WD">
-fluid dram
- ( 
-http://www.wikidata.org/entity/Q1434123
- )
-<br>&harr;<br>
-millilitre
-( 
-http://www.wikidata.org/entity/Q2332346
- )
-<ul>
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-3.5516328125
- | 
-offset: 
-
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-3.6966911953125
- | 
-offset: 
-
-</ul>
-<li data-onto="WD">
-khomer
- ( 
-http://www.wikidata.org/entity/Q25395697
- )
-<br>&harr;<br>
-bat
-( 
-http://www.wikidata.org/entity/Q4079241
- )
-<ul>
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-10
+0.002
  | 
 offset: 
 
@@ -585,166 +677,7 @@ offset:
 &larr;
 </span> : 
 factor: 
-0.1
- | 
-offset: 
-
-</ul>
-<li data-onto="WD">
-minim
- ( 
-http://www.wikidata.org/entity/Q1637963
- )
-<br>&harr;<br>
-millilitre
-( 
-http://www.wikidata.org/entity/Q2332346
- )
-<ul>
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-0.05919388388
- | 
-offset: 
-
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-0.0616115199219
- | 
-offset: 
-
-</ul>
-<li data-onto="WD">
-cotyle
- ( 
-http://www.wikidata.org/entity/Q25831005
- )
-<br>&harr;<br>
-liter
-( 
-http://www.wikidata.org/entity/Q11582
- )
-<ul>
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-0.26
- | 
-offset: 
-
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-0.272
- | 
-offset: 
-
-</ul>
-<li data-onto="WD">
-square plethron
- ( 
-http://www.wikidata.org/entity/Q25909383
- )
-<br>&harr;<br>
-hectare
-( 
-http://www.wikidata.org/entity/Q35852
- )
-<ul>
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-0.095
- | 
-offset: 
-
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-0.0875
- | 
-offset: 
-
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-0.1027
- | 
-offset: 
-
-</ul>
-<li data-onto="WD">
-fluid dram
- ( 
-http://www.wikidata.org/entity/Q1434123
- )
-<br>&harr;<br>
-minim
-( 
-http://www.wikidata.org/entity/Q1637963
- )
-<ul>
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-60
- | 
-offset: 
-
-<li>
-<span style="font-size: 150%;">
-&larr;
-</span> : 
-factor: 
-0.0166666
- | 
-offset: 
-
-</ul>
-<li data-onto="WD">
-actus quadratus
- ( 
-http://www.wikidata.org/entity/Q25915415
- )
-<br>&harr;<br>
-jugerum
-( 
-http://www.wikidata.org/entity/Q251545
- )
-<ul>
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-0.5
- | 
-offset: 
-
-<li>
-<span style="font-size: 150%;">
-&larr;
-</span> : 
-factor: 
-2
+500
  | 
 offset: 
 
@@ -810,14 +743,14 @@ offset:
 
 </ul>
 <li data-onto="WD">
-pous
+cases per person-year
  ( 
-http://www.wikidata.org/entity/Q7235735
+http://www.wikidata.org/entity/Q23893259
  )
 <br>&harr;<br>
-centimetre
+cases per 100000 person-years
 ( 
-http://www.wikidata.org/entity/Q174728
+http://www.wikidata.org/entity/Q23893296
  )
 <ul>
 <li>
@@ -825,38 +758,29 @@ http://www.wikidata.org/entity/Q174728
 &rarr;
 </span> : 
 factor: 
-30.8
+100000
  | 
 offset: 
 
 <li>
 <span style="font-size: 150%;">
-&rarr;
+&larr;
 </span> : 
 factor: 
-29.57
- | 
-offset: 
-
-<li>
-<span style="font-size: 150%;">
-&rarr;
-</span> : 
-factor: 
-32.05
+0.00001
  | 
 offset: 
 
 </ul>
 <li data-onto="WD">
-межевая верста
+jugerum
  ( 
-http://www.wikidata.org/entity/Q12122300
+http://www.wikidata.org/entity/Q251545
  )
 <br>&harr;<br>
-verst
+actus quadratus
 ( 
-http://www.wikidata.org/entity/Q207733
+http://www.wikidata.org/entity/Q25915415
  )
 <ul>
 <li>
@@ -879,14 +803,14 @@ offset:
 
 </ul>
 <li data-onto="WD">
-четверть
+khomer
  ( 
-http://www.wikidata.org/entity/Q4514998
+http://www.wikidata.org/entity/Q25395697
  )
 <br>&harr;<br>
-arshin
+bat
 ( 
-http://www.wikidata.org/entity/Q1172583
+http://www.wikidata.org/entity/Q4079241
  )
 <ul>
 <li>
@@ -894,7 +818,7 @@ http://www.wikidata.org/entity/Q1172583
 &rarr;
 </span> : 
 factor: 
-0.25
+10
  | 
 offset: 
 
@@ -903,20 +827,20 @@ offset:
 &larr;
 </span> : 
 factor: 
-4
+0.1
  | 
 offset: 
 
 </ul>
 <li data-onto="WD">
-verst
+cotyle
  ( 
-http://www.wikidata.org/entity/Q207733
+http://www.wikidata.org/entity/Q25831005
  )
 <br>&harr;<br>
-sazhen
+liter
 ( 
-http://www.wikidata.org/entity/Q2018709
+http://www.wikidata.org/entity/Q11582
  )
 <ul>
 <li>
@@ -924,29 +848,29 @@ http://www.wikidata.org/entity/Q2018709
 &rarr;
 </span> : 
 factor: 
-500
+0.26
  | 
 offset: 
 
 <li>
 <span style="font-size: 150%;">
-&larr;
+&rarr;
 </span> : 
 factor: 
-0.002
+0.272
  | 
 offset: 
 
 </ul>
 <li data-onto="WD">
-arshin
+square plethron
  ( 
-http://www.wikidata.org/entity/Q1172583
+http://www.wikidata.org/entity/Q25909383
  )
 <br>&harr;<br>
-vershok
+hectare
 ( 
-http://www.wikidata.org/entity/Q2121867
+http://www.wikidata.org/entity/Q35852
  )
 <ul>
 <li>
@@ -954,16 +878,25 @@ http://www.wikidata.org/entity/Q2121867
 &rarr;
 </span> : 
 factor: 
-16
+0.0875
  | 
 offset: 
 
 <li>
 <span style="font-size: 150%;">
-&larr;
+&rarr;
 </span> : 
 factor: 
-0.0625
+0.095
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.1027
  | 
 offset: 
 
@@ -999,14 +932,14 @@ offset:
 
 </ul>
 <li data-onto="WD">
-grain
+square cubit
  ( 
-http://www.wikidata.org/entity/Q693944
+http://www.wikidata.org/entity/Q25932175
  )
 <br>&harr;<br>
-scruple
+square metre
 ( 
-http://www.wikidata.org/entity/Q1573593
+http://www.wikidata.org/entity/Q25343
  )
 <ul>
 <li>
@@ -1014,29 +947,29 @@ http://www.wikidata.org/entity/Q1573593
 &rarr;
 </span> : 
 factor: 
-0.05
+0.197
  | 
 offset: 
 
 <li>
 <span style="font-size: 150%;">
-&larr;
+&rarr;
 </span> : 
 factor: 
-20
+0.231
  | 
 offset: 
 
 </ul>
 <li data-onto="WD">
-cases per person-year
+hiro
  ( 
-http://www.wikidata.org/entity/Q23893259
+http://www.wikidata.org/entity/Q26267971
  )
 <br>&harr;<br>
-cases per 100000 person-years
+metre
 ( 
-http://www.wikidata.org/entity/Q23893296
+http://www.wikidata.org/entity/Q11573
  )
 <ul>
 <li>
@@ -1044,16 +977,85 @@ http://www.wikidata.org/entity/Q23893296
 &rarr;
 </span> : 
 factor: 
-100000
+1.515
  | 
 offset: 
 
 <li>
 <span style="font-size: 150%;">
-&larr;
+&rarr;
 </span> : 
 factor: 
-0.00001
+1.818
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+atomic mass unit
+ ( 
+http://www.wikidata.org/entity/Q483261
+ )
+<br>&harr;<br>
+kilogram
+( 
+http://www.wikidata.org/entity/Q11570
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.0000000000000000000000000016605388
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+0.00000000000000000000000000166053904
+ | 
+offset: 
+
+</ul>
+<li data-onto="WD">
+pous
+ ( 
+http://www.wikidata.org/entity/Q7235735
+ )
+<br>&harr;<br>
+centimetre
+( 
+http://www.wikidata.org/entity/Q174728
+ )
+<ul>
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+29.57
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+30.8
+ | 
+offset: 
+
+<li>
+<span style="font-size: 150%;">
+&rarr;
+</span> : 
+factor: 
+32.05
  | 
 offset: 
 

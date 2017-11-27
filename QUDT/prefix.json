@@ -1,9 +1,21 @@
 [
   {
     "labelLang": "",
-    "label": "Gibi",
-    "prefix": "http://qudt.org/vocab/unit#Gibi",
-    "factor": "1073741824"
+    "label": "Atto",
+    "prefix": "http://qudt.org/vocab/unit#Atto",
+    "factor": "1.0E-18"
+  },
+  {
+    "labelLang": "",
+    "label": "Centi",
+    "prefix": "http://qudt.org/vocab/unit#Centi",
+    "factor": "1.0E-2"
+  },
+  {
+    "labelLang": "",
+    "label": "Deca",
+    "prefix": "http://qudt.org/vocab/unit#Deca",
+    "factor": "1.0E1"
   },
   {
     "labelLang": "",
@@ -13,9 +25,45 @@
   },
   {
     "labelLang": "",
-    "label": "Pebi",
-    "prefix": "http://qudt.org/vocab/unit#Pebi",
-    "factor": "125899906842624"
+    "label": "Exa",
+    "prefix": "http://qudt.org/vocab/unit#Exa",
+    "factor": "1.0E18"
+  },
+  {
+    "labelLang": "",
+    "label": "Exbi",
+    "prefix": "http://qudt.org/vocab/unit#Exbi",
+    "factor": "152921504606846976"
+  },
+  {
+    "labelLang": "",
+    "label": "Femto",
+    "prefix": "http://qudt.org/vocab/unit#Femto",
+    "factor": "1.0E-15"
+  },
+  {
+    "labelLang": "",
+    "label": "Gibi",
+    "prefix": "http://qudt.org/vocab/unit#Gibi",
+    "factor": "1073741824"
+  },
+  {
+    "labelLang": "",
+    "label": "Giga",
+    "prefix": "http://qudt.org/vocab/unit#Giga",
+    "factor": "1.0E9"
+  },
+  {
+    "labelLang": "",
+    "label": "Hecto",
+    "prefix": "http://qudt.org/vocab/unit#Hecto",
+    "factor": "1.0E2"
+  },
+  {
+    "labelLang": "",
+    "label": "Kibi",
+    "prefix": "http://qudt.org/vocab/unit#Kibi",
+    "factor": "1024"
   },
   {
     "labelLang": "",
@@ -25,9 +73,15 @@
   },
   {
     "labelLang": "",
-    "label": "Atto",
-    "prefix": "http://qudt.org/vocab/unit#Atto",
-    "factor": "1.0E-18"
+    "label": "Mebi",
+    "prefix": "http://qudt.org/vocab/unit#Mebi",
+    "factor": "1048576"
+  },
+  {
+    "labelLang": "",
+    "label": "Mega",
+    "prefix": "http://qudt.org/vocab/unit#Mega",
+    "factor": "1.0E6"
   },
   {
     "labelLang": "",
@@ -43,39 +97,15 @@
   },
   {
     "labelLang": "",
-    "label": "Yobi",
-    "prefix": "http://qudt.org/vocab/unit#Yobi",
-    "factor": "1208925819614629174706176"
+    "label": "Nano",
+    "prefix": "http://qudt.org/vocab/unit#Nano",
+    "factor": "1.0E-9"
   },
   {
     "labelLang": "",
-    "label": "Zetta",
-    "prefix": "http://qudt.org/vocab/unit#Zetta",
-    "factor": "1.0E21"
-  },
-  {
-    "labelLang": "",
-    "label": "Centi",
-    "prefix": "http://qudt.org/vocab/unit#Centi",
-    "factor": "1.0E-2"
-  },
-  {
-    "labelLang": "",
-    "label": "Mebi",
-    "prefix": "http://qudt.org/vocab/unit#Mebi",
-    "factor": "1048576"
-  },
-  {
-    "labelLang": "",
-    "label": "Hecto",
-    "prefix": "http://qudt.org/vocab/unit#Hecto",
-    "factor": "1.0E2"
-  },
-  {
-    "labelLang": "",
-    "label": "Exbi",
-    "prefix": "http://qudt.org/vocab/unit#Exbi",
-    "factor": "152921504606846976"
+    "label": "Pebi",
+    "prefix": "http://qudt.org/vocab/unit#Pebi",
+    "factor": "125899906842624"
   },
   {
     "labelLang": "",
@@ -85,33 +115,9 @@
   },
   {
     "labelLang": "",
-    "label": "Mega",
-    "prefix": "http://qudt.org/vocab/unit#Mega",
-    "factor": "1.0E6"
-  },
-  {
-    "labelLang": "",
     "label": "Pico",
     "prefix": "http://qudt.org/vocab/unit#Pico",
     "factor": "1.0E-12"
-  },
-  {
-    "labelLang": "",
-    "label": "Zebi",
-    "prefix": "http://qudt.org/vocab/unit#Zebi",
-    "factor": "1180591620717411303424"
-  },
-  {
-    "labelLang": "",
-    "label": "Giga",
-    "prefix": "http://qudt.org/vocab/unit#Giga",
-    "factor": "1.0E9"
-  },
-  {
-    "labelLang": "",
-    "label": "Yocto",
-    "prefix": "http://qudt.org/vocab/unit#Yocto",
-    "factor": "1.0E-24"
   },
   {
     "labelLang": "",
@@ -127,9 +133,15 @@
   },
   {
     "labelLang": "",
-    "label": "Exa",
-    "prefix": "http://qudt.org/vocab/unit#Exa",
-    "factor": "1.0E18"
+    "label": "Yobi",
+    "prefix": "http://qudt.org/vocab/unit#Yobi",
+    "factor": "1208925819614629174706176"
+  },
+  {
+    "labelLang": "",
+    "label": "Yocto",
+    "prefix": "http://qudt.org/vocab/unit#Yocto",
+    "factor": "1.0E-24"
   },
   {
     "labelLang": "",
@@ -139,21 +151,9 @@
   },
   {
     "labelLang": "",
-    "label": "Nano",
-    "prefix": "http://qudt.org/vocab/unit#Nano",
-    "factor": "1.0E-9"
-  },
-  {
-    "labelLang": "",
-    "label": "Femto",
-    "prefix": "http://qudt.org/vocab/unit#Femto",
-    "factor": "1.0E-15"
-  },
-  {
-    "labelLang": "",
-    "label": "Deca",
-    "prefix": "http://qudt.org/vocab/unit#Deca",
-    "factor": "1.0E1"
+    "label": "Zebi",
+    "prefix": "http://qudt.org/vocab/unit#Zebi",
+    "factor": "1180591620717411303424"
   },
   {
     "labelLang": "",
@@ -163,8 +163,8 @@
   },
   {
     "labelLang": "",
-    "label": "Kibi",
-    "prefix": "http://qudt.org/vocab/unit#Kibi",
-    "factor": "1024"
+    "label": "Zetta",
+    "prefix": "http://qudt.org/vocab/unit#Zetta",
+    "factor": "1.0E21"
   }
 ]
