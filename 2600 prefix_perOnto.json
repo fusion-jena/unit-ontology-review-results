@@ -21,10 +21,10 @@
    "dispLabel": "atto",
    "factor": 1e-18,
    "raw": {
-    "label": "atto",
-    "factor": "1e-18",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/atto"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/atto",
+    "label": "atto",
+    "factor": "1e-18"
    }
   },
   {
@@ -48,10 +48,10 @@
    "dispLabel": "centi",
    "factor": 0.01,
    "raw": {
-    "label": "centi",
-    "factor": "1e-2",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/centi"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/centi",
+    "label": "centi",
+    "factor": "1e-2"
    }
   },
   {
@@ -75,10 +75,10 @@
    "dispLabel": "deci",
    "factor": 0.1,
    "raw": {
-    "label": "deci",
-    "factor": "1e-1",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deci"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deci",
+    "label": "deci",
+    "factor": "1e-1"
    }
   },
   {
@@ -102,10 +102,10 @@
    "dispLabel": "deka",
    "factor": 10,
    "raw": {
-    "label": "deka",
-    "factor": "1e1",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deka"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/deka",
+    "label": "deka",
+    "factor": "1e1"
    }
   },
   {
@@ -129,10 +129,10 @@
    "dispLabel": "exa",
    "factor": 1000000000000000000,
    "raw": {
-    "label": "exa",
-    "factor": "1e18",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/exa"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/exa",
+    "label": "exa",
+    "factor": "1e18"
    }
   },
   {
@@ -156,10 +156,10 @@
    "dispLabel": "femto",
    "factor": 1e-15,
    "raw": {
-    "label": "femto",
-    "factor": "1e-15",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/femto"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/femto",
+    "label": "femto",
+    "factor": "1e-15"
    }
   },
   {
@@ -183,10 +183,10 @@
    "dispLabel": "gibi",
    "factor": 1073741824,
    "raw": {
-    "label": "gibi",
-    "factor": "1073741824",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/gibi"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/gibi",
+    "label": "gibi",
+    "factor": "1073741824"
    }
   },
   {
@@ -210,10 +210,10 @@
    "dispLabel": "giga",
    "factor": 1000000000,
    "raw": {
-    "label": "giga",
-    "factor": "1e9",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/giga"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/giga",
+    "label": "giga",
+    "factor": "1e9"
    }
   },
   {
@@ -237,10 +237,10 @@
    "dispLabel": "hecto",
    "factor": 100,
    "raw": {
-    "label": "hecto",
-    "factor": "1e2",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/hecto"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/hecto",
+    "label": "hecto",
+    "factor": "1e2"
    }
   },
   {
@@ -264,10 +264,10 @@
    "dispLabel": "kibi",
    "factor": 1024,
    "raw": {
-    "label": "kibi",
-    "factor": "1024",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kibi"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kibi",
+    "label": "kibi",
+    "factor": "1024"
    }
   },
   {
@@ -291,10 +291,10 @@
    "dispLabel": "kilo",
    "factor": 1000,
    "raw": {
-    "label": "kilo",
-    "factor": "1e3",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kilo"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/kilo",
+    "label": "kilo",
+    "factor": "1e3"
    }
   },
   {
@@ -318,10 +318,10 @@
    "dispLabel": "mebi",
    "factor": 1048576,
    "raw": {
-    "label": "mebi",
-    "factor": "1048576",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mebi"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mebi",
+    "label": "mebi",
+    "factor": "1048576"
    }
   },
   {
@@ -345,10 +345,10 @@
    "dispLabel": "mega",
    "factor": 1000000,
    "raw": {
-    "label": "mega",
-    "factor": "1e6",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mega"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/mega",
+    "label": "mega",
+    "factor": "1e6"
    }
   },
   {
@@ -372,10 +372,10 @@
    "dispLabel": "micro",
    "factor": 0.000001,
    "raw": {
-    "label": "micro",
-    "factor": "1e-6",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/micro"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/micro",
+    "label": "micro",
+    "factor": "1e-6"
    }
   },
   {
@@ -399,10 +399,10 @@
    "dispLabel": "milli",
    "factor": 0.001,
    "raw": {
-    "label": "milli",
-    "factor": "1e-3",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/milli"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/milli",
+    "label": "milli",
+    "factor": "1e-3"
    }
   },
   {
@@ -426,10 +426,10 @@
    "dispLabel": "nano",
    "factor": 1e-9,
    "raw": {
-    "label": "nano",
-    "factor": "1e-9",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/nano"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/nano",
+    "label": "nano",
+    "factor": "1e-9"
    }
   },
   {
@@ -453,10 +453,10 @@
    "dispLabel": "peta",
    "factor": 1000000000000000,
    "raw": {
-    "label": "peta",
-    "factor": "1e15",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/peta"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/peta",
+    "label": "peta",
+    "factor": "1e15"
    }
   },
   {
@@ -480,10 +480,10 @@
    "dispLabel": "pico",
    "factor": 1e-12,
    "raw": {
-    "label": "pico",
-    "factor": "1e-12",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/pico"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/pico",
+    "label": "pico",
+    "factor": "1e-12"
    }
   },
   {
@@ -507,10 +507,10 @@
    "dispLabel": "tebi",
    "factor": 1099511627776,
    "raw": {
-    "label": "tebi",
-    "factor": "1099511627776",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tebi"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tebi",
+    "label": "tebi",
+    "factor": "1099511627776"
    }
   },
   {
@@ -534,10 +534,10 @@
    "dispLabel": "tera",
    "factor": 1000000000000,
    "raw": {
-    "label": "tera",
-    "factor": "1e12",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tera"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/tera",
+    "label": "tera",
+    "factor": "1e12"
    }
   },
   {
@@ -561,10 +561,10 @@
    "dispLabel": "yocto",
    "factor": 1e-24,
    "raw": {
-    "label": "yocto",
-    "factor": "1e-24",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yocto"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yocto",
+    "label": "yocto",
+    "factor": "1e-24"
    }
   },
   {
@@ -588,10 +588,10 @@
    "dispLabel": "yotta",
    "factor": 1e+24,
    "raw": {
-    "label": "yotta",
-    "factor": "1e24",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yotta"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/yotta",
+    "label": "yotta",
+    "factor": "1e24"
    }
   },
   {
@@ -615,10 +615,10 @@
    "dispLabel": "zepto",
    "factor": 1e-21,
    "raw": {
-    "label": "zepto",
-    "factor": "1e-21",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zepto"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zepto",
+    "label": "zepto",
+    "factor": "1e-21"
    }
   },
   {
@@ -642,10 +642,10 @@
    "dispLabel": "zetta",
    "factor": 1e+21,
    "raw": {
-    "label": "zetta",
-    "factor": "1e21",
     "labelLang": "en",
-    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zetta"
+    "prefix": "http://purl.oclc.org/NET/muo/ucum/prefix/zetta",
+    "label": "zetta",
+    "factor": "1e21"
    }
   }
  ],
@@ -679,8 +679,8 @@
    "factor": 1e-18,
    "raw": {
     "labelLang": "en",
-    "label": "atto",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/atto",
+    "label": "atto",
     "factor": 1e-18
    }
   },
@@ -718,8 +718,8 @@
    "factor": 0.01,
    "raw": {
     "labelLang": "en",
-    "label": "centi",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/centi",
+    "label": "centi",
     "factor": 0.01
    }
   },
@@ -751,8 +751,8 @@
    "factor": 10,
    "raw": {
     "labelLang": "en",
-    "label": "deca",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/deca",
+    "label": "deca",
     "factor": 10
    }
   },
@@ -790,8 +790,8 @@
    "factor": 0.1,
    "raw": {
     "labelLang": "en",
-    "label": "deci",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/deci",
+    "label": "deci",
     "factor": 0.1
    }
   },
@@ -829,8 +829,8 @@
    "factor": 1000000000000000000,
    "raw": {
     "labelLang": "en",
-    "label": "exa",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/exa",
+    "label": "exa",
     "factor": 1000000000000000000
    }
   },
@@ -862,8 +862,8 @@
    "factor": 1152921504606847000,
    "raw": {
     "labelLang": "en",
-    "label": "exbi",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/exbi",
+    "label": "exbi",
     "factor": 1152921504606847000
    }
   },
@@ -901,8 +901,8 @@
    "factor": 1e-15,
    "raw": {
     "labelLang": "en",
-    "label": "femto",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/femto",
+    "label": "femto",
     "factor": 1e-15
    }
   },
@@ -934,8 +934,8 @@
    "factor": 1073741824,
    "raw": {
     "labelLang": "en",
-    "label": "gibi",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/gibi",
+    "label": "gibi",
     "factor": 1073741824
    }
   },
@@ -973,8 +973,8 @@
    "factor": 1000000000,
    "raw": {
     "labelLang": "en",
-    "label": "giga",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/giga",
+    "label": "giga",
     "factor": 1000000000
    }
   },
@@ -1006,8 +1006,8 @@
    "factor": 100,
    "raw": {
     "labelLang": "en",
-    "label": "hecto",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/hecto",
+    "label": "hecto",
     "factor": 100
    }
   },
@@ -1039,8 +1039,8 @@
    "factor": 1024,
    "raw": {
     "labelLang": "en",
-    "label": "kibi",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/kibi",
+    "label": "kibi",
     "factor": 1024
    }
   },
@@ -1078,8 +1078,8 @@
    "factor": 1000,
    "raw": {
     "labelLang": "en",
-    "label": "kilo",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/kilo",
+    "label": "kilo",
     "factor": 1000
    }
   },
@@ -1111,8 +1111,8 @@
    "factor": 1048576,
    "raw": {
     "labelLang": "en",
-    "label": "mebi",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/mebi",
+    "label": "mebi",
     "factor": 1048576
    }
   },
@@ -1150,8 +1150,8 @@
    "factor": 1000000,
    "raw": {
     "labelLang": "en",
-    "label": "mega",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/mega",
+    "label": "mega",
     "factor": 1000000
    }
   },
@@ -1189,8 +1189,8 @@
    "factor": 0.000001,
    "raw": {
     "labelLang": "en",
-    "label": "micro",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/micro",
+    "label": "micro",
     "factor": 0.000001
    }
   },
@@ -1228,8 +1228,8 @@
    "factor": 0.001,
    "raw": {
     "labelLang": "en",
-    "label": "milli",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/milli",
+    "label": "milli",
     "factor": 0.001
    }
   },
@@ -1267,8 +1267,8 @@
    "factor": 1e-9,
    "raw": {
     "labelLang": "en",
-    "label": "nano",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/nano",
+    "label": "nano",
     "factor": 1e-9
    }
   },
@@ -1300,8 +1300,8 @@
    "factor": 1125899906842624,
    "raw": {
     "labelLang": "en",
-    "label": "pebi",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/pebi",
+    "label": "pebi",
     "factor": 1125899906842624
    }
   },
@@ -1339,8 +1339,8 @@
    "factor": 1000000000000000,
    "raw": {
     "labelLang": "en",
-    "label": "peta",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/peta",
+    "label": "peta",
     "factor": 1000000000000000
    }
   },
@@ -1378,8 +1378,8 @@
    "factor": 1e-12,
    "raw": {
     "labelLang": "en",
-    "label": "pico",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/pico",
+    "label": "pico",
     "factor": 1e-12
    }
   },
@@ -1411,8 +1411,8 @@
    "factor": 1099511627776,
    "raw": {
     "labelLang": "en",
-    "label": "tebi",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/tebi",
+    "label": "tebi",
     "factor": 1099511627776
    }
   },
@@ -1450,8 +1450,8 @@
    "factor": 1000000000000,
    "raw": {
     "labelLang": "en",
-    "label": "tera",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/tera",
+    "label": "tera",
     "factor": 1000000000000
    }
   },
@@ -1483,8 +1483,8 @@
    "factor": 1.2089258196146292e+24,
    "raw": {
     "labelLang": "en",
-    "label": "yobi",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/yobi",
+    "label": "yobi",
     "factor": 1.2089258196146292e+24
    }
   },
@@ -1516,8 +1516,8 @@
    "factor": 1e-24,
    "raw": {
     "labelLang": "en",
-    "label": "yocto",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/yocto",
+    "label": "yocto",
     "factor": 1e-24
    }
   },
@@ -1555,8 +1555,8 @@
    "factor": 1e+24,
    "raw": {
     "labelLang": "en",
-    "label": "yotta",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/yotta",
+    "label": "yotta",
     "factor": 1e+24
    }
   },
@@ -1588,8 +1588,8 @@
    "factor": 1.1805916207174113e+21,
    "raw": {
     "labelLang": "en",
-    "label": "zebi",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/zebi",
+    "label": "zebi",
     "factor": 1.1805916207174113e+21
    }
   },
@@ -1621,8 +1621,8 @@
    "factor": 1e-21,
    "raw": {
     "labelLang": "en",
-    "label": "zepto",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/zepto",
+    "label": "zepto",
     "factor": 1e-21
    }
   },
@@ -1660,8 +1660,8 @@
    "factor": 1e+21,
    "raw": {
     "labelLang": "en",
-    "label": "zetta",
     "prefix": "http://www.wurvoc.org/vocabularies/om-1.8/zetta",
+    "label": "zetta",
     "factor": 1e+21
    }
   }
@@ -1695,8 +1695,8 @@
    "factor": 1e-18,
    "raw": {
     "labelLang": "en",
-    "label": "atto",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/atto",
+    "label": "atto",
     "factor": 1e-18
    }
   },
@@ -1734,8 +1734,8 @@
    "factor": 0.01,
    "raw": {
     "labelLang": "en",
-    "label": "centi",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/centi",
+    "label": "centi",
     "factor": 0.01
    }
   },
@@ -1767,8 +1767,8 @@
    "factor": 10,
    "raw": {
     "labelLang": "en",
-    "label": "deca",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/deca",
+    "label": "deca",
     "factor": 10
    }
   },
@@ -1806,8 +1806,8 @@
    "factor": 0.1,
    "raw": {
     "labelLang": "en",
-    "label": "deci",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/deci",
+    "label": "deci",
     "factor": 0.1
    }
   },
@@ -1845,8 +1845,8 @@
    "factor": 1000000000000000000,
    "raw": {
     "labelLang": "en",
-    "label": "exa",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/exa",
+    "label": "exa",
     "factor": 1000000000000000000
    }
   },
@@ -1878,8 +1878,8 @@
    "factor": 1152921504606847000,
    "raw": {
     "labelLang": "en",
-    "label": "exbi",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/exbi",
+    "label": "exbi",
     "factor": 1152921504606847000
    }
   },
@@ -1917,8 +1917,8 @@
    "factor": 1e-15,
    "raw": {
     "labelLang": "en",
-    "label": "femto",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/femto",
+    "label": "femto",
     "factor": 1e-15
    }
   },
@@ -1950,8 +1950,8 @@
    "factor": 1073741824,
    "raw": {
     "labelLang": "en",
-    "label": "gibi",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/gibi",
+    "label": "gibi",
     "factor": 1073741824
    }
   },
@@ -1989,8 +1989,8 @@
    "factor": 1000000000,
    "raw": {
     "labelLang": "en",
-    "label": "giga",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/giga",
+    "label": "giga",
     "factor": 1000000000
    }
   },
@@ -2022,8 +2022,8 @@
    "factor": 100,
    "raw": {
     "labelLang": "en",
-    "label": "hecto",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/hecto",
+    "label": "hecto",
     "factor": 100
    }
   },
@@ -2055,8 +2055,8 @@
    "factor": 1024,
    "raw": {
     "labelLang": "en",
-    "label": "kibi",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/kibi",
+    "label": "kibi",
     "factor": 1024
    }
   },
@@ -2094,8 +2094,8 @@
    "factor": 1000,
    "raw": {
     "labelLang": "en",
-    "label": "kilo",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilo",
+    "label": "kilo",
     "factor": 1000
    }
   },
@@ -2127,8 +2127,8 @@
    "factor": 1048576,
    "raw": {
     "labelLang": "en",
-    "label": "mebi",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/mebi",
+    "label": "mebi",
     "factor": 1048576
    }
   },
@@ -2166,8 +2166,8 @@
    "factor": 1000000,
    "raw": {
     "labelLang": "en",
-    "label": "mega",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/mega",
+    "label": "mega",
     "factor": 1000000
    }
   },
@@ -2205,8 +2205,8 @@
    "factor": 0.000001,
    "raw": {
     "labelLang": "en",
-    "label": "micro",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/micro",
+    "label": "micro",
     "factor": 0.000001
    }
   },
@@ -2244,8 +2244,8 @@
    "factor": 0.001,
    "raw": {
     "labelLang": "en",
-    "label": "milli",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/milli",
+    "label": "milli",
     "factor": 0.001
    }
   },
@@ -2283,8 +2283,8 @@
    "factor": 1e-9,
    "raw": {
     "labelLang": "en",
-    "label": "nano",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/nano",
+    "label": "nano",
     "factor": 1e-9
    }
   },
@@ -2316,8 +2316,8 @@
    "factor": 1125899906842624,
    "raw": {
     "labelLang": "en",
-    "label": "pebi",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/pebi",
+    "label": "pebi",
     "factor": 1125899906842624
    }
   },
@@ -2355,8 +2355,8 @@
    "factor": 1000000000000000,
    "raw": {
     "labelLang": "en",
-    "label": "peta",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/peta",
+    "label": "peta",
     "factor": 1000000000000000
    }
   },
@@ -2394,8 +2394,8 @@
    "factor": 1e-12,
    "raw": {
     "labelLang": "en",
-    "label": "pico",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/pico",
+    "label": "pico",
     "factor": 1e-12
    }
   },
@@ -2427,8 +2427,8 @@
    "factor": 1099511627776,
    "raw": {
     "labelLang": "en",
-    "label": "tebi",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/tebi",
+    "label": "tebi",
     "factor": 1099511627776
    }
   },
@@ -2466,8 +2466,8 @@
    "factor": 1000000000000,
    "raw": {
     "labelLang": "en",
-    "label": "tera",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/tera",
+    "label": "tera",
     "factor": 1000000000000
    }
   },
@@ -2499,8 +2499,8 @@
    "factor": 1.2089258196146292e+24,
    "raw": {
     "labelLang": "en",
-    "label": "yobi",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/yobi",
+    "label": "yobi",
     "factor": 1.2089258196146292e+24
    }
   },
@@ -2532,8 +2532,8 @@
    "factor": 1e-24,
    "raw": {
     "labelLang": "en",
-    "label": "yocto",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/yocto",
+    "label": "yocto",
     "factor": 1e-24
    }
   },
@@ -2571,8 +2571,8 @@
    "factor": 1e+24,
    "raw": {
     "labelLang": "en",
-    "label": "yotta",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/yotta",
+    "label": "yotta",
     "factor": 1e+24
    }
   },
@@ -2604,8 +2604,8 @@
    "factor": 1.1805916207174113e+21,
    "raw": {
     "labelLang": "en",
-    "label": "zebi",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/zebi",
+    "label": "zebi",
     "factor": 1.1805916207174113e+21
    }
   },
@@ -2637,8 +2637,8 @@
    "factor": 1e-21,
    "raw": {
     "labelLang": "en",
-    "label": "zepto",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/zepto",
+    "label": "zepto",
     "factor": 1e-21
    }
   },
@@ -2676,8 +2676,8 @@
    "factor": 1e+21,
    "raw": {
     "labelLang": "en",
-    "label": "zetta",
     "prefix": "http://www.ontology-of-units-of-measure.org/resource/om-2/zetta",
+    "label": "zetta",
     "factor": 1e+21
    }
   }
@@ -2704,10 +2704,10 @@
    "dispLabel": "atto",
    "factor": 1e-18,
    "raw": {
-    "label": "atto",
-    "factor": "1.0e-18",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#atto"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#atto",
+    "label": "atto",
+    "factor": "1.0e-18"
    }
   },
   {
@@ -2731,10 +2731,10 @@
    "dispLabel": "centi",
    "factor": 0.01,
    "raw": {
-    "label": "centi",
-    "factor": "1.0e-2",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#centi"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#centi",
+    "label": "centi",
+    "factor": "1.0e-2"
    }
   },
   {
@@ -2758,10 +2758,10 @@
    "dispLabel": "deci",
    "factor": 0.1,
    "raw": {
-    "label": "deci",
-    "factor": "1.0e-1",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#deci"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#deci",
+    "label": "deci",
+    "factor": "1.0e-1"
    }
   },
   {
@@ -2785,10 +2785,10 @@
    "dispLabel": "deka",
    "factor": 10,
    "raw": {
-    "label": "deka",
-    "factor": "1.0e1",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#deka"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#deka",
+    "label": "deka",
+    "factor": "1.0e1"
    }
   },
   {
@@ -2812,10 +2812,10 @@
    "dispLabel": "exa",
    "factor": 1000000000000000000,
    "raw": {
-    "label": "exa",
-    "factor": "1.0e18",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#exa"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#exa",
+    "label": "exa",
+    "factor": "1.0e18"
    }
   },
   {
@@ -2839,10 +2839,10 @@
    "dispLabel": "femto",
    "factor": 1e-15,
    "raw": {
-    "label": "femto",
-    "factor": "1.0e-15",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#femto"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#femto",
+    "label": "femto",
+    "factor": "1.0e-15"
    }
   },
   {
@@ -2866,10 +2866,10 @@
    "dispLabel": "giga",
    "factor": 1000000000,
    "raw": {
-    "label": "giga",
-    "factor": "1.0e9",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#giga",
+    "label": "giga",
+    "factor": "1.0e9"
    }
   },
   {
@@ -2893,10 +2893,10 @@
    "dispLabel": "hecto",
    "factor": 100,
    "raw": {
-    "label": "hecto",
-    "factor": "1.0e2",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#hecto"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#hecto",
+    "label": "hecto",
+    "factor": "1.0e2"
    }
   },
   {
@@ -2920,10 +2920,10 @@
    "dispLabel": "kilo",
    "factor": 1000,
    "raw": {
-    "label": "kilo",
-    "factor": "1.0e3",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#kilo",
+    "label": "kilo",
+    "factor": "1.0e3"
    }
   },
   {
@@ -2947,10 +2947,10 @@
    "dispLabel": "mega",
    "factor": 1000000,
    "raw": {
-    "label": "mega",
-    "factor": "1.0e6",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#mega",
+    "label": "mega",
+    "factor": "1.0e6"
    }
   },
   {
@@ -2974,10 +2974,10 @@
    "dispLabel": "micro",
    "factor": 0.000001,
    "raw": {
-    "label": "micro",
-    "factor": "1.0e-6",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#micro",
+    "label": "micro",
+    "factor": "1.0e-6"
    }
   },
   {
@@ -3001,10 +3001,10 @@
    "dispLabel": "milli",
    "factor": 0.001,
    "raw": {
-    "label": "milli",
-    "factor": "1.0e-3",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#milli",
+    "label": "milli",
+    "factor": "1.0e-3"
    }
   },
   {
@@ -3028,10 +3028,10 @@
    "dispLabel": "nano",
    "factor": 1e-9,
    "raw": {
-    "label": "nano",
-    "factor": "1.0e-9",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#nano",
+    "label": "nano",
+    "factor": "1.0e-9"
    }
   },
   {
@@ -3055,10 +3055,10 @@
    "dispLabel": "peta",
    "factor": 1000000000000000,
    "raw": {
-    "label": "peta",
-    "factor": "1.0e15",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#peta"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#peta",
+    "label": "peta",
+    "factor": "1.0e15"
    }
   },
   {
@@ -3082,10 +3082,10 @@
    "dispLabel": "pico",
    "factor": 1e-12,
    "raw": {
-    "label": "pico",
-    "factor": "1.0e-12",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#pico",
+    "label": "pico",
+    "factor": "1.0e-12"
    }
   },
   {
@@ -3109,10 +3109,10 @@
    "dispLabel": "tera",
    "factor": 1000000000000,
    "raw": {
-    "label": "tera",
-    "factor": "1.0e12",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#tera"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#tera",
+    "label": "tera",
+    "factor": "1.0e12"
    }
   },
   {
@@ -3136,10 +3136,10 @@
    "dispLabel": "yocto",
    "factor": 1e-24,
    "raw": {
-    "label": "yocto",
-    "factor": "1.0e-24",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#yocto"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#yocto",
+    "label": "yocto",
+    "factor": "1.0e-24"
    }
   },
   {
@@ -3163,10 +3163,10 @@
    "dispLabel": "yotta",
    "factor": 1e+24,
    "raw": {
-    "label": "yotta",
-    "factor": "1.0e24",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#yotta"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#yotta",
+    "label": "yotta",
+    "factor": "1.0e24"
    }
   },
   {
@@ -3190,10 +3190,10 @@
    "dispLabel": "zepto",
    "factor": 1e-21,
    "raw": {
-    "label": "zepto",
-    "factor": "1.0e-21",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#zepto"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#zepto",
+    "label": "zepto",
+    "factor": "1.0e-21"
    }
   },
   {
@@ -3217,10 +3217,10 @@
    "dispLabel": "zetta",
    "factor": 1e+21,
    "raw": {
-    "label": "zetta",
-    "factor": "1.0e21",
     "labelLang": "",
-    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#zetta"
+    "prefix": "http://purl.oclc.org/NET/ssnx/qu/prefix#zetta",
+    "label": "zetta",
+    "factor": "1.0e21"
    }
   }
  ],
@@ -3247,8 +3247,8 @@
    "factor": 1e-18,
    "raw": {
     "labelLang": "",
-    "label": "Atto",
     "prefix": "http://qudt.org/vocab/unit#Atto",
+    "label": "Atto",
     "factor": "1.0E-18"
    }
   },
@@ -3274,8 +3274,8 @@
    "factor": 0.01,
    "raw": {
     "labelLang": "",
-    "label": "Centi",
     "prefix": "http://qudt.org/vocab/unit#Centi",
+    "label": "Centi",
     "factor": "1.0E-2"
    }
   },
@@ -3301,8 +3301,8 @@
    "factor": 10,
    "raw": {
     "labelLang": "",
-    "label": "Deca",
     "prefix": "http://qudt.org/vocab/unit#Deca",
+    "label": "Deca",
     "factor": "1.0E1"
    }
   },
@@ -3328,8 +3328,8 @@
    "factor": 0.1,
    "raw": {
     "labelLang": "",
-    "label": "Deci",
     "prefix": "http://qudt.org/vocab/unit#Deci",
+    "label": "Deci",
     "factor": "1.0E-1"
    }
   },
@@ -3355,8 +3355,8 @@
    "factor": 1000000000000000000,
    "raw": {
     "labelLang": "",
-    "label": "Exa",
     "prefix": "http://qudt.org/vocab/unit#Exa",
+    "label": "Exa",
     "factor": "1.0E18"
    }
   },
@@ -3382,8 +3382,8 @@
    "factor": 152921504606846980,
    "raw": {
     "labelLang": "",
-    "label": "Exbi",
     "prefix": "http://qudt.org/vocab/unit#Exbi",
+    "label": "Exbi",
     "factor": "152921504606846976"
    }
   },
@@ -3409,8 +3409,8 @@
    "factor": 1e-15,
    "raw": {
     "labelLang": "",
-    "label": "Femto",
     "prefix": "http://qudt.org/vocab/unit#Femto",
+    "label": "Femto",
     "factor": "1.0E-15"
    }
   },
@@ -3436,8 +3436,8 @@
    "factor": 1073741824,
    "raw": {
     "labelLang": "",
-    "label": "Gibi",
     "prefix": "http://qudt.org/vocab/unit#Gibi",
+    "label": "Gibi",
     "factor": "1073741824"
    }
   },
@@ -3463,8 +3463,8 @@
    "factor": 1000000000,
    "raw": {
     "labelLang": "",
-    "label": "Giga",
     "prefix": "http://qudt.org/vocab/unit#Giga",
+    "label": "Giga",
     "factor": "1.0E9"
    }
   },
@@ -3490,8 +3490,8 @@
    "factor": 100,
    "raw": {
     "labelLang": "",
-    "label": "Hecto",
     "prefix": "http://qudt.org/vocab/unit#Hecto",
+    "label": "Hecto",
     "factor": "1.0E2"
    }
   },
@@ -3517,8 +3517,8 @@
    "factor": 1024,
    "raw": {
     "labelLang": "",
-    "label": "Kibi",
     "prefix": "http://qudt.org/vocab/unit#Kibi",
+    "label": "Kibi",
     "factor": "1024"
    }
   },
@@ -3544,8 +3544,8 @@
    "factor": 1000,
    "raw": {
     "labelLang": "",
-    "label": "Kilo",
     "prefix": "http://qudt.org/vocab/unit#Kilo",
+    "label": "Kilo",
     "factor": "1.0E3"
    }
   },
@@ -3571,8 +3571,8 @@
    "factor": 1048576,
    "raw": {
     "labelLang": "",
-    "label": "Mebi",
     "prefix": "http://qudt.org/vocab/unit#Mebi",
+    "label": "Mebi",
     "factor": "1048576"
    }
   },
@@ -3598,8 +3598,8 @@
    "factor": 1000000,
    "raw": {
     "labelLang": "",
-    "label": "Mega",
     "prefix": "http://qudt.org/vocab/unit#Mega",
+    "label": "Mega",
     "factor": "1.0E6"
    }
   },
@@ -3625,8 +3625,8 @@
    "factor": 0.000001,
    "raw": {
     "labelLang": "",
-    "label": "Micro",
     "prefix": "http://qudt.org/vocab/unit#Micro",
+    "label": "Micro",
     "factor": "1.0E-6"
    }
   },
@@ -3652,8 +3652,8 @@
    "factor": 0.001,
    "raw": {
     "labelLang": "",
-    "label": "Milli",
     "prefix": "http://qudt.org/vocab/unit#Milli",
+    "label": "Milli",
     "factor": "1.0E-3"
    }
   },
@@ -3679,8 +3679,8 @@
    "factor": 1e-9,
    "raw": {
     "labelLang": "",
-    "label": "Nano",
     "prefix": "http://qudt.org/vocab/unit#Nano",
+    "label": "Nano",
     "factor": "1.0E-9"
    }
   },
@@ -3706,8 +3706,8 @@
    "factor": 125899906842624,
    "raw": {
     "labelLang": "",
-    "label": "Pebi",
     "prefix": "http://qudt.org/vocab/unit#Pebi",
+    "label": "Pebi",
     "factor": "125899906842624"
    }
   },
@@ -3733,8 +3733,8 @@
    "factor": 1000000000000000,
    "raw": {
     "labelLang": "",
-    "label": "Peta",
     "prefix": "http://qudt.org/vocab/unit#Peta",
+    "label": "Peta",
     "factor": "1.0E15"
    }
   },
@@ -3760,8 +3760,8 @@
    "factor": 1e-12,
    "raw": {
     "labelLang": "",
-    "label": "Pico",
     "prefix": "http://qudt.org/vocab/unit#Pico",
+    "label": "Pico",
     "factor": "1.0E-12"
    }
   },
@@ -3787,8 +3787,8 @@
    "factor": 1099511627776,
    "raw": {
     "labelLang": "",
-    "label": "Tebi",
     "prefix": "http://qudt.org/vocab/unit#Tebi",
+    "label": "Tebi",
     "factor": "1099511627776"
    }
   },
@@ -3814,8 +3814,8 @@
    "factor": 1000000000000,
    "raw": {
     "labelLang": "",
-    "label": "Tera",
     "prefix": "http://qudt.org/vocab/unit#Tera",
+    "label": "Tera",
     "factor": "1.0E12"
    }
   },
@@ -3841,8 +3841,8 @@
    "factor": 1.2089258196146292e+24,
    "raw": {
     "labelLang": "",
-    "label": "Yobi",
     "prefix": "http://qudt.org/vocab/unit#Yobi",
+    "label": "Yobi",
     "factor": "1208925819614629174706176"
    }
   },
@@ -3868,8 +3868,8 @@
    "factor": 1e-24,
    "raw": {
     "labelLang": "",
-    "label": "Yocto",
     "prefix": "http://qudt.org/vocab/unit#Yocto",
+    "label": "Yocto",
     "factor": "1.0E-24"
    }
   },
@@ -3895,8 +3895,8 @@
    "factor": 1e+24,
    "raw": {
     "labelLang": "",
-    "label": "Yotta",
     "prefix": "http://qudt.org/vocab/unit#Yotta",
+    "label": "Yotta",
     "factor": "1.0E24"
    }
   },
@@ -3922,8 +3922,8 @@
    "factor": 1.1805916207174113e+21,
    "raw": {
     "labelLang": "",
-    "label": "Zebi",
     "prefix": "http://qudt.org/vocab/unit#Zebi",
+    "label": "Zebi",
     "factor": "1180591620717411303424"
    }
   },
@@ -3949,8 +3949,8 @@
    "factor": 1e-21,
    "raw": {
     "labelLang": "",
-    "label": "Zepto",
     "prefix": "http://qudt.org/vocab/unit#Zepto",
+    "label": "Zepto",
     "factor": "1.0E-21"
    }
   },
@@ -3976,32 +3976,13 @@
    "factor": 1e+21,
    "raw": {
     "labelLang": "",
-    "label": "Zetta",
     "prefix": "http://qudt.org/vocab/unit#Zetta",
+    "label": "Zetta",
     "factor": "1.0E21"
    }
   }
  ],
  "SWEET": [
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#deca",
-   "ontology": "SWEET",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "deca"
-     ]
-    }
-   },
-   "dispLabel": "deca",
-   "factor": 10,
-   "raw": {
-    "factor": "10",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#deca"
-   }
-  },
   {
    "__type": "SemPrefix",
    "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#centi",
@@ -4017,103 +3998,27 @@
    "dispLabel": "centi",
    "factor": 0.01,
    "raw": {
-    "factor": "1E-2",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#centi"
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#centi",
+    "factor": "1E-2"
    }
   },
   {
    "__type": "SemPrefix",
-   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#milli",
+   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#deca",
    "ontology": "SWEET",
    "labels": {
     "_uri": {
      "__type": "Set",
      "values": [
-      "milli"
+      "deca"
      ]
     }
    },
-   "dispLabel": "milli",
-   "factor": 0.001,
+   "dispLabel": "deca",
+   "factor": 10,
    "raw": {
-    "factor": "1E-3",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#milli"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#micro",
-   "ontology": "SWEET",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "micro"
-     ]
-    }
-   },
-   "dispLabel": "micro",
-   "factor": 0.000001,
-   "raw": {
-    "factor": "1E-6",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#micro"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#nano",
-   "ontology": "SWEET",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "nano"
-     ]
-    }
-   },
-   "dispLabel": "nano",
-   "factor": 1e-9,
-   "raw": {
-    "factor": "1E-9",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#nano"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#tera",
-   "ontology": "SWEET",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "tera"
-     ]
-    }
-   },
-   "dispLabel": "tera",
-   "factor": 1000000000000,
-   "raw": {
-    "factor": "1e12",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#tera"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#peta",
-   "ontology": "SWEET",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "peta"
-     ]
-    }
-   },
-   "dispLabel": "peta",
-   "factor": 1000000000000000,
-   "raw": {
-    "factor": "1e15",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#peta"
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#deca",
+    "factor": "10"
    }
   },
   {
@@ -4131,65 +4036,8 @@
    "dispLabel": "exa",
    "factor": 1000000000000000000,
    "raw": {
-    "factor": "1e18",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#exa"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hecto",
-   "ontology": "SWEET",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "hecto"
-     ]
-    }
-   },
-   "dispLabel": "hecto",
-   "factor": 100,
-   "raw": {
-    "factor": "1e2",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hecto"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilo",
-   "ontology": "SWEET",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "kilo"
-     ]
-    }
-   },
-   "dispLabel": "kilo",
-   "factor": 1000,
-   "raw": {
-    "factor": "1e3",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilo"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mega",
-   "ontology": "SWEET",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "mega"
-     ]
-    }
-   },
-   "dispLabel": "mega",
-   "factor": 1000000,
-   "raw": {
-    "factor": "1e6",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mega"
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#exa",
+    "factor": "1e18"
    }
   },
   {
@@ -4207,16 +4055,90 @@
    "dispLabel": "giga",
    "factor": 1000000000,
    "raw": {
-    "factor": "1e9",
-    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#giga"
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#giga",
+    "factor": "1e9"
    }
-  }
- ],
- "SWEET3": [
+  },
   {
    "__type": "SemPrefix",
-   "uri": "http://sweetontology.net/reprSciUnits/milli",
-   "ontology": "SWEET3",
+   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hecto",
+   "ontology": "SWEET",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "hecto"
+     ]
+    }
+   },
+   "dispLabel": "hecto",
+   "factor": 100,
+   "raw": {
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hecto",
+    "factor": "1e2"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilo",
+   "ontology": "SWEET",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "kilo"
+     ]
+    }
+   },
+   "dispLabel": "kilo",
+   "factor": 1000,
+   "raw": {
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilo",
+    "factor": "1e3"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mega",
+   "ontology": "SWEET",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "mega"
+     ]
+    }
+   },
+   "dispLabel": "mega",
+   "factor": 1000000,
+   "raw": {
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mega",
+    "factor": "1e6"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#micro",
+   "ontology": "SWEET",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "micro"
+     ]
+    }
+   },
+   "dispLabel": "micro",
+   "factor": 0.000001,
+   "raw": {
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#micro",
+    "factor": "1E-6"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#milli",
+   "ontology": "SWEET",
    "labels": {
     "_uri": {
      "__type": "Set",
@@ -4228,10 +4150,69 @@
    "dispLabel": "milli",
    "factor": 0.001,
    "raw": {
-    "factor": "0.001",
-    "prefix": "http://sweetontology.net/reprSciUnits/milli"
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#milli",
+    "factor": "1E-3"
    }
   },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#nano",
+   "ontology": "SWEET",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "nano"
+     ]
+    }
+   },
+   "dispLabel": "nano",
+   "factor": 1e-9,
+   "raw": {
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#nano",
+    "factor": "1E-9"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#peta",
+   "ontology": "SWEET",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "peta"
+     ]
+    }
+   },
+   "dispLabel": "peta",
+   "factor": 1000000000000000,
+   "raw": {
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#peta",
+    "factor": "1e15"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#tera",
+   "ontology": "SWEET",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "tera"
+     ]
+    }
+   },
+   "dispLabel": "tera",
+   "factor": 1000000000000,
+   "raw": {
+    "prefix": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#tera",
+    "factor": "1e12"
+   }
+  }
+ ],
+ "SWEET3": [
   {
    "__type": "SemPrefix",
    "uri": "http://sweetontology.net/reprSciUnits/centi",
@@ -4247,122 +4228,8 @@
    "dispLabel": "centi",
    "factor": 0.01,
    "raw": {
-    "factor": "0.01",
-    "prefix": "http://sweetontology.net/reprSciUnits/centi"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweetontology.net/reprSciUnits/micro",
-   "ontology": "SWEET3",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "micro"
-     ]
-    }
-   },
-   "dispLabel": "micro",
-   "factor": 0.000001,
-   "raw": {
-    "factor": "1.0E-6",
-    "prefix": "http://sweetontology.net/reprSciUnits/micro"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweetontology.net/reprSciUnits/nano",
-   "ontology": "SWEET3",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "nano"
-     ]
-    }
-   },
-   "dispLabel": "nano",
-   "factor": 1e-9,
-   "raw": {
-    "factor": "1.0E-9",
-    "prefix": "http://sweetontology.net/reprSciUnits/nano"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweetontology.net/reprSciUnits/tera",
-   "ontology": "SWEET3",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "tera"
-     ]
-    }
-   },
-   "dispLabel": "tera",
-   "factor": 1000000000000,
-   "raw": {
-    "factor": "1.0E12",
-    "prefix": "http://sweetontology.net/reprSciUnits/tera"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweetontology.net/reprSciUnits/peta",
-   "ontology": "SWEET3",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "peta"
-     ]
-    }
-   },
-   "dispLabel": "peta",
-   "factor": 1000000000000000,
-   "raw": {
-    "factor": "1.0E15",
-    "prefix": "http://sweetontology.net/reprSciUnits/peta"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweetontology.net/reprSciUnits/exa",
-   "ontology": "SWEET3",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "exa"
-     ]
-    }
-   },
-   "dispLabel": "exa",
-   "factor": 1000000000000000000,
-   "raw": {
-    "factor": "1.0E18",
-    "prefix": "http://sweetontology.net/reprSciUnits/exa"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://sweetontology.net/reprSciUnits/giga",
-   "ontology": "SWEET3",
-   "labels": {
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "giga"
-     ]
-    }
-   },
-   "dispLabel": "giga",
-   "factor": 1000000000,
-   "raw": {
-    "factor": "1.0E9",
-    "prefix": "http://sweetontology.net/reprSciUnits/giga"
+    "prefix": "http://sweetontology.net/reprSciUnits/centi",
+    "factor": "0.01"
    }
   },
   {
@@ -4380,8 +4247,46 @@
    "dispLabel": "deca",
    "factor": 10,
    "raw": {
-    "factor": "10.0",
-    "prefix": "http://sweetontology.net/reprSciUnits/deca"
+    "prefix": "http://sweetontology.net/reprSciUnits/deca",
+    "factor": "10.0"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweetontology.net/reprSciUnits/exa",
+   "ontology": "SWEET3",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "exa"
+     ]
+    }
+   },
+   "dispLabel": "exa",
+   "factor": 1000000000000000000,
+   "raw": {
+    "prefix": "http://sweetontology.net/reprSciUnits/exa",
+    "factor": "1.0E18"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweetontology.net/reprSciUnits/giga",
+   "ontology": "SWEET3",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "giga"
+     ]
+    }
+   },
+   "dispLabel": "giga",
+   "factor": 1000000000,
+   "raw": {
+    "prefix": "http://sweetontology.net/reprSciUnits/giga",
+    "factor": "1.0E9"
    }
   },
   {
@@ -4399,8 +4304,8 @@
    "dispLabel": "hecto",
    "factor": 100,
    "raw": {
-    "factor": "100.0",
-    "prefix": "http://sweetontology.net/reprSciUnits/hecto"
+    "prefix": "http://sweetontology.net/reprSciUnits/hecto",
+    "factor": "100.0"
    }
   },
   {
@@ -4418,8 +4323,8 @@
    "dispLabel": "kilo",
    "factor": 1000,
    "raw": {
-    "factor": "1000.0",
-    "prefix": "http://sweetontology.net/reprSciUnits/kilo"
+    "prefix": "http://sweetontology.net/reprSciUnits/kilo",
+    "factor": "1000.0"
    }
   },
   {
@@ -4437,199 +4342,132 @@
    "dispLabel": "mega",
    "factor": 1000000,
    "raw": {
-    "factor": "1000000.0",
-    "prefix": "http://sweetontology.net/reprSciUnits/mega"
+    "prefix": "http://sweetontology.net/reprSciUnits/mega",
+    "factor": "1000000.0"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweetontology.net/reprSciUnits/micro",
+   "ontology": "SWEET3",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "micro"
+     ]
+    }
+   },
+   "dispLabel": "micro",
+   "factor": 0.000001,
+   "raw": {
+    "prefix": "http://sweetontology.net/reprSciUnits/micro",
+    "factor": "1.0E-6"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweetontology.net/reprSciUnits/milli",
+   "ontology": "SWEET3",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "milli"
+     ]
+    }
+   },
+   "dispLabel": "milli",
+   "factor": 0.001,
+   "raw": {
+    "prefix": "http://sweetontology.net/reprSciUnits/milli",
+    "factor": "0.001"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweetontology.net/reprSciUnits/nano",
+   "ontology": "SWEET3",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "nano"
+     ]
+    }
+   },
+   "dispLabel": "nano",
+   "factor": 1e-9,
+   "raw": {
+    "prefix": "http://sweetontology.net/reprSciUnits/nano",
+    "factor": "1.0E-9"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweetontology.net/reprSciUnits/peta",
+   "ontology": "SWEET3",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "peta"
+     ]
+    }
+   },
+   "dispLabel": "peta",
+   "factor": 1000000000000000,
+   "raw": {
+    "prefix": "http://sweetontology.net/reprSciUnits/peta",
+    "factor": "1.0E15"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://sweetontology.net/reprSciUnits/tera",
+   "ontology": "SWEET3",
+   "labels": {
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "tera"
+     ]
+    }
+   },
+   "dispLabel": "tera",
+   "factor": 1000000000000,
+   "raw": {
+    "prefix": "http://sweetontology.net/reprSciUnits/tera",
+    "factor": "1.0E12"
    }
   }
  ],
  "UO": [
   {
    "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000304",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000286",
    "ontology": "UO",
    "labels": {
     "": {
      "__type": "Set",
      "values": [
-      "atto"
+      "yotta"
      ]
     },
     "_uri": {
      "__type": "Set",
      "values": [
-      "uo 0000304",
-      "uo0000304"
+      "uo 0000286",
+      "uo0000286"
      ]
     }
    },
-   "dispLabel": "atto",
+   "dispLabel": "yotta",
    "factor": null,
    "raw": {
     "labelLang": "",
-    "label": "atto",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000304"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000298",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "centi"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000298",
-      "uo0000298"
-     ]
-    }
-   },
-   "dispLabel": "centi",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "centi",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000298"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000295",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "deca"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000295",
-      "uo0000295"
-     ]
-    }
-   },
-   "dispLabel": "deca",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "deca",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000295"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000296",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "deci"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000296",
-      "uo0000296"
-     ]
-    }
-   },
-   "dispLabel": "deci",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "deci",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000296"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000289",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "exa"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000289",
-      "uo0000289"
-     ]
-    }
-   },
-   "dispLabel": "exa",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "exa",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000289"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000303",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "femto"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000303",
-      "uo0000303"
-     ]
-    }
-   },
-   "dispLabel": "femto",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "femto",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000303"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000292",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "giga"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000292",
-      "uo0000292"
-     ]
-    }
-   },
-   "dispLabel": "giga",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "giga",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000292"
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000286",
+    "label": "yotta"
    }
   },
   {
@@ -4655,305 +4493,8 @@
    "factor": null,
    "raw": {
     "labelLang": "",
-    "label": "hecto",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000287"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000294",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "kilo"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000294",
-      "uo0000294"
-     ]
-    }
-   },
-   "dispLabel": "kilo",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "kilo",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000294"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000293",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "mega"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000293",
-      "uo0000293"
-     ]
-    }
-   },
-   "dispLabel": "mega",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "mega",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000293"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000299",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "micro"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000299",
-      "uo0000299"
-     ]
-    }
-   },
-   "dispLabel": "micro",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "micro",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000299"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000297",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "milli"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000297",
-      "uo0000297"
-     ]
-    }
-   },
-   "dispLabel": "milli",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "milli",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000297"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000300",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "nano"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000300",
-      "uo0000300"
-     ]
-    }
-   },
-   "dispLabel": "nano",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "nano",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000300"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000290",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "peta"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000290",
-      "uo0000290"
-     ]
-    }
-   },
-   "dispLabel": "peta",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "peta",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000290"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000302",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "pico"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000302",
-      "uo0000302"
-     ]
-    }
-   },
-   "dispLabel": "pico",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "pico",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000302"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000291",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "tera"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000291",
-      "uo0000291"
-     ]
-    }
-   },
-   "dispLabel": "tera",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "tera",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000291"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000306",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "yocto"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000306",
-      "uo0000306"
-     ]
-    }
-   },
-   "dispLabel": "yocto",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "yocto",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000306"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000286",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "yotta"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000286",
-      "uo0000286"
-     ]
-    }
-   },
-   "dispLabel": "yotta",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "yotta",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000286"
-   }
-  },
-  {
-   "__type": "SemPrefix",
-   "uri": "http://purl.obolibrary.org/obo/UO_0000305",
-   "ontology": "UO",
-   "labels": {
-    "": {
-     "__type": "Set",
-     "values": [
-      "zepto"
-     ]
-    },
-    "_uri": {
-     "__type": "Set",
-     "values": [
-      "uo 0000305",
-      "uo0000305"
-     ]
-    }
-   },
-   "dispLabel": "zepto",
-   "factor": null,
-   "raw": {
-    "labelLang": "",
-    "label": "zepto",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000305"
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000287",
+    "label": "hecto"
    }
   },
   {
@@ -4979,8 +4520,467 @@
    "factor": null,
    "raw": {
     "labelLang": "",
-    "label": "zetta",
-    "prefix": "http://purl.obolibrary.org/obo/UO_0000288"
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000288",
+    "label": "zetta"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000289",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "exa"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000289",
+      "uo0000289"
+     ]
+    }
+   },
+   "dispLabel": "exa",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000289",
+    "label": "exa"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000290",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "peta"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000290",
+      "uo0000290"
+     ]
+    }
+   },
+   "dispLabel": "peta",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000290",
+    "label": "peta"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000291",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "tera"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000291",
+      "uo0000291"
+     ]
+    }
+   },
+   "dispLabel": "tera",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000291",
+    "label": "tera"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000292",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "giga"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000292",
+      "uo0000292"
+     ]
+    }
+   },
+   "dispLabel": "giga",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000292",
+    "label": "giga"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000293",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "mega"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000293",
+      "uo0000293"
+     ]
+    }
+   },
+   "dispLabel": "mega",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000293",
+    "label": "mega"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000294",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "kilo"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000294",
+      "uo0000294"
+     ]
+    }
+   },
+   "dispLabel": "kilo",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000294",
+    "label": "kilo"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000295",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "deca"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000295",
+      "uo0000295"
+     ]
+    }
+   },
+   "dispLabel": "deca",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000295",
+    "label": "deca"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000296",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "deci"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000296",
+      "uo0000296"
+     ]
+    }
+   },
+   "dispLabel": "deci",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000296",
+    "label": "deci"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000297",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "milli"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000297",
+      "uo0000297"
+     ]
+    }
+   },
+   "dispLabel": "milli",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000297",
+    "label": "milli"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000298",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "centi"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000298",
+      "uo0000298"
+     ]
+    }
+   },
+   "dispLabel": "centi",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000298",
+    "label": "centi"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000299",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "micro"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000299",
+      "uo0000299"
+     ]
+    }
+   },
+   "dispLabel": "micro",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000299",
+    "label": "micro"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000300",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "nano"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000300",
+      "uo0000300"
+     ]
+    }
+   },
+   "dispLabel": "nano",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000300",
+    "label": "nano"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000302",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "pico"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000302",
+      "uo0000302"
+     ]
+    }
+   },
+   "dispLabel": "pico",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000302",
+    "label": "pico"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000303",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "femto"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000303",
+      "uo0000303"
+     ]
+    }
+   },
+   "dispLabel": "femto",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000303",
+    "label": "femto"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000304",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "atto"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000304",
+      "uo0000304"
+     ]
+    }
+   },
+   "dispLabel": "atto",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000304",
+    "label": "atto"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000305",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "zepto"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000305",
+      "uo0000305"
+     ]
+    }
+   },
+   "dispLabel": "zepto",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000305",
+    "label": "zepto"
+   }
+  },
+  {
+   "__type": "SemPrefix",
+   "uri": "http://purl.obolibrary.org/obo/UO_0000306",
+   "ontology": "UO",
+   "labels": {
+    "": {
+     "__type": "Set",
+     "values": [
+      "yocto"
+     ]
+    },
+    "_uri": {
+     "__type": "Set",
+     "values": [
+      "uo 0000306",
+      "uo0000306"
+     ]
+    }
+   },
+   "dispLabel": "yocto",
+   "factor": null,
+   "raw": {
+    "labelLang": "",
+    "prefix": "http://purl.obolibrary.org/obo/UO_0000306",
+    "label": "yocto"
    }
   }
  ],

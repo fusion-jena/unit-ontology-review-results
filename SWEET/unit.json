@@ -4,78 +4,6 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ampere"
   },
   {
-    "symbol": "C",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#coulomb"
-  },
-  {
-    "symbol": "C",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeC"
-  },
-  {
-    "symbol": "cd",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#candela"
-  },
-  {
-    "symbol": "F",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#farad"
-  },
-  {
-    "symbol": "G",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#siemens"
-  },
-  {
-    "symbol": "Hz",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perSecond"
-  },
-  {
-    "symbol": "J",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joule"
-  },
-  {
-    "symbol": "K",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kelvin"
-  },
-  {
-    "symbol": "kg",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilogram"
-  },
-  {
-    "symbol": "Lx",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#lux"
-  },
-  {
-    "symbol": "m",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter"
-  },
-  {
-    "symbol": "mol",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mole"
-  },
-  {
-    "symbol": "N",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#newton"
-  },
-  {
-    "symbol": "Pa",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pascal"
-  },
-  {
-    "symbol": "pa/s",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pascalPerSecond"
-  },
-  {
-    "symbol": "rad",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radian"
-  },
-  {
-    "symbol": "s",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second"
-  },
-  {
-    "symbol": "sr",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#steradian"
-  },
-  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#amperePerMeter"
   },
   {
@@ -91,6 +19,10 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#arcsecond"
   },
   {
+    "symbol": "cd",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#candela"
+  },
+  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#candelaPerMeterSquared"
   },
   {
@@ -98,6 +30,10 @@
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#century"
+  },
+  {
+    "symbol": "C",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#coulomb"
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#coulombMeter"
@@ -118,6 +54,10 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#decade"
   },
   {
+    "symbol": "C",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeC"
+  },
+  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#degreeF"
   },
   {
@@ -125,6 +65,10 @@
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#dimensionlessUnit"
+  },
+  {
+    "symbol": "F",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#farad"
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#faradPerMeter"
@@ -154,6 +98,10 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#hour"
   },
   {
+    "symbol": "J",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joule"
+  },
+  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#joulePerKelvin"
   },
   {
@@ -178,7 +126,15 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#jouleSecond"
   },
   {
+    "symbol": "K",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kelvin"
+  },
+  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kelvinPerMeter"
+  },
+  {
+    "symbol": "kg",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilogram"
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#kilogramMeterPerSecond"
@@ -205,7 +161,15 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#lumen"
   },
   {
+    "symbol": "Lx",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#lux"
+  },
+  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#megahertz"
+  },
+  {
+    "symbol": "m",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meter"
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#meterCubed"
@@ -268,6 +232,10 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#minute"
   },
   {
+    "symbol": "mol",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#mole"
+  },
+  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#month"
   },
   {
@@ -275,6 +243,10 @@
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#nanometer"
+  },
+  {
+    "symbol": "N",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#newton"
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#newtonMeter"
@@ -290,6 +262,14 @@
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#ohmMeter"
+  },
+  {
+    "symbol": "Pa",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pascal"
+  },
+  {
+    "symbol": "pa/s",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pascalPerSecond"
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pascalSecond"
@@ -343,6 +323,10 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perRadian"
   },
   {
+    "symbol": "Hz",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perSecond"
+  },
+  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#perSecondCubed"
   },
   {
@@ -376,6 +360,10 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#pptv"
   },
   {
+    "symbol": "rad",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radian"
+  },
+  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#radianPerSecond"
   },
   {
@@ -388,7 +376,15 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#season"
   },
   {
+    "symbol": "s",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#second"
+  },
+  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#secondSquared"
+  },
+  {
+    "symbol": "G",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#siemens"
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#siemensPerKilogram"
@@ -397,10 +393,18 @@
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#siemensPerMeter"
   },
   {
+    "symbol": "sr",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#steradian"
+  },
+  {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#terahertz"
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#tesla"
+  },
+  {
+    "symbol": "V",
+    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#volt"
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#voltPerMeter"
@@ -434,9 +438,5 @@
   },
   {
     "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#year"
-  },
-  {
-    "symbol": "V",
-    "unit": "http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl#volt"
   }
 ]

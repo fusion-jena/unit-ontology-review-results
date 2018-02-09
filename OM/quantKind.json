@@ -8,37 +8,37 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
     "label": "aberration"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
     "label": "aberration"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_latitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
     "label": "aberration in latitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_latitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
     "label": "aberration in latitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_longitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
     "label": "aberration in longitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration_in_longitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
     "label": "aberration in longitude"
   },
   {
@@ -49,13 +49,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_bolometric_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Bolometric_magnitude",
     "label": "absolute bolometric magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Absolute_bolometric_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Bolometric_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "absolute bolometric magnitude"
   },
   {
@@ -316,12 +316,6 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_distance_modulus",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
-    "label": "apparent distance modulus"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_distance_modulus",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
     "label": "apparent distance modulus"
   },
@@ -329,6 +323,12 @@
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_distance_modulus",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance_modulus",
+    "label": "apparent distance modulus"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Apparent_distance_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
     "label": "apparent distance modulus"
   },
   {
@@ -405,13 +405,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "b magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/b_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
     "label": "b magnitude"
   },
   {
@@ -429,13 +429,19 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_maximum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
     "label": "B magnitude at maximum brightness"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_maximum_brightness",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "label": "B magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "B magnitude at maximum brightness"
   },
   {
@@ -446,9 +452,9 @@
   },
   {
     "labelLang": "en",
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_maximum_brightness",
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_minimum_brightness",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
-    "label": "B magnitude at maximum brightness"
+    "label": "B magnitude at minimum brightness"
   },
   {
     "labelLang": "en",
@@ -470,20 +476,14 @@
   },
   {
     "labelLang": "en",
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude_at_minimum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/B_magnitude",
-    "label": "B magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/beta_narrow_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "β_narrow magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/beta_narrow_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
     "label": "β_narrow magnitude"
   },
   {
@@ -511,13 +511,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Body_label_mass",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Label_mass",
     "label": "body label mass"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Body_label_mass",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Label_mass",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Mass",
     "label": "body label mass"
   },
   {
@@ -814,13 +814,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Colour_temperature",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
     "label": "colour temperature"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Colour_temperature",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Temperature",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Thermodynamic_temperature",
     "label": "colour temperature"
   },
   {
@@ -1185,13 +1185,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Distance_modulus",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
     "label": "distance modulus"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Distance_modulus",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
     "label": "distance modulus"
   },
   {
@@ -1510,31 +1510,31 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Date",
     "label": "epoch"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Date",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
     "label": "epoch"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch_at_maximum_brightness",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Date",
-    "label": "epoch at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch_at_maximum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
     "label": "epoch at maximum brightness"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch_at_maximum_brightness",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch",
+    "label": "epoch at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Epoch_at_maximum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Time",
     "label": "epoch at maximum brightness"
   },
   {
@@ -1602,37 +1602,37 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_B",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
     "label": "extinction in B"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_B",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
     "label": "extinction in B"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_U",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
     "label": "extinction in U"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_U",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
     "label": "extinction in U"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_V",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
     "label": "extinction in V"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_in_V",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Extinction_at_waveband",
     "label": "extinction in V"
   },
   {
@@ -2690,13 +2690,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_albedo",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Albedo",
     "label": "normal albedo"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Normal_albedo",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Albedo",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Quantity_of_dimension_one",
     "label": "normal albedo"
   },
   {
@@ -2756,13 +2756,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_abscised_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number abscised flowers"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_abscised_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
     "label": "number abscised flowers"
   },
   {
@@ -2876,37 +2876,37 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_2",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number bud stadium 2"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_2",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
     "label": "number bud stadium 2"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_3",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number bud stadium 3"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_3",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
     "label": "number bud stadium 3"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number bud stadium 4"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
     "label": "number bud stadium 4"
   },
   {
@@ -2936,13 +2936,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_1",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number color 1"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_1",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
     "label": "number color 1"
   },
   {
@@ -2972,25 +2972,25 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number color 4"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
     "label": "number color 4"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number color 5"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
     "label": "number color 5"
   },
   {
@@ -3036,13 +3036,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_leaves",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number dry leaves"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_leaves",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
     "label": "number dry leaves"
   },
   {
@@ -3180,13 +3180,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_1",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number manual firmness 1"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_1",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
     "label": "number manual firmness 1"
   },
   {
@@ -3204,13 +3204,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_2",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number manual firmness 2"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_2",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
     "label": "number manual firmness 2"
   },
   {
@@ -3240,25 +3240,25 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_3.5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number manual firmness 3.5"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_3.5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
     "label": "number manual firmness 3.5"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number manual firmness 4"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
     "label": "number manual firmness 4"
   },
   {
@@ -3276,13 +3276,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number manual firmness 5"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
     "label": "number manual firmness 5"
   },
   {
@@ -3335,37 +3335,37 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_2",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number pulp browning 2"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_2",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
     "label": "number pulp browning 2"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_3",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number pulp browning 3"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_3",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
     "label": "number pulp browning 3"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number pulp browning 4"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_pulp_browning_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
     "label": "number pulp browning 4"
   },
   {
@@ -3383,13 +3383,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_rotten_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number rotten flowers"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_rotten_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
     "label": "number rotten flowers"
   },
   {
@@ -3461,14 +3461,20 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number vascular browning 5"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_vascular_browning_5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
     "label": "number vascular browning 5"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_wilted_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "label": "number wilted flowers"
   },
   {
     "labelLang": "en",
@@ -3478,12 +3484,6 @@
   },
   {
     "labelLang": "en",
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_wilted_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
-    "label": "number wilted flowers"
-  },
-  {
-    "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_wilted_leaves",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number wilted leaves"
@@ -3497,13 +3497,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_yellow_leaves",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "number yellow leaves"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_yellow_leaves",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
     "label": "number yellow leaves"
   },
   {
@@ -3698,7 +3698,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_maximum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "photographic magnitude at maximum brightness"
   },
   {
@@ -3710,14 +3710,8 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_maximum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
-    "label": "photographic magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_minimum_brightness",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude",
-    "label": "photographic magnitude at minimum brightness"
+    "label": "photographic magnitude at maximum brightness"
   },
   {
     "labelLang": "en",
@@ -3733,6 +3727,12 @@
   },
   {
     "labelLang": "en",
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Photographic_magnitude",
+    "label": "photographic magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planck_function",
     "label": "Planck function"
   },
@@ -3744,7 +3744,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planetary_aberration",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
     "label": "planetary aberration"
   },
   {
@@ -3756,7 +3756,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Planetary_aberration",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
     "label": "planetary aberration"
   },
   {
@@ -4000,13 +4000,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/R_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Cousins_magnitude",
     "label": "R magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/R_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Cousins_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "R magnitude"
   },
   {
@@ -4342,13 +4342,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Secular_aberration",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
     "label": "secular aberration"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Secular_aberration",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Plane_angle",
     "label": "secular aberration"
   },
   {
@@ -4364,13 +4364,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_loss_modulus",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Storage_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
     "label": "shear loss modulus"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_loss_modulus",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Storage_modulus",
     "label": "shear loss modulus"
   },
   {
@@ -4387,13 +4387,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_storage_modulus",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Storage_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
     "label": "shear storage modulus"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Shear_storage_modulus",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Dynamic_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Storage_modulus",
     "label": "shear storage modulus"
   },
   {
@@ -4675,13 +4675,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stellar_aberration",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
     "label": "stellar aberration"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Stellar_aberration",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Aberration",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Angular_displacement",
     "label": "stellar aberration"
   },
   {
@@ -4957,13 +4957,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_distance_travelled",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
     "label": "total distance travelled"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_distance_travelled",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
     "label": "total distance travelled"
   },
   {
@@ -4981,13 +4981,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "total number flowers"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
     "label": "total number flowers"
   },
   {
@@ -5030,12 +5030,6 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/True_distance_modulus",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
-    "label": "true distance modulus"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/True_distance_modulus",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
     "label": "true distance modulus"
   },
@@ -5043,6 +5037,12 @@
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/True_distance_modulus",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance_modulus",
+    "label": "true distance modulus"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/True_distance_modulus",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
     "label": "true distance modulus"
   },
   {
@@ -5060,25 +5060,25 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "u magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/u_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Stroemgren_magnitude",
     "label": "u magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
     "label": "U magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/U_magnitude",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "U magnitude"
   },
   {
@@ -5119,13 +5119,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_maximum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
     "label": "V magnitude at maximum brightness"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_maximum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Johnson_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "V magnitude at maximum brightness"
   },
   {
@@ -5149,13 +5149,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_minimum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "V magnitude at minimum brightness"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/V_magnitude_at_minimum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_minimum_brightness",
     "label": "V magnitude at minimum brightness"
   },
   {
@@ -5443,7 +5443,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_maximum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
     "label": "white light magnitude at maximum brightness"
   },
   {
@@ -5455,14 +5455,8 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_maximum_brightness",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude",
-    "label": "white light magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_minimum_brightness",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude",
-    "label": "white light magnitude at minimum brightness"
+    "label": "white light magnitude at maximum brightness"
   },
   {
     "labelLang": "en",
@@ -5474,6 +5468,12 @@
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_minimum_brightness",
     "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Magnitude_at_minimum_brightness",
+    "label": "white light magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude_at_minimum_brightness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/White_light_magnitude",
     "label": "white light magnitude at minimum brightness"
   },
   {
@@ -5520,13 +5520,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/xy_distance_travelled",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
     "label": "xy distance travelled"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/xy_distance_travelled",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Distance",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Length",
     "label": "xy distance travelled"
   },
   {
@@ -6318,61 +6318,61 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_0",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal Botrytis 0"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_0",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
     "label": "aantal Botrytis 0"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_1",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal Botrytis 1"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_1",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
     "label": "aantal Botrytis 1"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_2",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal Botrytis 2"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_2",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
     "label": "aantal Botrytis 2"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_3",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal Botrytis 3"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_3",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
     "label": "aantal Botrytis 3"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal Botrytis 4"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_Botrytis",
     "label": "aantal Botrytis 4"
   },
   {
@@ -6384,13 +6384,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_1",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal knopstadium 1"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_1",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
     "label": "aantal knopstadium 1"
   },
   {
@@ -6420,25 +6420,25 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal knopstadium 4"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
     "label": "aantal knopstadium 4"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal knopstadium 5"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium_5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_bud_stadium",
     "label": "aantal knopstadium 5"
   },
   {
@@ -6456,13 +6456,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_1",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal kleur 1"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_1",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
     "label": "aantal kleur 1"
   },
   {
@@ -6480,13 +6480,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_3",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal kleur 3"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_3",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
     "label": "aantal kleur 3"
   },
   {
@@ -6504,13 +6504,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal kleur 5"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color_5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_color",
     "label": "aantal kleur 5"
   },
   {
@@ -6528,25 +6528,25 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal verdroogde bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
     "label": "aantal verdroogde bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_leaves",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal verdroogde bladeren"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_dry_leaves",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
     "label": "aantal verdroogde bladeren"
   },
   {
@@ -6594,13 +6594,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_0",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal manuele stevigheid 0"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_0",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
     "label": "aantal manuele stevigheid 0"
   },
   {
@@ -6654,13 +6654,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_2.5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal manuele stevigheid 2.5"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_2.5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
     "label": "aantal manuele stevigheid 2.5"
   },
   {
@@ -6678,37 +6678,37 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_3.5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal manuele stevigheid 3.5"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_3.5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
     "label": "aantal manuele stevigheid 3.5"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal manuele stevigheid 4"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_4",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
     "label": "aantal manuele stevigheid 4"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_4.5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal manuele stevigheid 4.5"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness_4.5",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_manual_firmness",
     "label": "aantal manuele stevigheid 4.5"
   },
   {
@@ -6726,13 +6726,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_nonturgid_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal slappe bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_nonturgid_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
     "label": "aantal slappe bloemen"
   },
   {
@@ -6774,13 +6774,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_wilted_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal verwelkte bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_wilted_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
     "label": "aantal verwelkte bloemen"
   },
   {
@@ -6798,13 +6798,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_yellow_leaves",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "aantal vergeelde bladeren"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Number_yellow_leaves",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
     "label": "aantal vergeelde bladeren"
   },
   {
@@ -7127,25 +7127,25 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "totaal aantal bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_flowers",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_flowers",
     "label": "totaal aantal bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_leaves",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
     "label": "totaal aantal bladeren"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.wurvoc.org/vocabularies/om-1.8/Total_number_leaves",
-    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number",
+    "parent": "http://www.wurvoc.org/vocabularies/om-1.8/Number_leaves",
     "label": "totaal aantal bladeren"
   },
   {

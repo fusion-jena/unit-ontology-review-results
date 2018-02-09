@@ -1,5 +1,42 @@
 [
  {
+  "dimVector": "[0,1,-2,-1,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_flux_density-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/magneticFluxDensity-Dimension"
+   ],
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_field_strength-dimension",
+    "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/MagneticField-Dimension",
+    "http://qudt.org/vocab/quantity#MagneticField"
+   ]
+  ],
+  "labels": [
+   [
+    "magnetic flux density",
+    "magneticfluxdensity",
+    "magnetic flux density-",
+    "magneticfluxdensity-"
+   ],
+   [
+    "magnetic field strength",
+    "magneticfieldstrength",
+    "magnetic field strength-",
+    "magneticfieldstrength-",
+    "magnetic field",
+    "magneticfield",
+    "magnetic field-",
+    "magneticfield-",
+    "electric current per length",
+    "electriccurrentperlength",
+    "electric current per unit length",
+    "electriccurrentperunitlength"
+   ]
+  ]
+ },
+ {
   "dimVector": "[0,0,-1,0,0,0,0]",
   "entries": [
    [
@@ -108,43 +145,6 @@
   ]
  },
  {
-  "dimVector": "[0,1,-2,-1,0,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_flux_density-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/magneticFluxDensity-Dimension"
-   ],
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_field_strength-dimension",
-    "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/MagneticField-Dimension",
-    "http://qudt.org/vocab/quantity#MagneticField"
-   ]
-  ],
-  "labels": [
-   [
-    "magnetic flux density",
-    "magneticfluxdensity",
-    "magnetic flux density-",
-    "magneticfluxdensity-"
-   ],
-   [
-    "magnetic field strength",
-    "magneticfieldstrength",
-    "magnetic field strength-",
-    "magneticfieldstrength-",
-    "magnetic field",
-    "magneticfield",
-    "magnetic field-",
-    "magneticfield-",
-    "electric current per length",
-    "electriccurrentperlength",
-    "electric current per unit length",
-    "electriccurrentperunitlength"
-   ]
-  ]
- },
- {
   "dimVector": "[0,1,-2,0,0,0,0]",
   "entries": [
    [
@@ -158,13 +158,13 @@
   ],
   "labels": [
    [
-    "oppervlaktespanningdimensie",
+    "surface tension",
+    "surfacetension",
     "surface tension-",
     "surfacetension-",
     "force per length",
     "forceperlength",
-    "surface tension",
-    "surfacetension",
+    "oppervlaktespanningdimensie",
     "force per unit length",
     "forceperunitlength"
    ],
@@ -251,38 +251,6 @@
   ]
  },
  {
-  "dimVector": "[0,0,0,1,0,0,0]",
-  "entries": [
-   [
-    "http://www.wurvoc.org/vocabularies/om-1.8/electric_current-dimension",
-    "http://www.ontology-of-units-of-measure.org/resource/om-2/electricCurrent-Dimension",
-    "http://qudt.org/vocab/quantity#ElectricCurrent"
-   ],
-   [
-    "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle"
-   ],
-   [
-    "http://qudt.org/vocab/quantity#MagnetomotiveForce"
-   ]
-  ],
-  "labels": [
-   [
-    "electric current",
-    "electriccurrent",
-    "electric current-",
-    "electriccurrent-"
-   ],
-   [
-    "electric current per angle",
-    "electriccurrentperangle"
-   ],
-   [
-    "magnetomotive force",
-    "magnetomotiveforce"
-   ]
-  ]
- },
- {
   "dimVector": "[-2,0,0,0,0,0,1]",
   "entries": [
    [
@@ -331,11 +299,43 @@
     "luminousflux-"
    ],
    [
-    "lichtsterktedimensie",
+    "luminous intensity",
+    "luminousintensity",
     "luminous intensity-",
     "luminousintensity-",
-    "luminous intensity",
-    "luminousintensity"
+    "lichtsterktedimensie"
+   ]
+  ]
+ },
+ {
+  "dimVector": "[0,0,0,1,0,0,0]",
+  "entries": [
+   [
+    "http://www.wurvoc.org/vocabularies/om-1.8/electric_current-dimension",
+    "http://www.ontology-of-units-of-measure.org/resource/om-2/electricCurrent-Dimension",
+    "http://qudt.org/vocab/quantity#ElectricCurrent"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle"
+   ],
+   [
+    "http://qudt.org/vocab/quantity#MagnetomotiveForce"
+   ]
+  ],
+  "labels": [
+   [
+    "electric current",
+    "electriccurrent",
+    "electric current-",
+    "electriccurrent-"
+   ],
+   [
+    "electric current per angle",
+    "electriccurrentperangle"
+   ],
+   [
+    "magnetomotive force",
+    "magnetomotiveforce"
    ]
   ]
  },

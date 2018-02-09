@@ -1,50 +1,50 @@
 [
   {
-    "factor": "0.001",
-    "prefix": "http://sweetontology.net/reprSciUnits/milli"
+    "prefix": "http://sweetontology.net/reprSciUnits/centi",
+    "factor": "0.01"
   },
   {
-    "factor": "0.01",
-    "prefix": "http://sweetontology.net/reprSciUnits/centi"
+    "prefix": "http://sweetontology.net/reprSciUnits/deca",
+    "factor": "10.0"
   },
   {
-    "factor": "1.0E-6",
-    "prefix": "http://sweetontology.net/reprSciUnits/micro"
+    "prefix": "http://sweetontology.net/reprSciUnits/exa",
+    "factor": "1.0E18"
   },
   {
-    "factor": "1.0E-9",
-    "prefix": "http://sweetontology.net/reprSciUnits/nano"
+    "prefix": "http://sweetontology.net/reprSciUnits/giga",
+    "factor": "1.0E9"
   },
   {
-    "factor": "1.0E12",
-    "prefix": "http://sweetontology.net/reprSciUnits/tera"
+    "prefix": "http://sweetontology.net/reprSciUnits/hecto",
+    "factor": "100.0"
   },
   {
-    "factor": "1.0E15",
-    "prefix": "http://sweetontology.net/reprSciUnits/peta"
+    "prefix": "http://sweetontology.net/reprSciUnits/kilo",
+    "factor": "1000.0"
   },
   {
-    "factor": "1.0E18",
-    "prefix": "http://sweetontology.net/reprSciUnits/exa"
+    "prefix": "http://sweetontology.net/reprSciUnits/mega",
+    "factor": "1000000.0"
   },
   {
-    "factor": "1.0E9",
-    "prefix": "http://sweetontology.net/reprSciUnits/giga"
+    "prefix": "http://sweetontology.net/reprSciUnits/micro",
+    "factor": "1.0E-6"
   },
   {
-    "factor": "10.0",
-    "prefix": "http://sweetontology.net/reprSciUnits/deca"
+    "prefix": "http://sweetontology.net/reprSciUnits/milli",
+    "factor": "0.001"
   },
   {
-    "factor": "100.0",
-    "prefix": "http://sweetontology.net/reprSciUnits/hecto"
+    "prefix": "http://sweetontology.net/reprSciUnits/nano",
+    "factor": "1.0E-9"
   },
   {
-    "factor": "1000.0",
-    "prefix": "http://sweetontology.net/reprSciUnits/kilo"
+    "prefix": "http://sweetontology.net/reprSciUnits/peta",
+    "factor": "1.0E15"
   },
   {
-    "factor": "1000000.0",
-    "prefix": "http://sweetontology.net/reprSciUnits/mega"
+    "prefix": "http://sweetontology.net/reprSciUnits/tera",
+    "factor": "1.0E12"
   }
 ]

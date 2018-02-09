@@ -8,14 +8,6 @@
   ]
  },
  {
-  "onto": "MUO",
-  "label": "thermochemical calorie",
-  "objs": [
-   "http://purl.oclc.org/NET/muo/ucum/unit/energy/thermochemical-calorie",
-   "http://purl.oclc.org/NET/muo/ucum/unit/energy/calorie"
-  ]
- },
- {
   "onto": "WD",
   "label": "point",
   "objs": [
@@ -29,6 +21,14 @@
   "objs": [
    "http://purl.oclc.org/NET/muo/ucum/unit/number/the-number-ten-for-arbitrary-powers-1",
    "http://purl.oclc.org/NET/muo/ucum/unit/number/the-number-ten-for-arbitrary-powers-2"
+  ]
+ },
+ {
+  "onto": "MUO",
+  "label": "thermochemical calorie",
+  "objs": [
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/thermochemical-calorie",
+   "http://purl.oclc.org/NET/muo/ucum/unit/energy/calorie"
   ]
  },
  {
@@ -212,20 +212,20 @@
  },
  {
   "onto": "QUDT",
+  "label": "Metric Ton",
+  "objs": [
+   "http://qudt.org/vocab/unit#MetricTon",
+   "http://qudt.org/vocab/unit#TonMetric"
+  ]
+ },
+ {
+  "onto": "QUDT",
   "label": "Atomic mass unit",
   "objs": [
    "http://qudt.org/vocab/unit#AtomicMassUnit",
    "http://qudt.org/vocab/unit#Dalton2",
    "http://qudt.org/vocab/unit#Dalton",
    "http://qudt.org/vocab/unit#UnifiedAtomicMassUnit"
-  ]
- },
- {
-  "onto": "QUDT",
-  "label": "Metric Ton",
-  "objs": [
-   "http://qudt.org/vocab/unit#MetricTon",
-   "http://qudt.org/vocab/unit#TonMetric"
   ]
  },
  {

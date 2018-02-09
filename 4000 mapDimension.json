@@ -4,6 +4,1161 @@
   "values": [
    {
     "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_flux_density-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     0,
+     1,
+     -2,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux density",
+       "magneticfluxdensity"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux density-",
+       "magneticfluxdensity-"
+      ]
+     }
+    },
+    "dispLabel": "magnetic flux density dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/magneticFluxDensity-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     0,
+     1,
+     -2,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux density",
+       "magneticfluxdensity",
+       "magnetic flux density-",
+       "magneticfluxdensity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux density-",
+       "magneticfluxdensity-"
+      ]
+     }
+    },
+    "dispLabel": "magnetic flux density dimension",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_flux-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux",
+       "magneticflux",
+       "magnetic flux-",
+       "magneticflux-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux-",
+       "magneticflux-"
+      ]
+     }
+    },
+    "dispLabel": "magnetic flux dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/magneticFlux-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux",
+       "magneticflux",
+       "magnetic flux-",
+       "magneticflux-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux-",
+       "magneticflux-"
+      ]
+     }
+    },
+    "dispLabel": "magnetic flux dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#MagneticFlux",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux",
+       "magneticflux"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux",
+       "magneticflux"
+      ]
+     }
+    },
+    "dispLabel": "Magnetic Flux",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electric_field-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     1,
+     1,
+     -3,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "electric field",
+       "electricfield",
+       "electric field-",
+       "electricfield-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric field-",
+       "electricfield-"
+      ]
+     }
+    },
+    "dispLabel": "electric field dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricField-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     1,
+     1,
+     -3,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "electric field",
+       "electricfield",
+       "electric field-",
+       "electricfield-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric field-",
+       "electricfield-"
+      ]
+     }
+    },
+    "dispLabel": "electric field dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#ElectricField",
+    "ontology": "QUDT",
+    "dimVector": [
+     1,
+     1,
+     -3,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "electric field",
+       "electricfield"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric field",
+       "electricfield"
+      ]
+     }
+    },
+    "dispLabel": "Electric Field",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#ForcePerElectricCharge",
+    "ontology": "QUDT",
+    "dimVector": [
+     1,
+     1,
+     -3,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "force per electric charge",
+       "forceperelectriccharge"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "force per electric charge",
+       "forceperelectriccharge"
+      ]
+     }
+    },
+    "dispLabel": "Force per Electric Charge",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electric_potential-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     2,
+     1,
+     -3,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "electric potential",
+       "electricpotential",
+       "electric potential-",
+       "electricpotential-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric potential-",
+       "electricpotential-"
+      ]
+     }
+    },
+    "dispLabel": "electric potential dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricPotential-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     2,
+     1,
+     -3,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "electric potential",
+       "electricpotential",
+       "electric potential-",
+       "electricpotential-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric potential-",
+       "electricpotential-"
+      ]
+     }
+    },
+    "dispLabel": "electric potential dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#EnergyPerElectricCharge",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     1,
+     -3,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "energy per electric charge",
+       "energyperelectriccharge"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "energy per electric charge",
+       "energyperelectriccharge"
+      ]
+     }
+    },
+    "dispLabel": "Energy per Electric Charge",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/inductance_or_permeance-electromagnetic-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     -2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "inductance or permeance electromagnetic",
+       "inductanceorpermeanceelectromagnetic",
+       "inductance or permeance-electromagnetic-",
+       "inductanceorpermeance-electromagnetic-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "inductance or permeance-electromagnetic-",
+       "inductanceorpermeance-electromagnetic-"
+      ]
+     }
+    },
+    "dispLabel": "inductance or permeance (electromagnetic) dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/inductanceOrPermeance-Electromagnetic-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     -2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "inductance or permeance electromagnetic",
+       "inductanceorpermeanceelectromagnetic",
+       "inductance or permeance-electromagnetic-",
+       "inductanceorpermeance-electromagnetic-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "inductance or permeance-electromagnetic-",
+       "inductanceorpermeance-electromagnetic-"
+      ]
+     }
+    },
+    "dispLabel": "inductance or permeance (electromagnetic) dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#Inductance",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     -2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "inductance"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "inductance"
+      ]
+     }
+    },
+    "dispLabel": "Inductance",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/permeability_of_free_space-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     1,
+     1,
+     -2,
+     -2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "permeability of free space",
+       "permeabilityoffreespace",
+       "permeability of free space-",
+       "permeabilityoffreespace-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "permeability of free space-",
+       "permeabilityoffreespace-"
+      ]
+     }
+    },
+    "dispLabel": "permeability of free space dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/permeabilityOfFreeSpace-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     1,
+     1,
+     -2,
+     -2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "permeability of free space",
+       "permeabilityoffreespace",
+       "permeability of free space-",
+       "permeabilityoffreespace-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "permeability of free space-",
+       "permeabilityoffreespace-"
+      ]
+     }
+    },
+    "dispLabel": "permeability of free space dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#Permeability",
+    "ontology": "QUDT",
+    "dimVector": [
+     1,
+     1,
+     -2,
+     -2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "permeability"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "permeability"
+      ]
+     }
+    },
+    "dispLabel": "Permeability",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electrical_resistance-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     2,
+     1,
+     -3,
+     -2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "electrical resistance",
+       "electricalresistance",
+       "electrical resistance-",
+       "electricalresistance-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electrical resistance-",
+       "electricalresistance-"
+      ]
+     }
+    },
+    "dispLabel": "electrical resistance dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricalResistance-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     2,
+     1,
+     -3,
+     -2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "electrical resistance",
+       "electricalresistance",
+       "electrical resistance-",
+       "electricalresistance-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electrical resistance-",
+       "electricalresistance-"
+      ]
+     }
+    },
+    "dispLabel": "electrical resistance dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#Resistance",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     1,
+     -3,
+     -2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "resistance"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "resistance"
+      ]
+     }
+    },
+    "dispLabel": "Resistance",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/entropy_or_heat_capacity-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "entropy or heat capacity",
+       "entropyorheatcapacity",
+       "entropy or heat capacity-",
+       "entropyorheatcapacity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "entropy or heat capacity-",
+       "entropyorheatcapacity-"
+      ]
+     }
+    },
+    "dispLabel": "entropy or heat capacity dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/entropyOrHeatCapacity-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "entropy or heat capacity",
+       "entropyorheatcapacity",
+       "entropy or heat capacity-",
+       "entropyorheatcapacity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "entropy or heat capacity-",
+       "entropyorheatcapacity-"
+      ]
+     }
+    },
+    "dispLabel": "entropy or heat capacity dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#EnergyPerTemperature",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "energy per temperature",
+       "energypertemperature"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "energy per temperature",
+       "energypertemperature"
+      ]
+     }
+    },
+    "dispLabel": "Energy per Temperature",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/molar_entropy_or_molar_heat_capacity_or_gas_constant-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     0,
+     -1,
+     -1,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "molar entropy",
+       "molarentropy",
+       "molar heat capacity",
+       "molarheatcapacity",
+       "or gas constant",
+       "orgasconstant",
+       "molar entropy or molar heat capacity or gas constant-",
+       "molarentropyormolarheatcapacityorgasconstant-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "molar entropy or molar heat capacity or gas constant-",
+       "molarentropyormolarheatcapacityorgasconstant-"
+      ]
+     }
+    },
+    "dispLabel": "molar entropy, molar heat capacity, or gas constant dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/molarEntropyOrMolarHeatCapacityOrGasConstant-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     0,
+     -1,
+     -1,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "molar entropy",
+       "molarentropy",
+       "molar heat capacity",
+       "molarheatcapacity",
+       "or gas constant",
+       "orgasconstant",
+       "molar entropy or molar heat capacity or gas constant-",
+       "molarentropyormolarheatcapacityorgasconstant-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "molar entropy or molar heat capacity or gas constant-",
+       "molarentropyormolarheatcapacityorgasconstant-"
+      ]
+     }
+    },
+    "dispLabel": "molar entropy, molar heat capacity, or gas constant dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#MolarHeatCapacity",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     1,
+     -2,
+     0,
+     -1,
+     -1,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "molar heat capacity",
+       "molarheatcapacity"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "molar heat capacity",
+       "molarheatcapacity"
+      ]
+     }
+    },
+    "dispLabel": "Molar Heat Capacity",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/specific_entropy_or_specific_heat_capacity-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     2,
+     0,
+     -2,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "specific entropy or specific heat capacity",
+       "specificentropyorspecificheatcapacity",
+       "specific entropy or specific heat capacity-",
+       "specificentropyorspecificheatcapacity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "specific entropy or specific heat capacity-",
+       "specificentropyorspecificheatcapacity-"
+      ]
+     }
+    },
+    "dispLabel": "specific entropy or specific heat capacity dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/specificEntropyOrSpecificHeatCapacity-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     2,
+     0,
+     -2,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "specific entropy or specific heat capacity",
+       "specificentropyorspecificheatcapacity",
+       "specific entropy or specific heat capacity-",
+       "specificentropyorspecificheatcapacity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "specific entropy or specific heat capacity-",
+       "specificentropyorspecificheatcapacity-"
+      ]
+     }
+    },
+    "dispLabel": "specific entropy or specific heat capacity dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#SpecificHeatCapacity",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     0,
+     -2,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "specific heat capacity",
+       "specificheatcapacity"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "specific heat capacity",
+       "specificheatcapacity"
+      ]
+     }
+    },
+    "dispLabel": "Specific Heat Capacity",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/thermal_conductivity-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     1,
+     1,
+     -3,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "thermal conductivity",
+       "thermalconductivity",
+       "thermal conductivity-",
+       "thermalconductivity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermal conductivity-",
+       "thermalconductivity-"
+      ]
+     }
+    },
+    "dispLabel": "thermal conductivity dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/thermalConductivity-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     1,
+     1,
+     -3,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "thermal conductivity",
+       "thermalconductivity",
+       "thermal conductivity-",
+       "thermalconductivity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermal conductivity-",
+       "thermalconductivity-"
+      ]
+     }
+    },
+    "dispLabel": "thermal conductivity dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#ThermalConductivity",
+    "ontology": "QUDT",
+    "dimVector": [
+     1,
+     1,
+     -3,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "thermal conductivity",
+       "thermalconductivity"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermal conductivity",
+       "thermalconductivity"
+      ]
+     }
+    },
+    "dispLabel": "Thermal Conductivity",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/action_or_angular_momentum-dimension",
     "ontology": "OM",
     "dimVector": [
@@ -20,7 +1175,9 @@
       "__type": "Set",
       "values": [
        "action or angular momentum",
-       "actionorangularmomentum"
+       "actionorangularmomentum",
+       "action or angular momentum-",
+       "actionorangularmomentum-"
       ]
      },
      "_uri": {
@@ -887,10 +2044,11 @@
      0
     ],
     "labels": {
-     "nl": {
+     "en": {
       "__type": "Set",
       "values": [
-       "snelheiddimensie"
+       "speed",
+       "speed-"
       ]
      },
      "_uri": {
@@ -899,11 +2057,10 @@
        "speed-"
       ]
      },
-     "en": {
+     "nl": {
       "__type": "Set",
       "values": [
-       "speed",
-       "speed-"
+       "snelheiddimensie"
       ]
      }
     },
@@ -924,10 +2081,11 @@
      0
     ],
     "labels": {
-     "nl": {
+     "en": {
       "__type": "Set",
       "values": [
-       "snelheiddimensie"
+       "speed",
+       "speed-"
       ]
      },
      "_uri": {
@@ -936,11 +2094,10 @@
        "speed-"
       ]
      },
-     "en": {
+     "nl": {
       "__type": "Set",
       "values": [
-       "speed",
-       "speed-"
+       "snelheiddimensie"
       ]
      }
     },
@@ -1483,111 +2640,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/entropy_or_heat_capacity-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "entropy or heat capacity",
-       "entropyorheatcapacity",
-       "entropy or heat capacity-",
-       "entropyorheatcapacity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "entropy or heat capacity-",
-       "entropyorheatcapacity-"
-      ]
-     }
-    },
-    "dispLabel": "entropy or heat capacity dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/entropyOrHeatCapacity-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "entropy or heat capacity",
-       "entropyorheatcapacity",
-       "entropy or heat capacity-",
-       "entropyorheatcapacity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "entropy or heat capacity-",
-       "entropyorheatcapacity-"
-      ]
-     }
-    },
-    "dispLabel": "entropy or heat capacity dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#EnergyPerTemperature",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "energy per temperature",
-       "energypertemperature"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "energy per temperature",
-       "energypertemperature"
-      ]
-     }
-    },
-    "dispLabel": "Energy per Temperature",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/force-dimension",
     "ontology": "OM",
     "dimVector": [
@@ -1697,287 +2749,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/inductance_or_permeance-electromagnetic-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "inductance or permeance electromagnetic",
-       "inductanceorpermeanceelectromagnetic",
-       "inductance or permeance-electromagnetic-",
-       "inductanceorpermeance-electromagnetic-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "inductance or permeance-electromagnetic-",
-       "inductanceorpermeance-electromagnetic-"
-      ]
-     }
-    },
-    "dispLabel": "inductance or permeance (electromagnetic) dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/inductanceOrPermeance-Electromagnetic-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "inductance or permeance electromagnetic",
-       "inductanceorpermeanceelectromagnetic",
-       "inductance or permeance-electromagnetic-",
-       "inductanceorpermeance-electromagnetic-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "inductance or permeance-electromagnetic-",
-       "inductanceorpermeance-electromagnetic-"
-      ]
-     }
-    },
-    "dispLabel": "inductance or permeance (electromagnetic) dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#Inductance",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "inductance"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "inductance"
-      ]
-     }
-    },
-    "dispLabel": "Inductance",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_flux_density-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     0,
-     1,
-     -2,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux density",
-       "magneticfluxdensity",
-       "magnetic flux density-",
-       "magneticfluxdensity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux density-",
-       "magneticfluxdensity-"
-      ]
-     }
-    },
-    "dispLabel": "magnetic flux density dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/magneticFluxDensity-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     0,
-     1,
-     -2,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux density",
-       "magneticfluxdensity",
-       "magnetic flux density-",
-       "magneticfluxdensity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux density-",
-       "magneticfluxdensity-"
-      ]
-     }
-    },
-    "dispLabel": "magnetic flux density dimension",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_flux-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux",
-       "magneticflux",
-       "magnetic flux-",
-       "magneticflux-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux-",
-       "magneticflux-"
-      ]
-     }
-    },
-    "dispLabel": "magnetic flux dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/magneticFlux-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux",
-       "magneticflux",
-       "magnetic flux-",
-       "magneticflux-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux-",
-       "magneticflux-"
-      ]
-     }
-    },
-    "dispLabel": "magnetic flux dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#MagneticFlux",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux",
-       "magneticflux"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux",
-       "magneticflux"
-      ]
-     }
-    },
-    "dispLabel": "Magnetic Flux",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/molar_energy-dimension",
     "ontology": "OM",
     "dimVector": [
@@ -1990,10 +2761,13 @@
      0
     ],
     "labels": {
-     "nl": {
+     "en": {
       "__type": "Set",
       "values": [
-       "molaire-energiedimensie"
+       "molar energy",
+       "molarenergy",
+       "molar energy-",
+       "molarenergy-"
       ]
      },
      "_uri": {
@@ -2003,13 +2777,10 @@
        "molarenergy-"
       ]
      },
-     "en": {
+     "nl": {
       "__type": "Set",
       "values": [
-       "molar energy",
-       "molarenergy",
-       "molar energy-",
-       "molarenergy-"
+       "molaire-energiedimensie"
       ]
      }
     },
@@ -2030,10 +2801,13 @@
      0
     ],
     "labels": {
-     "nl": {
+     "en": {
       "__type": "Set",
       "values": [
-       "molaire-energiedimensie"
+       "molar energy",
+       "molarenergy",
+       "molar energy-",
+       "molarenergy-"
       ]
      },
      "_uri": {
@@ -2043,13 +2817,10 @@
        "molarenergy-"
       ]
      },
-     "en": {
+     "nl": {
       "__type": "Set",
       "values": [
-       "molar energy",
-       "molarenergy",
-       "molar energy-",
-       "molarenergy-"
+       "molaire-energiedimensie"
       ]
      }
     },
@@ -2086,222 +2857,6 @@
      }
     },
     "dispLabel": "Molar Energy",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/molar_entropy_or_molar_heat_capacity_or_gas_constant-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     0,
-     -1,
-     -1,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "molar entropy",
-       "molarentropy",
-       "molar heat capacity",
-       "molarheatcapacity",
-       "or gas constant",
-       "orgasconstant",
-       "molar entropy or molar heat capacity or gas constant-",
-       "molarentropyormolarheatcapacityorgasconstant-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "molar entropy or molar heat capacity or gas constant-",
-       "molarentropyormolarheatcapacityorgasconstant-"
-      ]
-     }
-    },
-    "dispLabel": "molar entropy, molar heat capacity, or gas constant dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/molarEntropyOrMolarHeatCapacityOrGasConstant-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     0,
-     -1,
-     -1,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "molar entropy",
-       "molarentropy",
-       "molar heat capacity",
-       "molarheatcapacity",
-       "or gas constant",
-       "orgasconstant",
-       "molar entropy or molar heat capacity or gas constant-",
-       "molarentropyormolarheatcapacityorgasconstant-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "molar entropy or molar heat capacity or gas constant-",
-       "molarentropyormolarheatcapacityorgasconstant-"
-      ]
-     }
-    },
-    "dispLabel": "molar entropy, molar heat capacity, or gas constant dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#MolarHeatCapacity",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     1,
-     -2,
-     0,
-     -1,
-     -1,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "molar heat capacity",
-       "molarheatcapacity"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "molar heat capacity",
-       "molarheatcapacity"
-      ]
-     }
-    },
-    "dispLabel": "Molar Heat Capacity",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/permeability_of_free_space-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     1,
-     1,
-     -2,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "permeability of free space",
-       "permeabilityoffreespace",
-       "permeability of free space-",
-       "permeabilityoffreespace-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "permeability of free space-",
-       "permeabilityoffreespace-"
-      ]
-     }
-    },
-    "dispLabel": "permeability of free space dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/permeabilityOfFreeSpace-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     1,
-     1,
-     -2,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "permeability of free space",
-       "permeabilityoffreespace",
-       "permeability of free space-",
-       "permeabilityoffreespace-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "permeability of free space-",
-       "permeabilityoffreespace-"
-      ]
-     }
-    },
-    "dispLabel": "permeability of free space dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#Permeability",
-    "ontology": "QUDT",
-    "dimVector": [
-     1,
-     1,
-     -2,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "permeability"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "permeability"
-      ]
-     }
-    },
-    "dispLabel": "Permeability",
     "raw": null
    }
   ]
@@ -2523,111 +3078,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/specific_entropy_or_specific_heat_capacity-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     2,
-     0,
-     -2,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "specific entropy or specific heat capacity",
-       "specificentropyorspecificheatcapacity",
-       "specific entropy or specific heat capacity-",
-       "specificentropyorspecificheatcapacity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "specific entropy or specific heat capacity-",
-       "specificentropyorspecificheatcapacity-"
-      ]
-     }
-    },
-    "dispLabel": "specific entropy or specific heat capacity dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/specificEntropyOrSpecificHeatCapacity-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     2,
-     0,
-     -2,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "specific entropy or specific heat capacity",
-       "specificentropyorspecificheatcapacity",
-       "specific entropy or specific heat capacity-",
-       "specificentropyorspecificheatcapacity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "specific entropy or specific heat capacity-",
-       "specificentropyorspecificheatcapacity-"
-      ]
-     }
-    },
-    "dispLabel": "specific entropy or specific heat capacity dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#SpecificHeatCapacity",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     0,
-     -2,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "specific heat capacity",
-       "specificheatcapacity"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "specific heat capacity",
-       "specificheatcapacity"
-      ]
-     }
-    },
-    "dispLabel": "Specific Heat Capacity",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/surface_tension-dimension",
     "ontology": "OM",
     "dimVector": [
@@ -2640,10 +3090,13 @@
      0
     ],
     "labels": {
-     "nl": {
+     "en": {
       "__type": "Set",
       "values": [
-       "oppervlaktespanningdimensie"
+       "surface tension",
+       "surfacetension",
+       "surface tension-",
+       "surfacetension-"
       ]
      },
      "_uri": {
@@ -2653,13 +3106,10 @@
        "surfacetension-"
       ]
      },
-     "en": {
+     "nl": {
       "__type": "Set",
       "values": [
-       "surface tension",
-       "surfacetension",
-       "surface tension-",
-       "surfacetension-"
+       "oppervlaktespanningdimensie"
       ]
      }
     },
@@ -2680,10 +3130,13 @@
      0
     ],
     "labels": {
-     "nl": {
+     "en": {
       "__type": "Set",
       "values": [
-       "oppervlaktespanningdimensie"
+       "surface tension",
+       "surfacetension",
+       "surface tension-",
+       "surfacetension-"
       ]
      },
      "_uri": {
@@ -2693,13 +3146,10 @@
        "surfacetension-"
       ]
      },
-     "en": {
+     "nl": {
       "__type": "Set",
       "values": [
-       "surface tension",
-       "surfacetension",
-       "surface tension-",
-       "surfacetension-"
+       "oppervlaktespanningdimensie"
       ]
      }
     },
@@ -2843,351 +3293,6 @@
      }
     },
     "dispLabel": "Absorbed Dose Rate",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electric_field-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     1,
-     1,
-     -3,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "electric field",
-       "electricfield",
-       "electric field-",
-       "electricfield-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric field-",
-       "electricfield-"
-      ]
-     }
-    },
-    "dispLabel": "electric field dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricField-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     1,
-     1,
-     -3,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "electric field",
-       "electricfield",
-       "electric field-",
-       "electricfield-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric field-",
-       "electricfield-"
-      ]
-     }
-    },
-    "dispLabel": "electric field dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ElectricField",
-    "ontology": "QUDT",
-    "dimVector": [
-     1,
-     1,
-     -3,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "electric field",
-       "electricfield"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric field",
-       "electricfield"
-      ]
-     }
-    },
-    "dispLabel": "Electric Field",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ForcePerElectricCharge",
-    "ontology": "QUDT",
-    "dimVector": [
-     1,
-     1,
-     -3,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "force per electric charge",
-       "forceperelectriccharge"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "force per electric charge",
-       "forceperelectriccharge"
-      ]
-     }
-    },
-    "dispLabel": "Force per Electric Charge",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electric_potential-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     2,
-     1,
-     -3,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "electric potential",
-       "electricpotential",
-       "electric potential-",
-       "electricpotential-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric potential-",
-       "electricpotential-"
-      ]
-     }
-    },
-    "dispLabel": "electric potential dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricPotential-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     2,
-     1,
-     -3,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "electric potential",
-       "electricpotential",
-       "electric potential-",
-       "electricpotential-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric potential-",
-       "electricpotential-"
-      ]
-     }
-    },
-    "dispLabel": "electric potential dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#EnergyPerElectricCharge",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     1,
-     -3,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "energy per electric charge",
-       "energyperelectriccharge"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "energy per electric charge",
-       "energyperelectriccharge"
-      ]
-     }
-    },
-    "dispLabel": "Energy per Electric Charge",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electrical_resistance-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     2,
-     1,
-     -3,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "electrical resistance",
-       "electricalresistance",
-       "electrical resistance-",
-       "electricalresistance-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electrical resistance-",
-       "electricalresistance-"
-      ]
-     }
-    },
-    "dispLabel": "electrical resistance dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricalResistance-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     2,
-     1,
-     -3,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "electrical resistance",
-       "electricalresistance",
-       "electrical resistance-",
-       "electricalresistance-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electrical resistance-",
-       "electricalresistance-"
-      ]
-     }
-    },
-    "dispLabel": "electrical resistance dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#Resistance",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     1,
-     -3,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "resistance"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "resistance"
-      ]
-     }
-    },
-    "dispLabel": "Resistance",
     "raw": null
    }
   ]
@@ -3487,111 +3592,6 @@
      }
     },
     "dispLabel": "Radiance",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/thermal_conductivity-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     1,
-     1,
-     -3,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "thermal conductivity",
-       "thermalconductivity",
-       "thermal conductivity-",
-       "thermalconductivity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "thermal conductivity-",
-       "thermalconductivity-"
-      ]
-     }
-    },
-    "dispLabel": "thermal conductivity dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/thermalConductivity-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     1,
-     1,
-     -3,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "thermal conductivity",
-       "thermalconductivity",
-       "thermal conductivity-",
-       "thermalconductivity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "thermal conductivity-",
-       "thermalconductivity-"
-      ]
-     }
-    },
-    "dispLabel": "thermal conductivity dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ThermalConductivity",
-    "ontology": "QUDT",
-    "dimVector": [
-     1,
-     1,
-     -3,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "thermal conductivity",
-       "thermalconductivity"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "thermal conductivity",
-       "thermalconductivity"
-      ]
-     }
-    },
-    "dispLabel": "Thermal Conductivity",
     "raw": null
    }
   ]
@@ -4009,111 +4009,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/current_density-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     -2,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "current density",
-       "currentdensity",
-       "current density-",
-       "currentdensity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "current density-",
-       "currentdensity-"
-      ]
-     }
-    },
-    "dispLabel": "current density dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/currentDensity-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     -2,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "current density",
-       "currentdensity",
-       "current density-",
-       "currentdensity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "current density-",
-       "currentdensity-"
-      ]
-     }
-    },
-    "dispLabel": "current density dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ElectricCurrentDensity",
-    "ontology": "QUDT",
-    "dimVector": [
-     -2,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "electric current density",
-       "electriccurrentdensity"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric current density",
-       "electriccurrentdensity"
-      ]
-     }
-    },
-    "dispLabel": "Electric Current Density",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/density-dimension",
     "ontology": "OM",
     "dimVector": [
@@ -4318,111 +4213,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electric_current-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "electric current",
-       "electriccurrent",
-       "electric current-",
-       "electriccurrent-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric current-",
-       "electriccurrent-"
-      ]
-     }
-    },
-    "dispLabel": "electric current dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricCurrent-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "electric current",
-       "electriccurrent",
-       "electric current-",
-       "electriccurrent-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric current-",
-       "electriccurrent-"
-      ]
-     }
-    },
-    "dispLabel": "electric current dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ElectricCurrent",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "electric current",
-       "electriccurrent"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric current",
-       "electriccurrent"
-      ]
-     }
-    },
-    "dispLabel": "Electric Current",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/length-dimension",
     "ontology": "OM",
     "dimVector": [
@@ -4435,10 +4225,11 @@
      0
     ],
     "labels": {
-     "nl": {
+     "en": {
       "__type": "Set",
       "values": [
-       "lengtedimensie"
+       "length",
+       "length-"
       ]
      },
      "_uri": {
@@ -4447,11 +4238,10 @@
        "length-"
       ]
      },
-     "en": {
+     "nl": {
       "__type": "Set",
       "values": [
-       "length",
-       "length-"
+       "lengtedimensie"
       ]
      }
     },
@@ -4472,10 +4262,11 @@
      0
     ],
     "labels": {
-     "nl": {
+     "en": {
       "__type": "Set",
       "values": [
-       "lengtedimensie"
+       "length",
+       "length-"
       ]
      },
      "_uri": {
@@ -4484,11 +4275,10 @@
        "length-"
       ]
      },
-     "en": {
+     "nl": {
       "__type": "Set",
       "values": [
-       "length",
-       "length-"
+       "lengtedimensie"
       ]
      }
     },
@@ -4523,147 +4313,6 @@
      }
     },
     "dispLabel": "Length",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_field_strength-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     -1,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "magnetic field strength",
-       "magneticfieldstrength",
-       "magnetic field strength-",
-       "magneticfieldstrength-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetic field strength-",
-       "magneticfieldstrength-"
-      ]
-     }
-    },
-    "dispLabel": "magnetic field strength dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength",
-    "ontology": "QUDT",
-    "dimVector": [
-     -1,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "electric current per length",
-       "electriccurrentperlength",
-       "electric current per unit length",
-       "electriccurrentperunitlength"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric current per length",
-       "electriccurrentperlength",
-       "electric current per unit length",
-       "electriccurrentperunitlength"
-      ]
-     }
-    },
-    "dispLabel": "Electric Current per Unit Length",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagneticField-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     -1,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "magnetic field",
-       "magneticfield",
-       "magnetic field-",
-       "magneticfield-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetic field-",
-       "magneticfield-"
-      ]
-     }
-    },
-    "dispLabel": "magnetic field dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#MagneticField",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     1,
-     -2,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "magnetic field",
-       "magneticfield"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetic field",
-       "magneticfield"
-      ]
-     }
-    },
-    "dispLabel": "Magnetic Field",
     "raw": null
    }
   ]
@@ -4992,122 +4641,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamic_temperature-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "nl": {
-      "__type": "Set",
-      "values": [
-       "absolute-temperatuurdimensie"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "thermodynamic temperature-",
-       "thermodynamictemperature-"
-      ]
-     },
-     "en": {
-      "__type": "Set",
-      "values": [
-       "thermodynamic temperature",
-       "thermodynamictemperature",
-       "thermodynamic temperature-",
-       "thermodynamictemperature-"
-      ]
-     }
-    },
-    "dispLabel": "thermodynamic temperature dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/thermodynamicTemperature-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "nl": {
-      "__type": "Set",
-      "values": [
-       "absolute-temperatuurdimensie"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "thermodynamic temperature-",
-       "thermodynamictemperature-"
-      ]
-     },
-     "en": {
-      "__type": "Set",
-      "values": [
-       "thermodynamic temperature",
-       "thermodynamictemperature",
-       "thermodynamic temperature-",
-       "thermodynamictemperature-"
-      ]
-     }
-    },
-    "dispLabel": "thermodynamic temperature dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ThermodynamicTemperature",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "temperature"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "thermodynamic temperature",
-       "thermodynamictemperature"
-      ]
-     }
-    },
-    "dispLabel": "Temperature",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/volume-dimension",
     "ontology": "OM",
     "dimVector": [
@@ -5229,10 +4762,11 @@
      0
     ],
     "labels": {
-     "nl": {
+     "en": {
       "__type": "Set",
       "values": [
-       "golfgetaldimensie"
+       "wavenumber",
+       "wavenumber-"
       ]
      },
      "_uri": {
@@ -5241,11 +4775,10 @@
        "wavenumber-"
       ]
      },
-     "en": {
+     "nl": {
       "__type": "Set",
       "values": [
-       "wavenumber",
-       "wavenumber-"
+       "golfgetaldimensie"
       ]
      }
     },
@@ -5266,10 +4799,11 @@
      0
     ],
     "labels": {
-     "nl": {
+     "en": {
       "__type": "Set",
       "values": [
-       "golfgetaldimensie"
+       "wavenumber",
+       "wavenumber-"
       ]
      },
      "_uri": {
@@ -5278,11 +4812,10 @@
        "wavenumber-"
       ]
      },
-     "en": {
+     "nl": {
       "__type": "Set",
       "values": [
-       "wavenumber",
-       "wavenumber-"
+       "golfgetaldimensie"
       ]
      }
     },
@@ -5319,6 +4852,1244 @@
      }
     },
     "dispLabel": "Inverse Length",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/fluidity-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     1,
+     -1,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "fluidity",
+       "fluidity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "fluidity-"
+      ]
+     }
+    },
+    "dispLabel": "fluidity dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/fluidity-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     1,
+     -1,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "fluidity",
+       "fluidity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "fluidity-"
+      ]
+     }
+    },
+    "dispLabel": "fluidity dimension",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/permeance-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     -1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "permeance",
+       "permeance-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "permeance-"
+      ]
+     }
+    },
+    "dispLabel": "permeance dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/permeance-MaterialsScience-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     -1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "permeance materials science",
+       "permeancematerialsscience",
+       "permeance-materials science-",
+       "permeance-materialsscience-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "permeance-materials science-",
+       "permeance-materialsscience-"
+      ]
+     }
+    },
+    "dispLabel": "permeance (materials science) dimension",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/time-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "time",
+       "time-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "time-"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "dimensie van tijd",
+       "dimensievantijd"
+      ]
+     }
+    },
+    "dispLabel": "time dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/time-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "time",
+       "time-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "time-"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "dimensie van tijd",
+       "dimensievantijd"
+      ]
+     }
+    },
+    "dispLabel": "time dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#Time",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "time"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "time"
+      ]
+     }
+    },
+    "dispLabel": "Time",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/thermodynamic_temperature-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "thermodynamic temperature",
+       "thermodynamictemperature",
+       "thermodynamic temperature-",
+       "thermodynamictemperature-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermodynamic temperature-",
+       "thermodynamictemperature-"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "absolute-temperatuurdimensie"
+      ]
+     }
+    },
+    "dispLabel": "thermodynamic temperature dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/thermodynamicTemperature-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "thermodynamic temperature",
+       "thermodynamictemperature",
+       "thermodynamic temperature-",
+       "thermodynamictemperature-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermodynamic temperature-",
+       "thermodynamictemperature-"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "absolute-temperatuurdimensie"
+      ]
+     }
+    },
+    "dispLabel": "thermodynamic temperature dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#ThermodynamicTemperature",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "temperature"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermodynamic temperature",
+       "thermodynamictemperature"
+      ]
+     }
+    },
+    "dispLabel": "Temperature",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/thermal_resistance-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     -2,
+     -1,
+     3,
+     0,
+     1,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "thermal resistance",
+       "thermalresistance",
+       "thermal resistance-",
+       "thermalresistance-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermal resistance-",
+       "thermalresistance-"
+      ]
+     }
+    },
+    "dispLabel": "thermal resistance dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/thermalResistance-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     -2,
+     -1,
+     3,
+     0,
+     1,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "thermal resistance",
+       "thermalresistance",
+       "thermal resistance-",
+       "thermalresistance-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermal resistance-",
+       "thermalresistance-"
+      ]
+     }
+    },
+    "dispLabel": "thermal resistance dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#ThermalResistance",
+    "ontology": "QUDT",
+    "dimVector": [
+     -2,
+     -1,
+     3,
+     0,
+     1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "thermal resistance",
+       "thermalresistance"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermal resistance",
+       "thermalresistance"
+      ]
+     }
+    },
+    "dispLabel": "Thermal Resistance",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/illuminance-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     -2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "illuminance",
+       "illuminance-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "illuminance-"
+      ]
+     }
+    },
+    "dispLabel": "illuminance dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/illuminance-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     -2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "illuminance",
+       "illuminance-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "illuminance-"
+      ]
+     }
+    },
+    "dispLabel": "illuminance dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#LuminousFluxPerArea",
+    "ontology": "QUDT",
+    "dimVector": [
+     -2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "luminous flux per area",
+       "luminousfluxperarea"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "luminous flux per area",
+       "luminousfluxperarea"
+      ]
+     }
+    },
+    "dispLabel": "Luminous Flux per Area",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/luminance-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     -2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "luminance",
+       "luminance-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "luminance-"
+      ]
+     }
+    },
+    "dispLabel": "luminance dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/luminance-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     -2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "luminance",
+       "luminance-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "luminance-"
+      ]
+     }
+    },
+    "dispLabel": "luminance dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#Luminance",
+    "ontology": "QUDT",
+    "dimVector": [
+     -2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "luminance"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "luminance"
+      ]
+     }
+    },
+    "dispLabel": "Luminance",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/luminous_flux-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "luminous flux",
+       "luminousflux",
+       "luminous flux-",
+       "luminousflux-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "luminous flux-",
+       "luminousflux-"
+      ]
+     }
+    },
+    "dispLabel": "luminous flux dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousFlux-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "luminous flux",
+       "luminousflux",
+       "luminous flux-",
+       "luminousflux-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "luminous flux-",
+       "luminousflux-"
+      ]
+     }
+    },
+    "dispLabel": "luminous flux dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#LuminousFlux",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "luminous flux",
+       "luminousflux"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "luminous flux",
+       "luminousflux"
+      ]
+     }
+    },
+    "dispLabel": "Luminous Flux",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "luminous intensity",
+       "luminousintensity",
+       "luminous intensity-",
+       "luminousintensity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "luminous intensity-",
+       "luminousintensity-"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "lichtsterktedimensie"
+      ]
+     }
+    },
+    "dispLabel": "luminous intensity dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousIntensity-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "luminous intensity",
+       "luminousintensity",
+       "luminous intensity-",
+       "luminousintensity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "luminous intensity-",
+       "luminousintensity-"
+      ]
+     },
+     "nl": {
+      "__type": "Set",
+      "values": [
+       "lichtsterktedimensie"
+      ]
+     }
+    },
+    "dispLabel": "luminous intensity dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#LuminousIntensity",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "luminous intensity",
+       "luminousintensity"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "luminous intensity",
+       "luminousintensity"
+      ]
+     }
+    },
+    "dispLabel": "Luminous Intensity",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/current_density-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     -2,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "current density",
+       "currentdensity",
+       "current density-",
+       "currentdensity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "current density-",
+       "currentdensity-"
+      ]
+     }
+    },
+    "dispLabel": "current density dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/currentDensity-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     -2,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "current density",
+       "currentdensity",
+       "current density-",
+       "currentdensity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "current density-",
+       "currentdensity-"
+      ]
+     }
+    },
+    "dispLabel": "current density dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#ElectricCurrentDensity",
+    "ontology": "QUDT",
+    "dimVector": [
+     -2,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "electric current density",
+       "electriccurrentdensity"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric current density",
+       "electriccurrentdensity"
+      ]
+     }
+    },
+    "dispLabel": "Electric Current Density",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electric_current-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "electric current",
+       "electriccurrent",
+       "electric current-",
+       "electriccurrent-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric current-",
+       "electriccurrent-"
+      ]
+     }
+    },
+    "dispLabel": "electric current dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricCurrent-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "electric current",
+       "electriccurrent",
+       "electric current-",
+       "electriccurrent-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric current-",
+       "electriccurrent-"
+      ]
+     }
+    },
+    "dispLabel": "electric current dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#ElectricCurrent",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "electric current",
+       "electriccurrent"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric current",
+       "electriccurrent"
+      ]
+     }
+    },
+    "dispLabel": "Electric Current",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/magnetic_field_strength-dimension",
+    "ontology": "OM",
+    "dimVector": [
+     -1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "magnetic field strength",
+       "magneticfieldstrength",
+       "magnetic field strength-",
+       "magneticfieldstrength-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetic field strength-",
+       "magneticfieldstrength-"
+      ]
+     }
+    },
+    "dispLabel": "magnetic field strength dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitLength",
+    "ontology": "QUDT",
+    "dimVector": [
+     -1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "electric current per length",
+       "electriccurrentperlength",
+       "electric current per unit length",
+       "electriccurrentperunitlength"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric current per length",
+       "electriccurrentperlength",
+       "electric current per unit length",
+       "electriccurrentperunitlength"
+      ]
+     }
+    },
+    "dispLabel": "Electric Current per Unit Length",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagneticField-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     -1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "magnetic field",
+       "magneticfield",
+       "magnetic field-",
+       "magneticfield-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetic field-",
+       "magneticfield-"
+      ]
+     }
+    },
+    "dispLabel": "magnetic field dimension",
+    "raw": null
+   },
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#MagneticField",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     1,
+     -2,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "magnetic field",
+       "magneticfield"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetic field",
+       "magneticfield"
+      ]
+     }
+    },
+    "dispLabel": "Magnetic Field",
     "raw": null
    }
   ]
@@ -5855,254 +6626,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/fluidity-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     1,
-     -1,
-     1,
-     0,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "fluidity",
-       "fluidity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "fluidity-"
-      ]
-     }
-    },
-    "dispLabel": "fluidity dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/fluidity-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     1,
-     -1,
-     1,
-     0,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "fluidity",
-       "fluidity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "fluidity-"
-      ]
-     }
-    },
-    "dispLabel": "fluidity dimension",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/permeance-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     -1,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "permeance",
-       "permeance-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "permeance-"
-      ]
-     }
-    },
-    "dispLabel": "permeance dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/permeance-MaterialsScience-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     -1,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "permeance materials science",
-       "permeancematerialsscience",
-       "permeance-materials science-",
-       "permeance-materialsscience-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "permeance-materials science-",
-       "permeance-materialsscience-"
-      ]
-     }
-    },
-    "dispLabel": "permeance (materials science) dimension",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/time-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "nl": {
-      "__type": "Set",
-      "values": [
-       "dimensie van tijd",
-       "dimensievantijd"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "time-"
-      ]
-     },
-     "en": {
-      "__type": "Set",
-      "values": [
-       "time",
-       "time-"
-      ]
-     }
-    },
-    "dispLabel": "time dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/time-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "nl": {
-      "__type": "Set",
-      "values": [
-       "dimensie van tijd",
-       "dimensievantijd"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "time-"
-      ]
-     },
-     "en": {
-      "__type": "Set",
-      "values": [
-       "time",
-       "time-"
-      ]
-     }
-    },
-    "dispLabel": "time dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#Time",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "time"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "time"
-      ]
-     }
-    },
-    "dispLabel": "Time",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://www.wurvoc.org/vocabularies/om-1.8/reluctance-dimension",
     "ontology": "OM",
     "dimVector": [
@@ -6266,111 +6789,6 @@
      }
     },
     "dispLabel": "Electric Conductivity",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/thermal_resistance-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     -2,
-     -1,
-     3,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "thermal resistance",
-       "thermalresistance",
-       "thermal resistance-",
-       "thermalresistance-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "thermal resistance-",
-       "thermalresistance-"
-      ]
-     }
-    },
-    "dispLabel": "thermal resistance dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/thermalResistance-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     -2,
-     -1,
-     3,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "thermal resistance",
-       "thermalresistance",
-       "thermal resistance-",
-       "thermalresistance-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "thermal resistance-",
-       "thermalresistance-"
-      ]
-     }
-    },
-    "dispLabel": "thermal resistance dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ThermalResistance",
-    "ontology": "QUDT",
-    "dimVector": [
-     -2,
-     -1,
-     3,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "thermal resistance",
-       "thermalresistance"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "thermal resistance",
-       "thermalresistance"
-      ]
-     }
-    },
-    "dispLabel": "Thermal Resistance",
     "raw": null
    }
   ]
@@ -6574,415 +6992,36 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/illuminance-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     -2,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "illuminance",
-       "illuminance-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "illuminance-"
-      ]
-     }
-    },
-    "dispLabel": "illuminance dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/illuminance-Dimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricalResistivity-Dimension",
     "ontology": "OM2",
     "dimVector": [
+     3,
+     1,
+     -3,
      -2,
      0,
      0,
-     0,
-     0,
-     0,
-     1
+     0
     ],
     "labels": {
      "en": {
       "__type": "Set",
       "values": [
-       "illuminance",
-       "illuminance-"
+       "electrical resistivity",
+       "electricalresistivity",
+       "electrical resistivity-",
+       "electricalresistivity-"
       ]
      },
      "_uri": {
       "__type": "Set",
       "values": [
-       "illuminance-"
+       "electrical resistivity-",
+       "electricalresistivity-"
       ]
      }
     },
-    "dispLabel": "illuminance dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#LuminousFluxPerArea",
-    "ontology": "QUDT",
-    "dimVector": [
-     -2,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "luminous flux per area",
-       "luminousfluxperarea"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "luminous flux per area",
-       "luminousfluxperarea"
-      ]
-     }
-    },
-    "dispLabel": "Luminous Flux per Area",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/luminance-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     -2,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "luminance",
-       "luminance-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "luminance-"
-      ]
-     }
-    },
-    "dispLabel": "luminance dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/luminance-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     -2,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "luminance",
-       "luminance-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "luminance-"
-      ]
-     }
-    },
-    "dispLabel": "luminance dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#Luminance",
-    "ontology": "QUDT",
-    "dimVector": [
-     -2,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "luminance"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "luminance"
-      ]
-     }
-    },
-    "dispLabel": "Luminance",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/luminous_flux-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "luminous flux",
-       "luminousflux",
-       "luminous flux-",
-       "luminousflux-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "luminous flux-",
-       "luminousflux-"
-      ]
-     }
-    },
-    "dispLabel": "luminous flux dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousFlux-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "luminous flux",
-       "luminousflux",
-       "luminous flux-",
-       "luminousflux-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "luminous flux-",
-       "luminousflux-"
-      ]
-     }
-    },
-    "dispLabel": "luminous flux dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#LuminousFlux",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "luminous flux",
-       "luminousflux"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "luminous flux",
-       "luminousflux"
-      ]
-     }
-    },
-    "dispLabel": "Luminous Flux",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.wurvoc.org/vocabularies/om-1.8/luminous_intensity-dimension",
-    "ontology": "OM",
-    "dimVector": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "nl": {
-      "__type": "Set",
-      "values": [
-       "lichtsterktedimensie"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "luminous intensity-",
-       "luminousintensity-"
-      ]
-     },
-     "en": {
-      "__type": "Set",
-      "values": [
-       "luminous intensity",
-       "luminousintensity",
-       "luminous intensity-",
-       "luminousintensity-"
-      ]
-     }
-    },
-    "dispLabel": "luminous intensity dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/luminousIntensity-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "nl": {
-      "__type": "Set",
-      "values": [
-       "lichtsterktedimensie"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "luminous intensity-",
-       "luminousintensity-"
-      ]
-     },
-     "en": {
-      "__type": "Set",
-      "values": [
-       "luminous intensity",
-       "luminousintensity",
-       "luminous intensity-",
-       "luminousintensity-"
-      ]
-     }
-    },
-    "dispLabel": "luminous intensity dimension",
-    "raw": null
-   },
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#LuminousIntensity",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "luminous intensity",
-       "luminousintensity"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "luminous intensity",
-       "luminousintensity"
-      ]
-     }
-    },
-    "dispLabel": "Luminous Intensity",
+    "dispLabel": "electrical resistivity dimension",
     "raw": null
    }
   ]
@@ -7063,45 +7102,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricalResistivity-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     3,
-     1,
-     -3,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "electrical resistivity",
-       "electricalresistivity",
-       "electrical resistivity-",
-       "electricalresistivity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electrical resistivity-",
-       "electricalresistivity-"
-      ]
-     }
-    },
-    "dispLabel": "electrical resistivity dimension",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/heatTransferCoefficient-Dimension",
     "ontology": "OM2",
     "dimVector": [
@@ -7164,45 +7164,6 @@
      }
     },
     "dispLabel": "Coefficient of Heat Transfer",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricalConductivity-Dimension",
-    "ontology": "OM2",
-    "dimVector": [
-     -3,
-     -1,
-     3,
-     2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "en": {
-      "__type": "Set",
-      "values": [
-       "electrical conductivity",
-       "electricalconductivity",
-       "electrical conductivity-",
-       "electricalconductivity-"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electrical conductivity-",
-       "electricalconductivity-"
-      ]
-     }
-    },
-    "dispLabel": "electrical conductivity dimension",
     "raw": null
    }
   ]
@@ -7429,6 +7390,312 @@
   "values": [
    {
     "__type": "SemDimension",
+    "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricalConductivity-Dimension",
+    "ontology": "OM2",
+    "dimVector": [
+     -3,
+     -1,
+     3,
+     2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "en": {
+      "__type": "Set",
+      "values": [
+       "electrical conductivity",
+       "electricalconductivity",
+       "electrical conductivity-",
+       "electricalconductivity-"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electrical conductivity-",
+       "electricalconductivity-"
+      ]
+     }
+    },
+    "dispLabel": "electrical conductivity dimension",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#MassPerElectricCharge",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     1,
+     -1,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "mass per electric charge",
+       "massperelectriccharge"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "mass per electric charge",
+       "massperelectriccharge"
+      ]
+     }
+    },
+    "dispLabel": "Mass per Electric Charge",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#MagneticFluxPerUnitLength",
+    "ontology": "QUDT",
+    "dimVector": [
+     1,
+     1,
+     -2,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux per length",
+       "magneticfluxperlength",
+       "magnetic flux per unit length",
+       "magneticfluxperunitlength"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetic flux per length",
+       "magneticfluxperlength",
+       "magnetic flux per unit length",
+       "magneticfluxperunitlength"
+      ]
+     }
+    },
+    "dispLabel": "Magnetic Flux per Unit Length",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#ElectricFlux",
+    "ontology": "QUDT",
+    "dimVector": [
+     3,
+     1,
+     -3,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "electric flux",
+       "electricflux"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "electric flux",
+       "electricflux"
+      ]
+     }
+    },
+    "dispLabel": "Electric Flux",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#EnergyPerAreaElectricCharge",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     1,
+     -3,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "energy per area electric charge",
+       "energyperareaelectriccharge"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "energy per area electric charge",
+       "energyperareaelectriccharge"
+      ]
+     }
+    },
+    "dispLabel": "Energy per Area Electric Charge",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#PowerPerElectricCharge",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     1,
+     -4,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "power per electric charge",
+       "powerperelectriccharge"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "power per electric charge",
+       "powerperelectriccharge"
+      ]
+     }
+    },
+    "dispLabel": "Power per Electric Charge",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#LengthPerUnitElectricCurrent",
+    "ontology": "QUDT",
+    "dimVector": [
+     1,
+     0,
+     0,
+     -1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "length per electric current",
+       "lengthperelectriccurrent",
+       "length per unit electric current",
+       "lengthperunitelectriccurrent"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "length per electric current",
+       "lengthperelectriccurrent",
+       "length per unit electric current",
+       "lengthperunitelectriccurrent"
+      ]
+     }
+    },
+    "dispLabel": "Length per Unit Electric Current",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#InversePermittivity",
+    "ontology": "QUDT",
+    "dimVector": [
+     3,
+     1,
+     -4,
+     -2,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "inverse permittivity",
+       "inversepermittivity"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "inverse permittivity",
+       "inversepermittivity"
+      ]
+     }
+    },
+    "dispLabel": "Inverse Permittivity",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
     "uri": "http://qudt.org/vocab/quantity#InverseTimeTemperature",
     "ontology": "QUDT",
     "dimVector": [
@@ -7457,6 +7724,265 @@
      }
     },
     "dispLabel": "Inverse Time Temperature",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#SpecificHeatVolume",
+    "ontology": "QUDT",
+    "dimVector": [
+     -1,
+     0,
+     -2,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "specific heat volume",
+       "specificheatvolume"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "specific heat volume",
+       "specificheatvolume"
+      ]
+     }
+    },
+    "dispLabel": "Specific Heat Volume",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#AreaThermalExpansion",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     0,
+     0,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "area thermal expansion",
+       "areathermalexpansion"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "area thermal expansion",
+       "areathermalexpansion"
+      ]
+     }
+    },
+    "dispLabel": "Area Thermal Expansion",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#InverseLengthTemperature",
+    "ontology": "QUDT",
+    "dimVector": [
+     -1,
+     0,
+     0,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "inverse length temperature",
+       "inverselengthtemperature"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "inverse length temperature",
+       "inverselengthtemperature"
+      ]
+     }
+    },
+    "dispLabel": "Inverse Length Temperature",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#LinearThermalExpansion",
+    "ontology": "QUDT",
+    "dimVector": [
+     1,
+     0,
+     0,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "linear thermal expansion",
+       "linearthermalexpansion"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "linear thermal expansion",
+       "linearthermalexpansion"
+      ]
+     }
+    },
+    "dispLabel": "Linear Thermal Expansion",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#SpecificHeatPressure",
+    "ontology": "QUDT",
+    "dimVector": [
+     3,
+     -1,
+     0,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "specific heat pressure",
+       "specificheatpressure"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "specific heat pressure",
+       "specificheatpressure"
+      ]
+     }
+    },
+    "dispLabel": "Specific Heat Pressure",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#VolumeThermalExpansion",
+    "ontology": "QUDT",
+    "dimVector": [
+     3,
+     0,
+     0,
+     0,
+     -1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "volume thermal expansion",
+       "volumethermalexpansion"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "volume thermal expansion",
+       "volumethermalexpansion"
+      ]
+     }
+    },
+    "dispLabel": "Volume Thermal Expansion",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#PowerPerAreaQuarticTemperature",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     1,
+     -3,
+     0,
+     -4,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "power per area quartic temperature",
+       "powerperareaquartictemperature"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "power per area quartic temperature",
+       "powerperareaquartictemperature"
+      ]
+     }
+    },
+    "dispLabel": "Power per Area Quartic Temperature",
     "raw": null
    }
   ]
@@ -7540,43 +8066,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#MassPerElectricCharge",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     1,
-     -1,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "mass per electric charge",
-       "massperelectriccharge"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "mass per electric charge",
-       "massperelectriccharge"
-      ]
-     }
-    },
-    "dispLabel": "Mass per Electric Charge",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://qudt.org/vocab/quantity#MolarAngularMomentum",
     "ontology": "QUDT",
     "dimVector": [
@@ -7605,43 +8094,6 @@
      }
     },
     "dispLabel": "Molar Angular Momentum",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#TemperaturePerTime",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     0,
-     -1,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "temperature per time",
-       "temperaturepertime"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "temperature per time",
-       "temperaturepertime"
-      ]
-     }
-    },
-    "dispLabel": "Temperature per Time",
     "raw": null
    }
   ]
@@ -7799,84 +8251,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#MagneticFluxPerUnitLength",
-    "ontology": "QUDT",
-    "dimVector": [
-     1,
-     1,
-     -2,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux per length",
-       "magneticfluxperlength",
-       "magnetic flux per unit length",
-       "magneticfluxperunitlength"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetic flux per length",
-       "magneticfluxperlength",
-       "magnetic flux per unit length",
-       "magneticfluxperunitlength"
-      ]
-     }
-    },
-    "dispLabel": "Magnetic Flux per Unit Length",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#SpecificHeatVolume",
-    "ontology": "QUDT",
-    "dimVector": [
-     -1,
-     0,
-     -2,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "specific heat volume",
-       "specificheatvolume"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "specific heat volume",
-       "specificheatvolume"
-      ]
-     }
-    },
-    "dispLabel": "Specific Heat Volume",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://qudt.org/vocab/quantity#StandardGravitationalParameter",
     "ontology": "QUDT",
     "dimVector": [
@@ -7977,80 +8351,6 @@
      }
     },
     "dispLabel": "Torque",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ElectricFlux",
-    "ontology": "QUDT",
-    "dimVector": [
-     3,
-     1,
-     -3,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "electric flux",
-       "electricflux"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric flux",
-       "electricflux"
-      ]
-     }
-    },
-    "dispLabel": "Electric Flux",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#EnergyPerAreaElectricCharge",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     1,
-     -3,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "energy per area electric charge",
-       "energyperareaelectriccharge"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "energy per area electric charge",
-       "energyperareaelectriccharge"
-      ]
-     }
-    },
-    "dispLabel": "Energy per Area Electric Charge",
     "raw": null
    }
   ]
@@ -8171,43 +8471,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#PowerPerAreaQuarticTemperature",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     1,
-     -3,
-     0,
-     -4,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "power per area quartic temperature",
-       "powerperareaquartictemperature"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "power per area quartic temperature",
-       "powerperareaquartictemperature"
-      ]
-     }
-    },
-    "dispLabel": "Power per Area Quartic Temperature",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://qudt.org/vocab/quantity#RadiantIntensity",
     "ontology": "QUDT",
     "dimVector": [
@@ -8236,80 +8499,6 @@
      }
     },
     "dispLabel": "Radiant Intensity",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#InversePermittivity",
-    "ontology": "QUDT",
-    "dimVector": [
-     3,
-     1,
-     -4,
-     -2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "inverse permittivity",
-       "inversepermittivity"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "inverse permittivity",
-       "inversepermittivity"
-      ]
-     }
-    },
-    "dispLabel": "Inverse Permittivity",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#PowerPerElectricCharge",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     1,
-     -4,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "power per electric charge",
-       "powerperelectriccharge"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "power per electric charge",
-       "powerperelectriccharge"
-      ]
-     }
-    },
-    "dispLabel": "Power per Electric Charge",
     "raw": null
    }
   ]
@@ -8434,117 +8623,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#AreaTemperature",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "area temperature",
-       "areatemperature"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "area temperature",
-       "areatemperature"
-      ]
-     }
-    },
-    "dispLabel": "Area Temperature",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#AreaThermalExpansion",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     0,
-     0,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "area thermal expansion",
-       "areathermalexpansion"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "area thermal expansion",
-       "areathermalexpansion"
-      ]
-     }
-    },
-    "dispLabel": "Area Thermal Expansion",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "electric current per angle",
-       "electriccurrentperangle"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "electric current per angle",
-       "electriccurrentperangle"
-      ]
-     }
-    },
-    "dispLabel": "Electric Current per Angle",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://qudt.org/vocab/quantity#InverseAmountOfSubstance",
     "ontology": "QUDT",
     "dimVector": [
@@ -8582,43 +8660,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#InverseLengthTemperature",
-    "ontology": "QUDT",
-    "dimVector": [
-     -1,
-     0,
-     0,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "inverse length temperature",
-       "inverselengthtemperature"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "inverse length temperature",
-       "inverselengthtemperature"
-      ]
-     }
-    },
-    "dispLabel": "Inverse Length Temperature",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://qudt.org/vocab/quantity#LengthMass",
     "ontology": "QUDT",
     "dimVector": [
@@ -8647,195 +8688,6 @@
      }
     },
     "dispLabel": "Length Mass",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#LengthPerUnitElectricCurrent",
-    "ontology": "QUDT",
-    "dimVector": [
-     1,
-     0,
-     0,
-     -1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "length per electric current",
-       "lengthperelectriccurrent",
-       "length per unit electric current",
-       "lengthperunitelectriccurrent"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "length per electric current",
-       "lengthperelectriccurrent",
-       "length per unit electric current",
-       "lengthperunitelectriccurrent"
-      ]
-     }
-    },
-    "dispLabel": "Length per Unit Electric Current",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#LengthTemperature",
-    "ontology": "QUDT",
-    "dimVector": [
-     1,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "length temperature",
-       "lengthtemperature"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "length temperature",
-       "lengthtemperature"
-      ]
-     }
-    },
-    "dispLabel": "Length Temperature",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#LinearThermalExpansion",
-    "ontology": "QUDT",
-    "dimVector": [
-     1,
-     0,
-     0,
-     0,
-     -1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "linear thermal expansion",
-       "linearthermalexpansion"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "linear thermal expansion",
-       "linearthermalexpansion"
-      ]
-     }
-    },
-    "dispLabel": "Linear Thermal Expansion",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#MagneticDipoleMoment",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "magnetic dipole moment",
-       "magneticdipolemoment"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetic dipole moment",
-       "magneticdipolemoment"
-      ]
-     }
-    },
-    "dispLabel": "Magnetic Dipole Moment",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#MagnetomotiveForce",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "magnetomotive force",
-       "magnetomotiveforce"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "magnetomotive force",
-       "magnetomotiveforce"
-      ]
-     }
-    },
-    "dispLabel": "Magnetomotive Force",
     "raw": null
    }
   ]
@@ -8910,43 +8762,6 @@
      }
     },
     "dispLabel": "Mass per Length",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#MassTemperature",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     1,
-     0,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "mass temperature",
-       "masstemperature"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "mass temperature",
-       "masstemperature"
-      ]
-     }
-    },
-    "dispLabel": "Mass Temperature",
     "raw": null
    }
   ]
@@ -9067,14 +8882,14 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#SpecificHeatPressure",
+    "uri": "http://qudt.org/vocab/quantity#AreaTime",
     "ontology": "QUDT",
     "dimVector": [
-     3,
-     -1,
+     2,
+     0,
+     1,
      0,
      0,
-     -1,
      0,
      0
     ],
@@ -9082,19 +8897,278 @@
      "": {
       "__type": "Set",
       "values": [
-       "specific heat pressure",
-       "specificheatpressure"
+       "area time",
+       "areatime"
       ]
      },
      "_uri": {
       "__type": "Set",
       "values": [
-       "specific heat pressure",
-       "specificheatpressure"
+       "area time",
+       "areatime"
       ]
      }
     },
-    "dispLabel": "Specific Heat Pressure",
+    "dispLabel": "Area Time",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#InverseEnergy",
+    "ontology": "QUDT",
+    "dimVector": [
+     -2,
+     -1,
+     2,
+     0,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "inverse energy",
+       "inverseenergy"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "inverse energy",
+       "inverseenergy"
+      ]
+     }
+    },
+    "dispLabel": "Inverse Energy",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#TimeSquared",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "time squared",
+       "timesquared"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "time squared",
+       "timesquared"
+      ]
+     }
+    },
+    "dispLabel": "Time Squared",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#InverseSquareEnergy",
+    "ontology": "QUDT",
+    "dimVector": [
+     -4,
+     -2,
+     4,
+     0,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "inverse square energy",
+       "inversesquareenergy"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "inverse square energy",
+       "inversesquareenergy"
+      ]
+     }
+    },
+    "dispLabel": "Inverse Square Energy",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#TemperaturePerTime",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     0,
+     -1,
+     0,
+     1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "temperature per time",
+       "temperaturepertime"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "temperature per time",
+       "temperaturepertime"
+      ]
+     }
+    },
+    "dispLabel": "Temperature per Time",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#AreaTemperature",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "area temperature",
+       "areatemperature"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "area temperature",
+       "areatemperature"
+      ]
+     }
+    },
+    "dispLabel": "Area Temperature",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#LengthTemperature",
+    "ontology": "QUDT",
+    "dimVector": [
+     1,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "length temperature",
+       "lengthtemperature"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "length temperature",
+       "lengthtemperature"
+      ]
+     }
+    },
+    "dispLabel": "Length Temperature",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#MassTemperature",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     1,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "mass temperature",
+       "masstemperature"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "mass temperature",
+       "masstemperature"
+      ]
+     }
+    },
+    "dispLabel": "Mass Temperature",
     "raw": null
    }
   ]
@@ -9141,14 +9215,14 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#VolumeThermalExpansion",
+    "uri": "http://qudt.org/vocab/quantity#TimeTemperature",
     "ontology": "QUDT",
     "dimVector": [
-     3,
      0,
      0,
+     1,
      0,
-     -1,
+     1,
      0,
      0
     ],
@@ -9156,19 +9230,19 @@
      "": {
       "__type": "Set",
       "values": [
-       "volume thermal expansion",
-       "volumethermalexpansion"
+       "time temperature",
+       "timetemperature"
       ]
      },
      "_uri": {
       "__type": "Set",
       "values": [
-       "volume thermal expansion",
-       "volumethermalexpansion"
+       "time temperature",
+       "timetemperature"
       ]
      }
     },
-    "dispLabel": "Volume Thermal Expansion",
+    "dispLabel": "Time Temperature",
     "raw": null
    }
   ]
@@ -9178,13 +9252,50 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#AreaTime",
+    "uri": "http://qudt.org/vocab/quantity#ThermalResistivity",
     "ontology": "QUDT",
     "dimVector": [
-     2,
+     -1,
+     -1,
+     3,
      0,
      1,
      0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "thermal resistivity",
+       "thermalresistivity"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "thermal resistivity",
+       "thermalresistivity"
+      ]
+     }
+    },
+    "dispLabel": "Thermal Resistivity",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     0,
+     0,
+     1,
      0,
      0,
      0
@@ -9193,19 +9304,93 @@
      "": {
       "__type": "Set",
       "values": [
-       "area time",
-       "areatime"
+       "electric current per angle",
+       "electriccurrentperangle"
       ]
      },
      "_uri": {
       "__type": "Set",
       "values": [
-       "area time",
-       "areatime"
+       "electric current per angle",
+       "electriccurrentperangle"
       ]
      }
     },
-    "dispLabel": "Area Time",
+    "dispLabel": "Electric Current per Angle",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#MagneticDipoleMoment",
+    "ontology": "QUDT",
+    "dimVector": [
+     2,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "magnetic dipole moment",
+       "magneticdipolemoment"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetic dipole moment",
+       "magneticdipolemoment"
+      ]
+     }
+    },
+    "dispLabel": "Magnetic Dipole Moment",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#MagnetomotiveForce",
+    "ontology": "QUDT",
+    "dimVector": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "magnetomotive force",
+       "magnetomotiveforce"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "magnetomotive force",
+       "magnetomotiveforce"
+      ]
+     }
+    },
+    "dispLabel": "Magnetomotive Force",
     "raw": null
    }
   ]
@@ -9326,154 +9511,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#TimeTemperature",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     0,
-     1,
-     0,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "time temperature",
-       "timetemperature"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "time temperature",
-       "timetemperature"
-      ]
-     }
-    },
-    "dispLabel": "Time Temperature",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#QuarticElectricDipoleMomentPerCubicEnergy",
-    "ontology": "QUDT",
-    "dimVector": [
-     -2,
-     -3,
-     10,
-     4,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "quartic electric dipole moment per cubic energy",
-       "quarticelectricdipolemomentpercubicenergy"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "quartic electric dipole moment per cubic energy",
-       "quarticelectricdipolemomentpercubicenergy"
-      ]
-     }
-    },
-    "dispLabel": "Quartic Electric Dipole Moment per Cubic Energy",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#EnergyPerSquareMagneticFluxDensity",
-    "ontology": "QUDT",
-    "dimVector": [
-     2,
-     -1,
-     2,
-     2,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "energy per square magnetic flux density",
-       "energypersquaremagneticfluxdensity"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "energy per square magnetic flux density",
-       "energypersquaremagneticfluxdensity"
-      ]
-     }
-    },
-    "dispLabel": "Energy per Square Magnetic Flux Density",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#InverseEnergy",
-    "ontology": "QUDT",
-    "dimVector": [
-     -2,
-     -1,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "inverse energy",
-       "inverseenergy"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "inverse energy",
-       "inverseenergy"
-      ]
-     }
-    },
-    "dispLabel": "Inverse Energy",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://qudt.org/vocab/quantity#InverseMagneticFlux",
     "ontology": "QUDT",
     "dimVector": [
@@ -9552,80 +9589,6 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#TemperaturePerMagneticFluxDensity",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     -1,
-     2,
-     1,
-     1,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "temperature per magnetic flux density",
-       "temperaturepermagneticfluxdensity"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "temperature per magnetic flux density",
-       "temperaturepermagneticfluxdensity"
-      ]
-     }
-    },
-    "dispLabel": "Temperature per Magnetic Flux Density",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#TimeSquared",
-    "ontology": "QUDT",
-    "dimVector": [
-     0,
-     0,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "labels": {
-     "": {
-      "__type": "Set",
-      "values": [
-       "time squared",
-       "timesquared"
-      ]
-     },
-     "_uri": {
-      "__type": "Set",
-      "values": [
-       "time squared",
-       "timesquared"
-      ]
-     }
-    },
-    "dispLabel": "Time Squared",
-    "raw": null
-   }
-  ]
- },
- {
-  "__type": "SynSet",
-  "values": [
-   {
-    "__type": "SemDimension",
     "uri": "http://qudt.org/vocab/quantity#ElectricCurrentPerUnitEnergy",
     "ontology": "QUDT",
     "dimVector": [
@@ -9667,13 +9630,13 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#ThermalResistivity",
+    "uri": "http://qudt.org/vocab/quantity#TemperaturePerMagneticFluxDensity",
     "ontology": "QUDT",
     "dimVector": [
-     -1,
-     -1,
-     3,
      0,
+     -1,
+     2,
+     1,
      1,
      0,
      0
@@ -9682,19 +9645,19 @@
      "": {
       "__type": "Set",
       "values": [
-       "thermal resistivity",
-       "thermalresistivity"
+       "temperature per magnetic flux density",
+       "temperaturepermagneticfluxdensity"
       ]
      },
      "_uri": {
       "__type": "Set",
       "values": [
-       "thermal resistivity",
-       "thermalresistivity"
+       "temperature per magnetic flux density",
+       "temperaturepermagneticfluxdensity"
       ]
      }
     },
-    "dispLabel": "Thermal Resistivity",
+    "dispLabel": "Temperature per Magnetic Flux Density",
     "raw": null
    }
   ]
@@ -9704,13 +9667,13 @@
   "values": [
    {
     "__type": "SemDimension",
-    "uri": "http://qudt.org/vocab/quantity#InverseSquareEnergy",
+    "uri": "http://qudt.org/vocab/quantity#EnergyPerSquareMagneticFluxDensity",
     "ontology": "QUDT",
     "dimVector": [
-     -4,
-     -2,
-     4,
-     0,
+     2,
+     -1,
+     2,
+     2,
      0,
      0,
      0
@@ -9719,19 +9682,19 @@
      "": {
       "__type": "Set",
       "values": [
-       "inverse square energy",
-       "inversesquareenergy"
+       "energy per square magnetic flux density",
+       "energypersquaremagneticfluxdensity"
       ]
      },
      "_uri": {
       "__type": "Set",
       "values": [
-       "inverse square energy",
-       "inversesquareenergy"
+       "energy per square magnetic flux density",
+       "energypersquaremagneticfluxdensity"
       ]
      }
     },
-    "dispLabel": "Inverse Square Energy",
+    "dispLabel": "Energy per Square Magnetic Flux Density",
     "raw": null
    }
   ]
@@ -9804,6 +9767,43 @@
      }
     },
     "dispLabel": "Cubic Electric Dipole Moment per Square Energy",
+    "raw": null
+   }
+  ]
+ },
+ {
+  "__type": "SynSet",
+  "values": [
+   {
+    "__type": "SemDimension",
+    "uri": "http://qudt.org/vocab/quantity#QuarticElectricDipoleMomentPerCubicEnergy",
+    "ontology": "QUDT",
+    "dimVector": [
+     -2,
+     -3,
+     10,
+     4,
+     0,
+     0,
+     0
+    ],
+    "labels": {
+     "": {
+      "__type": "Set",
+      "values": [
+       "quartic electric dipole moment per cubic energy",
+       "quarticelectricdipolemomentpercubicenergy"
+      ]
+     },
+     "_uri": {
+      "__type": "Set",
+      "values": [
+       "quartic electric dipole moment per cubic energy",
+       "quarticelectricdipolemomentpercubicenergy"
+      ]
+     }
+    },
+    "dispLabel": "Quartic Electric Dipole Moment per Cubic Energy",
     "raw": null
    }
   ]

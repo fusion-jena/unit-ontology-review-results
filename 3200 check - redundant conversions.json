@@ -3,14 +3,14 @@
  "OBOE": [
   [
    {
-    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
     "convOffset": 0,
+    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared",
     "convFactor": "4046.8564"
    },
    {
-    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
     "convOffset": 0,
+    "unit1": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#Acre",
     "unit2": "http://ecoinformatics.org/oboe/oboe.1.0/oboe-standards.owl#MeterSquared",
     "convFactor": "4046.85642"
    }
@@ -19,14 +19,14 @@
  "OM": [
   [
    {
-    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
     "convOffset": 0,
+    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
     "convFactor": "1.0e-3"
    },
    {
-    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
     "convOffset": 0,
+    "unit1": "http://www.wurvoc.org/vocabularies/om-1.8/kilogram",
     "unit2": "http://www.wurvoc.org/vocabularies/om-1.8/gram",
     "convFactor": 1000
    }
@@ -35,14 +35,14 @@
  "OM2": [
   [
    {
-    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
     "convOffset": 0,
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
     "convFactor": 0.001
    },
    {
-    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
     "convOffset": 0,
+    "unit1": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram",
     "unit2": "http://www.ontology-of-units-of-measure.org/resource/om-2/gram",
     "convFactor": 1000
    }

@@ -11,7 +11,7 @@
   "exportHTML": []
  },
  {
-  "desc": "run all analysis scripts in order of their numbering\nstarting with the given script (or prefix thereof)",
+  "desc": "run all analysis scripts in order of their numbering\r\n\nstarting with the given script (or prefix thereof)",
   "key": "0010",
   "name": "runFromScript",
   "file": "0010 runFromScript.js",
@@ -22,7 +22,7 @@
   "exportHTML": []
  },
  {
-  "desc": "run the given analysis scripts in order of their numbering\nscripts are given by just their number",
+  "desc": "run the given analysis scripts in order of their numbering\r\n\nscripts are given by just their number",
   "key": "0020",
   "name": "runScripts",
   "file": "0020 runScripts.js",

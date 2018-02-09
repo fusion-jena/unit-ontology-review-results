@@ -19,12 +19,6 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Aberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
-    "label": "aberration"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Aberration",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
     "label": "aberration"
   },
@@ -42,6 +36,12 @@
   },
   {
     "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Aberration",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
+    "label": "aberration"
+  },
+  {
+    "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AberrationInLatitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
     "label": "aberration in latitude"
@@ -67,12 +67,6 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AberrationInLongitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
-    "label": "aberration in longitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AberrationInLongitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
     "label": "aberration in longitude"
   },
@@ -87,23 +81,29 @@
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AberrationInLongitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
     "label": "aberration in longitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AberrationInLongitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
+    "label": "aberration in longitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AbsoluteBolometricMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/BolometricMagnitude",
+    "label": "absolute bolometric magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AbsoluteBolometricMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/BolometricMagnitude",
+    "label": "absolute bolometric magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AbsoluteBolometricMagnitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "absolute bolometric magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AbsoluteBolometricMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/BolometricMagnitude",
-    "label": "absolute bolometric magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AbsoluteBolometricMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/BolometricMagnitude",
     "label": "absolute bolometric magnitude"
   },
   {
@@ -403,19 +403,19 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AnnualAberration",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
+    "label": "annual aberration"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AnnualAberration",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
+    "label": "annual aberration"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AnnualAberration",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
-    "label": "annual aberration"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AnnualAberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
-    "label": "annual aberration"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/AnnualAberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
     "label": "annual aberration"
   },
   {
@@ -435,6 +435,18 @@
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ApparentDiameter",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
     "label": "apparent diameter"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ApparentDistanceModulus",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
+    "label": "apparent distance modulus"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ApparentDistanceModulus",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
+    "label": "apparent distance modulus"
   },
   {
     "labelLang": "en",
@@ -452,18 +464,6 @@
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ApparentDistanceModulus",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
-    "label": "apparent distance modulus"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ApparentDistanceModulus",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
-    "label": "apparent distance modulus"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ApparentDistanceModulus",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
     "label": "apparent distance modulus"
   },
   {
@@ -541,7 +541,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BetaNarrowMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "β_narrow magnitude"
   },
   {
@@ -553,7 +553,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BetaNarrowMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
     "label": "β_narrow magnitude"
   },
   {
@@ -565,7 +565,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BetaWideMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "β_wide magnitude"
   },
   {
@@ -577,13 +577,19 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BetaWideMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
     "label": "β_wide magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/bMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "b magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/bMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "b magnitude"
   },
   {
@@ -595,30 +601,12 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/bMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "b magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/bMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
     "label": "b magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "B magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "B magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
     "label": "B magnitude"
   },
@@ -630,26 +618,20 @@
   },
   {
     "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMaximumBrightness",
-    "label": "B magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
-    "label": "B magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMaximumBrightness",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "B magnitude at maximum brightness"
+    "label": "B magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "B magnitude"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
     "label": "B magnitude at maximum brightness"
   },
   {
@@ -661,7 +643,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
+    "label": "B magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
     "label": "B magnitude at maximum brightness"
   },
   {
@@ -673,19 +661,49 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "B magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMaximumBrightness",
+    "label": "B magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMaximumBrightness",
     "label": "B magnitude at maximum brightness"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
     "label": "B magnitude at minimum brightness"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMinimumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
+    "label": "B magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
+    "label": "B magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
+    "label": "B magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "B magnitude at minimum brightness"
   },
   {
@@ -705,35 +723,17 @@
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMinimumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMinimumBrightness",
     "label": "B magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
-    "label": "B magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitude",
-    "label": "B magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
-    "label": "B magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BodyLabelMass",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Mass",
-    "label": "body label mass"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BodyLabelMass",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/LabelMass",
+    "label": "body label mass"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BodyLabelMass",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Mass",
     "label": "body label mass"
   },
   {
@@ -773,12 +773,6 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BondAlbedo",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/QuantityOfDimensionOne",
-    "label": "bond albedo"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BondAlbedo",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Albedo",
     "label": "bond albedo"
   },
@@ -790,6 +784,12 @@
   },
   {
     "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BondAlbedo",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/QuantityOfDimensionOne",
+    "label": "bond albedo"
+  },
+  {
+    "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Breadth",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
     "label": "breadth"
@@ -799,6 +799,12 @@
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Breadth",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
     "label": "breadth"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BrightnessTemperature",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Temperature",
+    "label": "brightness temperature"
   },
   {
     "labelLang": "en",
@@ -810,12 +816,6 @@
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BrightnessTemperature",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperature",
-    "label": "brightness temperature"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/BrightnessTemperature",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Temperature",
     "label": "brightness temperature"
   },
   {
@@ -1013,19 +1013,19 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Co-RotationRadius",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
+    "label": "co-rotation radius"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Co-RotationRadius",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
+    "label": "co-rotation radius"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Co-RotationRadius",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Radius",
-    "label": "co-rotation radius"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Co-RotationRadius",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
-    "label": "co-rotation radius"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Co-RotationRadius",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
     "label": "co-rotation radius"
   },
   {
@@ -1077,7 +1077,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ColourTemperature",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperature",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Temperature",
     "label": "colour temperature"
   },
   {
@@ -1095,7 +1095,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ColourTemperature",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Temperature",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperature",
     "label": "colour temperature"
   },
   {
@@ -1223,19 +1223,19 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Cut-OffWavelength",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Wavelength",
-    "label": "cut-off wavelength"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Cut-OffWavelength",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Wavelength",
-    "label": "cut-off wavelength"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Cut-OffWavelength",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
+    "label": "cut-off wavelength"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Cut-OffWavelength",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Wavelength",
+    "label": "cut-off wavelength"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Cut-OffWavelength",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Wavelength",
     "label": "cut-off wavelength"
   },
   {
@@ -1435,19 +1435,19 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/DistanceModulus",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
-    "label": "distance modulus"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/DistanceModulus",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
-    "label": "distance modulus"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/DistanceModulus",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
+    "label": "distance modulus"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/DistanceModulus",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
+    "label": "distance modulus"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/DistanceModulus",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
     "label": "distance modulus"
   },
   {
@@ -1493,13 +1493,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/DryBodyMass",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Mass",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/DryMass",
     "label": "dry body mass"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/DryBodyMass",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/DryMass",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Mass",
     "label": "dry body mass"
   },
   {
@@ -1734,18 +1734,6 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ElectronTemperature",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperature",
-    "label": "electron temperature"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ElectronTemperature",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperature",
-    "label": "electron temperature"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ElectronTemperature",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Temperature",
     "label": "electron temperature"
   },
@@ -1753,6 +1741,18 @@
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ElectronTemperature",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Temperature",
+    "label": "electron temperature"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ElectronTemperature",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperature",
+    "label": "electron temperature"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ElectronTemperature",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperature",
     "label": "electron temperature"
   },
   {
@@ -1807,7 +1807,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Epoch",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Time",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Date",
     "label": "epoch"
   },
   {
@@ -1825,31 +1825,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/Epoch",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Date",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Time",
     "label": "epoch"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/EpochAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Epoch",
-    "label": "epoch at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/EpochAtMaximumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Date",
-    "label": "epoch at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/EpochAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Time",
-    "label": "epoch at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/EpochAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Time",
     "label": "epoch at maximum brightness"
   },
   {
@@ -1862,6 +1844,24 @@
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/EpochAtMaximumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Epoch",
+    "label": "epoch at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/EpochAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Epoch",
+    "label": "epoch at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/EpochAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Time",
+    "label": "epoch at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/EpochAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Time",
     "label": "epoch at maximum brightness"
   },
   {
@@ -1960,12 +1960,6 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ExtinctionInU",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ExtinctionAtWaveband",
-    "label": "extinction in U"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ExtinctionInU",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Extinction",
     "label": "extinction in U"
   },
@@ -1983,8 +1977,14 @@
   },
   {
     "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ExtinctionInV",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ExtinctionInU",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ExtinctionAtWaveband",
+    "label": "extinction in U"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ExtinctionInV",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Extinction",
     "label": "extinction in V"
   },
   {
@@ -2002,7 +2002,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/ExtinctionInV",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Extinction",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ExtinctionAtWaveband",
     "label": "extinction in V"
   },
   {
@@ -2178,12 +2178,6 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/GeometricalAlbedo",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/QuantityOfDimensionOne",
-    "label": "geometrical albedo"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/GeometricalAlbedo",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Albedo",
     "label": "geometrical albedo"
   },
@@ -2195,20 +2189,26 @@
   },
   {
     "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/GeometricalAlbedo",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/QuantityOfDimensionOne",
+    "label": "geometrical albedo"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/gMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "g magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/gMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "g magnitude"
+  },
+  {
+    "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/gMagnitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/ThuanAndGunnMagnitude",
-    "label": "g magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/gMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "g magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/gMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "g magnitude"
   },
   {
@@ -2406,19 +2406,19 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/IMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "I magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/IMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "I magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/IMagnitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/CousinsMagnitude",
+    "label": "I magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/IMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "I magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/IMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "I magnitude"
   },
   {
@@ -3053,13 +3053,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NormalAlbedo",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/QuantityOfDimensionOne",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Albedo",
     "label": "normal albedo"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NormalAlbedo",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Albedo",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/QuantityOfDimensionOne",
     "label": "normal albedo"
   },
   {
@@ -3110,25 +3110,25 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberAbscisedBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBuds",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number abscised buds"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberAbscisedBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBuds",
     "label": "number abscised buds"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberAbscisedFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number abscised flowers"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberAbscisedFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
     "label": "number abscised flowers"
   },
   {
@@ -3188,13 +3188,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number Botrytis 2"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis",
     "label": "number Botrytis 2"
   },
   {
@@ -3212,13 +3212,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis4",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number Botrytis 4"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis4",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis",
     "label": "number Botrytis 4"
   },
   {
@@ -3236,25 +3236,25 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium1",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number bud stadium 1"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium1",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
     "label": "number bud stadium 1"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number bud stadium 2"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
     "label": "number bud stadium 2"
   },
   {
@@ -3272,13 +3272,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium4",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number bud stadium 4"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium4",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
     "label": "number bud stadium 4"
   },
   {
@@ -3350,13 +3350,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number color 5"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
     "label": "number color 5"
   },
   {
@@ -3367,13 +3367,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberDryBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBuds",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number dry buds"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberDryBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBuds",
     "label": "number dry buds"
   },
   {
@@ -3391,13 +3391,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberDryLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number dry leaves"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberDryLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
     "label": "number dry leaves"
   },
   {
@@ -3409,25 +3409,25 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberExternalBrowning1",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number external browning 1"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberExternalBrowning1",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
     "label": "number external browning 1"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberExternalBrowning2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number external browning 2"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberExternalBrowning2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
     "label": "number external browning 2"
   },
   {
@@ -3457,13 +3457,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberExternalBrowning5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number external browning 5"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberExternalBrowning5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
     "label": "number external browning 5"
   },
   {
@@ -3523,13 +3523,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness0.5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number manual firmness 0.5"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness0.5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
     "label": "number manual firmness 0.5"
   },
   {
@@ -3559,13 +3559,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number manual firmness 2"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
     "label": "number manual firmness 2"
   },
   {
@@ -3583,13 +3583,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness3",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number manual firmness 3"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness3",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
     "label": "number manual firmness 3"
   },
   {
@@ -3619,13 +3619,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness4.5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number manual firmness 4.5"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness4.5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
     "label": "number manual firmness 4.5"
   },
   {
@@ -3655,13 +3655,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberNonturgidLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number nonturgid leaves"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberNonturgidLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
     "label": "number nonturgid leaves"
   },
   {
@@ -3673,25 +3673,25 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberPulpBrowning1",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number pulp browning 1"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberPulpBrowning1",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
     "label": "number pulp browning 1"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberPulpBrowning2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number pulp browning 2"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberPulpBrowning2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
     "label": "number pulp browning 2"
   },
   {
@@ -3709,13 +3709,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberPulpBrowning4",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number pulp browning 4"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberPulpBrowning4",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
     "label": "number pulp browning 4"
   },
   {
@@ -3745,13 +3745,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberRottenLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number rotten leaves"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberRottenLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
     "label": "number rotten leaves"
   },
   {
@@ -3811,14 +3811,20 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberVascularBrowning5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number vascular browning 5"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberVascularBrowning5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
     "label": "number vascular browning 5"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberWiltedFlowers",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "label": "number wilted flowers"
   },
   {
     "labelLang": "en",
@@ -3828,20 +3834,14 @@
   },
   {
     "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberWiltedFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
-    "label": "number wilted flowers"
-  },
-  {
-    "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberWiltedLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "number wilted leaves"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberWiltedLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
     "label": "number wilted leaves"
   },
   {
@@ -3897,19 +3897,19 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PeakWavelength",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
+    "label": "peak wavelength"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PeakWavelength",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
+    "label": "peak wavelength"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PeakWavelength",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Wavelength",
-    "label": "peak wavelength"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PeakWavelength",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
-    "label": "peak wavelength"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PeakWavelength",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
     "label": "peak wavelength"
   },
   {
@@ -4041,25 +4041,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitude",
-    "label": "photographic magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMaximumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "photographic magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitude",
-    "label": "photographic magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMaximumBrightness",
     "label": "photographic magnitude at maximum brightness"
   },
   {
@@ -4072,12 +4054,30 @@
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMaximumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMaximumBrightness",
+    "label": "photographic magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMaximumBrightness",
+    "label": "photographic magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitude",
+    "label": "photographic magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitude",
     "label": "photographic magnitude at maximum brightness"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "photographic magnitude at minimum brightness"
   },
   {
@@ -4095,12 +4095,6 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "photographic magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMinimumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMinimumBrightness",
     "label": "photographic magnitude at minimum brightness"
   },
@@ -4112,6 +4106,30 @@
   },
   {
     "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/PhotographicMagnitude",
+    "label": "photographic magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PlanetaryAberration",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Aberration",
+    "label": "planetary aberration"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PlanetaryAberration",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Aberration",
+    "label": "planetary aberration"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PlanetaryAberration",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
+    "label": "planetary aberration"
+  },
+  {
+    "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PlanetaryAberration",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
     "label": "planetary aberration"
@@ -4125,25 +4143,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PlanetaryAberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Aberration",
-    "label": "planetary aberration"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PlanetaryAberration",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
-    "label": "planetary aberration"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PlanetaryAberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Aberration",
-    "label": "planetary aberration"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/PlanetaryAberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
     "label": "planetary aberration"
   },
   {
@@ -4475,7 +4475,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/RMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/CousinsMagnitude",
     "label": "R magnitude"
   },
   {
@@ -4493,7 +4493,7 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/RMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/CousinsMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "R magnitude"
   },
   {
@@ -4559,18 +4559,6 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/SecularAberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
-    "label": "secular aberration"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/SecularAberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
-    "label": "secular aberration"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/SecularAberration",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
     "label": "secular aberration"
   },
@@ -4578,6 +4566,18 @@
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/SecularAberration",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
+    "label": "secular aberration"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/SecularAberration",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
+    "label": "secular aberration"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/SecularAberration",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
     "label": "secular aberration"
   },
   {
@@ -4933,31 +4933,31 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/StellarAberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
-    "label": "stellar aberration"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/StellarAberration",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Aberration",
     "label": "stellar aberration"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/StellarAberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
-    "label": "stellar aberration"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/StellarAberration",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
     "label": "stellar aberration"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/StellarAberration",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Angle",
+    "label": "stellar aberration"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/StellarAberration",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
+    "label": "stellar aberration"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/StellarAberration",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/AngularDisplacement",
     "label": "stellar aberration"
   },
   {
@@ -5272,14 +5272,20 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TotalDistanceTravelled",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
     "label": "total distance travelled"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TotalDistanceTravelled",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
     "label": "total distance travelled"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TotalNumberBuds",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "label": "total number buds"
   },
   {
     "labelLang": "en",
@@ -5289,20 +5295,14 @@
   },
   {
     "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TotalNumberBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
-    "label": "total number buds"
-  },
-  {
-    "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TotalNumberFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "total number flowers"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TotalNumberFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
     "label": "total number flowers"
   },
   {
@@ -5326,19 +5326,19 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TrueDistanceModulus",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/DistanceModulus",
-    "label": "true distance modulus"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TrueDistanceModulus",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/DistanceModulus",
-    "label": "true distance modulus"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TrueDistanceModulus",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
+    "label": "true distance modulus"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TrueDistanceModulus",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/DistanceModulus",
+    "label": "true distance modulus"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TrueDistanceModulus",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/DistanceModulus",
     "label": "true distance modulus"
   },
   {
@@ -5374,7 +5374,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "u magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "u magnitude"
   },
   {
@@ -5386,20 +5392,8 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
     "label": "u magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/uMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "u magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/UMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "U magnitude"
   },
   {
     "labelLang": "en",
@@ -5411,6 +5405,12 @@
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/UMagnitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
+    "label": "U magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/UMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "U magnitude"
   },
   {
@@ -5475,26 +5475,20 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VisualAlbedo",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/QuantityOfDimensionOne",
-    "label": "visual albedo"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VisualAlbedo",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/QuantityOfDimensionOne",
-    "label": "visual albedo"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VisualAlbedo",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Albedo",
     "label": "visual albedo"
   },
   {
     "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/vMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
-    "label": "v magnitude"
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VisualAlbedo",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/QuantityOfDimensionOne",
+    "label": "visual albedo"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VisualAlbedo",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/QuantityOfDimensionOne",
+    "label": "visual albedo"
   },
   {
     "labelLang": "en",
@@ -5516,20 +5510,26 @@
   },
   {
     "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/vMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
+    "label": "v magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
+    "label": "V magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
+    "label": "V magnitude"
+  },
+  {
+    "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "V magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
-    "label": "V magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
     "label": "V magnitude"
   },
   {
@@ -5541,13 +5541,25 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
     "label": "V magnitude at maximum brightness"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
+    "label": "V magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "V magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "V magnitude at maximum brightness"
   },
   {
@@ -5559,35 +5571,53 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "V magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "V magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
-    "label": "V magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
-    "label": "V magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMaximumBrightness",
     "label": "V magnitude at maximum brightness"
   },
   {
     "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
+    "label": "V magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
+    "label": "V magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
+    "label": "V magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
+    "label": "V magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "V magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "V magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMinimumBrightness",
+    "label": "V magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMinimumBrightness",
     "label": "V magnitude at minimum brightness"
@@ -5596,36 +5626,6 @@
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitude",
-    "label": "V magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
-    "label": "V magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMinimumBrightness",
-    "label": "V magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "V magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "V magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/VMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/JohnsonMagnitude",
     "label": "V magnitude at minimum brightness"
   },
   {
@@ -5866,25 +5866,13 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMaximumBrightness",
-    "label": "white light magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMaximumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "white light magnitude at maximum brightness"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitude",
-    "label": "white light magnitude at maximum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "white light magnitude at maximum brightness"
   },
   {
@@ -5896,37 +5884,49 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMaximumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMaximumBrightness",
+    "label": "white light magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitude",
+    "label": "white light magnitude at maximum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMaximumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitude",
     "label": "white light magnitude at maximum brightness"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "white light magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "white light magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMinimumBrightness",
+    "label": "white light magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMinimumBrightness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMinimumBrightness",
+    "label": "white light magnitude at minimum brightness"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMinimumBrightness",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitude",
-    "label": "white light magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMinimumBrightness",
-    "label": "white light magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "white light magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/MagnitudeAtMinimumBrightness",
-    "label": "white light magnitude at minimum brightness"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/WhiteLightMagnitudeAtMinimumBrightness",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "white light magnitude at minimum brightness"
   },
   {
@@ -5974,14 +5974,20 @@
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/xy2DStartEndDistance",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
     "label": "xy 2D start-end distance"
   },
   {
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/xy2DStartEndDistance",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Length",
     "label": "xy 2D start-end distance"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/xyDistanceTravelled",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
+    "label": "xy distance travelled"
   },
   {
     "labelLang": "en",
@@ -5991,9 +5997,15 @@
   },
   {
     "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/xyDistanceTravelled",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Distance",
-    "label": "xy distance travelled"
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/yMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "y magnitude"
+  },
+  {
+    "labelLang": "en",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/yMagnitude",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
+    "label": "y magnitude"
   },
   {
     "labelLang": "en",
@@ -6005,18 +6017,6 @@
     "labelLang": "en",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/yMagnitude",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/StroemgrenMagnitude",
-    "label": "y magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/yMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
-    "label": "y magnitude"
-  },
-  {
-    "labelLang": "en",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/yMagnitude",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Magnitude",
     "label": "y magnitude"
   },
   {
@@ -7101,13 +7101,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberAbscisedBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBuds",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal gevallen knoppen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberAbscisedBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBuds",
     "label": "aantal gevallen knoppen"
   },
   {
@@ -7121,6 +7121,12 @@
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberAbscisedFlowers",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
     "label": "aantal gevallen bloemen"
+  },
+  {
+    "labelLang": "nl",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberAbscisedLeaves",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "label": "aantal gevallen bladeren"
   },
   {
     "labelLang": "nl",
@@ -7130,20 +7136,14 @@
   },
   {
     "labelLang": "nl",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberAbscisedLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
-    "label": "aantal gevallen bladeren"
-  },
-  {
-    "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBlue-DiscoloredFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal blauwverkleurde bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBlue-DiscoloredFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
     "label": "aantal blauwverkleurde bloemen"
   },
   {
@@ -7179,25 +7179,25 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal Botrytis 2"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis",
     "label": "aantal Botrytis 2"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis3",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal Botrytis 3"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis3",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBotrytis",
     "label": "aantal Botrytis 3"
   },
   {
@@ -7227,37 +7227,37 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium1",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal knopstadium 1"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium1",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
     "label": "aantal knopstadium 1"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal knopstadium 2"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
     "label": "aantal knopstadium 2"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium3",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal knopstadium 3"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium3",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBudStadium",
     "label": "aantal knopstadium 3"
   },
   {
@@ -7329,13 +7329,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor4",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal kleur 4"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor4",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberColor",
     "label": "aantal kleur 4"
   },
   {
@@ -7353,13 +7353,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberDryBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBuds",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal verdroogde knoppen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberDryBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBuds",
     "label": "aantal verdroogde knoppen"
   },
   {
@@ -7377,13 +7377,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberDryLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal verdroogde bladeren"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberDryLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
     "label": "aantal verdroogde bladeren"
   },
   {
@@ -7401,13 +7401,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberMalformedBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBuds",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal misvormde knoppen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberMalformedBuds",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberBuds",
     "label": "aantal misvormde knoppen"
   },
   {
@@ -7431,13 +7431,13 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness0",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal manuele stevigheid 0"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness0",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
     "label": "aantal manuele stevigheid 0"
   },
   {
@@ -7467,37 +7467,37 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness1.5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal manuele stevigheid 1.5"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness1.5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
     "label": "aantal manuele stevigheid 1.5"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal manuele stevigheid 2"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness2",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
     "label": "aantal manuele stevigheid 2"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness2.5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal manuele stevigheid 2.5"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness2.5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
     "label": "aantal manuele stevigheid 2.5"
   },
   {
@@ -7539,14 +7539,20 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness4.5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal manuele stevigheid 4.5"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness4.5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness",
     "label": "aantal manuele stevigheid 4.5"
+  },
+  {
+    "labelLang": "nl",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness5",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "label": "aantal manuele stevigheid 5"
   },
   {
     "labelLang": "nl",
@@ -7556,12 +7562,6 @@
   },
   {
     "labelLang": "nl",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberManualFirmness5",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
-    "label": "aantal manuele stevigheid 5"
-  },
-  {
-    "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberNonturgidFlowers",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal slappe bloemen"
@@ -7571,6 +7571,12 @@
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberNonturgidFlowers",
     "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
     "label": "aantal slappe bloemen"
+  },
+  {
+    "labelLang": "nl",
+    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberNonturgidLeaves",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "label": "aantal slappe bladeren"
   },
   {
     "labelLang": "nl",
@@ -7580,20 +7586,14 @@
   },
   {
     "labelLang": "nl",
-    "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberNonturgidLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
-    "label": "aantal slappe bladeren"
-  },
-  {
-    "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberRottenFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal rotte bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberRottenFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
     "label": "aantal rotte bloemen"
   },
   {
@@ -7611,37 +7611,37 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberWiltedFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal verwelkte bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberWiltedFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
     "label": "aantal verwelkte bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberWiltedLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal verwelkte bladeren"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberWiltedLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
     "label": "aantal verwelkte bladeren"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberYellowLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "aantal vergeelde bladeren"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberYellowLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
     "label": "aantal vergeelde bladeren"
   },
   {
@@ -8112,25 +8112,25 @@
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TotalNumberFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "totaal aantal bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TotalNumberFlowers",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberFlowers",
     "label": "totaal aantal bloemen"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TotalNumberLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
     "label": "totaal aantal bladeren"
   },
   {
     "labelLang": "nl",
     "quantKind": "http://www.ontology-of-units-of-measure.org/resource/om-2/TotalNumberLeaves",
-    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/Number",
+    "parent": "http://www.ontology-of-units-of-measure.org/resource/om-2/NumberLeaves",
     "label": "totaal aantal bladeren"
   },
   {

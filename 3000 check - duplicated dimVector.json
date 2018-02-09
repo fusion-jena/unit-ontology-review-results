@@ -79,6 +79,13 @@
  {
   "__type": "Set",
   "values": [
+   "http://qudt.org/vocab/quantity#ElectricField",
+   "http://qudt.org/vocab/quantity#ForcePerElectricCharge"
+  ]
+ },
+ {
+  "__type": "Set",
+  "values": [
    "http://qudt.org/vocab/quantity#AngularVelocity",
    "http://qudt.org/vocab/quantity#Frequency"
   ]
@@ -107,13 +114,6 @@
  {
   "__type": "Set",
   "values": [
-   "http://qudt.org/vocab/quantity#ElectricField",
-   "http://qudt.org/vocab/quantity#ForcePerElectricCharge"
-  ]
- },
- {
-  "__type": "Set",
-  "values": [
    "http://qudt.org/vocab/quantity#Power",
    "http://qudt.org/vocab/quantity#RadiantIntensity"
   ]
@@ -135,14 +135,6 @@
  {
   "__type": "Set",
   "values": [
-   "http://qudt.org/vocab/quantity#ElectricCurrent",
-   "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle",
-   "http://qudt.org/vocab/quantity#MagnetomotiveForce"
-  ]
- },
- {
-  "__type": "Set",
-  "values": [
    "http://qudt.org/vocab/quantity#Luminance",
    "http://qudt.org/vocab/quantity#LuminousFluxPerArea"
   ]
@@ -152,6 +144,14 @@
   "values": [
    "http://qudt.org/vocab/quantity#LuminousFlux",
    "http://qudt.org/vocab/quantity#LuminousIntensity"
+  ]
+ },
+ {
+  "__type": "Set",
+  "values": [
+   "http://qudt.org/vocab/quantity#ElectricCurrent",
+   "http://qudt.org/vocab/quantity#ElectricCurrentPerAngle",
+   "http://qudt.org/vocab/quantity#MagnetomotiveForce"
   ]
  }
 ]

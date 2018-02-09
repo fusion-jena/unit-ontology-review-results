@@ -1065,9 +1065,7 @@
         "__type": "Set",
         "values": [
          "magnetic flux density",
-         "magneticfluxdensity",
-         "magnetic flux density-",
-         "magneticfluxdensity-"
+         "magneticfluxdensity"
         ]
        },
        "_uri": {
@@ -1254,6 +1252,307 @@
        }
       },
       "dispLabel": "Magnetic Field",
+      "raw": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": {
+   "__type": "SynSet",
+   "values": [
+    {
+     "__type": "SemUnit",
+     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-tension/Gilbert",
+     "ontology": "MUO",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "gilbert"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "gilbert"
+       ]
+      }
+     },
+     "dispLabel": "Gilbert",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/gilbert",
+     "ontology": "OM2",
+     "labels": {
+      "en": {
+       "__type": "Set",
+       "values": [
+        "gilbert"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "gilbert"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "gilbert"
+       ]
+      }
+     },
+     "dispLabel": "gilbert",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://qudt.org/vocab/unit#Gilbert",
+     "ontology": "QUDT",
+     "labels": {
+      "": {
+       "__type": "Set",
+       "values": [
+        "gilbert"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "gilbert"
+       ]
+      }
+     },
+     "dispLabel": "Gilbert",
+     "isPrefixed": false,
+     "raw": null
+    },
+    {
+     "__type": "SemUnit",
+     "uri": "http://www.wikidata.org/entity/Q1413142",
+     "ontology": "WD",
+     "labels": {
+      "de": {
+       "__type": "Set",
+       "values": [
+        "gilbert"
+       ]
+      },
+      "_uri": {
+       "__type": "Set",
+       "values": [
+        "q1413142"
+       ]
+      },
+      "en": {
+       "__type": "Set",
+       "values": [
+        "gilbert",
+        "q1413142"
+       ]
+      },
+      "nl": {
+       "__type": "Set",
+       "values": [
+        "gilbert"
+       ]
+      },
+      "nn": {
+       "__type": "Set",
+       "values": [
+        "gilbert"
+       ]
+      },
+      "bg": {
+       "__type": "Set",
+       "values": [
+        "гилбърт"
+       ]
+      },
+      "ru": {
+       "__type": "Set",
+       "values": [
+        "гильберт"
+       ]
+      },
+      "uk": {
+       "__type": "Set",
+       "values": [
+        "гільберт"
+       ]
+      },
+      "hy": {
+       "__type": "Set",
+       "values": [
+        "հիլբերտ"
+       ]
+      },
+      "ar": {
+       "__type": "Set",
+       "values": [
+        "غيلبرت"
+       ]
+      },
+      "zh": {
+       "__type": "Set",
+       "values": [
+        "吉伯 單位",
+        "吉伯單位"
+       ]
+      }
+     },
+     "dispLabel": "Gilbert",
+     "isPrefixed": false,
+     "raw": null
+    }
+   ]
+  },
+  "dims": [
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electric_current-dimension",
+      "ontology": "OM",
+      "dimVector": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "electric current",
+         "electriccurrent",
+         "electric current-",
+         "electriccurrent-"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "electric current-",
+         "electriccurrent-"
+        ]
+       }
+      },
+      "dispLabel": "electric current dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricCurrent-Dimension",
+      "ontology": "OM2",
+      "dimVector": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "en": {
+        "__type": "Set",
+        "values": [
+         "electric current",
+         "electriccurrent",
+         "electric current-",
+         "electriccurrent-"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "electric current-",
+         "electriccurrent-"
+        ]
+       }
+      },
+      "dispLabel": "electric current dimension",
+      "raw": null
+     },
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#ElectricCurrent",
+      "ontology": "QUDT",
+      "dimVector": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "": {
+        "__type": "Set",
+        "values": [
+         "electric current",
+         "electriccurrent"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "electric current",
+         "electriccurrent"
+        ]
+       }
+      },
+      "dispLabel": "Electric Current",
+      "raw": null
+     }
+    ]
+   },
+   {
+    "__type": "SynSet",
+    "values": [
+     {
+      "__type": "SemDimension",
+      "uri": "http://qudt.org/vocab/quantity#MagnetomotiveForce",
+      "ontology": "QUDT",
+      "dimVector": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ],
+      "labels": {
+       "": {
+        "__type": "Set",
+        "values": [
+         "magnetomotive force",
+         "magnetomotiveforce"
+        ]
+       },
+       "_uri": {
+        "__type": "Set",
+        "values": [
+         "magnetomotive force",
+         "magnetomotiveforce"
+        ]
+       }
+      },
+      "dispLabel": "Magnetomotive Force",
       "raw": null
      }
     ]
@@ -1903,9 +2202,7 @@
         "__type": "Set",
         "values": [
          "magnetic flux density",
-         "magneticfluxdensity",
-         "magnetic flux density-",
-         "magneticfluxdensity-"
+         "magneticfluxdensity"
         ]
        },
        "_uri": {
@@ -2104,307 +2401,6 @@
    "values": [
     {
      "__type": "SemUnit",
-     "uri": "http://purl.oclc.org/NET/muo/ucum/unit/magnetic-tension/Gilbert",
-     "ontology": "MUO",
-     "labels": {
-      "en": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      }
-     },
-     "dispLabel": "Gilbert",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/gilbert",
-     "ontology": "OM2",
-     "labels": {
-      "en": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      },
-      "nl": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      }
-     },
-     "dispLabel": "gilbert",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://qudt.org/vocab/unit#Gilbert",
-     "ontology": "QUDT",
-     "labels": {
-      "": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      }
-     },
-     "dispLabel": "Gilbert",
-     "isPrefixed": false,
-     "raw": null
-    },
-    {
-     "__type": "SemUnit",
-     "uri": "http://www.wikidata.org/entity/Q1413142",
-     "ontology": "WD",
-     "labels": {
-      "de": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      },
-      "_uri": {
-       "__type": "Set",
-       "values": [
-        "q1413142"
-       ]
-      },
-      "en": {
-       "__type": "Set",
-       "values": [
-        "gilbert",
-        "q1413142"
-       ]
-      },
-      "nl": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      },
-      "nn": {
-       "__type": "Set",
-       "values": [
-        "gilbert"
-       ]
-      },
-      "bg": {
-       "__type": "Set",
-       "values": [
-        "гилбърт"
-       ]
-      },
-      "ru": {
-       "__type": "Set",
-       "values": [
-        "гильберт"
-       ]
-      },
-      "uk": {
-       "__type": "Set",
-       "values": [
-        "гільберт"
-       ]
-      },
-      "hy": {
-       "__type": "Set",
-       "values": [
-        "հիլբերտ"
-       ]
-      },
-      "ar": {
-       "__type": "Set",
-       "values": [
-        "غيلبرت"
-       ]
-      },
-      "zh": {
-       "__type": "Set",
-       "values": [
-        "吉伯 單位",
-        "吉伯單位"
-       ]
-      }
-     },
-     "dispLabel": "Gilbert",
-     "isPrefixed": false,
-     "raw": null
-    }
-   ]
-  },
-  "dims": [
-   {
-    "__type": "SynSet",
-    "values": [
-     {
-      "__type": "SemDimension",
-      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/electric_current-dimension",
-      "ontology": "OM",
-      "dimVector": [
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "en": {
-        "__type": "Set",
-        "values": [
-         "electric current",
-         "electriccurrent",
-         "electric current-",
-         "electriccurrent-"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "electric current-",
-         "electriccurrent-"
-        ]
-       }
-      },
-      "dispLabel": "electric current dimension",
-      "raw": null
-     },
-     {
-      "__type": "SemDimension",
-      "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/electricCurrent-Dimension",
-      "ontology": "OM2",
-      "dimVector": [
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "en": {
-        "__type": "Set",
-        "values": [
-         "electric current",
-         "electriccurrent",
-         "electric current-",
-         "electriccurrent-"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "electric current-",
-         "electriccurrent-"
-        ]
-       }
-      },
-      "dispLabel": "electric current dimension",
-      "raw": null
-     },
-     {
-      "__type": "SemDimension",
-      "uri": "http://qudt.org/vocab/quantity#ElectricCurrent",
-      "ontology": "QUDT",
-      "dimVector": [
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "": {
-        "__type": "Set",
-        "values": [
-         "electric current",
-         "electriccurrent"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "electric current",
-         "electriccurrent"
-        ]
-       }
-      },
-      "dispLabel": "Electric Current",
-      "raw": null
-     }
-    ]
-   },
-   {
-    "__type": "SynSet",
-    "values": [
-     {
-      "__type": "SemDimension",
-      "uri": "http://qudt.org/vocab/quantity#MagnetomotiveForce",
-      "ontology": "QUDT",
-      "dimVector": [
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ],
-      "labels": {
-       "": {
-        "__type": "Set",
-        "values": [
-         "magnetomotive force",
-         "magnetomotiveforce"
-        ]
-       },
-       "_uri": {
-        "__type": "Set",
-        "values": [
-         "magnetomotive force",
-         "magnetomotiveforce"
-        ]
-       }
-      },
-      "dispLabel": "Magnetomotive Force",
-      "raw": null
-     }
-    ]
-   }
-  ]
- },
- {
-  "unit": {
-   "__type": "SynSet",
-   "values": [
-    {
-     "__type": "SemUnit",
      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/gamma",
      "ontology": "OM",
      "labels": {
@@ -2505,9 +2501,7 @@
         "__type": "Set",
         "values": [
          "magnetic flux density",
-         "magneticfluxdensity",
-         "magnetic flux density-",
-         "magneticfluxdensity-"
+         "magneticfluxdensity"
         ]
        },
        "_uri": {
@@ -2709,7 +2703,7 @@
      "uri": "http://www.wurvoc.org/vocabularies/om-1.8/newton_metre",
      "ontology": "OM",
      "labels": {
-      "nl": {
+      "en": {
        "__type": "Set",
        "values": [
         "newton meter",
@@ -2723,7 +2717,7 @@
         "newtonmeter"
        ]
       },
-      "en": {
+      "nl": {
        "__type": "Set",
        "values": [
         "newton meter",
@@ -2740,7 +2734,7 @@
      "uri": "http://www.ontology-of-units-of-measure.org/resource/om-2/newtonMetre",
      "ontology": "OM2",
      "labels": {
-      "nl": {
+      "en": {
        "__type": "Set",
        "values": [
         "newton meter",
@@ -2754,7 +2748,7 @@
         "newtonmeter"
        ]
       },
-      "en": {
+      "nl": {
        "__type": "Set",
        "values": [
         "newton meter",

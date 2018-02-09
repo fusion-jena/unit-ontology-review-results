@@ -1,22 +1,22 @@
 [
   {
-    "sameAs": "http://www.ontology-of-units-of-measure.org/resource/om-2/CelsiusScale",
-    "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/CelsiusTemperatureScale"
+    "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/CelsiusTemperatureScale",
+    "sameAs": "http://www.ontology-of-units-of-measure.org/resource/om-2/CelsiusScale"
   },
   {
-    "sameAs": "http://www.ontology-of-units-of-measure.org/resource/om-2/FahrenheitScale",
-    "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/FahrenheitTemperatureScale"
+    "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/FahrenheitTemperatureScale",
+    "sameAs": "http://www.ontology-of-units-of-measure.org/resource/om-2/FahrenheitScale"
   },
   {
-    "sameAs": "http://www.ontology-of-units-of-measure.org/resource/om-2/KelvinScale",
-    "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperatureScale"
+    "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/RankineTemperatureScale",
+    "sameAs": "http://www.ontology-of-units-of-measure.org/resource/om-2/RankineScale"
   },
   {
-    "sameAs": "http://www.ontology-of-units-of-measure.org/resource/om-2/RankineScale",
-    "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/RankineTemperatureScale"
+    "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/ReaumurTemperatureScale",
+    "sameAs": "http://www.ontology-of-units-of-measure.org/resource/om-2/ReaumurScale"
   },
   {
-    "sameAs": "http://www.ontology-of-units-of-measure.org/resource/om-2/ReaumurScale",
-    "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/ReaumurTemperatureScale"
+    "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/ThermodynamicTemperatureScale",
+    "sameAs": "http://www.ontology-of-units-of-measure.org/resource/om-2/KelvinScale"
   }
 ]
